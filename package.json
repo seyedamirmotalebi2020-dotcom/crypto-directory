@@ -3,15 +3,17 @@
   "version": "1.0.0",
   "type": "module",
   "main": "server.js",
-  "scripts": {
-    "dev": "node --watch server.js",
-    "start": "node server.js",
-    "prisma:generate": "prisma generate",
-    "prisma:push": "prisma db push",
-    "prisma:studio": "prisma studio",
-    "seed": "node prisma/seed.js",
-    "seed:sites": "node prisma/seed-sites.js"
-  },
+ "scripts": {
+  "dev": "node --watch server.js",
+  "start": "node server.js",
+  "postinstall": "prisma generate",
+  "build": "prisma generate",
+  "prisma:generate": "prisma generate",
+  "prisma:push": "prisma db push",
+  "prisma:studio": "prisma studio",
+  "seed": "node prisma/seed.js",
+  "seed:sites": "node prisma/seed-sites.js"
+},
   "dependencies": {
     "@prisma/adapter-pg": "^7.10.0",
     "@prisma/client": "^7.10.0",
