@@ -58,13 +58,11 @@
       <span class="current" id="crumbName">Loading…</span>
     </nav>
 
-    <!-- Loading -->
     <div id="loadingState" style="text-align: center; padding: 3rem 1rem;">
       <div style="width: 44px; height: 44px; border-radius: 50%; border: 3px solid rgba(37,99,235,0.15); border-top-color: #2563eb; animation: spin 0.8s linear infinite; margin: 0 auto 1rem;"></div>
       <p style="color: #64748b; font-size: 0.9rem;">Loading site details…</p>
     </div>
 
-    <!-- Error -->
     <div id="errorState" style="display: none; text-align: center; padding: 3rem 1rem;">
       <i class="fas fa-triangle-exclamation" style="font-size: 2.5rem; color: #dc2626; margin-bottom: 1rem;"></i>
       <h2 style="font-family: 'Cormorant Garamond', serif; font-size: 1.8rem; margin-bottom: 0.5rem;">Site not found</h2>
@@ -76,33 +74,33 @@
 
     <article id="siteContent" style="display: none;">
 
-      <!-- ═══ ROW 1 — Icon + Name (with trust badge on the right) ═══ -->
-      <header class="site-head">
-        <div class="site-head__logo" id="siteLogo">?</div>
-        <div class="site-head__body">
-          <h1 class="site-head__name" id="siteName">—</h1>
-          <div class="site-head__tags" id="siteTags"></div>
+      <!-- ═══ Hero block ═══ -->
+      <div class="site-detail-hero">
+        <div class="site-detail-logo" id="siteLogo">?</div>
+        <div class="site-detail-meta">
+          <h1 class="site-detail-name" id="siteName">—</h1>
+          <div class="site-detail-tags" id="siteTags"></div>
         </div>
-        <div class="site-head__trust" id="siteTrust">
+        <div class="site-detail-trust" id="siteTrust">
           <span class="trust-num" id="trustNum">—</span>
           <span class="trust-lbl">TRUST</span>
         </div>
-      </header>
+      </div>
 
-      <!-- ═══ ROW 2 — About / full description ═══ -->
-      <section class="site-about" id="descriptionSection">
-        <h2 class="site-about__heading">About</h2>
-        <p id="siteDescription" class="site-about__body">—</p>
+      <!-- ═══ Full description — moved to top, prominent ═══ -->
+      <section class="site-detail-description" id="descriptionSection">
+        <h2 class="site-detail-description__heading">About</h2>
+        <p id="siteDescription" class="site-detail-description__body">—</p>
       </section>
 
-      <!-- ═══ ROW 3 — Score breakdown ═══ -->
+      <!-- ═══ Score breakdown ═══ -->
       <div class="score-breakdown" id="scoreBreakdown"></div>
 
-      <!-- ═══ ROW 4 — Vote widget ═══ -->
-      <section class="site-vote" aria-label="Vote on trustworthiness">
-        <h2 class="site-vote__heading">Is this site legit?</h2>
-        <p class="site-vote__sub">Vote anonymously — one vote per device, no login needed.</p>
-        <div class="site-vote__grid" id="voteWidget">
+      <!-- ═══ Vote widget ═══ -->
+      <section class="site-detail-vote" aria-label="Vote on trustworthiness">
+        <h2 class="vote-heading">Is this site legit?</h2>
+        <p class="vote-sub">Vote anonymously — one vote per device, no login needed.</p>
+        <div class="vote-widget" id="voteWidget">
           <button class="vote-btn-large" data-vote="trustworthy">
             <i class="fas fa-thumbs-up"></i>
             <span class="vl-label">Trustworthy</span>
@@ -121,8 +119,8 @@
         </div>
       </section>
 
-      <!-- ═══ ROW 5 — Offers table ═══ -->
-      <section class="site-section" id="offersSection">
+      <!-- ═══ Offers table ═══ -->
+      <section class="site-detail-section" id="offersSection">
         <h2>Offers &amp; Payouts</h2>
         <div class="offers-table-wrap">
           <table class="offers-table">
@@ -140,13 +138,13 @@
         </div>
       </section>
 
-      <!-- ═══ ROW 6 — Features ═══ -->
-      <section class="site-section" id="featuresSection" style="display: none;">
+      <!-- ═══ Features ═══ -->
+      <section class="site-detail-section" id="featuresSection" style="display: none;">
         <h2>Features</h2>
         <div class="feature-chips" id="featuresList"></div>
       </section>
 
-      <!-- ═══ ROW 7 — Visit CTA ═══ -->
+      <!-- ═══ Visit CTA ═══ -->
       <div class="article-cta">
         <h3>Visit <span id="ctaSiteName">this site</span></h3>
         <p id="ctaReferralNote">Opens in a new tab. We may earn a referral commission at no cost to you.</p>
@@ -155,8 +153,8 @@
         </a>
       </div>
 
-      <!-- ═══ ROW 8 — Similar sites ═══ -->
-      <section class="site-section" id="similarSection" style="display: none;">
+      <!-- ═══ Similar sites ═══ -->
+      <section class="site-detail-section" id="similarSection" style="display: none;">
         <h2>Similar Sites</h2>
         <div class="similar-grid" id="similarList"></div>
       </section>
