@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#f4f7fb" />
+  <meta name="robots" content="noindex, follow" />
+
+  <title>Shared Watchlist — Crypto Earn Directory</title>
+  <meta name="description" content="A shared watchlist of crypto earning sites. Add them to your own browser with one click." />
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&family=DM+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <div class="fixed-navbar-wrapper">
+    <nav class="navbar" role="navigation" aria-label="Primary">
+      <div class="navbar-inner">
+        <a href="/" class="logo" aria-label="Crypto Earn Directory home">
+          <span class="logo-mark" aria-hidden="true"><i class="fas fa-coins"></i></span>
+          <span class="logo-text">Crypto<em>Earn</em></span>
+        </a>
+        <ul class="nav-links">
+          <li><a href="/#directory">Directory</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/#safety">Safety</a></li>
+          <li><a href="/#faq">FAQ</a></li>
+        </ul>
+        <div class="nav-actions">
+          <a href="/#directory" class="btn-nav-primary">
+            <i class="fas fa-search" aria-hidden="true"></i>&nbsp;Browse Sites
+          </a>
+        </div>
+      </div>
+    </nav>
+  </div>
+
+  <main id="main" class="page-wrapper">
+
+    <section class="share-hero">
+      <div class="share-hero__icon">
+        <i class="fas fa-share-nodes" aria-hidden="true"></i>
+      </div>
+      <h1 class="share-hero__title">Shared <em>Watchlist</em></h1>
+      <p class="share-hero__lead" id="shareLead">
+        Loading shared list…
+      </p>
+
+      <div class="share-hero__actions" id="shareActions" style="display:none;">
+        <button type="button" class="btn-save-all" id="saveAllBtn">
+          <i class="fas fa-star" aria-hidden="true"></i>
+          <span>Save all to my watchlist</span>
+        </button>
+        <button type="button" class="btn-copy" id="copyBtn">
+          <i class="fas fa-link" aria-hidden="true"></i>
+          <span>Copy link</span>
+        </button>
+      </div>
+
+      <div class="share-hero__stats" id="shareStats"></div>
+    </section>
+
+    <!-- Filters (read-only version, only search + sort) -->
+    <section class="filters-bar" id="shareFilters" style="display:none;">
+      <div class="filters-row">
+        <div class="filter-group" style="grid-column: span 2;">
+          <label for="searchInput">Search in this list</label>
+          <input id="searchInput" type="search" class="share-search" placeholder="Filter by name…" autocomplete="off" />
+        </div>
+        <div class="filter-group">
+          <label for="fSort">Sort by</label>
+          <select id="fSort">
+            <option value="trust">Trust score</option>
+            <option value="name">Name (A→Z)</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <div class="results-header" id="shareResultsHeader" style="display:none;">
+      <div class="results-count">
+        <strong id="resultCount">0</strong> sites in this list
+      </div>
+    </div>
+
+    <div class="site-grid" id="siteGrid">
+      <div class="loading-grid" id="loadingGrid"></div>
+    </div>
+
+    <div id="emptyState" style="display:none;">
+      <div class="watchlist-empty">
+        <i class="far fa-star"></i>
+        <h3>No sites in this shared list</h3>
+        <p>The link may be broken or the list is empty. Head back to the directory to find some sites.</p>
+        <a href="/#directory" class="article-cta__btn" style="margin-top: 1.2rem; display: inline-flex;">
+          <i class="fas fa-compass"></i> Browse the Directory
+        </a>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Crypto Earn Directory — curated by real users, for real users.</p>
+    <p>
+      <a href="/">Home</a> ·
+      <a href="/blog/">Blog</a> ·
+      <a href="/#methodology">Methodology</a> ·
+      <a href="/legal.html">Privacy</a> ·
+      <a href="/contact.html">Contact</a>
+    </p>
+  </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script type="module" src="/js/watchlist-share.js"></script>
+</body>
+</html>

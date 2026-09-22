@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#f4f7fb" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+
+  <title id="pageTitle">Earning Sites — Crypto Earn Directory</title>
+  <meta name="description" id="pageDesc" content="Browse crypto earning sites by type." />
+  <link rel="canonical" id="canonicalUrl" href="https://earn.land.me.uk/" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" id="ogTitle" content="Earning Sites" />
+  <meta property="og:description" id="ogDesc" content="Browse crypto earning sites by type." />
+  <meta property="og:url" id="ogUrl" content="https://earn.land.me.uk/" />
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&family=DM+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+
+  <script type="application/ld+json" id="jsonLd">
+  { "@context": "https://schema.org", "@type": "CollectionPage" }
+  </script>
+</head>
+<body>
+    <canvas id="bgCanvas" aria-hidden="true"></canvas>
+<canvas id="particleCanvas" aria-hidden="true"></canvas>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <div class="fixed-navbar-wrapper">
+    <nav class="navbar" role="navigation" aria-label="Primary">
+      <div class="navbar-inner">
+        <a href="/" class="logo" aria-label="Crypto Earn Directory home">
+          <span class="logo-mark" aria-hidden="true"><i class="fas fa-coins"></i></span>
+          <span class="logo-text">Earn<em>Online</em></span>
+        </a>
+        <ul class="nav-links">
+          <li><a href="/#directory">Directory</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/#safety">Safety</a></li>
+          <li><a href="/#faq">FAQ</a></li>
+        </ul>
+        <div class="nav-actions">
+          <a href="/#directory" class="btn-nav-primary">
+            <i class="fas fa-search" aria-hidden="true"></i>&nbsp;Browse Sites
+          </a>
+        </div>
+      </div>
+    </nav>
+  </div>
+
+  <main id="main" class="page-wrapper">
+
+    <!-- Earning-method hero (populated by earn.js) -->
+    <section class="hero earn-hero">
+      <nav class="breadcrumb" aria-label="Breadcrumb" style="justify-content:center;">
+        <a href="/">Home</a><span>/</span>
+        <a href="/#directory">Directory</a><span>/</span>
+        <span class="current" id="crumbCurrent">…</span>
+      </nav>
+
+      <div class="hero-badge" id="earnBadge">
+        <i class="fas fa-tag" aria-hidden="true"></i> <span>Earning Type</span>
+      </div>
+
+      <h1 class="hero-title" id="earnTitle">
+        Loading…
+      </h1>
+
+      <p class="hero-subtitle" id="earnLead">
+        Loading site list…
+      </p>
+
+      <div class="hero-stats" id="earnStats"></div>
+    </section>
+
+    <!-- Filters (identical to homepage) -->
+    <div class="filters-row">
+  <div class="filter-group" style="grid-column: span 2;">
+    <label for="searchInput">Search this category</label>
+    <input
+      id="searchInput"
+      type="search"
+      class="share-search"
+      placeholder="Filter by name…"
+      autocomplete="off"
+      aria-label="Search sites in this category"
+    />
+  </div>
+  <div class="filter-group">
+    <label for="fCategory">Category</label>
+    <select id="fCategory"><option value="">All</option></select>
+  </div>
+  <div class="filter-group">
+    <label for="fCoin">Coin</label>
+    <select id="fCoin"><option value="">All coins</option></select>
+  </div>
+  <div class="filter-group">
+    <label for="fPayment">Payout</label>
+    <select id="fPayment"><option value="">All methods</option></select>
+  </div>
+  <div class="filter-group">
+    <label for="fFeature">Feature</label>
+    <select id="fFeature"><option value="">Any feature</option></select>
+  </div>
+  <div class="filter-group">
+    <label for="fStatus">Status</label>
+    <select id="fStatus">
+      <option value="">Any status</option>
+      <option value="active">Active</option>
+      <option value="under_review">Under Review</option>
+      <option value="paused">Paused</option>
+      <option value="defunct">Defunct</option>
+      <option value="blacklisted">Blacklisted</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <label for="fSort">Sort by</label>
+    <select id="fSort">
+      <option value="trust">Trust score</option>
+      <option value="name">Name (A→Z)</option>
+      <option value="newest">Newest</option>
+    </select>
+  </div>
+  <div class="filter-actions">
+    <button class="btn-watchlist" id="watchlistBtn" type="button">
+      <i class="far fa-star"></i>
+      Watchlist
+      <span class="count" id="watchlistCount">0</span>
+    </button>
+    <button class="btn-watchlist" id="shareBtn" type="button" title="Generate a shareable link">
+      <i class="fas fa-share-nodes"></i>
+      Share
+    </button>
+    <button class="btn-reset" id="resetBtn" type="button">
+      <i class="fas fa-rotate-left"></i> Reset
+    </button>
+  </div>
+</div>
+    </section>
+
+    <div class="results-header">
+      <div class="results-count">
+        <strong id="resultCount">0</strong> sites found
+      </div>
+      <div class="results-count" id="pageInfo"></div>
+    </div>
+
+    <div class="site-grid" id="siteGrid">
+      <div class="loading-grid" id="loadingGrid"></div>
+    </div>
+
+    <nav class="pagination" id="pagination" aria-label="Pagination"></nav>
+
+    <!-- Related earning types -->
+    <section class="content-section" id="relatedEarn">
+      <header class="content-header">
+        <span class="content-eyebrow">Explore More</span>
+        <h2 class="content-title">Other <em>Earning Types</em></h2>
+      </header>
+      <div class="category-tiles" id="relatedTiles"></div>
+    </section>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Crypto Earn Directory — curated by real users, for real users.</p>
+    <p>
+      <a href="/">Home</a> ·
+      <a href="/blog/">Blog</a> ·
+      <a href="/#methodology">Methodology</a> ·
+      <a href="/legal.html">Privacy</a> ·
+      <a href="/contact.html">Contact</a>
+    </p>
+  </footer>
+
+  <!-- earn.js runs first to set the earning slug, then app.js reads it -->
+  <script type="module" src="/js/earn.js"></script>
+  <script type="module" src="/js/app.js"></script>
+  <script type="module" src="/js/live-feed.js"></script>
+  <script type="module" src="/js/canvas-bg.js"></script>
+</body>
+</html>

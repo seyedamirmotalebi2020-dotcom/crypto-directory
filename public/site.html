@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#f4f7fb" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+
+  <title id="pageTitle">Loading… — Crypto Earn Directory</title>
+  <meta name="description" id="pageDesc" content="Full review, current payout evidence and community trust score." />
+  <link rel="canonical" id="canonicalUrl" href="https://earn.land.me.uk/" />
+
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Crypto Earn Directory" />
+  <meta property="og:title" id="ogTitle" content="Loading…" />
+  <meta property="og:description" id="ogDesc" content="Full review, current payout evidence and community trust score." />
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&family=DM+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+
+  <script type="application/ld+json" id="jsonLd">
+  { "@context": "https://schema.org", "@type": "WebPage" }
+  </script>
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <div class="fixed-navbar-wrapper">
+    <nav class="navbar" role="navigation" aria-label="Primary">
+      <div class="navbar-inner">
+        <a href="/" class="logo" aria-label="Crypto Earn Directory home">
+          <span class="logo-mark" aria-hidden="true"><i class="fas fa-coins"></i></span>
+          <span class="logo-text">Crypto<em>Earn</em></span>
+        </a>
+        <ul class="nav-links">
+          <li><a href="/#directory">Directory</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/#safety">Safety</a></li>
+          <li><a href="/#faq">FAQ</a></li>
+        </ul>
+        <div class="nav-actions">
+          <a href="/#directory" class="btn-nav-primary">
+            <i class="fas fa-search" aria-hidden="true"></i>&nbsp;Browse Sites
+          </a>
+        </div>
+      </div>
+    </nav>
+  </div>
+
+  <main id="main" class="blog-container" style="max-width: 880px;">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a><span>/</span>
+      <a href="/#directory">Directory</a><span>/</span>
+      <span class="current" id="crumbName">Loading…</span>
+    </nav>
+
+    <div id="loadingState" style="text-align: center; padding: 3rem 1rem;">
+      <div style="width: 44px; height: 44px; border-radius: 50%; border: 3px solid rgba(37,99,235,0.15); border-top-color: #2563eb; animation: spin 0.8s linear infinite; margin: 0 auto 1rem;"></div>
+      <p style="color: #64748b; font-size: 0.9rem;">Loading site details…</p>
+    </div>
+
+    <div id="errorState" style="display: none; text-align: center; padding: 3rem 1rem;">
+      <i class="fas fa-triangle-exclamation" style="font-size: 2.5rem; color: #dc2626; margin-bottom: 1rem;"></i>
+      <h2 style="font-family: 'Cormorant Garamond', serif; font-size: 1.8rem; margin-bottom: 0.5rem;">Site not found</h2>
+      <p style="color: #64748b; margin-bottom: 1.5rem;">We couldn't find that site in the directory.</p>
+      <a href="/#directory" class="article-cta__btn" style="display: inline-flex;">
+        <i class="fas fa-arrow-left"></i> Back to Directory
+      </a>
+    </div>
+
+    <article id="siteContent" style="display: none;">
+
+      <!-- Hero block -->
+      <div class="site-detail-hero">
+        <div class="site-detail-logo" id="siteLogo">?</div>
+        <div class="site-detail-meta">
+          <h1 class="site-detail-name" id="siteName">—</h1>
+          <div class="site-detail-tags" id="siteTags"></div>
+        </div>
+        <div class="site-detail-trust" id="siteTrust">
+          <span class="trust-num" id="trustNum">—</span>
+          <span class="trust-lbl">TRUST</span>
+        </div>
+      </div>
+
+      <!-- Score breakdown -->
+      <div class="score-breakdown" id="scoreBreakdown"></div>
+
+      <!-- Vote widget -->
+      <section class="site-detail-vote" aria-label="Vote on trustworthiness">
+        <h2 class="vote-heading">Is this site legit?</h2>
+        <p class="vote-sub">Vote anonymously — one vote per device, no login needed.</p>
+        <div class="vote-widget" id="voteWidget">
+          <button class="vote-btn-large" data-vote="trustworthy">
+            <i class="fas fa-thumbs-up"></i>
+            <span class="vl-label">Trustworthy</span>
+            <span class="vl-count" data-count="trustworthy">0</span>
+          </button>
+          <button class="vote-btn-large" data-vote="scam">
+            <i class="fas fa-thumbs-down"></i>
+            <span class="vl-label">Scam</span>
+            <span class="vl-count" data-count="scam">0</span>
+          </button>
+          <button class="vote-btn-large" data-vote="unsure">
+            <i class="fas fa-circle-question"></i>
+            <span class="vl-label">Unsure</span>
+            <span class="vl-count" data-count="unsure">0</span>
+          </button>
+        </div>
+      </section>
+
+      <!-- Description -->
+      <section class="site-detail-section" id="descriptionSection">
+        <h2>About</h2>
+        <p id="siteDescription">—</p>
+      </section>
+
+      <!-- Offers table -->
+      <section class="site-detail-section" id="offersSection">
+        <h2>Offers &amp; Payouts</h2>
+        <div class="offers-table-wrap">
+          <table class="offers-table">
+            <thead>
+              <tr>
+                <th>Coin</th>
+                <th>Payout</th>
+                <th>Min</th>
+                <th>Claim</th>
+                <th>Speed</th>
+              </tr>
+            </thead>
+            <tbody id="offersBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- Features -->
+      <section class="site-detail-section" id="featuresSection" style="display: none;">
+        <h2>Features</h2>
+        <div class="feature-chips" id="featuresList"></div>
+      </section>
+
+      <!-- Visit CTA -->
+      <div class="article-cta">
+        <h3>Visit <span id="ctaSiteName">this site</span></h3>
+        <p id="ctaReferralNote">Opens in a new tab. We may earn a referral commission at no cost to you.</p>
+        <a href="#" class="article-cta__btn" id="visitBtn" rel="noopener nofollow" target="_blank">
+          <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i> Visit Site
+        </a>
+      </div>
+
+      <!-- Similar sites -->
+      <section class="site-detail-section" id="similarSection" style="display: none;">
+        <h2>Similar Sites</h2>
+        <div class="similar-grid" id="similarList"></div>
+      </section>
+
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Crypto Earn Directory — curated by real users, for real users.</p>
+    <p>
+      <a href="/">Home</a> ·
+      <a href="/blog/">Blog</a> ·
+      <a href="/legal.html">Privacy</a> ·
+      <a href="/legal.html">Terms</a> ·
+      <a href="/contact.html">Contact</a>
+    </p>
+  </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script type="module" src="/js/site.js"></script>
+</body>
+</html>

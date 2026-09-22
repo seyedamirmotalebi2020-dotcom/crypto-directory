@@ -1,0 +1,152 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// models below, unchanged
+
+// ---------- Taxonomy ----------
+
+model Category {
+  id        Int        @id @default(autoincrement())
+  slug      String     @unique @db.VarChar(50)
+  name      String     @db.VarChar(80)
+  parentId  Int?
+  parent    Category?  @relation("CatTree", fields: [parentId], references: [id], onDelete: SetNull)
+  children  Category[] @relation("CatTree")
+  sortOrder Int        @default(0)
+  sites     SiteCategory[]
+}
+
+model Coin {
+  id        Int    @id @default(autoincrement())
+  symbol    String @unique @db.VarChar(15)
+  name      String @db.VarChar(50)
+  sortOrder Int    @default(0)
+  offers    SiteOffer[]
+}
+
+model PaymentMethod {
+  id     Int    @id @default(autoincrement())
+  slug   String @unique @db.VarChar(30)
+  name   String @db.VarChar(80)
+  offers SiteOffer[]
+}
+
+model Feature {
+  id    Int    @id @default(autoincrement())
+  slug  String @unique @db.VarChar(40)
+  name  String @db.VarChar(80)
+  sites SiteFeature[]
+}
+
+// ---------- Sites ----------
+
+model Site {
+  id                 Int        @id @default(autoincrement())
+  slug               String     @unique @db.VarChar(120)
+  name               String     @db.VarChar(150)
+  url                String     @db.VarChar(255)
+  description        String?    @db.Text
+  logoUrl            String?    @db.VarChar(255)
+  status             SiteStatus @default(under_review)
+  trustScore         Int?
+  referralUrl        String?    @db.VarChar(255)
+  hasReferralProgram Boolean    @default(false)
+  referralPercent    Decimal?   @db.Decimal(5, 2)
+  startedAt          DateTime?  @db.Date
+  lastTestedAt       DateTime?  @db.Date
+  createdAt          DateTime   @default(now())
+  updatedAt          DateTime   @updatedAt
+
+  categories SiteCategory[]
+  features   SiteFeature[]
+  offers     SiteOffer[]
+  votes      Vote[]
+
+  @@index([status])
+  @@index([trustScore])
+}
+
+enum SiteStatus {
+  active
+  paused
+  defunct
+  under_review
+  blacklisted
+}
+
+model SiteCategory {
+  siteId     Int
+  categoryId Int
+  site       Site     @relation(fields: [siteId], references: [id], onDelete: Cascade)
+  category   Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@id([siteId, categoryId])
+}
+
+model SiteFeature {
+  siteId    Int
+  featureId Int
+  site      Site    @relation(fields: [siteId], references: [id], onDelete: Cascade)
+  feature   Feature @relation(fields: [featureId], references: [id], onDelete: Cascade)
+
+  @@id([siteId, featureId])
+}
+
+model SiteOffer {
+  id                Int          @id @default(autoincrement())
+  siteId            Int
+  coinId            Int
+  paymentMethodId   Int
+  minimumWithdrawal Decimal?     @db.Decimal(24, 8)
+  claimInterval     Int?
+  payoutSpeed       PayoutSpeed?
+  notes             String?      @db.Text
+  isActive          Boolean      @default(true)
+
+  site          Site          @relation(fields: [siteId], references: [id], onDelete: Cascade)
+  coin          Coin          @relation(fields: [coinId], references: [id], onDelete: Cascade)
+  paymentMethod PaymentMethod @relation(fields: [paymentMethodId], references: [id], onDelete: Cascade)
+
+  @@unique([siteId, coinId, paymentMethodId])
+  @@index([coinId])
+  @@index([paymentMethodId])
+}
+
+enum PayoutSpeed {
+  instant
+  hourly
+  daily
+  weekly
+  biweekly
+  monthly
+  manual
+}
+
+// ---------- Community voting ----------
+
+model Vote {
+  id          Int      @id @default(autoincrement())
+  siteId      Int
+  vote        VoteType
+  fingerprint String   @db.VarChar(64)
+  ipHash      String   @db.VarChar(64)
+  userAgent   String?  @db.VarChar(255)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  site Site @relation(fields: [siteId], references: [id], onDelete: Cascade)
+
+  @@unique([siteId, fingerprint])
+  @@index([siteId])
+}
+
+enum VoteType {
+  trustworthy
+  scam
+  unsure
+}
