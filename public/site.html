@@ -6,12 +6,12 @@
   <meta name="theme-color" content="#f4f7fb" />
   <meta name="robots" content="index, follow, max-image-preview:large" />
 
-  <title id="pageTitle">Loading… — Crypto Earn Directory</title>
+  <title id="pageTitle">Loading… — Earn Online Directory</title>
   <meta name="description" id="pageDesc" content="Full review, current payout evidence and community trust score." />
   <link rel="canonical" id="canonicalUrl" href="https://earn.land.me.uk/" />
 
   <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="Crypto Earn Directory" />
+  <meta property="og:site_name" content="Earn Online Directory" />
   <meta property="og:title" id="ogTitle" content="Loading…" />
   <meta property="og:description" id="ogDesc" content="Full review, current payout evidence and community trust score." />
 
@@ -32,19 +32,19 @@
   <div class="fixed-navbar-wrapper">
     <nav class="navbar" role="navigation" aria-label="Primary">
       <div class="navbar-inner">
-        <a href="/" class="logo" aria-label="Crypto Earn Directory home">
+        <a href="/" class="logo" aria-label="Earn Online Directory home">
           <span class="logo-mark" aria-hidden="true"><i class="fas fa-coins"></i></span>
-          <span class="logo-text">Crypto<em>Earn</em></span>
+          <span class="logo-text">Earn<em>Online</em></span>
         </a>
         <ul class="nav-links">
-          <li><a href="/#directory">Directory</a></li>
+          <li><a href="/#categories">Categories</a></li>
           <li><a href="/blog/">Blog</a></li>
           <li><a href="/#safety">Safety</a></li>
           <li><a href="/#faq">FAQ</a></li>
         </ul>
         <div class="nav-actions">
-          <a href="/#directory" class="btn-nav-primary">
-            <i class="fas fa-search" aria-hidden="true"></i>&nbsp;Browse Sites
+          <a href="/#categories" class="btn-nav-primary">
+            <i class="fas fa-compass" aria-hidden="true"></i>&nbsp;Browse Categories
           </a>
         </div>
       </div>
@@ -54,7 +54,7 @@
   <main id="main" class="blog-container" style="max-width: 880px;">
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="/">Home</a><span>/</span>
-      <a href="/#directory">Directory</a><span>/</span>
+      <a href="/#categories">Categories</a><span>/</span>
       <span class="current" id="crumbName">Loading…</span>
     </nav>
 
@@ -67,14 +67,14 @@
       <i class="fas fa-triangle-exclamation" style="font-size: 2.5rem; color: #dc2626; margin-bottom: 1rem;"></i>
       <h2 style="font-family: 'Cormorant Garamond', serif; font-size: 1.8rem; margin-bottom: 0.5rem;">Site not found</h2>
       <p style="color: #64748b; margin-bottom: 1.5rem;">We couldn't find that site in the directory.</p>
-      <a href="/#directory" class="article-cta__btn" style="display: inline-flex;">
+      <a href="/#categories" class="article-cta__btn" style="display: inline-flex;">
         <i class="fas fa-arrow-left"></i> Back to Directory
       </a>
     </div>
 
     <article id="siteContent" style="display: none;">
 
-      <!-- Hero block -->
+      <!-- ═══ Hero block ═══ -->
       <div class="site-detail-hero">
         <div class="site-detail-logo" id="siteLogo">?</div>
         <div class="site-detail-meta">
@@ -87,10 +87,16 @@
         </div>
       </div>
 
-      <!-- Score breakdown -->
+      <!-- ═══ Full description — moved to top, prominent ═══ -->
+      <section class="site-detail-description" id="descriptionSection">
+        <h2 class="site-detail-description__heading">About</h2>
+        <p id="siteDescription" class="site-detail-description__body">—</p>
+      </section>
+
+      <!-- ═══ Score breakdown ═══ -->
       <div class="score-breakdown" id="scoreBreakdown"></div>
 
-      <!-- Vote widget -->
+      <!-- ═══ Vote widget ═══ -->
       <section class="site-detail-vote" aria-label="Vote on trustworthiness">
         <h2 class="vote-heading">Is this site legit?</h2>
         <p class="vote-sub">Vote anonymously — one vote per device, no login needed.</p>
@@ -113,13 +119,7 @@
         </div>
       </section>
 
-      <!-- Description -->
-      <section class="site-detail-section" id="descriptionSection">
-        <h2>About</h2>
-        <p id="siteDescription">—</p>
-      </section>
-
-      <!-- Offers table -->
+      <!-- ═══ Offers table ═══ -->
       <section class="site-detail-section" id="offersSection">
         <h2>Offers &amp; Payouts</h2>
         <div class="offers-table-wrap">
@@ -138,13 +138,13 @@
         </div>
       </section>
 
-      <!-- Features -->
+      <!-- ═══ Features ═══ -->
       <section class="site-detail-section" id="featuresSection" style="display: none;">
         <h2>Features</h2>
         <div class="feature-chips" id="featuresList"></div>
       </section>
 
-      <!-- Visit CTA -->
+      <!-- ═══ Visit CTA ═══ -->
       <div class="article-cta">
         <h3>Visit <span id="ctaSiteName">this site</span></h3>
         <p id="ctaReferralNote">Opens in a new tab. We may earn a referral commission at no cost to you.</p>
@@ -153,7 +153,7 @@
         </a>
       </div>
 
-      <!-- Similar sites -->
+      <!-- ═══ Similar sites ═══ -->
       <section class="site-detail-section" id="similarSection" style="display: none;">
         <h2>Similar Sites</h2>
         <div class="similar-grid" id="similarList"></div>
@@ -163,12 +163,12 @@
   </main>
 
   <footer class="site-footer">
-    <p>&copy; 2026 Crypto Earn Directory — curated by real users, for real users.</p>
+    <p>&copy; 2026 Earn Online Directory — curated by real users, for real users.</p>
     <p>
       <a href="/">Home</a> ·
       <a href="/blog/">Blog</a> ·
+      <a href="/about.html">About</a> ·
       <a href="/legal.html">Privacy</a> ·
-      <a href="/legal.html">Terms</a> ·
       <a href="/contact.html">Contact</a>
     </p>
   </footer>
