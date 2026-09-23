@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Coinfaucet.eu (Testnet)",
+    "url": "https://coinfaucet.eu",
+    "description": "BITCOIN TESTNET FAUCET — not real-crypto earning. Provides testnet3, testnet4 and Groestlcoin testnet coins for developers testing Bitcoin applications. Testnet coins have no monetary value. Do not treat as an earning site. Stores IP addresses to prevent abuse.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "BitcoinFaucet uo1 (Testnet)",
+    "url": "https://bitcoinfaucet.uo1.net",
+    "description": "BITCOIN TESTNET FAUCET — not real-crypto earning. Live testnet3 transactions visible on-site (repeated ~0.0001 tBTC payouts). Testnet coins have no monetary value — they exist only for testing applications on Bitcoin's test networks.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Bitaps tBTC (Testnet)",
+    "url": "https://tbtc.bitaps.com",
+    "description": "BITCOIN TESTNET FAUCET — not real-crypto earning. Maintained by Bitaps as their BTC testnet faucet; linked from Bitaps' official bug-bounty documentation. Testnet coins have no monetary value.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "DevWork Testnet3 (Testnet)",
+    "url": "https://testnet-faucet.devwork.tech",
+    "description": "BITCOIN TESTNET3 FAUCET — not real-crypto earning. Gives 0.000055 tBTC per request. The site itself states testnet coins have no monetary value.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Stakely",
+    "url": "https://stakely.io",
+    "description": "Multi-chain infrastructure platform providing faucet services, particularly for development and testnet use. Not a consumer earning site — more of a developer tool.",
+    "status": "under_review",
+    "trustScore": null,
+    "categories": [
+      "testnets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Sepolia Faucet (Testnet)",
+    "url": "https://sepoliafaucet.com",
+    "description": "ETHEREUM SEPOLIA TESTNET FAUCET — not real-crypto earning. Provides test ETH for developers building and testing on Ethereum's Sepolia test network. Test ETH has no monetary value. Verify the current live URL before publishing since multiple Sepolia faucets exist.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Polygon Faucet (Testnet)",
+    "url": "https://faucet.polygon.technology",
+    "description": "POLYGON TESTNET FAUCET — not real-crypto earning. Provides test MATIC/POL for developers testing on Polygon testnets. Test tokens have no monetary value.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Superchain Faucet (Testnet)",
+    "url": "https://console.optimism.io/faucet",
+    "description": "ETH/L2 TESTNET FAUCET — not real-crypto earning. Provides test ETH for developers building on Optimism and other Superchain L2 networks. Test ETH has no monetary value.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Sol Faucet (Testnet)",
+    "url": "https://faucet.solana.com",
+    "description": "SOLANA DEVNET TESTNET FAUCET — not real-crypto earning. Provides test SOL for developers testing Solana applications. Test SOL has no monetary value.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Bitaps ETH Faucet (Testnet)",
+    "url": "https://teth.bitaps.com",
+    "description": "ETHEREUM TESTNET FAUCET — not real-crypto earning. Maintained by Bitaps alongside their Bitcoin testnet faucet. Provides test ETH for developers. Test ETH has no monetary value.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "TON Testnet Faucet (Testnet)",
+    "url": "https://t.me/testgiver_ton_bot",
+    "description": "TELEGRAM TESTNET FAUCET — not real-crypto earning. Provides test TON for developers building on the TON testnet. Testnet coins have no monetary value.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets",
+      "telegram"
+    ],
+    "features": [
+      "telegram"
+    ],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Atleta TAP (Testnet)",
+    "url": "https://t.me/Atleta_tap_bot",
+    "description": "TELEGRAM TESTNET MINI APP — not real-crypto earning. Participate in the Atleta testnet through tasks. Testnet rewards have no monetary value.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets",
+      "telegram"
+    ],
+    "features": [
+      "telegram"
+    ],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Faucet Trade Bot (Testnet)",
+    "url": "https://t.me/faucet_trade_bot",
+    "description": "TELEGRAM TESTNET FAUCET — not real-crypto earning. Testnet and airdrop task bot for various test networks. Testnet rewards have no monetary value.",
+    "status": "active",
+    "trustScore": null,
+    "categories": [
+      "testnets",
+      "telegram"
+    ],
+    "features": [
+      "telegram"
+    ],
+    "hasReferralProgram": false,
+    "offers": []
+  }
+]

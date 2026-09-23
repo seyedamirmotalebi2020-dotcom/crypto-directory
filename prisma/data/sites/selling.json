@@ -1,0 +1,705 @@
+[
+  {
+    "name": "eBay",
+    "url": "https://www.ebay.com",
+    "description": "Global general resale marketplace. Sell almost anything — collectibles, electronics, clothing, home goods. Established buyer protection and large buyer base. Selling fees typically 10–15% depending on category.",
+    "status": "active",
+    "trustScore": 86,
+    "categories": [
+      "selling",
+      "selling-general",
+      "selling-collectibles"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Vinted",
+    "url": "https://www.vinted.com",
+    "description": "European second-hand fashion marketplace. No seller fees — the buyer pays a protection fee. Popular for clothing, shoes, accessories and home items. Strong UK presence.",
+    "status": "active",
+    "trustScore": 84,
+    "categories": [
+      "selling",
+      "selling-fashion"
+    ],
+    "features": [
+      "referral",
+      "app-offers"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Depop",
+    "url": "https://www.depop.com",
+    "description": "Fashion resale platform popular with vintage, streetwear and designer sellers. Owned by Etsy. 10% selling fee plus payment processing.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "selling",
+      "selling-fashion"
+    ],
+    "features": [
+      "referral",
+      "app-offers"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Etsy",
+    "url": "https://www.etsy.com",
+    "description": "Global handmade and creative marketplace. Ideal for handmade goods, crafts, vintage items and personalised products. 6.5% transaction fee plus listing fees.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": [
+      "selling",
+      "selling-handmade"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Gumroad",
+    "url": "https://gumroad.com",
+    "description": "Digital product marketplace. E-books, courses, software, templates, memberships. Simple flat 10% fee, no monthly charges. Direct-to-audience selling.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "selling",
+      "selling-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Mercari",
+    "url": "https://www.mercari.com",
+    "description": "General resale marketplace popular in the US and Japan. Clothing, electronics, collectibles and household goods. 10% selling fee.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "selling",
+      "selling-general"
+    ],
+    "features": [
+      "referral",
+      "app-offers"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Poshmark",
+    "url": "https://poshmark.com",
+    "description": "Fashion resale platform popular in US, Canada, Australia and India. Clothing, shoes, accessories and beauty. 20% fee on sales over $15.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "selling",
+      "selling-fashion"
+    ],
+    "features": [
+      "referral",
+      "app-offers"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Facebook Marketplace",
+    "url": "https://www.facebook.com/marketplace",
+    "description": "Local and general resale marketplace built into Facebook. Furniture, electronics, vehicles, household items. Free to list, no fees.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "selling",
+      "selling-general",
+      "selling-local"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Craigslist",
+    "url": "https://www.craigslist.org",
+    "description": "Long-running local classifieds platform, primarily US. Local goods, furniture, services and vehicles. Free to list in most categories.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "selling",
+      "selling-local"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "OfferUp",
+    "url": "https://offerup.com",
+    "description": "US-focused local resale app. Electronics, furniture, vehicles and household goods. Free to list with optional promotion fees.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "selling",
+      "selling-general",
+      "selling-local"
+    ],
+    "features": [
+      "app-offers"
+    ],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Whatnot",
+    "url": "https://www.whatnot.com",
+    "description": "Live selling platform for collectibles, fashion and trading cards. Stream live and sell to engaged audiences. Popular in US, UK and Europe. 8% commission.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "selling",
+      "selling-collectibles",
+      "selling-fashion"
+    ],
+    "features": [
+      "app-offers",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Shpock",
+    "url": "https://www.shpock.com",
+    "description": "UK and European local second-hand marketplace. Buy and sell locally with a mobile-first approach.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "selling",
+      "selling-local"
+    ],
+    "features": [
+      "app-offers"
+    ],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Gumtree",
+    "url": "https://www.gumtree.com",
+    "description": "UK classifieds and local resale platform. Furniture, electronics, vehicles, jobs and services. Free to list in most categories.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "selling",
+      "selling-local"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Preloved",
+    "url": "https://www.preloved.co.uk",
+    "description": "UK second-hand marketplace and classifieds. Focused on local sales and community-driven listings.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "selling",
+      "selling-local"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "OnBuy",
+    "url": "https://www.onbuy.com",
+    "description": "UK/Europe e-commerce marketplace for new products. Competes with Amazon in the UK market. Sellers pay monthly subscription plus commission.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "selling",
+      "selling-general"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Not On The High Street",
+    "url": "https://www.notonthehighstreet.com",
+    "description": "UK marketplace for gifts, handmade goods and creative products. Curated application process. 25% commission on sales.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "selling",
+      "selling-handmade"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Big Cartel",
+    "url": "https://www.bigcartel.com",
+    "description": "Independent online store platform for artists and creators. Simple storefront with low monthly fees. Free tier available.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "selling",
+      "selling-stores"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Shopify",
+    "url": "https://www.shopify.com",
+    "description": "Leading e-commerce platform for building a full online store. Monthly subscription, payment processing fees and full storefront control. Free trial available.",
+    "status": "active",
+    "trustScore": 84,
+    "categories": [
+      "selling",
+      "selling-stores"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Ko-fi",
+    "url": "https://ko-fi.com",
+    "description": "Creator support platform for digital products, memberships and tips. 0% platform fee on donations, 5% on shop sales. No monthly cost.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "selling",
+      "selling-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Payhip",
+    "url": "https://payhip.com",
+    "description": "Digital product platform for e-books, courses, memberships and software. Free tier available; 5% fee on sales. Good for solo creators.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "selling",
+      "selling-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Sellfy",
+    "url": "https://sellfy.com",
+    "description": "Digital and physical product store. E-books, subscriptions, print-on-demand. Monthly subscription, no transaction fees on higher plans.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "selling",
+      "selling-digital"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Creative Market",
+    "url": "https://creativemarket.com",
+    "description": "Digital design asset marketplace. Fonts, templates, graphics, photos and WordPress themes. 50% commission on sales, 40% for exclusive products.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "selling",
+      "selling-digital",
+      "selling-handmade"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Redbubble",
+    "url": "https://www.redbubble.com",
+    "description": "Print-on-demand marketplace. Upload designs, Redbubble prints and ships to buyers worldwide. Artist earns a royalty per sale. Free to join.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "selling",
+      "selling-pod"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "monthly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "TeePublic",
+    "url": "https://www.teepublic.com",
+    "description": "Print-on-demand platform specialising in t-shirts and apparel. Upload designs, earn royalties. No upfront cost.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "selling",
+      "selling-pod"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Zazzle",
+    "url": "https://www.zazzle.com",
+    "description": "Print-on-demand and custom products platform. Mugs, shirts, cards, stationery and gifts. Design once, earn royalties forever.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "selling",
+      "selling-pod",
+      "selling-handmade"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "StockX",
+    "url": "https://stockx.com",
+    "description": "Sneaker, streetwear and collectible marketplace with authenticated resale. Bid/ask model like a stock exchange. 9% seller fee on most items.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "selling",
+      "selling-collectibles",
+      "selling-fashion"
+    ],
+    "features": [
+      "app-offers"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "GOAT",
+    "url": "https://www.goat.com",
+    "description": "Sneaker and fashion resale platform. Authenticated resale for sneakers, apparel and accessories. Popular globally for limited releases.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "selling",
+      "selling-collectibles",
+      "selling-fashion"
+    ],
+    "features": [
+      "app-offers"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Vestiaire Collective",
+    "url": "https://www.vestiairecollective.com",
+    "description": "Luxury fashion resale marketplace. Designer clothing, handbags, watches and accessories. Authentication service included. 25% seller fee.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "selling",
+      "selling-luxury",
+      "selling-fashion"
+    ],
+    "features": [
+      "app-offers"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "The RealReal",
+    "url": "https://www.therealreal.com",
+    "description": "Luxury resale platform with in-house authentication. Consignment model — you ship items, they authenticate and sell. Commission 20–40% depending on value. Primarily US.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "selling",
+      "selling-luxury",
+      "selling-fashion"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Grailed",
+    "url": "https://www.grailed.com",
+    "description": "Menswear and streetwear resale marketplace. Curated to higher-end fashion. 9% seller fee plus payment processing.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "selling",
+      "selling-fashion",
+      "selling-collectibles"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Vinted UK",
+    "url": "https://www.vinted.co.uk",
+    "description": "UK-specific version of Vinted. Same zero-seller-fee model as the EU site but with UK-specific payment and shipping options.",
+    "status": "active",
+    "trustScore": 84,
+    "categories": [
+      "selling",
+      "selling-fashion"
+    ],
+    "features": [
+      "app-offers"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Rebag",
+    "url": "https://www.rebag.com",
+    "description": "US luxury resale platform specialising in designer handbags, watches and jewellery. Authenticated resale with a strong reputation in the luxury sector.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "selling",
+      "selling-luxury"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  }
+]

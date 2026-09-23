@@ -1,0 +1,774 @@
+[
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com",
+    "description": "Largest video platform. Monetization via ads, channel memberships, Premium revenue, Super Thanks, Super Chat and Shopping. Partner Program requires 1,000 subscribers and 4,000 watch hours (or 10M Shorts views in 90 days).",
+    "status": "active",
+    "trustScore": 88,
+    "categories": [
+      "content",
+      "content-video",
+      "content-livestream",
+      "content-podcasts"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "TikTok",
+    "url": "https://www.tiktok.com",
+    "description": "Short-form video platform. Creator Rewards Program pays eligible original videos over 1 minute based on originality, play duration, search value and engagement. Plus LIVE gifts, subscriptions and brand deals.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": [
+      "content",
+      "content-video",
+      "content-livestream"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com",
+    "description": "Writing platform with a Partner Program that pays based on member reading time. Requires an active Medium membership, at least one published story and a complete profile. UK included.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "content",
+      "content-writing",
+      "content-newsletters"
+    ],
+    "features": [],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Substack",
+    "url": "https://substack.com",
+    "description": "Newsletter platform for writers, podcasters and video creators. Direct paid subscriptions with 10% platform fee. Writers keep their audience and email list. Also supports podcasts and video.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": [
+      "content",
+      "content-newsletters",
+      "content-writing",
+      "content-podcasts"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Patreon",
+    "url": "https://www.patreon.com",
+    "description": "Membership platform for creators. Fans pay monthly for exclusive content. 10% platform fee (for pages created after August 4, 2025) plus payment processing. Works for video, podcasts, art, writing and communities.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": [
+      "content",
+      "content-fans",
+      "content-podcasts",
+      "content-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Twitch",
+    "url": "https://www.twitch.tv",
+    "description": "Livestreaming platform for gaming, music, talk and creative streams. Affiliate and Partner creators earn via subscriptions, Bits, ads and sponsorships. Affiliate requirements: 25 followers, 4 hours streamed on 4 different days, and 3 average viewers on 4 different days.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": [
+      "content",
+      "content-livestream"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Buy Me a Coffee",
+    "url": "https://www.buymeacoffee.com",
+    "description": "Creator support platform. Fans send tips and buy memberships. 5% platform fee per transaction, no monthly cost. First payout threshold is $10. Popular for writers, podcasters and small creators.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": [
+      "content",
+      "content-fans",
+      "content-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Facebook Creator",
+    "url": "https://www.facebook.com/creators",
+    "description": "Facebook's creator monetization program. Earn via in-stream ads, Reels ads, Stars, subscriptions and bonuses. Available in most countries including the UK.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "content",
+      "content-video",
+      "content-fans"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Instagram Creator",
+    "url": "https://creators.instagram.com",
+    "description": "Instagram's creator monetization. Earn via gifts on Reels and Live, subscriptions, and brand partnerships. Available in most major markets.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "content",
+      "content-video",
+      "content-fans"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "X (Twitter) Creator",
+    "url": "https://x.com",
+    "description": "X's creator monetization. The old Creator Revenue Sharing program was retired on 7 September 2026. Creators now earn through the Original Content Rewards program plus subscriptions. Note the recent program change — verify current eligibility before relying on it.",
+    "status": "under_review",
+    "trustScore": 62,
+    "categories": [
+      "content",
+      "content-writing",
+      "content-fans"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Rumble",
+    "url": "https://rumble.com",
+    "description": "Video platform positioned as a free-speech alternative to YouTube. Advertising, subscriptions and content licensing. Strong presence in US, UK and Canada. Less strict eligibility than YouTube.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "content",
+      "content-video",
+      "content-livestream"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Kick",
+    "url": "https://kick.com",
+    "description": "Livestreaming platform taking on Twitch. Streamers keep 95% of subscription revenue — the highest split in the industry. Additional monetization via KICKs and bounties.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "content",
+      "content-livestream"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Spotify for Creators",
+    "url": "https://creators.spotify.com",
+    "description": "Podcast and video hosting from Spotify. Monetization via ads, subscriptions and the Partner Program. UK is included in several monetization features — availability varies by audience and hosting arrangement.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "content",
+      "content-podcasts",
+      "content-video"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Beehiiv",
+    "url": "https://www.beehiiv.com",
+    "description": "Newsletter platform built for growth and monetization. Paid subscriptions, ad network and sponsorship marketplace. Free tier with 2,500 subscribers.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "content",
+      "content-newsletters",
+      "content-writing"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Ghost",
+    "url": "https://ghost.org",
+    "description": "Open-source publishing platform for blogs and newsletters. Direct memberships and subscriptions with 0% platform fee (you pay only hosting). Used by many independent publishers.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": [
+      "content",
+      "content-newsletters",
+      "content-writing"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Teachable",
+    "url": "https://teachable.com",
+    "description": "Online course platform. Create and sell video courses, with memberships, quizzes and drip content. Monthly subscription with transaction fees on lower plans.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "content",
+      "content-courses"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Thinkific",
+    "url": "https://www.thinkific.com",
+    "description": "Course and community platform. Sell courses, memberships and downloads. Free tier available, 0% transaction fees on higher plans. Popular with educators.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "content",
+      "content-courses"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Vimeo",
+    "url": "https://vimeo.com",
+    "description": "Video hosting with monetization tools. Sell videos, subscriptions or run an OTT channel. Higher quality than YouTube for professional creators. Monthly subscription required for most monetization features.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "content",
+      "content-video"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Dailymotion",
+    "url": "https://www.dailymotion.com",
+    "description": "Video platform with advertising revenue sharing. Partners earn based on views and audience. Lighter eligibility than YouTube in some markets.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "content",
+      "content-video"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://www.tumblr.com",
+    "description": "Blogging and social platform with creator supporter features. Tip jar, post subscriptions and ad-free browsing revenue split. Strong community in art, writing and fandom niches.",
+    "status": "under_review",
+    "trustScore": 62,
+    "categories": [
+      "content",
+      "content-writing"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Quora",
+    "url": "https://www.quora.com",
+    "description": "Q&A platform with creator monetization opportunities through the Quora Partner Program. Lower earning potential than dedicated writing platforms but wide reach.",
+    "status": "under_review",
+    "trustScore": 60,
+    "categories": [
+      "content",
+      "content-writing"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Locals",
+    "url": "https://locals.com",
+    "description": "Membership community platform. Create paid communities with posts, videos, live streams and messaging. 10% platform fee plus processing. Owned by Rumble.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "content",
+      "content-fans"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Uscreen",
+    "url": "https://www.uscreen.io",
+    "description": "Video monetization platform for subscription video on demand (SVOD), courses and OTT apps. Monthly subscription. Popular for fitness, education and niche video services.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "content",
+      "content-video",
+      "content-courses"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Kajabi",
+    "url": "https://kajabi.com",
+    "description": "All-in-one platform for courses, coaching, podcasts, communities and digital products. Higher price point than Teachable/Thinkific but 0% transaction fees on all plans.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "content",
+      "content-courses",
+      "content-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Podia",
+    "url": "https://www.podia.com",
+    "description": "Simple platform for courses, digital downloads, webinars and memberships. Monthly subscription, 0% transaction fee. Popular with solo creators moving off Gumroad.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "content",
+      "content-courses",
+      "content-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Fourthwall",
+    "url": "https://fourthwall.com",
+    "description": "Creator business platform combining merch, memberships, digital products and donations. Free to start with no upfront cost. Popular with YouTubers, streamers and podcasters.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "content",
+      "content-merch",
+      "content-fans",
+      "content-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Whop",
+    "url": "https://whop.com",
+    "description": "Platform for paid communities, courses and digital products. Creator takes home most of the revenue with competitive fees. Growing fast in crypto and trading niches.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "content",
+      "content-courses",
+      "content-digital",
+      "content-fans"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Buzzsprout",
+    "url": "https://www.buzzsprout.com",
+    "description": "Podcast hosting with monetization features, affiliate marketplace and dynamic ad insertion. Free tier available with 2 hours monthly upload. Popular beginner-friendly podcast host.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "content",
+      "content-podcasts"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Podbean",
+    "url": "https://www.podbean.com",
+    "description": "Podcast hosting with monetization features — dynamic ad marketplace, premium podcast subscriptions, and Podbean's own ad network. Free tier available.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "content",
+      "content-podcasts"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Captivate",
+    "url": "https://www.captivate.fm",
+    "description": "Podcast hosting focused on growth and monetization for professional podcasters. Includes dynamic ad insertion, private feeds for paid subscribers and analytics.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "content",
+      "content-podcasts"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Spring",
+    "url": "https://www.spri.ng",
+    "description": "Creator merch platform (formerly Teespring). Print-on-demand merch with no upfront costs. Popular with YouTubers and streamers. Sold to Amaze Holding Co. in 2023 — still operating.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "content",
+      "content-merch"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Ko-fi",
+    "url": "https://ko-fi.com",
+    "description": "Creator support platform for tips, memberships, commissions and digital shop sales. Free option charges 0% on one-time tips and 5% on shop/membership sales. No monthly cost.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "content",
+      "content-fans",
+      "content-digital",
+      "selling",
+      "selling-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Gumroad",
+    "url": "https://gumroad.com",
+    "description": "Digital product marketplace for e-books, courses, software, templates and memberships. Simple flat 10% fee, no monthly charges. Widely used by content creators for paid downloads.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "content",
+      "content-digital",
+      "content-courses",
+      "selling",
+      "selling-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Payhip",
+    "url": "https://payhip.com",
+    "description": "Digital product platform for e-books, courses, memberships and software. Free tier with 5% fee on sales. Simple alternative to Gumroad for solo creators.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "content",
+      "content-digital",
+      "content-courses",
+      "selling",
+      "selling-digital"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "speed": "weekly"
+      }
+    ]
+  }
+]

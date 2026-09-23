@@ -1,0 +1,947 @@
+[
+  {
+    "name": "Faucet Click Bot",
+    "url": "https://t.me/faucet_click_bot",
+    "description": "Telegram earning bot offering tasks and faucet claims across BTC, ETH, LTC, DOGE, TRX and USDT. Rewards typically routed through FaucetPay.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Telegram Faucet",
+    "url": "https://t.me/FaucetTelegramBot/app",
+    "description": "Telegram Mini-App faucet supporting multiple coins. Claims through the Telegram bot interface.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-btc",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Gemi Faucet",
+    "url": "https://t.me/gemifaucet_bot",
+    "description": "TON-focused Telegram Mini-App faucet. Claims via bot interface.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "TON Faucet (TonFaucetsBot)",
+    "url": "https://t.me/TonFaucetsBot",
+    "description": "Telegram faucet and tasks bot paying TON.",
+    "status": "active",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Ton Faucet (tonFaucetapp_bot)",
+    "url": "https://t.me/tonFaucetapp_bot",
+    "description": "Telegram faucet bot paying TON via app-style interface.",
+    "status": "active",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "TON Faucet (Claim)",
+    "url": "https://t.me/TONFastFaucetClaimBot",
+    "description": "TON faucet with fast claim flow via Telegram bot.",
+    "status": "active",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "SOL Click Bot",
+    "url": "https://t.me/SOLClickBot",
+    "description": "Telegram PTC and tasks bot paying SOL.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "TRX Click Bot",
+    "url": "https://t.me/TRONClickBot",
+    "description": "Telegram tasks and PTC bot paying TRX.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "TON Click Bot",
+    "url": "https://t.me/TonClickRobot",
+    "description": "Telegram tasks and faucet bot paying TON.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "BNB Click Bot",
+    "url": "https://t.me/BinanceClickBot",
+    "description": "Telegram tasks bot paying BNB. Name is not affiliated with Binance the exchange — it is a third-party bot.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Bitcoin Click Bot",
+    "url": "https://t.me/bitcoin_click_bot",
+    "description": "Telegram PTC and tasks bot paying BTC.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-btc"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Free Tron",
+    "url": "https://t.me/FreeTRXbot",
+    "description": "Telegram referral and rewards bot paying TRX.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "telegram",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Free TRX Pro Bot",
+    "url": "https://t.me/freetrxprobot",
+    "description": "Telegram faucet and rewards bot paying TRX. Newer and less established — test with small amounts.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "telegram",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "TON Faucet (tonchatfrees)",
+    "url": "https://t.me/tonchatfrees",
+    "description": "TON faucet and community channel. Keep provisionally — less established than the dedicated bots above.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetMini",
+    "url": "https://t.me/FaucetMiniBot",
+    "description": "Telegram Mini-App combining games, play-to-earn and rewards. Pays USDT and other coins.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "games",
+      "faucets-usdt"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "CoinPlay MiniApp",
+    "url": "https://t.me/CoinPlayBot",
+    "description": "Telegram Mini-App for crypto earning with TON and other coins.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "games",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Earnigram Mini App",
+    "url": "https://t.me/EarnigramBot",
+    "description": "Telegram earning Mini-App supporting TON and other coins. Rewards and referral tasks.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "games",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "TRX Faucet Pay",
+    "url": "https://t.me/TRX_faucet_pay_bot",
+    "description": "Telegram faucet bot paying TRX through FaucetPay. Task-based claims with a Telegram-native interface.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Doge Faucet Click",
+    "url": "https://t.me/doge_faucet_click_bot",
+    "description": "Telegram DOGE faucet bot. Advertises FaucetHub withdrawals. Task-based claims.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "notes": "Advertises FaucetHub — FaucetHub shut down in 2019; verify before using"
+      }
+    ]
+  },
+  {
+    "name": "Rewardly",
+    "url": "https://t.me/RewardlyBot",
+    "description": "Telegram DOGE faucet and rewards bot.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "USDT Clickers Bot",
+    "url": "https://t.me/USDTClickers_Bot",
+    "description": "Telegram task bot paying USDT for website visits and completed tasks.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-usdt"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "TrueClickBot",
+    "url": "https://t.me/trueclickbot",
+    "description": "Click-based rewards bot on Telegram. Coin specification not clearly stated — verify before investing time.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "telegram",
+      "ptc"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "Box Click Bot",
+    "url": "https://t.me/BoxClickBot",
+    "description": "Telegram advertising-task bot. Rewards for subscriptions, website visits and channel starts. Coin not clearly specified.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "telegram",
+      "ptc"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "FaucetPay Mini App",
+    "url": "https://t.me/faucetpay",
+    "description": "Official FaucetPay Telegram Mini App. Access your FaucetPay balance, view transaction history and manage withdrawals from inside Telegram. Current Telegram listing shows 22,496 monthly users.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Galaxy Task",
+    "url": "https://t.me/GalaxyTaskBot",
+    "description": "Telegram Mini App for tasks, points and airdrop participation. Rewards include TON, USDT and BNB.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "airdrops",
+      "games"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "direct-wallet",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "CryptoRank Mini App",
+    "url": "https://t.me/cryptorank_app_bot",
+    "description": "Official CryptoRank Telegram Mini App. Tasks, farming, CR Points accumulation and referrals. Well-known crypto research brand.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "telegram",
+      "airdrops",
+      "games"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "Lucky Cat",
+    "url": "https://t.me/LuckyCatMiniBot",
+    "description": "Telegram Mini App combining games and tasks to generate Lucky Cat airdrop points. Not a direct payout — points anticipate a future airdrop.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "telegram",
+      "games",
+      "airdrops"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "TonLoot",
+    "url": "https://t.me/tonloot_bot",
+    "description": "Telegram Mini App offering offers, surveys, ads and faucet claims. Pays TON, USDT and other coins.",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "offerwalls"
+    ],
+    "features": [
+      "telegram",
+      "offerwall",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "direct-wallet",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "MyNex App",
+    "url": "https://t.me/mynex_xbot",
+    "description": "Telegram Mini App with tap-to-earn, mining modules and tasks. Pays USDT.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "telegram",
+      "games",
+      "mining"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "Bee Wallet",
+    "url": "https://t.me/myBeeWalletbot",
+    "description": "Telegram wallet and earning app advertising USDT rewards through tasks, ads and referrals. Caution: wallet + rewards hybrid apps carry higher risk — never deposit funds.",
+    "status": "under_review",
+    "trustScore": 42,
+    "categories": [
+      "telegram",
+      "faucets-usdt",
+      "app-offers"
+    ],
+    "features": [
+      "telegram",
+      "app-offers",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "TON Walk",
+    "url": "https://t.me/tonwalk_bot",
+    "description": "Walk-to-earn Telegram Mini App in the TON ecosystem. Rewards movement with TON-based tokens.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "games",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "direct-wallet",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Mini Ton",
+    "url": "https://t.me/mini_ton_bot",
+    "description": "Telegram play-to-earn game in the TON ecosystem. Community rewards and progression mechanics.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "telegram",
+      "games"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "direct-wallet",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "Agent 301",
+    "url": "https://t.me/Agent301Bot",
+    "description": "Telegram Mini App combining tasks, games and Telegram Gifts rewards. Points-based reward system.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "telegram",
+      "games",
+      "app-offers"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "app-offers",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "Tomarket",
+    "url": "https://t.me/tomarket_ai_bot",
+    "description": "Telegram Mini App with farming, games and trading activities. Rewards in TOMATO token plus anticipated airdrop.",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "telegram",
+      "games",
+      "airdrops"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "Angry Miner",
+    "url": "https://t.me/AngryMinerBot",
+    "description": "Telegram mining/game Mini App focused on airdrop rewards in the AGM token. Not real hardware mining — simulated game economy.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "telegram",
+      "games",
+      "mining",
+      "airdrops"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "direct-wallet",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "Koni Story",
+    "url": "https://t.me/KoniStory_bot",
+    "description": "Telegram airdrop campaign with tasks and testnet participation. Rewards in Koni points/token.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "telegram",
+      "airdrops",
+      "games"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "Airdrop Bot",
+    "url": "https://t.me/airdropbot",
+    "description": "Directory and discovery tool for Telegram airdrop bots. Finds, creates and promotes airdrop campaigns. Not an earning bot itself — useful for research.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "telegram",
+      "airdrops"
+    ],
+    "features": [
+      "telegram"
+    ],
+    "hasReferralProgram": false,
+    "offers": []
+  }
+]

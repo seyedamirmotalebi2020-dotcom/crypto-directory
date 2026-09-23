@@ -1,0 +1,7190 @@
+[
+  {
+    "name": "adBTC.top",
+    "url": "https://adbtc.top",
+    "description": "Long-running PTC site paying in Bitcoin. Surf ads and complete offerwalls for BTC payouts.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "ptc",
+      "faucets",
+      "faucets-btc",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "referral",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "referralPercent": 50,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 0.000003,
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Alt Hub",
+    "url": "https://althub.club",
+    "description": "Multicoin faucet with modest but current payments. FaucetPay listing shows $3.07/week and a 4.8 rating, though the health score is 43 — a mediocre signal.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Altcryp Btc",
+    "url": "https://altcryp.com",
+    "description": "Multicoin faucet. Current FaucetPay TRX data shows ~$0.55 to 388 users, rating 3.3, health 66. Moderate volume with reasonable health.",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "almasat.net",
+    "url": "https://almasat.net",
+    "description": "Multicoin faucet listed on FaucetPay across several coins. Recent coin pages show very small or zero payout activity depending on which coin.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "ARFAUCET",
+    "url": "https://arfaucet.com",
+    "description": "Faucet + shortlinks + PTC + tasks + offerwalls. Instant FaucetPay withdrawals and recent payment proofs on-site. Rules prohibit VPN/proxy/bots and multiple accounts.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "aBitcoin.love",
+    "url": "https://abitcoin.love",
+    "description": "Listed on FaucetPay as a 'BTC Generator', but current public data shows $0 and 0 users paid in recent snapshots. No meaningful current payment evidence — skip.",
+    "status": "paused",
+    "trustScore": 35,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "manual",
+        "notes": "No current payment evidence"
+      }
+    ]
+  },
+  {
+    "name": "AutoFaucet",
+    "url": "https://autofaucet.org",
+    "description": "Long-running platform (est. 2018) with surveys, offers, shortlinks, games, missions and unlimited faucet claims. Advertises instant cashout with no minimum.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-doge",
+      "surveys",
+      "offerwalls",
+      "shortlinks",
+      "games"
+    ],
+    "features": [
+      "autofaucet",
+      "surveys",
+      "offerwall",
+      "shortlinks",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2018-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Bagi",
+    "url": "https://bagi.co.in",
+    "description": "Mixed / declining. Some Bagi coin faucets had their last payments months ago, and historical Trustpilot feedback is very mixed.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-other"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "FEY",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "BeeGoBox",
+    "url": "https://beegobox.com",
+    "description": "Full rewards platform — offers, surveys, ads, shortlinks, faucet, tasks and contests. FaucetPay shows $6.36/week across BTC, BCH, BNB, DOGE, ETH, LTC, SOL, USDC and USDT.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "offerwalls",
+      "surveys",
+      "shortlinks",
+      "ptc"
+    ],
+    "features": [
+      "offerwall",
+      "surveys",
+      "ptc-ads",
+      "shortlinks",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "BitClickz",
+    "url": "https://bitclickz.com",
+    "description": "PTC ads, offers, surveys and referrals. Official FAQ confirms $0.01 minimum, no FaucetPay withdrawal fee, and instant payment processing.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "ptc",
+      "offerwalls",
+      "surveys"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 1e-7,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Bitco-Claim",
+    "url": "https://bitco-claim.net",
+    "description": "Faucet, PTC and offerwalls. Current site shows 16,166 users and $2,285.86 total paid, with recent BNB payouts of $0.05–$0.16. Test an actual withdrawal.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "ptc",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Bitrain",
+    "url": "https://bitrain.online",
+    "description": "Simple BTC faucet paying 5 satoshis every 15 minutes directly to FaucetPay. Captcha required; no deposit. Very small per-claim reward.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 900,
+        "min": 5e-8,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "BoxFaucet.Xyz",
+    "url": "https://boxfaucet.xyz",
+    "description": "Faucet network with current listings on FaucetPay. Recent data showed $0.22/day and 24 users on DOGE, health around 46%. Active but small.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "BTCBunch.Com",
+    "url": "https://btcbunch.com",
+    "description": "Faucet, dice, surveys, mining/game features, captcha, PTC, shortlinks and more. Small but current payments. Mixed Trustpilot feedback.",
+    "status": "under_review",
+    "trustScore": 60,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "ptc",
+      "shortlinks",
+      "offerwalls",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "surveys",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "payeer",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "BullyDAO",
+    "url": "https://bullydao.org",
+    "description": "Mixed model — hourly free faucet, shortlinks, airdrop, games, token farming and staking. Advertises 73% APY staking — high yield warning.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "shortlinks",
+      "games"
+    ],
+    "features": [
+      "shortlinks",
+      "games",
+      "staking",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BONK",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "BuxFaucet",
+    "url": "https://buxfaucet.com",
+    "description": "PTC and faucet hybrid. Short ad views and consistent payouts to FaucetPay.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "ptc",
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "c.cx.ua",
+    "url": "https://c.cx.ua",
+    "description": "Crypto/faucet-style listing. Insufficient fresh primary evidence to establish present payout volume confidently.",
+    "status": "under_review",
+    "trustScore": null,
+    "categories": [
+      "faucets"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "ClaimClicks",
+    "url": "https://claimclicks.com",
+    "description": "Faucet, shortlinks, PTC, microtasks, offerwalls and referrals. Withdrawals via FaucetPay or Cwallet. Modern GPT/faucet hybrid.",
+    "status": "under_review",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "ClaimCrypto.net",
+    "url": "https://claimcrypto.net",
+    "description": "Simple crypto faucet with direct, verifiable payments. Currently pays 0.00678887 DGB every 30 seconds, max 30 claims/day.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DGB",
+        "payment": "faucetpay",
+        "interval": 30,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "ClaimDoge",
+    "url": "https://claimdoge.com",
+    "description": "DOGE faucet with 5-minute claim interval. Listed since Feb 2020. FaucetPay health score of 2 is extremely weak despite making payments.",
+    "status": "paused",
+    "trustScore": 48,
+    "categories": [
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2020-02-01",
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "ClaimFreeBits",
+    "url": "https://claimfreebits.com",
+    "description": "BTC faucet every 5 minutes plus offers, shortlinks, PTC and CPU-mining features. Self-reported 34,726 users and 0.12722113 BTC paid.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "ClaimFreeTRX",
+    "url": "https://claimfreetrx.online",
+    "description": "Instant faucet-style crypto claiming. Live site identifies itself as 'InstantFaucet'. Treat as a small test only.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-other"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Claimlite",
+    "url": "https://claimlite.club",
+    "description": "Faucet, offers, surveys, shortlinks. Minimum $0.10 for FaucetPay/Payeer. Reputation tools conflict — test-only, do not trust with sensitive information.",
+    "status": "under_review",
+    "trustScore": 42,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "offerwalls",
+      "surveys",
+      "shortlinks"
+    ],
+    "features": [
+      "offerwall",
+      "surveys",
+      "shortlinks",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "payeer",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "binance-pay",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Claimsatoshi",
+    "url": "https://claimsatoshi.xyz",
+    "description": "Crypto faucet with FaucetPay-linked payments across several coins. Small and inconsistent volume.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Clicktoshi",
+    "url": "https://clicktoshi.com",
+    "description": "PTC, daily ads, offers, surveys. Relatively new (launched Oct 2025). FaucetPay payouts with instant processing and low minimums.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "ptc",
+      "faucets",
+      "faucets-btc",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2025-10-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Clixtoyou",
+    "url": "https://clixtoyou.com",
+    "description": "PTC, faucet/shortlinks, offerwalls, games and referrals. Free membership has $0.50 minimum. Paid memberships available but non-refundable.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "ptc",
+      "faucets",
+      "faucets-ltc",
+      "shortlinks",
+      "offerwalls",
+      "games"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "min": 0.5,
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Coin Diversity",
+    "url": "https://coindiversity.io",
+    "description": "Multicoin faucet with up to 5 claims/day and a 1-minute wait between claims. FaucetPay required. Live payment feed is visibly updating seconds apart.",
+    "status": "active",
+    "trustScore": 64,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "CoinAdster",
+    "url": "https://coinadster.com",
+    "description": "PTC and faucet platform. Surf ads, complete offers, and claim from the BTC faucet.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "ptc",
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "CoinDrip",
+    "url": "https://coindrip.site",
+    "description": "BTC faucet paying 0.00000005 BTC per claim on a 60-minute cooldown, credited through FaucetPay. Also offers offerwalls, referrals and optional gambling games.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "offerwalls"
+    ],
+    "features": [
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Coinflow.fun",
+    "url": "https://coinflow.fun",
+    "description": "Multicoin faucet with 5-minute cycle. FaucetPay shows $0.11/week, rating 4.0, health 100. Low payout volume but excellent technical health and wide coin coverage.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-eth",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "ZEC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "FEY",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Coinli",
+    "url": "https://coinli.net",
+    "description": "PTC and faucet site with offerwall support. Low thresholds via FaucetPay.",
+    "status": "active",
+    "trustScore": 64,
+    "categories": [
+      "ptc",
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "CoinPayz",
+    "url": "https://coinpayz.xyz",
+    "description": "Faucet, PTC, offers and shortlinks. Currently active on FaucetPay but with mixed signals — health score is only 9/100 and recent Trustpilot reviews complain about pending withdrawals.",
+    "status": "paused",
+    "trustScore": 46,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "manual"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "Coinserom",
+    "url": "https://coinserom.com",
+    "description": "Faucet and PTC with auto-claim features and offerwalls. FaucetPay directory shows ~$4.49/week, rating 3.2, low health ~4.",
+    "status": "under_review",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge",
+      "ptc",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "autofaucet",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Cointiply",
+    "url": "https://cointiply.com",
+    "description": "Crypto faucet + GPT. Surveys, offerwalls, games, PTC, videos, spins. Withdrawal to own wallet in BTC, DOGE, LTC or Dash. Recent user reports of account holds and verification issues.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge",
+      "faucets-ltc",
+      "faucets-other",
+      "offerwalls",
+      "surveys",
+      "games",
+      "ptc",
+      "videos",
+      "cashback"
+    ],
+    "features": [
+      "offerwall",
+      "ptc-ads",
+      "games",
+      "surveys",
+      "videos",
+      "referral",
+      "lottery",
+      "wheel",
+      "chest",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "min": 0.00005,
+        "speed": "daily"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "direct-wallet",
+        "min": 300,
+        "speed": "daily"
+      },
+      {
+        "coin": "LTC",
+        "payment": "direct-wallet",
+        "min": 0.03,
+        "speed": "daily"
+      },
+      {
+        "coin": "DASH",
+        "payment": "direct-wallet",
+        "min": 0.01,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Coinzi",
+    "url": "https://coinzi.net",
+    "description": "Multi-coin platform with strong current evidence — PEPE, SHIB, BONK, FLOKI, BTC, TRX, LTC. Trustpilot currently ~4.9/5 from 254 reviews.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-other",
+      "games"
+    ],
+    "features": [
+      "games",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "PEPE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "SHIB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BONK",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "FLOKI",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "COINTAP ADA",
+    "url": "https://cointap.io",
+    "description": "Cardano-focused faucet with instant FaucetPay payout. Reports 429 users and 4.4 ADA paid to date.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "ADA",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Contract-Miner",
+    "url": "https://contract-miner.com",
+    "description": "Virtual mining/strategy game with rigs, marketplace, upgrades and events. NOT real blockchain mining — the site explicitly states nothing runs on your hardware.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "mining",
+      "games"
+    ],
+    "features": [
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "CRINF.NET",
+    "url": "https://crinf.net",
+    "description": "Faucet, PTC, polls, offers. Listed on FaucetPay since Dec 2019 with health 100. Note: FaucetPay labels this listing 'NSFW FREE'. Rules prohibit VPN/proxy and bots.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "ptc",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2019-12-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DASH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Criptes",
+    "url": "https://criptes.com",
+    "description": "Active new faucet joined FaucetPay 7 Sep 2026. Faucet Monitor detected ~$1.94 in 24h across LTC, BTC and USDT. Very new.",
+    "status": "under_review",
+    "trustScore": 60,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-usdt"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-09-07",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Crypto Mining",
+    "url": "https://1eon-uno.top",
+    "description": "Faucet-style captcha/task reward site — NOT real hardware mining. Current listing shows ~$0.01–$0.04/week, poor ratings around 2.2–2.6.",
+    "status": "paused",
+    "trustScore": 40,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "mining"
+    ],
+    "features": [
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "Crypto-Prasatko",
+    "url": "https://crypto-prasatko.cz",
+    "description": "Czech-operated crypto rewards/faucet platform. ScamAdviser describes the domain as likely safe while noting low traffic and general crypto-risk concerns.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "CryptoChoco",
+    "url": "https://cryptochoco.com",
+    "description": "New 2026 platform offering PTC, shortlinks, offers and daily activities. Note: domain hosted a different service in 2021 with negative history — the current operator says today's platform is unrelated.",
+    "status": "under_review",
+    "trustScore": 60,
+    "categories": [
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "daily-bonus",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "XRP",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Cryptoclaps.com",
+    "url": "https://cryptoclaps.com",
+    "description": "Watch-to-earn / faucet. FaucetPay rating 4.8 but current weekly volume is only ~$0.05 to 24 users. Last substantial payment activity around 15 Aug 2026.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "videos"
+    ],
+    "features": [
+      "videos",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "CRYPTO-TARGET",
+    "url": "https://target.1eon-uno.top",
+    "description": "Multicoin faucet paying BTC, ETH, DOGE, TRX, USDT and others. ~5-minute claim interval. Very small payment volume but current activity exists.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-doge",
+      "faucets-usdt"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Ad-Doge",
+    "url": "https://ad-doge.com",
+    "description": "Established (online since 2019) faucet/PTC with shortlinks, offers, contests and crypto withdrawals. Reports 35,913 users and $1,275.81 paid. FaucetPay minimums $0.10.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge",
+      "faucets-ltc",
+      "faucets-usdt",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2019-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "DGB",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "AdEasly",
+    "url": "https://adeasly.com",
+    "description": "Established PTC/advertising network with tasks and crypto rewards. Trustpilot shows 4.7/5 from 181 reviews. FaucetPay directory showed 356 users associated with the listing.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "ptc",
+      "offerwalls",
+      "faucets"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "DogeScrapper",
+    "url": "https://dogescrapper.com",
+    "description": "Simulated DOGE mining game with ads, offers, surfbar and bonuses. Site explicitly states the mining does NOT use your CPU/GPU. Public payouts page shows 'No payouts yet'.",
+    "status": "under_review",
+    "trustScore": 42,
+    "categories": [
+      "faucets",
+      "faucets-doge",
+      "games",
+      "mining"
+    ],
+    "features": [
+      "games",
+      "ptc-ads",
+      "offerwall",
+      "daily-bonus",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "direct-wallet",
+        "speed": "manual"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "Earn-Trump",
+    "url": "https://earn-trump.com",
+    "description": "Very active/new faucet paying TRUMP every 1 second with instant FaucetPay and 0.0001 TRUMP minimum. Same operator family as Feyorra.site and Earn-Pepe.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "autofaucet",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TRUMP",
+        "payment": "faucetpay",
+        "interval": 1,
+        "min": 0.0001,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Earnbitmoon",
+    "url": "https://earnbitmoon.club",
+    "description": "Faucet every 5 minutes plus surveys, offerwalls, shortlinks and bonuses. Claims 1.33M+ members and $815k paid. FaucetPay/Cwallet minimum $0.20. VPN/proxy prohibited.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "ptc",
+      "offerwalls",
+      "surveys",
+      "shortlinks"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "surveys",
+      "shortlinks",
+      "autofaucet",
+      "daily-bonus",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "direct-wallet",
+        "min": 0.5,
+        "speed": "daily"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "direct-wallet",
+        "min": 0.5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "EarnCryptoWRS",
+    "url": "https://earncryptowrs.in",
+    "description": "Faucet, shortlinks, tasks and daily crypto rewards. FaucetPay shows $3.99/week to 277 users, health 56.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "shortlinks"
+    ],
+    "features": [
+      "shortlinks",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "EarnSolana",
+    "url": "https://earnsolana.com",
+    "description": "Solana-branded faucet with very weak current activity — $0 in the displayed period, rating 2.7, health 13.",
+    "status": "paused",
+    "trustScore": 35,
+    "categories": [
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "Earnviv",
+    "url": "https://earnviv.com",
+    "description": "LTC-focused FaucetPay platform still paying with small volume — Faucet Monitor recorded ~$2.30 in the preceding 24h. Has used FaucetPay since March 2022.",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "faucets",
+      "faucets-ltc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2022-03-01",
+    "offers": [
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "EARNZILLA.NET",
+    "url": "https://earnzilla.net",
+    "description": "Instant multicoin faucet listed on FaucetPay since April 2021. Currently 434 users paid and $3.81/week, wide coin range — health 46 is mediocre.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other"
+    ],
+    "features": [
+      "autofaucet",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2021-04-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "easygoingfaucet",
+    "url": "https://easygoingfaucet.com",
+    "description": "Active new faucet with different claim intervals per coin: ETH hourly, LTC/DOGE/TRX every 10 min, SOL every 5 min. FaucetPay: 73 users paid, $0.05/week, rating 4.4, health 100.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "faucets",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 600,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 600,
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "interval": 600,
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "EldiBux",
+    "url": "https://eldibux.com",
+    "description": "Faucet and PTC platform.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "ptc"
+    ],
+    "features": [
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Faas Faucet",
+    "url": "https://faas.farazfaucets.com",
+    "description": "Part of the Faraz Faucets network. Live site lets users claim free PEPE directly to FaucetPay. Rating 2.9, health 67. Site also has Dice/Limbo/Towers gambling games.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "PEPE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Faucet Crypto (site)",
+    "url": "https://faucetcrypto.site",
+    "description": "Multicoin faucet with a current FaucetPay listing (TRX showed $0.68/week, 4.8 rating) but only 1 user appeared in that snapshot — current payout volume is very small.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetCrypto",
+    "url": "https://faucetcrypto.com",
+    "description": "Crypto faucet + GPT. Faucet claims, PTC, offerwalls, challenges, levels, bonuses. Direct withdrawal to your own wallet — no FaucetPay microwallet.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "ptc",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "games",
+      "daily-bonus",
+      "achievements",
+      "referral",
+      "lottery"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "min": 0.0001,
+        "speed": "daily"
+      },
+      {
+        "coin": "ETH",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "LTC",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "TRX",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "DASH",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Faucetbravo",
+    "url": "https://faucetbravo.fun",
+    "description": "BTC-only faucet listed on FaucetPay since April 2022. Currently $0.41/week, rating 4.3, health 60.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2022-04-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetDoguecoin",
+    "url": "https://faucetdoguecoin.pw",
+    "description": "Small multicoin faucet via FaucetPay. Current data shows $0.01 paid this week to 1 user, health 100. Listed since 2020.",
+    "status": "paused",
+    "trustScore": 42,
+    "categories": [
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2020-01-01",
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetGamer",
+    "url": "https://faucetgamer.com",
+    "description": "Gamified faucet where you play games to earn BTC and other coins. Withdraws to FaucetPay.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "games"
+    ],
+    "features": [
+      "games",
+      "daily-bonus",
+      "referral",
+      "wheel"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Faucet Hub",
+    "url": "https://faucethub.xyz",
+    "description": "Multiple unrelated services use the name 'Faucet Hub'. FaucetPay currently lists a Faucet Hub entry with small payments. Verify the exact domain before signing up.",
+    "status": "under_review",
+    "trustScore": null,
+    "categories": [
+      "faucets"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Faucet Funds",
+    "url": "https://faucetfunds.com",
+    "description": "Brand new faucet created 6 Sep 2026. Monitoring shows recent payouts but only a small amount today and 12 total users paid in the latest snapshot.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-09-06",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Faucetica",
+    "url": "https://faucetica.com",
+    "description": "Currently paying with caution. ScamAdviser flags it strongly and reports the domain was only registered 18 April 2026 — the current incarnation is very new.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-04-18",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Faucetop",
+    "url": "https://faucetop.com",
+    "description": "PTC, offerwall, shortlinks, faucet and revenue share. Listed since 2023 but currently shows $0 paid this week and 0 users, rating 2.6, health 73.",
+    "status": "paused",
+    "trustScore": 40,
+    "categories": [
+      "faucets",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2023-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "FaucetPay",
+    "url": "https://faucetpay.io",
+    "description": "Crypto micro-wallet and faucet hub. Aggregates payments from 600+ faucets, PTC, offerwalls and games. Internal transfers free; on-chain withdrawals carry network fees.",
+    "status": "active",
+    "trustScore": 85,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "staking"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 0.0012,
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetPayME",
+    "url": "https://faucetpayme.com",
+    "description": "Very active-looking FaucetPay-oriented platform — faucet, PTC, offerwalls, shortlinks, tasks, social promotions and daily streaks. Live payment feed shows transactions minutes old.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-usdt",
+      "faucets-doge",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Faucets.Win",
+    "url": "https://faucets.win",
+    "description": "2-minute faucet paying BTC, DOGE and TRX. Payments go instantly to FaucetPay with no minimum and no withdrawal button.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "autofaucet",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 120,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 120,
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "interval": 120,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "faucet-samy",
+    "url": "https://faucet-samy.com",
+    "description": "Tiny faucet with very low current volume (~$0.07 in 24h). Time spent likely outweighs reward.",
+    "status": "paused",
+    "trustScore": 40,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Faucetsite",
+    "url": "https://faucetsite.42web.io",
+    "description": "Multicoin faucet. FaucetPay FEY listing showed $0.74 paid in 7 days to 22 users, rating 3.7, health 100.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-other"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "FEY",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Faucetoshi",
+    "url": "https://faucetoshi.com",
+    "description": "Very active faucet. Internal Faucetoshi unit fixed at $0.01 each; minimum withdrawal 1 Faucetoshi = $0.01 instant via FaucetPay. Payment history shows many tiny USDT payouts. Listed since Nov 2021.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-usdt",
+      "faucets-ltc",
+      "faucets-doge"
+    ],
+    "features": [
+      "autofaucet",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2021-11-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 0.000001,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "min": 0.01,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetWorld",
+    "url": "https://faucetworld.in",
+    "description": "Established faucet with Auto Faucet, offline mode, roll game, offerwalls, PTC, coin swap and staking. Minimum $1 FaucetPay, $3 to certain blockchains. Health 100.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "ptc",
+      "offerwalls",
+      "games"
+    ],
+    "features": [
+      "autofaucet",
+      "ptc-ads",
+      "offerwall",
+      "games",
+      "staking",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 1,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "min": 1,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "min": 1,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FCJ Faucet (flagged)",
+    "url": "https://faucet.cryptojobss.com",
+    "description": "BLACKLISTED. Faucet every 60 seconds in BTC/ETH/LTC/DOGE/USDT via direct FaucetPay with no fee. ScamAdviser currently flags the subdomain as 'Very Likely Unsafe'.",
+    "status": "blacklisted",
+    "trustScore": null,
+    "categories": [
+      "faucets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Feyorra",
+    "url": "https://feyorra.site",
+    "description": "Multicoin faucet with tasks, PTC and instant FaucetPay/Cwallet withdrawals. FaucetPay shows ~$13.65/week to 131–137 users, rating ~4.1, health 23.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-other",
+      "ptc"
+    ],
+    "features": [
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "FEY",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Final Autoclaim",
+    "url": "https://autofaucet.dutchycorp.space",
+    "description": "Auto-faucet with strong current payout evidence — FaucetPay health score 100. FaucetPay minimum just $0.05, direct blockchain payouts $0.05–$5 depending on coin.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "ptc",
+      "offerwalls",
+      "surveys",
+      "shortlinks"
+    ],
+    "features": [
+      "autofaucet",
+      "ptc-ads",
+      "offerwall",
+      "surveys",
+      "shortlinks",
+      "daily-bonus",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 5e-7,
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "min": 0.00001,
+        "speed": "daily"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "min": 5e-7,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "min": 5e-7,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "min": 5e-7,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FireFaucet",
+    "url": "https://firefaucet.win",
+    "description": "Auto-faucet + GPT. Surveys, apps, games, offers, 30-minute faucet, and a server-side Auto Faucet. No KYC, no withdrawal fees.",
+    "status": "active",
+    "trustScore": 44,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-other",
+      "offerwalls",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "offerwall",
+      "surveys",
+      "games",
+      "autofaucet",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "min": 0.000025,
+        "speed": "daily"
+      },
+      {
+        "coin": "ETH",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "LTC",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "DASH",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "TRX",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Flowfaucet",
+    "url": "https://flowfaucet.online",
+    "description": "Very small new faucet listed on FaucetPay since 2 Sep 2026. Current snapshot shows $0.00/week and 16 users, but rating 5.0 and health 100.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-09-02",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Free-Bonk",
+    "url": "https://free-bonk.com",
+    "description": "BONK faucet plus shortlinks, PTC, offerwalls, daily coupons and contests. Advertises instant/automatic withdrawal. Prohibits multiple accounts, bots and VPN/proxy.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "shortlinks",
+      "ptc",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BONK",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Freebitcoin (claimto.xyz)",
+    "url": "https://claimto.xyz",
+    "description": "NOT the old FreeBitco.in (which shut down in 2025). This is the current 'Freebitcoin $0.005 + 30% REF' service on claimto.xyz, actively paying through FaucetPay.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 0.005,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FreeBitco.in",
+    "url": "https://freebitco.in",
+    "description": "Former Bitcoin faucet and casino. Announced shutdown and withdrawal freeze in late 2025. Independent tests as of June 2026 report withdrawals still failing. Do not rely on it.",
+    "status": "defunct",
+    "trustScore": 16,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Freecash",
+    "url": "https://freecash.com",
+    "description": "Large GPT platform. Surveys, games, apps, product trials, offers, videos. First withdrawal requires ID verification. PayPal starts at $5 with a 5% fee.",
+    "status": "active",
+    "trustScore": 92,
+    "categories": [
+      "offerwalls",
+      "surveys",
+      "games",
+      "app-offers",
+      "videos"
+    ],
+    "features": [
+      "offerwall",
+      "games",
+      "surveys",
+      "app-offers",
+      "videos",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "min": 5,
+        "speed": "daily"
+      },
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "min": 0.0001,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "FreeDoge",
+    "url": "https://freedoge.co.in",
+    "description": "The historically well-known FreeDoge.co.in shut down in August 2019. A modern faucet directory still lists a 'Freedoge' entry, but its connection to the original service is unclear.",
+    "status": "defunct",
+    "trustScore": null,
+    "categories": [
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "FreeFlareCrypto",
+    "url": "https://freeflarcrypto.com",
+    "description": "New multicoin faucet with recent payments visible across SOL, FLT, POL, XLM and DASH listings. Health generally 100 but amounts are small and history is short.",
+    "status": "under_review",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "XLM",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DASH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FREE-LTC-INFO (flagged)",
+    "url": "https://free-ltc-info.com",
+    "description": "BLACKLISTED. Despite active FaucetPay payouts, ScamAdviser and Gridinsoft currently flag the domain as unsafe/malicious, with multiple phishing and malware provider warnings.",
+    "status": "blacklisted",
+    "trustScore": null,
+    "categories": [
+      "faucets",
+      "faucets-ltc"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "FreeLTC Online",
+    "url": "https://freeltc.online",
+    "description": "LTC faucet listed on FaucetPay. Current ViewFaucet data shows it paying with claims on approximately a 3-minute interval.",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "faucets",
+      "faucets-ltc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 180,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FreeLtc.fun",
+    "url": "https://freeltc.fun",
+    "description": "LTC faucet currently promoted as every minute, plus PTC, offerwalls, shortlinks and referrals. Site claims 133k+ active users — self-reported.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-ltc",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Gamefaucet",
+    "url": "https://gamefaucet.fun",
+    "description": "Game-style faucet. FaucetPay shows $11.37/week to 372 users with 80 currently active, but health score is only 10/100 — serious warning despite visible activity.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-other",
+      "games"
+    ],
+    "features": [
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "GOBRYA FAUCET",
+    "url": "https://gobrya.com",
+    "description": "New multicoin faucet with active payments across BTC, BCH, SOL, POL, XLM, TON and others. Current snapshots show health 100 for most coins.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "XLM",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "GoldenClix",
+    "url": "https://goldenclix.com",
+    "description": "PTC platform with ad views, offerwalls and referral commissions. Withdraws to FaucetPay.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "ptc",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "daily"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Hatecoin",
+    "url": "https://hatecoin.me",
+    "description": "BTC faucet and PTC site with quick claims. Long-running operation with FaucetPay payouts.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "ptc"
+    ],
+    "features": [
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "HFC / HF Coin",
+    "url": "https://helpfpcoin.site",
+    "description": "Multicoin FaucetPay faucet with recent payments in BCH, TRUMP, TON and LTC. Faucet Monitor recorded about $0.60 in 24h.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-other"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRUMP",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Hitltc",
+    "url": "https://hitltc.online",
+    "description": "New faucet advertising $0.0005 worth of crypto per hour with instant FaucetPay withdrawals and LTC/DOGE/BTC support. Public payment evidence is still thin.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "faucets",
+      "faucets-ltc",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "instafaucet",
+    "url": "https://instafaucet.xyz",
+    "description": "TRX-oriented faucet listed on FaucetPay since 5 Sep 2026. Current $0.26/week to 6 users, health 100. Supports many coins despite TRX focus.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-09-05",
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Keran.Co",
+    "url": "https://keran.co",
+    "description": "Separate faucets for each coin — DOGE, TRX, BNB, and others each have their own version. Payout activity and FaucetPay health vary significantly between coins.",
+    "status": "under_review",
+    "trustScore": 60,
+    "categories": [
+      "faucets",
+      "faucets-doge",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Knolix Money Tree",
+    "url": "https://knolix.com",
+    "description": "Long-running faucet — listed on FaucetPay since March 2020. Current $5.20/week to 31 users, rating 4.1, health 100. Faucet gradually fills over an hour.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2020-03-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Kryptapulse",
+    "url": "https://kryptapulse.site",
+    "description": "Offers, tasks, referrals, leaderboards and wallet tools across many coins. Listed on FaucetPay since 2022 but currently shows $0 paid this week and 0 users.",
+    "status": "paused",
+    "trustScore": 42,
+    "categories": [
+      "offerwalls",
+      "faucets"
+    ],
+    "features": [
+      "offerwall",
+      "referral",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2022-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "manual"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "Larvel Faucet",
+    "url": "https://larvelfaucet.com",
+    "description": "Shortlinks, mining game, PTC, offerwalls, tasks and daily rewards. One of the more consistently active older faucets — listed on FaucetPay since 2019, health 100.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "games",
+      "daily-bonus",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2019-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Lightning Miner",
+    "url": "https://lightningminer.com",
+    "description": "Virtual mining game (not physical crypto mining). FaucetPay shows ~$28.40/week to 69 users, rating 4.3, health 71. Min withdrawal $0.10. Same network as Lightning Quest.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "mining",
+      "games",
+      "faucets",
+      "faucets-btc",
+      "faucets-other"
+    ],
+    "features": [
+      "games",
+      "autofaucet",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 0.1,
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "min": 0.1,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Lightning Quest",
+    "url": "https://lightningquest.net",
+    "description": "Game/progression faucet with strong current evidence — FaucetPay shows $19.16/week to 39 users, rating 4.5, health 100. Same operator as Lightning Miner.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other",
+      "games"
+    ],
+    "features": [
+      "games",
+      "autofaucet",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "LimeFaucet",
+    "url": "https://limefaucet.com",
+    "description": "New faucet (launched Aug 2026) with 5-minute claims, PTC, shortlinks, offers and referrals. FaucetPay health only 24/100 — new, still establishing reliability.",
+    "status": "under_review",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-08-02",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "LiteFaucets",
+    "url": "https://litefaucets.com",
+    "description": "Multi-coin faucet with strong LTC focus. Offers surveys, offerwalls and PTC.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "faucets",
+      "faucets-ltc",
+      "faucets-btc",
+      "ptc",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Loot Pay",
+    "url": "https://lootpay.top",
+    "description": "Faucet with low current volume. Faucet Monitor detected a recent payout and about $0.18 in 24h. Small but operating.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "m-faucet",
+    "url": "https://m-faucet.com",
+    "description": "Very active-looking hourly faucet with PTC, offers, surveys, referrals and FaucetPay payouts. Recent live feed showed $0.75–$1.41 payouts within a single day.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "ptc",
+      "offerwalls",
+      "surveys"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Minerbly.com",
+    "url": "https://minerbly.com",
+    "description": "DOGE 'miner' / faucet. Effectively inactive — independent 2026 tracker recorded last activity around 20 Apr 2026, current FaucetPay listings show $0/week and 0 users.",
+    "status": "defunct",
+    "trustScore": null,
+    "categories": [
+      "faucets",
+      "faucets-doge",
+      "mining"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Mint Faucet",
+    "url": "https://mintfaucet.in",
+    "description": "New faucet listed on FaucetPay since 21 Aug 2026. Currently $0.62/week to only 4 users, rating 3.1, health 2 — very new and very small.",
+    "status": "under_review",
+    "trustScore": 42,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-08-21",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "mix-crypto (15 satoshi)",
+    "url": "https://mix-crypto.com",
+    "description": "Multi-faucet platform — 15-satoshi BTC faucet. FaucetPay shows ~$0.68/week to 21 users with health only 5. Very low health despite current payments.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "mix-crypto (4122 LTC)",
+    "url": "https://mix-crypto.com",
+    "description": "Separate LTC faucet under the same mix-crypto.com domain. FaucetPay shows $3.29/week to 165 users, health only 8. Higher volume than the BTC version.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-ltc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "MoonPTC",
+    "url": "https://moonptc.com",
+    "description": "New PTC (launched Jul 2026) with faucet, shortlinks, offers and XP/level progression. FaucetPay shows recent payments across many coins. Same operator group as LimeFaucet.",
+    "status": "under_review",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge",
+      "faucets-ltc",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "achievements",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-07-09",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "MyCoinYard",
+    "url": "https://mycoinyard.com",
+    "description": "Active faucet with visible live payments — BTC, LTC, DOGE, BNB, POL and TRUMP. Daily streaks, offerwalls, surveys, level system and leaderboard.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-other",
+      "offerwalls",
+      "surveys"
+    ],
+    "features": [
+      "offerwall",
+      "surveys",
+      "daily-bonus",
+      "achievements",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Naticrypto",
+    "url": "https://naticrypto.com",
+    "description": "Multicoin faucet with large user base (1,951 users in a recent TRX snapshot) but a FaucetPay health score of 0 — serious warning despite visible volume.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Needbux",
+    "url": "https://needbux.com",
+    "description": "Games, surf ads, faucet and offerwalls. Faucet listed at $0.0001 per claim. Prohibits VPN/proxy/bots. Trustpilot shows only 4 reviews with a 2.6 average.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "games",
+      "offerwalls",
+      "ptc"
+    ],
+    "features": [
+      "games",
+      "offerwall",
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "min": 1e-7,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "NevCoins Best Faucet",
+    "url": "https://nevcoins.club",
+    "description": "Auto-faucet, shortlinks, offerwalls, PTC. Listed since Dec 2019. Large current payout volume across a wide range of coins — but FaucetPay health score is only 9.",
+    "status": "under_review",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-eth",
+      "faucets-other",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "autofaucet",
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2019-12-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "NORMAL PAGE Earn Money",
+    "url": "https://btcearn.top",
+    "description": "Faucet associated with btcearn.top. The owner listing shows DOGE/TRX/USDT support with $0.32/week, but this specific entry shows no meaningful public payout activity.",
+    "status": "under_review",
+    "trustScore": 38,
+    "categories": [
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Nyxtap",
+    "url": "https://nyxtap.com",
+    "description": "Very active new faucet — TON claims every 90 seconds, up to 10 per day. FaucetPay shows strong activity ($22.59 XLM, $23.15 POL in recent snapshots). Domain registered 31 Aug 2026.",
+    "status": "under_review",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-08-31",
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "interval": 90,
+        "speed": "instant"
+      },
+      {
+        "coin": "XLM",
+        "payment": "faucetpay",
+        "interval": 90,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "OffersBux",
+    "url": "https://offersbux.com",
+    "description": "Surveys, offers, PTC and referrals. Supports FaucetPay, Bitcoin, DOGE, LTC, TRX, Coinbase, Binance Pay. Current earning volume unclear.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "ptc",
+      "surveys",
+      "offerwalls",
+      "faucets"
+    ],
+    "features": [
+      "ptc-ads",
+      "surveys",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "daily"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "daily"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "daily"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "binance-pay",
+        "speed": "daily"
+      },
+      {
+        "coin": "BTC",
+        "payment": "coinbase",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "OneFaucet",
+    "url": "https://onefaucet.in",
+    "description": "Telegram Mini App only — free LTC and rewards, shown as $0.0005 per claim, instant FaucetPay. Login is Telegram-only. Current page reports 8K+ users.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-ltc",
+      "telegram"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Onlyfaucet",
+    "url": "https://onlyfaucet.com",
+    "description": "Multicoin faucet with multiple claim options.",
+    "status": "under_review",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "OrthoFaucet",
+    "url": "https://orthofaucet.com",
+    "description": "New faucet paying 0.0001 USDT every 60 minutes, instant FaucetPay. Also supports BTC, DOGE, LTC, TRX, PEPE. Note: site also includes Dice/Limbo casino-style games.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-usdt",
+      "faucets-btc",
+      "faucets-doge",
+      "faucets-ltc"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      },
+      {
+        "coin": "PEPE",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Paradice",
+    "url": "https://paradice.io",
+    "description": "Crypto casino with faucet, rain, contests and games. Still active through 2026 and advertises a 30-second faucet, but primarily a gambling platform — treat as gambling, not earning.",
+    "status": "blacklisted",
+    "trustScore": null,
+    "categories": [
+      "crypto-earn"
+    ],
+    "features": [
+      "games",
+      "lottery"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "direct-wallet",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "direct-wallet",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Pasino",
+    "url": "https://pasino.com",
+    "description": "Crypto gambling casino from the operators behind FaucetPay, with more than 10 in-house games and payment processing integrated with FaucetPay. Gambling, not a free faucet.",
+    "status": "blacklisted",
+    "trustScore": null,
+    "categories": [
+      "crypto-earn"
+    ],
+    "features": [
+      "games",
+      "lottery",
+      "wheel"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Prairie Hash",
+    "url": "https://prairiehash.com",
+    "description": "DOGE faucet paying 0.00011934 DOGE per claim every 5 minutes, directly to FaucetPay. Bonuses can increase the claim. Site also has Dice/Limbo/Towers gambling — free faucet is separate.",
+    "status": "active",
+    "trustScore": 64,
+    "categories": [
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "RewardJoy",
+    "url": "https://rewardjoy.com",
+    "description": "Formerly CoinPayU. GPT/PTC platform offering ads, surveys, games, offers and tasks. Existing coinpayu.com users are migrated here.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "ptc",
+      "offerwalls",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "offerwall",
+      "ptc-ads",
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "daily"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "BTC",
+        "payment": "paypal",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Sato Hive",
+    "url": "https://satohive.com",
+    "description": "New faucet with recent activity across BTC, BCH, DASH, SOL, POL, XLM and other coins. FaucetPay labels it 'Sato Hive, Free USDT, Offerwalls'. Payments small but real.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-usdt",
+      "faucets-other",
+      "offerwalls"
+    ],
+    "features": [
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "XLM",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DASH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Satoshi Hero",
+    "url": "https://satoshihero.com",
+    "description": "Online crypto casino — not a faucet. Slots, live casino, bonuses, wheel, VIP/rakeback. Real-money gambling; 18+. Operated by Bitplay Global B.V. under Curaçao licence 8048/JAZ.",
+    "status": "blacklisted",
+    "trustScore": null,
+    "categories": [
+      "crypto-earn"
+    ],
+    "features": [
+      "games",
+      "wheel",
+      "lottery"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "min": 0.0003,
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "direct-wallet",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "direct-wallet",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "SeoTime",
+    "url": "https://seotime.biz",
+    "description": "Long-running earning platform (est. 2020) — PTC, social promotion, traffic/advertising and crypto payments. Reports 295,224 users and 5,601,439 RUB paid.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "ptc",
+      "offerwalls",
+      "faucets"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2020-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "shortlinks2btc",
+    "url": "https://shortlinks2btc.somee.com",
+    "description": "Shortlink-powered BTC and DOGE faucet. FaucetPay shows $0.02/week to 4 users, health 100. Very small but technically healthy.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "shortlinks",
+      "faucets",
+      "faucets-btc",
+      "faucets-doge"
+    ],
+    "features": [
+      "shortlinks",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "SilverClix",
+    "url": "https://silverclix.com",
+    "description": "PTC platform with ad views and referrals.",
+    "status": "under_review",
+    "trustScore": 58,
+    "categories": [
+      "ptc"
+    ],
+    "features": [
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Social Faucet",
+    "url": "https://socialfaucet.xyz",
+    "description": "ETH faucet paying 0.00000002 ETH per claim, direct to FaucetPay, unlimited claims. Site also includes Dice/Limbo/Towers gambling games.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-eth"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "min": 2e-8,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "StarLavinia",
+    "url": "https://starlavinia.com",
+    "description": "Multicoin faucet with genuinely current payment evidence. FaucetPay shows $2.37/week to 275 users, health 60. Faucet Monitor detected payments in LTC, ETH, PEPE, USDT.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-usdt",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "PEPE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "SurfFlux",
+    "url": "https://surfflux.com",
+    "description": "DOGE-focused faucet and traffic exchange, built specifically around FaucetPay by its creator. Current payout volume is tiny.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "TASKONBIT",
+    "url": "https://taskonbit.com",
+    "description": "Complete GPT/faucet hybrid: faucet, shortlinks, offerwalls, PTC, referrals and contests. Supports BTC, ETH, DOGE, LTC, BCH, DASH, TRX, USDT, BNB, SOL, XRP, PEPE, ADA and more.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "XRP",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ADA",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DASH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DGB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ZEC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "PEPE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "TFaucet",
+    "url": "https://tfaucet.com",
+    "description": "Currently under construction — the live domain page says 'We're working on it! This site is currently under construction.' Removed from the active list until it relaunches.",
+    "status": "defunct",
+    "trustScore": null,
+    "categories": [
+      "faucets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "TrustDice",
+    "url": "https://trustdice.win",
+    "description": "Crypto casino and sportsbook with a free faucet as a loss-leader. The faucet requires no deposit, but the site is fundamentally a gambling platform — TrustDice itself flags the UK as a possible restricted market.",
+    "status": "blacklisted",
+    "trustScore": null,
+    "categories": [
+      "crypto-earn"
+    ],
+    "features": [
+      "games"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "direct-wallet",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Twickerz",
+    "url": "https://twickerz.com",
+    "description": "PTC and offerwall platform. Pays in multiple coins to FaucetPay.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "ptc",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Vie Faucet",
+    "url": "https://viefaucet.com",
+    "description": "Faucet, PTC, shortlinks, challenges, daily bonuses. One of the most active faucets by FaucetPay payout volume — $595/week to 4,856 users at last check.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "surveys",
+      "daily-bonus",
+      "referral",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "ZoomFaucet",
+    "url": "https://zoomfaucet.com",
+    "description": "Crypto faucet with better-than-average visible payment activity for this tier. Current FaucetPay listing shows ~$1.39/day to 23 users on DOGE, similar on LTC.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge",
+      "faucets-ltc"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Coinli",
+    "url": "https://coinli.net",
+    "description": "PTC and faucet site with offerwall support. Low thresholds via FaucetPay.",
+    "status": "active",
+    "trustScore": 64,
+    "categories": [
+      "ptc",
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "ptc-ads",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Coinflow.fun",
+    "url": "https://coinflow.fun",
+    "description": "Multicoin faucet with 5-minute cycle. FaucetPay shows $0.11/week, rating 4.0, health 100. Low payout volume but excellent technical health.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-eth",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "CoinDrip",
+    "url": "https://coindrip.site",
+    "description": "BTC faucet paying 0.00000005 BTC per claim on a 60-minute cooldown. Also offers offerwalls, referrals and optional gambling games.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "offerwalls"
+    ],
+    "features": [
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Mega Claimer",
+    "url": "https://megaclaimer.com",
+    "description": "Faucet aggregator and auto-claim platform.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets"
+    ],
+    "features": [
+      "autofaucet",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "MoonCrypto",
+    "url": "https://mooncrypto.space",
+    "description": "Crypto faucet platform.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "MyCoinYard",
+    "url": "https://mycoinyard.com",
+    "description": "Active faucet with visible live payments — BTC, LTC, DOGE, BNB, POL and TRUMP. Daily streaks, offerwalls, surveys, level system and leaderboard.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-other",
+      "offerwalls",
+      "surveys"
+    ],
+    "features": [
+      "offerwall",
+      "surveys",
+      "daily-bonus",
+      "achievements",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Satoshi Faucet",
+    "url": "https://satoshifaucet.io",
+    "description": "Very active faucet with 910 users paid and ~$7.14/week on FaucetPay at last check, supporting a large number of coins. Claims advertised every 10 seconds with instant FaucetPay processing. Health score is only 24 — activity is strong but reliability is unproven.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-other"
+    ],
+    "features": [
+      "autofaucet",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 10,
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 10,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 10,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 10,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "DogeNetwork",
+    "url": "https://app.dogenetwork.online",
+    "description": "CAUTION: presents itself as DOGE cloud mining claiming 'we run the rigs' and daily payouts with 1.2M+ nodes and $450M paid. All figures are self-reported. Treat as high-risk — cloud mining claims with no independent verification are a common scam pattern.",
+    "status": "under_review",
+    "trustScore": 32,
+    "categories": [
+      "mining",
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "direct-wallet",
+        "speed": "daily",
+        "notes": "Self-reported mining rewards — high caution"
+      }
+    ]
+  },
+  {
+    "name": "OurCoinCash",
+    "url": "https://ourcoincash.xyz",
+    "description": "Faucet, shortlinks, tasks and offers. Site reports 169,280 users, 1.15B coins earned and 46,027 withdrawals — self-reported figures not independently verified.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Bitfaucet",
+    "url": "https://bitfaucet.cryptojobss.com",
+    "description": "BTC faucet listed on FaucetPay at bitfaucet.cryptojobss.com (not bitfaucet.com). Current listing shows $0.94/week to 32 users, rating 2.9, health 100. Domain corrected to the real one — do not use the bare .com.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "GROSATS",
+    "url": "https://grosats.com",
+    "description": "Shortlinks, PTC, games, faucets and tasks with BTC/ETH/USDT/FaucetPay withdrawals. Also advertises a gaming/e-sports ecosystem. FaucetPay FEY data showed $0/week in the displayed snapshot despite 258 users and health 100 — check current volume before investing time.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-usdt",
+      "shortlinks",
+      "ptc",
+      "games"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "AoyCo",
+    "url": "https://aoyco.in",
+    "description": "CAUTION: primarily an offerwall/ad platform (APIs, offerwalls, banners, pop ads and shortlinks), not a faucet. Independent security analysis currently gives it 23/100 with multiple external warnings. Do not trust with sensitive information.",
+    "status": "paused",
+    "trustScore": 32,
+    "categories": [
+      "offerwalls",
+      "shortlinks"
+    ],
+    "features": [
+      "offerwall",
+      "shortlinks",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "manual",
+        "notes": "Security score 23/100 — caution"
+      }
+    ]
+  },
+  {
+    "name": "GRO Faucet Pool",
+    "url": "https://grofaucet.com",
+    "description": "BTC-focused faucet and FaucetPay partner. Current BTC listing shows $0.55/week to 66 users, rating 4.4, health 100. Newer partner but current evidence is clean.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Lootizy",
+    "url": "https://lootizy.com",
+    "description": "Apps, games, shortlinks, faucet and contests. FaucetPay shows $9.33/week to 82 users, rating 3.6 — BUT health score is only 2/100, a major warning. Test with a small withdrawal before committing time.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "games",
+      "shortlinks",
+      "app-offers"
+    ],
+    "features": [
+      "games",
+      "shortlinks",
+      "app-offers",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Skyfreecoins (flagged)",
+    "url": "https://skyfreecoins.com",
+    "description": "BLACKLISTED. Marketed as free crypto / cloud mining with FaucetPay and Binance withdrawals. Gridinsoft analysis currently gives it 1/100 and reports multiple blacklist and security warnings. Do not visit.",
+    "status": "blacklisted",
+    "trustScore": null,
+    "categories": [
+      "faucets",
+      "mining"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "ChillFaucet",
+    "url": "https://chillfaucet.in",
+    "description": "Multicoin faucet supporting BCH, BNB, BTC, DGB, ETH, FEY, LTC, PEPE, TRX, USDT and ZEC. FaucetPay listing shows $0.84/week to 53 users, rating 3.1, health 63. Domain corrected to the actual site — chillfaucet.in, not chillfaucet.com.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-usdt",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "FEY",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "PEPE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "c.moviesitm",
+    "url": "https://c.moviesitm.com.de",
+    "description": "Low priority. FaucetPay has the listing, but ScamAdviser warns it is effectively a site embedded inside another site/server arrangement — an unusual and suspicious structure. Keep as test-only if you must.",
+    "status": "paused",
+    "trustScore": 35,
+    "categories": [
+      "faucets"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "MINIAPP Faucet BTC",
+    "url": "https://miniappbtc.faucet-telegram.my.id",
+    "description": "Telegram Mini App faucet. Exact site could not be independently verified through current page retrieval — keep as unverified until the exact bot/domain is confirmed.",
+    "status": "under_review",
+    "trustScore": null,
+    "categories": [
+      "faucets",
+      "telegram",
+      "faucets-btc"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "FaucetFly",
+    "url": "https://faucetfly.in",
+    "description": "Combines manual faucet ($0.0004 every 4 minutes), auto-faucet, PTC, shortlinks, lottery, achievements, offerwalls and levels. Reports 3,046 users. Real earning rate will come mostly from the PTC/shortlink/offerwall activities.",
+    "status": "active",
+    "trustScore": 64,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "autofaucet",
+      "lottery",
+      "achievements",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 240,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetTasks",
+    "url": "https://faucettasks.com",
+    "description": "Full GPT/faucet hybrid: 5-minute faucet, 100+ PTC ads, 200+ shortlinks and offerwalls. Withdrawals via FaucetPay, CWallet or Payeer.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "payeer",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "naymaptc",
+    "url": "https://naymaptc.com",
+    "description": "Small but strong PTC/faucet signal. Faucet Monitor recorded about $1.30 in 24h and $0.1156/hour at last check, with the last detected payment about 25 minutes before the crawl (~$5.07/week).",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "ptc",
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Bitcbet",
+    "url": "https://bitcbet.com",
+    "description": "Multicoin faucet with BTC/DASH/DOGE/ETH/LTC/TRX. FaucetPay shows $0.18/week, rating 3.7, health 0 — activity is tiny and health is a major caution signal.",
+    "status": "under_review",
+    "trustScore": 42,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-other"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DASH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "AutoBitco.in",
+    "url": "https://autobitco.in",
+    "description": "Established site advertising 28 cryptocurrencies with faucet/auto-claim, mining and games. FaucetPay currently shows $0/week and 1 user in the displayed snapshot despite the old account history — current payouts are tiny.",
+    "status": "paused",
+    "trustScore": 45,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-other",
+      "mining",
+      "games"
+    ],
+    "features": [
+      "autofaucet",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "notes": "Very low current volume"
+      }
+    ]
+  },
+  {
+    "name": "Tribal Faucet",
+    "url": "https://tribal.1eon-uno.top",
+    "description": "Small active faucet. Faucet Monitor detected a recent payment with roughly $0.0027 in 24h and ~$0.02/week. Has used FaucetPay since June 2020 — established but with minimal current volume.",
+    "status": "paused",
+    "trustScore": 42,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2020-06-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "GO 1EON Faucet",
+    "url": "https://go.1eon-uno.top",
+    "description": "Same operator network as Tribal Faucet. Current FaucetPay coin lists show it, but payout volume is very small.",
+    "status": "paused",
+    "trustScore": 40,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Crypto Colony (flagged)",
+    "url": "https://cryptocolony.net",
+    "description": "BLACKLISTED. Domain corrected: the real service is cryptocolony.net, not cryptoclony.com. Domain was registered 23 Aug 2026 and ScamAdviser currently labels it 'Very Likely Unsafe'. Do not visit or sign up.",
+    "status": "blacklisted",
+    "trustScore": null,
+    "categories": [
+      "faucets",
+      "games"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Tencrypto.site",
+    "url": "https://tencrypto.site",
+    "description": "Editorial/affiliate crypto earning portal — not a faucet. Promotes FaucetPay, FireFaucet, Vie Faucet and EarnBitMoon. Also runs a 'Daily Crypto Drop' that claims to pay LTC/SOL through FaucetPay. Treat as a directory/marketing site, not an earning platform.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "crypto-earn",
+      "referral-programs"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "FaucetFi",
+    "url": "https://faucetfi.com",
+    "description": "Telegram MiniApp faucet listed on FaucetPay across multiple coins. Current DGB listing shows $0.57/week to 18 users (health 22%); SOL shows ~$1.58/week to 44 users (health 32%). Active but health is on the low side.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-other",
+      "telegram"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DGB",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FastBtcs",
+    "url": "https://fastbtcs.com",
+    "description": "DEFUNCT. The fastbtcs.com domain now resolves to a domain-for-sale page, not a faucet. An old FaucetPay listing remains but is stale. Do not sign up — the domain is not the original service.",
+    "status": "defunct",
+    "trustScore": null,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "MeFaucet",
+    "url": "https://mefaucet.com",
+    "description": "Faucet claims, PTC, shortlinks, offerwalls, quizzes, dice and a micropayment wallet. FaucetPay lists 21 supported coins. Current volume is very small but the platform is functional.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-other",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Pandawa Limapuluh5",
+    "url": "https://limapuluh5.com",
+    "description": "Listed on FaucetPay as pandawa.limapuluh5 but currently shows $0/week, 0 users, rating 0, health 0. Independent data also shows zero activity. Not worth your time.",
+    "status": "defunct",
+    "trustScore": null,
+    "categories": [
+      "faucets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Pandawa Limabelas5",
+    "url": "https://limabelas5.com",
+    "description": "Listed on FaucetPay but currently shows $0/week, 0 users, rating 0, health 0. No active payouts.",
+    "status": "defunct",
+    "trustScore": null,
+    "categories": [
+      "faucets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Walletsig",
+    "url": "https://walletsig.com",
+    "description": "UNVERIFIED. The domain currently returns 403 Forbidden to crawlers and no reliable current faucet/payment evidence could be established. Do not sign up until you can confirm the live service.",
+    "status": "under_review",
+    "trustScore": null,
+    "categories": [
+      "faucets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "FreeCoin.in.net",
+    "url": "https://freecoin.in.net",
+    "description": "Active multicoin faucet paying BTC, ETH, DOGE, LTC, BCH, DASH, DGB, TRX, USDT, FEY, ZEC, BNB, SOL, XRP, MATIC, ADA, TON, XLM, USDC, XMR, TARA, TRUMP, PEPE and FLT. Claims every 5 minutes with FaucetPay and no minimum withdrawal.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "DASH",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "DGB",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "FEY",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "ZEC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "XRP",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "ADA",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "XLM",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "PEPE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "TRUMP",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetBR",
+    "url": "https://faucetbr.com",
+    "description": "FaucetPay-listed faucet across multiple coins. Current DOGE listing shows 30 users with health 100; BCH shows $0.09/week to 12 users with health 100. Site advertises 10+ claims/day. Small but active.",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-doge",
+      "faucets-ltc",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetRix",
+    "url": "https://faucetrx.online",
+    "description": "UNVERIFIED — DO NOT CONFUSE WITH Faucetrix.online. faucetrx.online currently returns a 502 error and no reliable payment evidence could be established. Note: faucetrix.online is a completely different domain that security researchers flag for phishing. Keep separate from any Faucetrix record.",
+    "status": "under_review",
+    "trustScore": null,
+    "categories": [
+      "faucets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "ZerFaucet",
+    "url": "https://zerfaucet.site",
+    "description": "BETA — new faucet with 1,941 members and 2,595 ZER paid to date (self-reported). Manual faucet pays 0.03043478 ZER every 2 minutes; Auto Faucet uses an energy system. ZER is sent through ZeroChain; other coins through FaucetPay.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-other"
+    ],
+    "features": [
+      "autofaucet",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "DiamondFaucet",
+    "url": "https://diamondfaucet.com",
+    "description": "DEFUNCT. The diamondfaucet.com domain is currently listed for sale at $79,998 — it is not operating as a faucet. Do not sign up.",
+    "status": "defunct",
+    "trustScore": null,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Earn-pepe",
+    "url": "https://earn-pepe.com",
+    "description": "Active PEPE-focused platform with faucet, PTC, shortlinks, games, offerwalls and instant FaucetPay/Cwallet transfers. Site reports 159.9K+ members, 35.9B+ PEPE earned and 53.5M+ transactions — self-reported figures. Same operator family as Feyorra.site and Earn-Trump.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "ptc",
+      "shortlinks",
+      "offerwalls",
+      "games"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "PEPE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Crypto Fun Space",
+    "url": "https://cryptofun.space",
+    "description": "FaucetPay-listed faucet currently showing $0.15/week to 66 users, rating 5.0, but health score is only 8 — a major warning signal. Faucet Monitor has detected recent BCH payments.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FC Network (ForumCoin)",
+    "url": "https://forumcoin.win",
+    "description": "IMPORTANT: The crypto FC Network faucet is NOT fc-network.com (that's an Indonesian ICT company). The real service is ForumCoin at forumcoin.win. One-minute claims through FaucetPay across BTC, BCH, DOGE, LTC, ETH, TRX, USDT and many others.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other"
+    ],
+    "features": [
+      "autofaucet",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "AdsLab",
+    "url": "https://adslab.me",
+    "description": "Advertising and offerwall API platform — provides ads, surveys, PTC, shortlinks and an embeddable offerwall. NOT a faucet for ordinary users. Listed here as a reference for site operators, not end users.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "offerwalls",
+      "ptc",
+      "surveys",
+      "shortlinks"
+    ],
+    "features": [
+      "offerwall",
+      "ptc-ads",
+      "surveys",
+      "shortlinks"
+    ],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "BeeFaucet",
+    "url": "https://beefaucet.org",
+    "description": "Multicoin faucet paying BTC, ETH, USDT, BNB, SOL, USDC, XRP, DOGE, TRX, TON, BCH, ADA, LTC, XMR, XLM and ZEC. Claims every minute, payouts through FaucetPay. Security reputation is mixed — ScamAdviser says likely safe, Gridinsoft gives a cautious score.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      },
+      {
+        "coin": "ADA",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "divbux",
+    "url": "https://divbux.com",
+    "description": "Established GPT/PTC platform — surveys, games, PTC, articles and offers. Withdrawal starts at $0.01 with an advertised average withdrawal time of 1m42s. Reports $429k+ total payouts since 2020.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "ptc",
+      "surveys",
+      "offerwalls",
+      "games"
+    ],
+    "features": [
+      "ptc-ads",
+      "surveys",
+      "offerwall",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2020-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "EarnLoop",
+    "url": "https://earnloop.online",
+    "description": "Microtasks, PTC, shortlinks, offers and faucet. Shows recent FaucetPay payment proofs from September 2026. Small but with current activity.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "WheelofGold",
+    "url": "https://wheelofgold.com",
+    "description": "Clearly active with strong signals — FaucetPay shows $7.07/week to 146 users, rating 4.8, health 100, across 20+ coins. Site reports 125K+ users and 49K+ withdrawals. Trustpilot shows 460 reviews at 4.5, including 2026 activity.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other",
+      "games"
+    ],
+    "features": [
+      "games",
+      "wheel",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetRix",
+    "url": "https://faucetrx.online",
+    "description": "UNVERIFIED — DO NOT CONFUSE WITH faucetrix.online. faucetrx.online currently returns 502. A separate domain faucetrix.online is active and pays PEPE, but independent security services currently flag that domain as phishing/high-risk. Keep these two separate.",
+    "status": "under_review",
+    "trustScore": null,
+    "categories": [
+      "faucets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Express Wallet (flagged)",
+    "url": "https://express-wallet.com",
+    "description": "BLACKLISTED. Advertises investment/deposit returns, multi-level referrals and 'passive income'. The Bank of Russia officially lists Express Wallet and related domains under signs of a financial pyramid (warning updated March 2026). Do not visit or sign up — this is a legally-flagged Ponzi-style scheme.",
+    "status": "blacklisted",
+    "trustScore": null,
+    "categories": [
+      "crypto-earn",
+      "referral-programs"
+    ],
+    "features": [],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "gegegeegearnfaucet",
+    "url": "https://gegegeegearnfaucet.com",
+    "description": "USDT faucet paying 0.0000100 USDT/minute, up to 80 claims/day, no minimum for FaucetPay withdrawal. But an independent safety service gives it a 98/100 scam score. Test-only — do not enter sensitive information.",
+    "status": "under_review",
+    "trustScore": 32,
+    "categories": [
+      "faucets",
+      "faucets-usdt"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "interval": 60,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "BITCOFAST",
+    "url": "https://bitcofast.com",
+    "description": "New 2026 crypto micro-reward platform with FaucetPay API integration, market analytics and a public payment ledger. Very new — treat as unproven until you complete a test withdrawal.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2026-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FreeBCH",
+    "url": "https://freebch.in",
+    "description": "Hourly BCH faucet paying up to 0.0252 BCH, plus surveys and casino-style games. Domain corrected — the real service is freebch.in, not freebch.com. Caution: site includes gambling features.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "surveys",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "BCHgames",
+    "url": "https://bch.games",
+    "description": "BCH faucet and game site. Domain corrected — the live service is bch.games, not bchgames.com. An empty balance can claim free BCH; also includes casino games.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "games"
+    ],
+    "features": [
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BCH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Omcofacet",
+    "url": "https://omcofacet.com",
+    "description": "UNVERIFIED. The exact domain did not return usable content during checking — no current payout activity could be confirmed. Do not sign up until you can verify the live service.",
+    "status": "under_review",
+    "trustScore": null,
+    "categories": [
+      "faucets"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "DutchyCorp",
+    "url": "https://dutchycorp.space",
+    "description": "Established ecosystem behind Final Autoclaim and Autofaucet. Offers offerwalls, PTC, staking and many coins across its platforms. Trustpilot shows recent September 2026 payout reviews. Parent brand — see also the child services below.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other",
+      "ptc",
+      "offerwalls"
+    ],
+    "features": [
+      "autofaucet",
+      "ptc-ads",
+      "offerwall",
+      "staking",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Autoclaim (DutchyCorp)",
+    "url": "https://autoclaim.dutchycorp.space",
+    "description": "DutchyCorp child service — variant of the Final Autoclaim/Autofaucet system. 1.337M+ users, 2,732 days online, 417B tokens paid, 76 coins, offerwalls, PTC, staking and FaucetPay support.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other",
+      "ptc",
+      "offerwalls"
+    ],
+    "features": [
+      "autofaucet",
+      "ptc-ads",
+      "offerwall",
+      "staking",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Onlyfaucet",
+    "url": "https://onlyfaucet.com",
+    "description": "Large multicoin faucet. FaucetPay currently shows $17.27/week to 2,009 users, rating 3.63, health 22/100 across 20+ coins. Site's own counter shows 139,000+ users and 100,000+ payouts today — self-reported. Requires a Gmail address linked to FaucetPay. Health is low; test a small withdrawal early.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2024-03-01",
+    "lastTestedAt": "2026-09-19",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "FEY",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "ARUBLE.NET",
+    "url": "https://aruble.net",
+    "description": "Multicoin faucet with 5-minute claims. Strong current volume — FaucetPay shows $188.51/week to 39 users, rating 3.8, health 72. Faucet Monitor independently recorded ~$32.22 in 24h with a USDT payment 10 minutes before the last crawl. WARNING: reputation signals conflict — Trustpilot shows 4.6/5 from ~3,700 reviews, but EmailVeritas currently gives the domain a 10/100 phishing warning. Test-only with disposable info.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt",
+      "faucets-other"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-19",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FaucetGold",
+    "url": "https://faucet.gold",
+    "description": "Faucet/PTC platform with 30-minute claims, offers and shortlinks. Operated by the same team as Faucet Crypto per current directories. Domain: faucet.gold — not to be confused with similarly-named sites.",
+    "status": "active",
+    "trustScore": 65,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "ptc",
+      "shortlinks",
+      "offerwalls"
+    ],
+    "features": [
+      "ptc-ads",
+      "shortlinks",
+      "offerwall",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 1800,
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "interval": 1800,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Ethkong",
+    "url": "https://ethkong.live",
+    "description": "ETH faucet paying every 60 minutes; rewards increase with level. Also has surveys and casino-style games. Part of the Kong family network (see Bnbkong, Solkong, Tonkong).",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "faucets",
+      "faucets-eth",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FreeETH",
+    "url": "https://freeeth.in",
+    "description": "ETH faucet advertised at up to 0.00504 ETH/hour, plus surveys, contests and games. Part of the FaucetMatrix network (see FreeBNB, FreeBCH, FreeToncoin).",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-eth",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Polpick",
+    "url": "https://polpick.io",
+    "description": "Polygon faucet — but terms describe it as a gaming service, restrict under-21s, and require jurisdiction eligibility. ScamAdviser currently gives a very poor safety signal; Trustpilot has mixed withdrawal reports. Part of the Pick family. Treat as high-caution — verify with a small test before committing time.",
+    "status": "under_review",
+    "trustScore": 42,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "MATIC",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Solkong",
+    "url": "https://solkong.live",
+    "description": "Free SOL faucet paying every 60 minutes, plus surveys and games. Note: 0.5 SOL wagered = 1 block, meaning wagering affects faucet level. Part of the Kong family network.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Solpick",
+    "url": "https://solpick.io",
+    "description": "Free SOL every hour via captcha, plus games and surveys. Supports direct SOL withdrawals. Part of the Pick family (see Bnbpick, Polpick, Tonpick at tonpick.game).",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Tonkong",
+    "url": "https://tonkong.live",
+    "description": "TON faucet paying every 60 minutes, plus surveys and games. Part of the Kong family network.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FreeToncoin",
+    "url": "https://freetoncoin.in",
+    "description": "IMPORTANT: Despite the historical 'FreeToncoin' branding, this site now pays GRAM, not TON — advertised up to 1.2 GRAM per hour. Part of the FaucetMatrix network. GRAM is not yet in our coins schema, so this listing has no offer rows attached until we add GRAM.",
+    "status": "under_review",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": []
+  },
+  {
+    "name": "Tonpick",
+    "url": "https://tonpick.game",
+    "description": "TON faucet in the Pick family. Domain is tonpick.game — NOT tonpick.io, which is a separate crypto casino with poor reputation signals. Verify the .game domain carefully before signing up.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Bnbkong",
+    "url": "https://bnbkong.live",
+    "description": "Free BNB every 60 minutes with surveys, games and instant withdrawal after minimum. Part of the Kong family network.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "FreeBNB",
+    "url": "https://freebnb.in",
+    "description": "BNB faucet paying up to 0.008064 BNB/hour, plus surveys, games, contests and bonuses. Part of the FaucetMatrix network.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Bnbpick",
+    "url": "https://bnbpick.io",
+    "description": "BNB faucet + games, surveys and referrals. Trustpilot shows recent September 2026 withdrawal reviews. Part of the Pick family.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Togatech SOL",
+    "url": "https://solfaucet.togatech.org",
+    "description": "SOL-only faucet. Faucet-List currently shows 7 positive and 0 negative votes — one of the cleaner small listings in this batch.",
+    "status": "active",
+    "trustScore": 64,
+    "categories": [
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Banfaucet",
+    "url": "https://banfaucet.com",
+    "description": "Faucet with 5-minute claims plus lottery, challenges, offerwall, level system and contests. Active with a modern interface.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-btc",
+      "offerwalls",
+      "games"
+    ],
+    "features": [
+      "offerwall",
+      "games",
+      "lottery",
+      "referral",
+      "daily-bonus",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "interval": 300,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Freetron",
+    "url": "https://freetron.in",
+    "description": "TRX faucet with hourly claims, plus surveys, games and referral rewards. Part of the Free/FaucetMatrix style network alongside FreeETH, FreeBNB and FreeBCH.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Tronpick",
+    "url": "https://tronpick.io",
+    "description": "TRX faucet in the Pick family (Solpick.io, Bnbpick.io, Polpick.io, Tonpick.game). Claims, surveys, games and referral rewards. Pick family is gaming-heavy — treat as a hybrid, not a pure faucet.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "games",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "interval": 3600,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Bitcoinker",
+    "url": "https://bitcoinker.com",
+    "description": "Established BTC faucet/reward platform with current activity. One of the older names in the space.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "BonusBitcoin",
+    "url": "https://bonusbitcoin.co",
+    "description": "BTC faucet/reward site with historical references but current payout activity not independently verified. Test with small amounts before committing time.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "manual",
+        "notes": "Verify current payouts before investing time"
+      }
+    ]
+  },
+  {
+    "name": "Tether Wallet BTC Faucet",
+    "url": "https://tetherwallet.io",
+    "description": "Bitcoin promotional faucet/reward associated with Tether Wallet. Marked as official/promotional rather than a conventional faucet — treat differently from regular faucet sites in your UX if you surface it.",
+    "status": "under_review",
+    "trustScore": null,
+    "categories": [
+      "faucets",
+      "faucets-btc"
+    ],
+    "features": [],
+    "hasReferralProgram": false,
+    "offers": []
+  }
+]
