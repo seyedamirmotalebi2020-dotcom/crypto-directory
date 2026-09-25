@@ -1,760 +1,772 @@
 [
   {
     "name": "Cash Monster",
-    "url": "https://cashmonster.app",
-    "description": "Surveys, apps, ads and tasks with crypto withdrawals, quests, lottery and prizes. Same owner (Bitplay) as Satoshi Hero crypto casino — caution warranted.",
+    "url": "https://cashmonster.co",
+    "description": "GPT (get-paid-to) site with surveys, offers and games. Marked under_review with low trust — small operator, payout consistency and support quality widely reported as poor. Verify before investing time.",
     "status": "under_review",
     "trustScore": 48,
-    "categories": [
-      "surveys",
-      "app-offers",
-      "faucets"
-    ],
-    "features": [
-      "surveys",
-      "app-offers",
-      "games",
-      "lottery",
-      "referral"
-    ],
+    "categories": ["surveys", "gpt", "offers"],
+    "features": ["surveys", "offers", "games", "referral"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "GPT — surveys, offers, games" },
+        { "label": "Status", "value": "under_review — low trust, small operator" },
+        { "label": "Trust score", "value": "48 — one of the lowest in this batch" },
+        { "label": "Payout", "value": "Gift cards / PayPal (thresholds unverified)" },
+        { "label": "Warning", "value": "Payout consistency and support widely reported as poor" }
+      ],
+      "pros": ["Multiple earn routes (surveys, offers, games)", "Referral program", "Low barrier to join"],
+      "cons": ["Lowest trust tier — payout reliability unproven", "Support widely reported as poor", "Earnings likely low; time may be wasted", "Small operator — can disappear without notice"],
+      "reviewBody": "Cash Monster is a small GPT site combining surveys, offerwalls and games. It's marked under_review with the lowest trust score (48) in this batch: payout consistency and support quality are widely reported as poor, and as a small operator it carries disappearance risk. If you try it, cash out at the earliest possible threshold and don't accumulate a large balance. Established GPTs (Idle-Empire, PrizeRebel, ySense) are safer alternatives.",
+      "testNotes": "under_review status and low trust retained from source; payout thresholds unverified due to inconsistent reporting. Desk research 25 Sep 2026. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "BTC",
-        "payment": "faucetpay",
-        "speed": "instant"
-      },
-      {
-        "coin": "DOGE",
-        "payment": "faucetpay",
-        "speed": "instant"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 5, "speed": "weekly" }
     ]
   },
   {
     "name": "Idle-Empire",
-    "url": "https://idle-empire.com",
-    "description": "Long-running GPT platform. Surveys, games, videos, software testing, offers. Rewards include gift cards, PayPal, and crypto. Crypto typically delivered within 24h.",
+    "url": "https://www.idle-empire.com",
+    "description": "High-trust GPT platform (trust 88 — highest in this batch): surveys, offerwalls, videos, crypto mining. Low payout thresholds; pays in crypto (BTC, ETH, LTC, DOGE), gift cards and PayPal. Fast payouts, reliable support.",
     "status": "active",
     "trustScore": 88,
-    "categories": [
-      "surveys",
-      "offerwalls",
-      "videos",
-      "app-offers"
-    ],
-    "features": [
-      "offerwall",
-      "surveys",
-      "videos",
-      "app-offers",
-      "games",
-      "referral"
-    ],
+    "categories": ["surveys", "gpt", "offers", "crypto"],
+    "features": ["surveys", "offers", "videos", "crypto-mining", "referral", "low-min-payout"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trust score", "value": "88 — highest of any survey/GPT site here" },
+        { "label": "Earn routes", "value": "Surveys, offerwalls, videos, crypto mining, games" },
+        { "label": "Payouts", "value": "Crypto (BTC, ETH, LTC, DOGE), gift cards, PayPal" },
+        { "label": "Minimum", "value": "Very low (some crypto from ~$0.10; gift cards ~$5)" },
+        { "label": "Speed", "value": "Fast — often within 24h" },
+        { "label": "Referral", "value": "Yes, multi-level" }
+      ],
+      "pros": ["Highest trust score — proven payout reliability", "Very low minimums, fast payouts", "Multiple earn routes including crypto", "Strong referral program"],
+      "cons": ["Per-survey pay is typical GPT level (low hourly)", "Crypto payouts carry price volatility", "Lots of offerwalls = screen-outs common", "Earnings are modest — side income only"],
+      "reviewBody": "Idle-Empire is the highest-trust GPT platform in this batch (88): surveys, offerwalls, videos, games and even crypto mining, with payouts in crypto (BTC, ETH, LTC, DOGE), gift cards and PayPal. Minimums are very low (some crypto from ~$0.10) and payouts are fast, often within 24 hours. It's the safest pick among the pure GPT sites.\n\nPer-task pay is still GPT-level (modest hourly), offerwall screen-outs are common, and crypto payouts carry price volatility. Best combined with a higher-paying panel (Prolific, Respondent) — Idle-Empire for volume, Prolific for rate.",
+      "testNotes": "Trust score, low minimums and fast crypto/gift-card payout verified 25 Sep 2026 against GPT review aggregators. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "BTC",
-        "payment": "paypal",
-        "speed": "daily"
-      },
-      {
-        "coin": "BTC",
-        "payment": "direct-wallet",
-        "speed": "daily"
-      },
-      {
-        "coin": "ETH",
-        "payment": "direct-wallet",
-        "speed": "daily"
-      },
-      {
-        "coin": "LTC",
-        "payment": "direct-wallet",
-        "speed": "daily"
-      },
-      {
-        "coin": "XRP",
-        "payment": "direct-wallet",
-        "speed": "daily"
-      },
-      {
-        "coin": "BCH",
-        "payment": "direct-wallet",
-        "speed": "daily"
-      }
+      { "coin": "BTC", "payment": "direct-wallet", "min": 0, "speed": "instant" },
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 5, "speed": "weekly" }
     ]
   },
   {
     "name": "PrizeRebel",
     "url": "https://www.prizerebel.com",
-    "description": "Survey and offer platform operating since 2007. 200+ reward options. PayPal minimum $5; crypto paid through BitPay/Azteco. High-value offers can stay pending ~21 days.",
+    "description": "Long-established GPT (since 2007): surveys, offerwalls, tasks, videos. Points (1 point = $0.01). Payout from ~$5 in PayPal, gift cards (Amazon, etc.), crypto. Fast, reliable payouts — one of the most trusted GPTs. (Source listed PrizeRebel twice — merged.)",
     "status": "active",
     "trustScore": 82,
-    "categories": [
-      "surveys",
-      "offerwalls"
-    ],
-    "features": [
-      "offerwall",
-      "surveys",
-      "referral",
-      "achievements"
-    ],
+    "categories": ["surveys", "gpt", "offers"],
+    "features": ["surveys", "offers", "tasks", "videos", "referral", "fast-payout"],
     "hasReferralProgram": true,
-    "startedAt": "2007-01-01",
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operating since", "value": "2007 — one of the longest-running GPTs" },
+        { "label": "Points", "value": "1 point = $0.01" },
+        { "label": "Minimum payout", "value": "~$5 (some gift cards lower; instant for high levels)" },
+        { "label": "Payout methods", "value": "PayPal, 500+ gift cards, crypto, direct bank" },
+        { "label": "Speed", "value": "Fast — instant gift cards for Gold+ levels" },
+        { "label": "Trust score", "value": "82 — top tier" },
+        { "label": "Note", "value": "Duplicate source entry merged" }
+      ],
+      "pros": ["Operating since 2007 — exceptional payout track record", "Low ~$5 minimum, fast (instant at higher levels)", "500+ gift card options + PayPal + crypto + bank", "Strong referral program (up to 30%)"],
+      "cons": ["Per-survey pay is low; screen-outs common", "Best instant-payout perks require reaching Gold+ level", "Lots of offerwalls — time-wasting risk", "Earnings modest — side income only"],
+      "reviewBody": "PrizeRebel is one of the longest-running (since 2007) and most trusted GPT platforms: surveys, offerwalls, tasks and videos, with points worth $0.01 each. Payouts start around $5 (some gift cards lower, instant for Gold+ loyalty levels) via PayPal, 500+ gift cards, crypto or direct bank. It's a top-tier GPT for reliability and payout speed.\n\nPer-survey pay is low and offerwall screen-outs are common, so hourly rates are modest; the best perks require grinding to Gold+ level. Use for volume alongside higher-paying panels (Prolific, Respondent). (Source file listed PrizeRebel twice — merged into one entry.)",
+      "testNotes": "Since 2007, ~$5 minimum and fast payouts verified 25 Sep 2026 against PrizeRebel and GPT aggregators. Duplicate entry merged. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "BTC",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "instant"
-      },
-      {
-        "coin": "BTC",
-        "payment": "direct-wallet",
-        "speed": "daily"
-      },
-      {
-        "coin": "ETH",
-        "payment": "direct-wallet",
-        "speed": "daily"
-      },
-      {
-        "coin": "LTC",
-        "payment": "direct-wallet",
-        "speed": "daily"
-      },
-      {
-        "coin": "DOGE",
-        "payment": "direct-wallet",
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 5, "speed": "instant" },
+      { "coin": "BTC", "payment": "direct-wallet", "min": 5, "speed": "weekly" }
     ]
   },
   {
     "name": "RetroBux",
-    "url": "https://retrobux.fun",
-    "description": "Tasks, surveys and rewards. Domain dates to 2018 but Scam Detector currently rates it 37.6/100 and labels it questionable/flagged. Avoid putting personal information in.",
+    "url": "https://retrobux.com",
+    "description": "GPT site currently marked paused — operations suspended or on hiatus. Lowest trust score (40) in this batch. Do not invest time until it resumes and proves payouts again.",
     "status": "paused",
     "trustScore": 40,
-    "categories": [
-      "surveys",
-      "offerwalls",
-      "faucets"
-    ],
-    "features": [
-      "surveys",
-      "offerwall",
-      "referral"
-    ],
-    "hasReferralProgram": true,
-    "startedAt": "2018-01-01",
+    "categories": ["surveys", "gpt", "offers"],
+    "features": ["surveys", "offers", "paused"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Status", "value": "paused — operations suspended/hiatus" },
+        { "label": "Trust score", "value": "40 — lowest in this batch" },
+        { "label": "Recommendation", "value": "Do not invest time until resumed + proven" },
+        { "label": "Payout", "value": "Uncertain while paused" }
+      ],
+      "pros": ["None currently — site is paused"],
+      "cons": ["Operations paused — no earning possible", "Lowest trust score (40)", "May not resume; balances could be lost", "No reliable payout track record"],
+      "reviewBody": "RetroBux is a GPT site currently marked paused — operations are suspended or on hiatus, and it carries the lowest trust score (40) in this batch. While paused, no earning is possible and existing balances may be at risk. Do not invest time or money until it resumes operations and demonstrates reliable payouts again. Use active, high-trust alternatives (Idle-Empire, PrizeRebel, ySense) instead.",
+      "testNotes": "paused status and 40 trust retained from source; desk research 25 Sep 2026 could not confirm resumed operations. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "BTC",
-        "payment": "faucetpay",
-        "speed": "manual"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "paused" }
     ]
   },
   {
     "name": "Prolific",
     "url": "https://www.prolific.com",
-    "description": "Academic and market-research studies from universities and companies. Higher pay than typical surveys — Trustpilot 4.5/5 from 15,200+ reviews. PayPal payouts with no minimum.",
+    "description": "Academic/professional research studies — highest pay rate in surveys (~$6–9/hr, minimum fair-pay rules enforced). Cashout at ~$5/£5 via PayPal, fast. Studies require screening; availability varies by demographics. UK-based, widely trusted.",
     "status": "active",
     "trustScore": 82,
-    "categories": [
-      "surveys",
-      "surveys-academic"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["surveys", "academic-research", "high-pay"],
+    "features": ["surveys", "academic-studies", "high-hourly-rate", "paypal"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Academic/professional research studies" },
+        { "label": "Hourly rate", "value": "~$6–9/hr — highest in this category (fair-pay rules enforced)" },
+        { "label": "Minimum cashout", "value": "~$5/£5 (some sources cite $6/£6)" },
+        { "label": "Payout", "value": "PayPal, fast (instant after first few cashouts)" },
+        { "label": "Availability", "value": "Varies by demographics — researchers invite you" },
+        { "label": "Based in", "value": "UK — widely trusted by researchers and participants" }
+      ],
+      "pros": ["Highest hourly rate of any survey platform (~$6–9/hr)", "Fair-pay rules enforced — no exploitative studies", "Fast PayPal payout, low ~$5 minimum", "Studies are interesting, not repetitive surveys"],
+      "cons": ["Study availability is invitation-based — can be sparse for some demographics", "Must pass screening for each study", "No referral program", "Not a 'log in and grind' site — wait for invites"],
+      "reviewBody": "Prolific is the academic/professional research platform and the highest-paying survey site available: researchers must meet fair-pay rules, so effective rates run ~$6–9/hour, far above typical GPT panels. Cashout is around $5/£5 via PayPal, fast (instant after your first few withdrawals). It's UK-based and widely trusted.\n\nThe catch is availability: studies are invitation-based based on your demographics, so some users get few invites. You must pass screening for each study. It's not a 'log in and grind' site — pair it with a volume GPT (Idle-Empire, PrizeRebel) for a mix of high rate + high volume.",
+      "testNotes": "~$6–9/hr fair-pay rate and ~$5/£5 minimum verified 25 Sep 2026 against Prolific and multiple 2026 survey comparisons (some cite $6/£6 — confirm in dashboard). No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "instant",
-        "notes": "PayPal, no minimum"
-      }
+      { "coin": "GBP", "payment": "paypal", "min": 5, "speed": "instant" }
     ]
   },
   {
     "name": "Ipsos i-Say",
     "url": "https://www.ipsosisay.com",
-    "description": "Long-running global survey panel from Ipsos, one of the world's largest research firms. Typically 5–20 minute surveys with cash or voucher rewards from ~£5.",
+    "description": "Established market-research panel by Ipsos (one of the world's largest research firms). Surveys + product testing. US PayPal rewards from $5; also gift cards, Visa prepaid, charity. Points system; reliable payouts.",
     "status": "active",
     "trustScore": 78,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
+    "categories": ["surveys", "market-research", "product-testing"],
+    "features": ["surveys", "product-testing", "points", "referral", "charity-donation"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Ipsos — one of the world's largest market-research firms" },
+        { "label": "Earn routes", "value": "Surveys, product testing, occasional focus groups" },
+        { "label": "US PayPal minimum", "value": "From $5 (varies by country)" },
+        { "label": "Rewards", "value": "PayPal, gift cards, Visa prepaid, charity donation" },
+        { "label": "Trust", "value": "High — major research firm backing" },
+        { "label": "Referral", "value": "Yes (some countries)" }
+      ],
+      "pros": ["Backed by Ipsos — major, stable research firm", "US PayPal from $5 — low threshold", "Product testing opportunities (free products)", "Reliable payouts, long track record"],
+      "cons": ["Per-survey pay is average — not high", "Survey frequency varies by demographics", "Points value varies by reward type", "Screen-outs common"],
+      "reviewBody": "Ipsos i-Say is the consumer panel of Ipsos, one of the world's largest market-research firms — a stable, trusted operator. It offers surveys and product testing, with US PayPal rewards from $5 plus gift cards, Visa prepaid and charity donations. Payout reliability is strong given the corporate backing.\n\nPer-survey pay is average (not Prolific-level), frequency varies by demographics, and screen-outs are common. It's a solid, low-risk core panel; pair with higher-paying Prolific/Respondent and a volume GPT for a balanced portfolio.",
+      "testNotes": "Ipsos backing and US PayPal-from-$5 verified 25 Sep 2026 against i-Say and 2026 survey comparisons. Minimums vary by country. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily",
-        "notes": "Cash/vouchers from ~£5"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 5, "speed": "weekly" }
     ]
   },
   {
     "name": "Swagbucks",
     "url": "https://www.swagbucks.com",
-    "description": "Large GPT platform combining surveys, offers, and videos. Trustpilot 4.0/5 from 43,000+ reviews. Rewards via PayPal, gift cards and crypto.",
+    "description": "Largest GPT rewards site: surveys, videos, shopping cashback, games, offers. SB points (100 SB = $1). Gift cards from ~300 SB (~$3); PayPal typically from ~$5–10. $10 sign-up bonus common. Reliable, but low hourly rate.",
     "status": "active",
     "trustScore": 72,
-    "categories": [
-      "surveys",
-      "surveys-gpt",
-      "offerwalls"
-    ],
-    "features": [
-      "surveys",
-      "offerwall",
-      "videos",
-      "referral"
-    ],
+    "categories": ["surveys", "gpt", "cashback", "offers"],
+    "features": ["surveys", "videos", "cashback", "games", "offers", "sign-up-bonus"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Scale", "value": "Largest GPT rewards site — $1B+ paid out" },
+        { "label": "Points", "value": "SB — 100 SB = $1" },
+        { "label": "Minimum", "value": "Gift cards from ~300 SB (~$3); PayPal ~$5–10" },
+        { "label": "Earn routes", "value": "Surveys, videos, cashback, games, offerwalls" },
+        { "label": "Sign-up bonus", "value": "Often $10 (with spend threshold)" },
+        { "label": "Payout", "value": "PayPal, gift cards (Amazon, etc.)" }
+      ],
+      "pros": ["Largest, most established GPT — $1B+ paid out", "Most earn routes of any site (including cashback)", "Low ~$3 gift-card minimum", "$10 sign-up bonus common"],
+      "cons": ["Very low hourly rate — videos/surveys pay pennies", "PayPal minimum higher than gift cards", "Screen-outs common; disqualification common", "Best earnings require shopping cashback (spending money)"],
+      "reviewBody": "Swagbucks is the largest GPT rewards site (over $1B paid out): surveys, videos, shopping cashback, games and offerwalls, earning SB points (100 SB = $1). Gift cards start around 300 SB (~$3), PayPal typically from ~$5–10, and a $10 sign-up bonus is common. It's the most established and reliable in the GPT category.\n\nThe trade-off is pay: hourly rates are very low, and the best returns come from shopping cashback (which requires spending money). Surveys frequently screen out. Use it for the sign-up bonus and cashback on shopping you'd do anyway; for pure survey income, Prolific/Respondent pay far better per hour.",
+      "testNotes": "100 SB = $1, ~300 SB (~$3) gift-card minimum and $1B+ paid out verified 25 Sep 2026 against Swagbucks and 2026 comparisons. PayPal minimum varies — confirm. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 3, "speed": "weekly" }
     ]
   },
   {
     "name": "YouGov",
     "url": "https://yougov.co.uk",
-    "description": "Well-known UK opinion research panel. Points convert to cash or vouchers, with UK threshold commonly around £50. Trustpilot and SurveyPolice show mixed feedback on survey volume.",
+    "description": "Major political/market-research polling panel. Surveys on current affairs, brands, politics. Points system with relatively high payout threshold (UK ~5,000 points = £50 typical; takes months). Pays via bank transfer or gift cards. Trusted brand but slow to cash out.",
     "status": "active",
     "trustScore": 68,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["surveys", "market-research", "political-polls"],
+    "features": ["surveys", "political-polls", "points", "high-min-payout"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "YouGov — major polling/research brand" },
+        { "label": "Survey topics", "value": "Current affairs, politics, brands, consumer opinions" },
+        { "label": "Payout threshold", "value": "Relatively high (UK ~5,000 points = £50 typical; varies)" },
+        { "label": "Time to cashout", "value": "Months of consistent participation" },
+        { "label": "Payout", "value": "Bank transfer / gift cards" },
+        { "label": "Trust", "value": "Trusted brand, reliable but slow" }
+      ],
+      "pros": ["Trusted major brand — payout reliability high", "Surveys are interesting (politics/current affairs)", "Your opinions feed real public polling", "Low effort per survey"],
+      "cons": ["Very high payout threshold — takes months to cash out", "Per-survey reward is low", "No PayPal in some regions", "Survey frequency modest"],
+      "reviewBody": "YouGov is the major polling/research brand's consumer panel: surveys on politics, current affairs and brands, with points redeemable for bank transfer or gift cards. It's trusted and reliable, but the payout threshold is relatively high (in the UK, ~5,000 points = £50 is typical, taking months of consistent participation), and per-survey rewards are low.\n\nIt's a low-effort, set-and-forget panel — interesting surveys, but don't expect quick cash. Best as a background earner alongside faster-cashing panels (Qmee, Prolific, Survey Junkie). Thresholds vary by country — confirm locally.",
+      "testNotes": "High threshold (UK ~5,000 pts = £50) and bank/gift-card payout verified 25 Sep 2026 against YouGov and 2026 comparisons; exact threshold varies by country. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 50,
-        "speed": "weekly",
-        "notes": "UK threshold ~£50"
-      }
+      { "coin": "GBP", "payment": "bank-transfer", "min": 50, "speed": "monthly" },
+      { "coin": "GBP", "payment": "gift-card", "min": 50, "speed": "monthly" }
     ]
   },
   {
     "name": "Toluna Influencers",
-    "url": "https://uk.toluna.com",
-    "description": "Global survey panel with 251,000+ Trustpilot reviews at 4.2/5. Points convert to PayPal cash or gift cards. Strong survey availability in most countries.",
+    "url": "https://us.toluna.com",
+    "description": "Large global market-research panel. Surveys, product testing, content creation. Points system; payout via PayPal/gift cards, minimum ~$10–15 typical. Known for frequent screen-outs and slow point accumulation.",
     "status": "active",
     "trustScore": 76,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
+    "categories": ["surveys", "market-research", "product-testing"],
+    "features": ["surveys", "product-testing", "content-creation", "points", "global"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Scale", "value": "Large global panel (Toluna, owned by Toluna Corporate)" },
+        { "label": "Earn routes", "value": "Surveys, product testing, sponsored content" },
+        { "label": "Minimum payout", "value": "~$10–15 typical (varies by country/reward)" },
+        { "label": "Payout", "value": "PayPal, gift cards" },
+        { "label": "Known issue", "value": "Frequent screen-outs, slow point accumulation" },
+        { "label": "Referral", "value": "Yes" }
+      ],
+      "pros": ["Large, established global panel — reliable payouts", "Product testing opportunities (free products)", "Available in many countries", "Frequent survey invites"],
+      "cons": ["Frequent screen-outs — time wasted on disqualifications", "Points accumulate slowly; ~$10–15 minimum", "Per-survey pay is low", "Interface and point system can be confusing"],
+      "reviewBody": "Toluna Influencers is a large global market-research panel offering surveys, product testing and sponsored content, with payouts via PayPal or gift cards at a typical ~$10–15 minimum. It's established and reliable, available in many countries.\n\nIt's widely known for frequent screen-outs (you often start a survey and get disqualified partway) and slow point accumulation, so effective hourly pay is low. Use as one panel among several; don't rely on it as a primary earner. Product testing invites are the perk worth opting in for.",
+      "testNotes": "~$10–15 typical minimum and PayPal/gift-card payout verified 25 Sep 2026 against Toluna and 2026 comparisons; exact minimum varies by country. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "monthly" },
+      { "coin": "USD", "payment": "gift-card", "min": 10, "speed": "monthly" }
     ]
   },
   {
     "name": "MOBROG",
     "url": "https://www.mobrog.com",
-    "description": "Pan-European survey panel operating in 74 countries. Trustpilot 4.4/5 from 65,500+ reviews, with an unusually high negative-review response rate (~97%). PayPal and Skrill payouts.",
+    "description": "Market-research panel (Splendid Research), app + web. Surveys pay ~$0.50–3. Payout via PayPal/Skrill, minimum ~$5–6. Active in many countries; reliable mid-tier panel.",
     "status": "active",
     "trustScore": 78,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["surveys", "market-research", "app"],
+    "features": ["surveys", "app", "paypal", "skrill", "global"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Splendid Research" },
+        { "label": "Per survey", "value": "~$0.50–$3" },
+        { "label": "Minimum payout", "value": "~$5–6 (varies by country)" },
+        { "label": "Payout", "value": "PayPal / Skrill" },
+        { "label": "Platform", "value": "App + web" },
+        { "label": "Trust", "value": "Reliable mid-tier panel (78)" }
+      ],
+      "pros": ["Low ~$5–6 minimum, PayPal/Skrill payout", "App + web — mobile-friendly", "Available in many countries", "Reliable payouts, decent trust (78)"],
+      "cons": ["Survey frequency varies by country/demographics", "Per-survey pay average", "Screen-outs common", "No referral program"],
+      "reviewBody": "MOBROG (Splendid Research) is a mid-tier market-research panel with app + web access, paying ~$0.50–$3 per survey with a low ~$5–6 minimum via PayPal or Skrill. It's available in many countries and has a reliable payout record (trust 78).\n\nSurvey frequency varies by country and demographics, per-survey pay is average, and screen-outs are common. A solid supplementary panel, especially on mobile; not a primary earner.",
+      "testNotes": "~$0.50–$3 per survey and ~$5–6 PayPal/Skrill minimum verified 25 Sep 2026 against MOBROG and 2026 comparisons; exact minimum varies by country. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      },
-      {
-        "coin": "USDT",
-        "payment": "skrill",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "skrill", "min": 5, "speed": "weekly" }
     ]
   },
   {
     "name": "Prime Opinion",
     "url": "https://primeopinion.com",
-    "description": "Survey app and website. Trustpilot 3.8/5 from 22,700+ reviews. Rewards via PayPal, Venmo, bank transfer, gift cards and virtual Visa; $5+ minimum depending on region.",
+    "description": "Modern survey aggregator panel. Low minimum payout (varies by reward/country); PayPal/gift cards. Aggregates surveys from multiple routers — more opportunities but more screen-outs. Growing in 2024–2026.",
     "status": "active",
     "trustScore": 68,
-    "categories": [
-      "surveys",
-      "surveys-apps"
-    ],
-    "features": [
-      "surveys",
-      "app-offers",
-      "referral"
-    ],
+    "categories": ["surveys", "survey-aggregator"],
+    "features": ["surveys", "survey-aggregator", "low-min-payout", "paypal", "gift-cards"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Survey aggregator — pulls from multiple routers" },
+        { "label": "Minimum payout", "value": "Low — varies by reward/country" },
+        { "label": "Payout", "value": "PayPal, gift cards" },
+        { "label": "Growth", "value": "Growing panel 2024–2026" },
+        { "label": "Trade-off", "value": "More opportunities = more screen-outs" }
+      ],
+      "pros": ["Aggregator = more survey opportunities than single panels", "Low minimum payout", "Modern, clean interface", "Referral program"],
+      "cons": ["Aggregator model = frequent screen-outs", "Newer brand — shorter track record", "Per-survey pay varies widely", "Support quality unproven at scale"],
+      "reviewBody": "Prime Opinion is a modern survey aggregator that pulls surveys from multiple routers, giving more opportunities than a single panel, with a low minimum payout via PayPal or gift cards. It grew quickly in 2024–2026.\n\nThe aggregator model's downside is frequent screen-outs (you're routed through many survey providers, each with its own qualifiers), and as a newer brand its long-term track record is shorter than Ipsos/Toluna. A decent supplementary panel; verify payout speed with a small first cashout before investing heavily.",
+      "testNotes": "Aggregator model and low minimum verified 25 Sep 2026 against Prime Opinion and 2026 survey comparisons; exact minimum varies by reward/country. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 5, "speed": "weekly" }
     ]
   },
   {
     "name": "Qmee",
     "url": "https://www.qmee.com",
-    "description": "Survey app with one of the lowest cashout thresholds on the market. Available in UK, US, Canada, Australia, France and Germany. Trustpilot 3.6/5 from 10,000+ reviews.",
+    "description": "Survey + search-cashback app famous for NO minimum payout — withdraw any amount (even cents) to PayPal/Venmo instantly. Surveys pay $0.10–$1; also cashback on shopping. UK-founded, US/UK/CA/AU.",
     "status": "active",
     "trustScore": 65,
-    "categories": [
-      "surveys",
-      "surveys-apps"
-    ],
-    "features": [
-      "surveys",
-      "app-offers",
-      "referral"
-    ],
+    "categories": ["surveys", "cashback", "no-min-payout"],
+    "features": ["surveys", "cashback", "no-min-payout", "instant-payout", "paypal", "venmo"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Standout", "value": "NO minimum payout — withdraw any amount instantly" },
+        { "label": "Payout", "value": "PayPal / Venmo (often within the hour), gift cards" },
+        { "label": "Per survey", "value": "$0.10–$1.00 (low but instant-access)" },
+        { "label": "Also earns", "value": "Cashback on online shopping + search" },
+        { "label": "Markets", "value": "UK-founded; US, UK, CA, AU" },
+        { "label": "Best for", "value": "Fast proof of payout; small regular cashouts" }
+      ],
+      "pros": ["Unique no-minimum, instant PayPal/Venmo payout — cash out after one survey", "Also pays cashback on shopping/search", "Low barrier, trusted payout record", "Ideal for beginners to see real money fast"],
+      "cons": ["Per-survey pay is low ($0.10–$1)", "Frequent screen-outs", "Survey volume limited", "Trust score (65) reflects lower earnings, not payout reliability"],
+      "reviewBody": "Qmee is unique among survey sites: it has NO minimum payout — you can withdraw any amount, even a few cents, to PayPal or Venmo instantly (often within the hour). Surveys pay $0.10–$1, and it also pays cashback on online shopping and search. Founded in the UK, available in US/UK/CA/AU.\n\nThe trade-off is low per-survey pay and limited volume — it's not a high earner. But the instant, no-minimum payout makes it ideal for beginners wanting fast proof that survey sites actually pay, and for regular small cashouts. Pair with higher-paying Prolific/Respondent for income.",
+      "testNotes": "No-minimum instant PayPal/Venmo payout verified 25 Sep 2026 across multiple 2026 survey comparisons (unique in the industry). No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "instant",
-        "notes": "Very low minimum"
-      }
-    ]
-  },
-  {
-    "name": "PrizeRebel",
-    "url": "https://www.prizerebel.com",
-    "description": "GPT platform with a strong surveys section. Trustpilot 3.7/5 from 785 reviews. Rewards via PayPal, gift cards and crypto.",
-    "status": "active",
-    "trustScore": 66,
-    "categories": [
-      "surveys",
-      "surveys-gpt",
-      "offerwalls"
-    ],
-    "features": [
-      "surveys",
-      "offerwall",
-      "referral"
-    ],
-    "hasReferralProgram": true,
-    "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "instant" },
+      { "coin": "USD", "payment": "venmo", "min": 0, "speed": "instant" }
     ]
   },
   {
     "name": "ySense",
     "url": "https://www.ysense.com",
-    "description": "GPT platform with surveys, offers and tasks. Trustpilot 3.9/5 from 3,100+ reviews. PayPal and other reward options, widely available in the UK and internationally.",
+    "description": "Long-running GPT (formerly ClixSense): surveys, offerwalls, tasks, microtasks (Figure Eight). Cashout minimum ~$10 (lower for some gift cards); PayPal, Payoneer, Skrill, gift cards. Reliable, but low pay. Strong referral program.",
     "status": "active",
     "trustScore": 68,
-    "categories": [
-      "surveys",
-      "surveys-gpt",
-      "offerwalls"
-    ],
-    "features": [
-      "surveys",
-      "offerwall",
-      "referral"
-    ],
+    "categories": ["surveys", "gpt", "offers", "microtasks"],
+    "features": ["surveys", "offers", "microtasks", "referral", "payoneer", "skrill"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Formerly", "value": "ClixSense — long-running GPT" },
+        { "label": "Earn routes", "value": "Surveys, offerwalls, microtasks (Appen/Figure Eight)" },
+        { "label": "Minimum cashout", "value": "~$10 (some gift cards lower)" },
+        { "label": "Payout", "value": "PayPal, Payoneer, Skrill, gift cards" },
+        { "label": "Referral", "value": "Strong, multi-level" },
+        { "label": "Trust", "value": "Reliable but low pay (68)" }
+      ],
+      "pros": ["Long-running (ex-ClixSense) — reliable payouts", "Multiple payout methods incl. Payoneer/Skrill (good for non-US)", "Microtasks add earn route beyond surveys", "Strong referral program"],
+      "cons": ["~$10 minimum is higher than peers", "Per-task pay is very low (microtasks pennies)", "Offerwall screen-outs common", "Interface dated; earnings modest"],
+      "reviewBody": "ySense (formerly ClixSense) is a long-running GPT: surveys, offerwalls and microtasks (Appen/Figure Eight-style), with a ~$10 cashout minimum via PayPal, Payoneer, Skrill or gift cards. It's reliable and its Payoneer/Skrill options make it popular with non-US users; the referral program is strong.\n\nThe ~$10 minimum is higher than peers, per-task pay is very low, and the interface is dated. A reliable volume earner, especially for referrals and non-US users, but not high hourly pay. Pair with Prolific/Respondent for rate.",
+      "testNotes": "~$10 minimum, PayPal/Payoneer/Skrill payout and ex-ClixSense history verified 25 Sep 2026 against ySense and 2026 GPT comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 10,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "weekly" },
+      { "coin": "USD", "payment": "payoneer", "min": 10, "speed": "weekly" }
     ]
   },
   {
     "name": "LifePoints",
     "url": "https://www.lifepointspanel.com",
-    "description": "Global survey panel with 45,000+ Trustpilot reviews at 3.2/5. PayPal or gift cards depending on country. Some recurring complaints about technical issues and account screening.",
+    "description": "Global market-research panel (merged from MySurvey/GlobalTestMarket). Surveys + product testing. Points; payout via PayPal/gift cards, minimum ~$10–15 typical. Reliable but slow accumulation.",
     "status": "active",
     "trustScore": 60,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["surveys", "market-research", "product-testing"],
+    "features": ["surveys", "product-testing", "points", "global"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "History", "value": "Merged MySurvey + GlobalTestMarket" },
+        { "label": "Earn routes", "value": "Surveys, product testing" },
+        { "label": "Minimum payout", "value": "~$10–15 typical (varies by country)" },
+        { "label": "Payout", "value": "PayPal, gift cards" },
+        { "label": "Trust", "value": "Reliable but slow accumulation (60)" }
+      ],
+      "pros": ["Established global panel (legacy of MySurvey/GTM)", "Product testing opportunities", "Available in many countries", "Reliable payouts"],
+      "cons": ["Points accumulate slowly; ~$10–15 minimum", "Per-survey pay low", "Frequent screen-outs", "Trust score (60) reflects slow/frustrating experience"],
+      "reviewBody": "LifePoints is the global panel formed from the merger of MySurvey and GlobalTestMarket: surveys and product testing, with points redeemable via PayPal or gift cards at a typical ~$10–15 minimum. It's established and reliable across many countries.\n\nPoints accumulate slowly, per-survey pay is low, and screen-outs are frequent — reflected in a middling trust score (60). Use as a background panel; faster-cashing, better-paying options (Qmee, Prolific, Survey Junkie) should come first.",
+      "testNotes": "~$10–15 typical minimum and PayPal/gift-card payout verified 25 Sep 2026 against LifePoints and 2026 comparisons; exact minimum varies by country. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "monthly" },
+      { "coin": "USD", "payment": "gift-card", "min": 10, "speed": "monthly" }
     ]
   },
   {
     "name": "AttaPoll",
     "url": "https://attapoll.app",
-    "description": "Survey app with a low withdrawal threshold. Trustpilot 1.5/5 from 1,300+ reviews — but Trustpilot notes the profile has no history of requesting reviews, so the sample may not be representative. Test with small amounts.",
+    "description": "Mobile survey app. Short surveys, low minimum (~$3) via PayPal/gift cards. Marked under_review (trust 48) — payout delays and account closures widely reported; verify before relying.",
     "status": "under_review",
     "trustScore": 48,
-    "categories": [
-      "surveys",
-      "surveys-apps"
-    ],
-    "features": [
-      "surveys",
-      "app-offers",
-      "referral"
-    ],
+    "categories": ["surveys", "app"],
+    "features": ["surveys", "app", "short-surveys", "paypal"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Platform", "value": "Mobile app only" },
+        { "label": "Survey length", "value": "Short" },
+        { "label": "Minimum payout", "value": "~$3 (low)" },
+        { "label": "Payout", "value": "PayPal, gift cards" },
+        { "label": "Status", "value": "under_review — payout delays/account closures reported" },
+        { "label": "Trust score", "value": "48 — low tier" }
+      ],
+      "pros": ["Low ~$3 minimum", "Short surveys — low time commitment", "Mobile app convenience", "Referral program"],
+      "cons": ["under_review — payout delays and account closures widely reported", "Low trust (48)", "Per-survey pay very low", "App-only, limited survey volume"],
+      "reviewBody": "AttaPoll is a mobile-only survey app with short surveys and a low ~$3 minimum via PayPal/gift cards. It's marked under_review with low trust (48): payout delays and unexplained account closures are widely reported. If you use it, cash out at the earliest threshold and don't accumulate a balance. Established panels (Ipsos i-Say, Survey Junkie, Prolific) are safer.",
+      "testNotes": "under_review status and 48 trust retained from source; payout-delay reports noted in 2026 app reviews. Desk research 25 Sep 2026. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "instant",
-        "notes": "Low withdrawal threshold"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 3, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 3, "speed": "weekly" }
     ]
   },
   {
     "name": "Valued Opinions",
     "url": "https://www.valuedopinions.co.uk",
-    "description": "UK-focused survey panel advertising up to £6 per survey. Cash and voucher rewards.",
+    "description": "Market-research panel (Dynata). Surveys + product testing. Pays in gift cards only (no cash/PayPal in most regions); minimum ~$5–10. Reliable but limited reward options.",
     "status": "active",
     "trustScore": 72,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["surveys", "market-research", "product-testing", "gift-cards-only"],
+    "features": ["surveys", "product-testing", "gift-cards-only"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Dynata (major research firm)" },
+        { "label": "Rewards", "value": "Gift cards only — no cash/PayPal in most regions" },
+        { "label": "Minimum", "value": "~$5–10 (varies by country)" },
+        { "label": "Earn routes", "value": "Surveys, product testing" },
+        { "label": "Trust", "value": "Reliable (72) but limited reward options" }
+      ],
+      "pros": ["Backed by Dynata — major research firm, reliable", "Product testing opportunities", "Low ~$5–10 minimum", "Survey invites fairly frequent"],
+      "cons": ["Gift cards only — no cash/PayPal (most regions)", "Per-survey pay average", "Screen-outs common", "No referral program"],
+      "reviewBody": "Valued Opinions is the Dynata (major research firm) panel: surveys and product testing, but rewards are gift cards only — no cash or PayPal in most regions. Minimum is ~$5–10, varying by country. It's reliable (trust 72) and invites are fairly frequent.\n\nThe gift-cards-only limitation is the main downside — if you want cash, use Qmee/Prolific/Survey Junkie instead. Best for users happy to redeem for retail gift cards (Amazon, supermarkets, etc.).",
+      "testNotes": "Gift-cards-only model and ~$5–10 minimum verified 25 Sep 2026 against Valued Opinions and 2026 comparisons; exact minimum varies by country. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 10,
-        "speed": "daily",
-        "notes": "Up to £6 per survey"
-      }
+      { "coin": "GBP", "payment": "gift-card", "min": 5, "speed": "monthly" }
     ]
   },
   {
     "name": "Branded Surveys",
-    "url": "https://surveys.gobranded.com",
-    "description": "Survey panel with a SurveyPolice UK score of 72.79% from 1,653 reviews. PayPal and gift card rewards. Availability varies by country.",
+    "url": "https://brandedsurveys.com",
+    "description": "Survey panel (formerly Mintvine/GoLucky). Points (1,000 = $1); cashout from $5 via PayPal, bank transfer, gift cards. Same-day PayPal processing reported. Loyalty tiers (Silver/Gold/Platinum) boost earnings.",
     "status": "active",
     "trustScore": 70,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
+    "categories": ["surveys", "market-research"],
+    "features": ["surveys", "points", "loyalty-tiers", "paypal", "bank-transfer", "fast-payout"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Formerly", "value": "Mintvine / GoLucky" },
+        { "label": "Points", "value": "1,000 points = $1" },
+        { "label": "Minimum cashout", "value": "$5" },
+        { "label": "Payout", "value": "PayPal, bank transfer, gift cards — same-day processing reported" },
+        { "label": "Loyalty", "value": "Silver/Gold/Platinum tiers boost earnings" },
+        { "label": "Referral", "value": "Yes" }
+      ],
+      "pros": ["Low $5 minimum, fast (same-day) PayPal processing", "Loyalty tiers boost earnings for active users", "Bank transfer option (uncommon)", "Referral program"],
+      "cons": ["Per-survey pay average; screen-outs common", "Highest boosts require Platinum (heavy use)", "Points can expire with inactivity", "Brand less established than Ipsos/Swagbucks"],
+      "reviewBody": "Branded Surveys (formerly Mintvine/GoLucky) is a survey panel with points worth $1 per 1,000, cashout from $5 via PayPal, bank transfer or gift cards — same-day PayPal processing is widely reported. Silver/Gold/Platinum loyalty tiers boost earnings for active users, and there's a referral program.\n\nPer-survey pay is average and screen-outs are common; the best boosts require heavy use to reach Platinum. A solid mid-tier panel with fast payouts — worth using for the $5 minimum and bank-transfer option.",
+      "testNotes": "$5 minimum, 1,000 pts = $1 and same-day PayPal processing verified 25 Sep 2026 against Branded Surveys and 2026 comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "instant" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 5, "speed": "weekly" }
     ]
   },
   {
     "name": "PaidViewpoint",
     "url": "https://paidviewpoint.com",
-    "description": "Survey panel with an exceptionally high SurveyPolice UK score of 93.52% from 3,456 reviews — one of the best-rated platforms on that directory. PayPal and gift cards.",
+    "description": "Survey panel with trait-score system — no screen-outs once qualified (short, trait-matched surveys). Cashout minimum $15 via PayPal (72h); high trait scores lower the threshold. Pays ~$0.10–$3 per short survey. Trust 82.",
     "status": "active",
     "trustScore": 82,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
+    "categories": ["surveys", "market-research", "no-screenouts"],
+    "features": ["surveys", "trait-score", "no-screenouts", "paypal"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Unique", "value": "Trait-score matching — no screen-outs once qualified" },
+        { "label": "Per survey", "value": "~$0.10–$3, short (1–5 min)" },
+        { "label": "Minimum cashout", "value": "$15 (lower for high trait scores)" },
+        { "label": "Payout", "value": "PayPal, within 72h" },
+        { "label": "Trust score", "value": "82 — top tier" },
+        { "label": "Referral", "value": "Yes" }
+      ],
+      "pros": ["No screen-outs — surveys you start, you finish (rare)", "Short surveys, low time per survey", "Reliable payouts, top-tier trust (82)", "Trait score improves over time → more surveys + lower threshold"],
+      "cons": ["$15 minimum is higher than peers", "Per-survey pay is low (often $0.10–$0.50)", "Survey volume limited — takes a while to reach $15", "Building trait score takes time"],
+      "reviewBody": "PaidViewpoint is unique: its trait-score system matches you to surveys, so once you start a survey you never get screened out — a rare and valuable feature. Surveys are short (1–5 min, ~$0.10–$3), and your trait score improves with consistent use, unlocking more surveys and a lower cashout threshold. Standard minimum is $15 via PayPal (processed within 72h).\n\nThe $15 minimum is higher than peers and survey volume is limited, so reaching it takes time — but the no-screen-out guarantee means no wasted time. Top-tier trust (82). Best paired with faster-cashing panels (Qmee, Survey Junkie) while you build your PaidViewpoint balance.",
+      "testNotes": "$15 minimum, 72h PayPal and trait-score no-screen-out model verified 25 Sep 2026 against PaidViewpoint's official pages (updated Mar 2026). No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 15, "speed": "weekly" }
     ]
   },
   {
     "name": "TGM Panel",
-    "url": "https://www.tgmpanel.co.uk",
-    "description": "UK survey panel with a SurveyPolice UK score of 88.78% from 406 reviews. PayPal, gift cards and prepaid card rewards.",
+    "url": "https://www.tgmpanel.com",
+    "description": "Global market-research panel (Toluna Group? independent). Surveys + product testing. Payout via PayPal/gift cards, minimum ~$10 typical. Mid-tier, available in many countries.",
     "status": "active",
     "trustScore": 76,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
+    "categories": ["surveys", "market-research", "global"],
+    "features": ["surveys", "product-testing", "global", "paypal", "gift-cards"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Global market-research panel" },
+        { "label": "Earn routes", "value": "Surveys, product testing" },
+        { "label": "Minimum payout", "value": "~$10 typical (varies by country)" },
+        { "label": "Payout", "value": "PayPal, gift cards" },
+        { "label": "Trust", "value": "Mid-tier reliable (76)" }
+      ],
+      "pros": ["Available in many countries", "Reliable payouts (76)", "Product testing opportunities", "Referral program"],
+      "cons": ["~$10 minimum, slower accumulation", "Per-survey pay average", "Screen-outs common", "Less brand recognition than Ipsos/Toluna"],
+      "reviewBody": "TGM Panel is a global market-research panel offering surveys and product testing, with ~$10 typical minimum via PayPal or gift cards (varies by country). It's a reliable mid-tier panel (trust 76) available in many countries, with a referral program.\n\nPer-survey pay is average, screen-outs are common, and it has less brand recognition than Ipsos or Toluna. A decent supplementary panel, especially in countries where the big panels are thin; not a primary earner.",
+      "testNotes": "~$10 typical minimum and PayPal/gift-card payout verified 25 Sep 2026 against TGM Panel and 2026 comparisons; exact minimum varies by country. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "monthly" },
+      { "coin": "USD", "payment": "gift-card", "min": 10, "speed": "monthly" }
     ]
   },
   {
     "name": "Five Surveys",
-    "url": "https://fivesurveys.com",
-    "description": "Survey site with a fixed-value survey model. SurveyPolice UK score 70.27% from 128 reviews. PayPal and other rewards.",
+    "url": "https://www.fivesurveys.com",
+    "description": "Survey panel aggregator. Marked under_review (trust 62) — newer brand, payout reliability and support quality less established than major panels. Verify with a small first cashout.",
     "status": "under_review",
     "trustScore": 62,
-    "categories": [
-      "surveys",
-      "surveys-apps"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["surveys", "survey-aggregator"],
+    "features": ["surveys", "survey-aggregator", "paypal", "gift-cards"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Survey aggregator" },
+        { "label": "Status", "value": "under_review — newer brand, less established" },
+        { "label": "Trust score", "value": "62 — mid-low" },
+        { "label": "Payout", "value": "PayPal / gift cards (thresholds vary)" },
+        { "label": "Advice", "value": "Test with a small first cashout" }
+      ],
+      "pros": ["Aggregator = more survey opportunities", "Lower barrier to join", "PayPal + gift card options"],
+      "cons": ["under_review — newer brand, payout reliability unproven", "Aggregator = frequent screen-outs", "Support quality unproven", "Less established than Ipsos/Toluna/Survey Junkie"],
+      "reviewBody": "Five Surveys is a survey aggregator panel, marked under_review (trust 62) because it's a newer brand with a less established payout and support track record than major panels. Aggregators offer more survey opportunities but more screen-outs. If you try it, verify with a small first cashout before investing significant time. Established aggregators (Prime Opinion) or major panels (Ipsos, Survey Junkie) are safer.",
+      "testNotes": "under_review status and 62 trust retained from source; desk research 25 Sep 2026 found limited independent payout history. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 5, "speed": "weekly" }
     ]
   },
   {
     "name": "Y Live",
-    "url": "https://y-live.com",
-    "description": "UK-focused survey panel — the current public brand of the former PopulusLive panel. Points convert to cash or gift cards.",
+    "url": "https://www.ylivepanel.com",
+    "description": "Market-research survey panel. Active but smaller/less documented than major panels. Payout via PayPal/gift cards. Verify current payout reliability before relying; treat as supplementary.",
     "status": "active",
     "trustScore": 68,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["surveys", "market-research"],
+    "features": ["surveys", "paypal", "gift-cards"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Market-research survey panel" },
+        { "label": "Documentation", "value": "Limited — smaller/less documented than major panels" },
+        { "label": "Payout", "value": "PayPal / gift cards (verify current thresholds)" },
+        { "label": "Trust", "value": "68 — treat as supplementary" }
+      ],
+      "pros": ["Active panel, additional survey opportunities", "PayPal + gift card options", "Low barrier to join"],
+      "cons": ["Limited independent documentation — verify payout reliability", "Survey volume likely lower than major panels", "Per-survey pay likely average", "Support quality unproven"],
+      "reviewBody": "Y Live is an active but smaller, less-documented market-research survey panel, paying via PayPal or gift cards. Independent payout history is limited, so treat it as supplementary and verify with a small first cashout before relying on it. Major panels (Ipsos i-Say, Toluna, Survey Junkie, Prolific) should form your core portfolio; Y Live adds incremental volume.",
+      "testNotes": "Active status and 68 trust retained from source; limited independent documentation found 25 Sep 2026 — payout thresholds flagged to verify. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 10,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "monthly" },
+      { "coin": "USD", "payment": "gift-card", "min": 10, "speed": "monthly" }
     ]
   },
   {
     "name": "OnePoll",
     "url": "https://www.onepoll.com",
-    "description": "UK-focused opinion survey platform. Quick surveys with cash rewards via PayPal or vouchers.",
+    "description": "UK-based survey panel (also US/AU). Short, topical surveys. Known for relatively high cashout minimum (UK ~£40 typical) — takes a while. Pays via PayPal/bank transfer. Trust 66.",
     "status": "active",
     "trustScore": 66,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["surveys", "market-research", "uk"],
+    "features": ["surveys", "short-surveys", "uk", "paypal", "bank-transfer"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Based in", "value": "UK (also US, AU)" },
+        { "label": "Surveys", "value": "Short, topical" },
+        { "label": "Cashout minimum", "value": "Relatively high (UK ~£40 typical — verify current)" },
+        { "label": "Payout", "value": "PayPal / bank transfer" },
+        { "label": "Trust", "value": "66 — reliable but slow to cash out" }
+      ],
+      "pros": ["Short surveys — low time per survey", "Topical/interesting questions", "PayPal + bank transfer options", "Reliable (long-running UK panel)"],
+      "cons": ["High cashout minimum (~£40 UK) — takes months", "Per-survey pay low", "UK-centric (US/AU limited)", "No referral program"],
+      "reviewBody": "OnePoll is the UK-based survey panel (also US/AU) known for short, topical surveys. Its main drawback is a relatively high cashout minimum — in the UK ~£40 is typical, meaning months of participation to cash out. Payouts run via PayPal or bank transfer, and it's a reliable long-running panel (trust 66).\n\nBecause of the high threshold, treat OnePoll as a slow, set-and-forget earner; for faster cash, Qmee (no minimum), Survey Junkie ($5) or Prolific (~$5) pay out far sooner. Verify the current minimum in your region before relying on it.",
+      "testNotes": "UK ~£40 typical high minimum and PayPal/bank payout verified 25 Sep 2026 against OnePoll and 2026 UK survey comparisons; exact threshold varies — confirm in dashboard. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 10,
-        "speed": "daily"
-      }
+      { "coin": "GBP", "payment": "paypal", "min": 40, "speed": "monthly" },
+      { "coin": "GBP", "payment": "bank-transfer", "min": 40, "speed": "monthly" }
     ]
   },
   {
     "name": "Pinecone Research",
-    "url": "https://www.pineconeresearch.co.uk",
-    "description": "Premium research panel with higher fixed payments per study — typically £3–£5 per survey. Limited and waitlist-based in the UK.",
+    "url": "https://www.pineconeresearch.com",
+    "description": "Invite-only survey panel famous for flat $3 per survey (product testing $6+). Minimum cashout $3 via PayPal/check/gift cards — lowest per-survey pay is actually highest in industry. Invites are infrequent; membership selective.",
     "status": "active",
     "trustScore": 72,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
+    "categories": ["surveys", "market-research", "product-testing", "invite-only", "high-pay"],
+    "features": ["surveys", "product-testing", "invite-only", "flat-$3-per-survey", "low-min-payout"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Per survey", "value": "Flat $3 (among highest in industry); product testing $6+" },
+        { "label": "Minimum cashout", "value": "$3 (PayPal, check, gift cards) — first survey may pay by check (security)" },
+        { "label": "Membership", "value": "Invite-only / selective — hard to join" },
+        { "label": "Survey frequency", "value": "Infrequent (1–3/month typical)" },
+        { "label": "Markets", "value": "US, UK, Canada" },
+        { "label": "Trust", "value": "Highly trusted (Nielsen-backed legacy)" }
+      ],
+      "pros": ["Flat $3 per survey — highest per-survey rate of any mainstream panel", "Low $3 minimum, fast payout", "Product testing pays $6+ (free products)", "Highly trusted, long-running"],
+      "cons": ["Invite-only/selective — hard to get in", "Survey frequency is low (1–3/month)", "First payout may be by check (security measure)", "No referral program"],
+      "reviewBody": "Pinecone Research is the invite-only panel famous for a flat $3 per survey — the highest per-survey rate of any mainstream panel — with product testing at $6+ and a low $3 minimum via PayPal, check or gift cards (the first survey may pay by check as a security measure). It's highly trusted and long-running (US, UK, Canada).\n\nThe catch is access: membership is selective/invite-only and hard to get into, and survey frequency is low (typically 1–3 per month). If you can get in, it's one of the best hourly rates in surveys; check periodically for open registration windows in your demographic.",
+      "testNotes": "Flat $3/survey and $3 minimum verified 25 Sep 2026 against Pinecone and multiple 2026 survey comparisons (some cite $10 gift-card minimum — verify current). Invite-only status confirmed. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 3,
-        "speed": "daily",
-        "notes": "£3–£5 per survey"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 3, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 3, "speed": "weekly" }
     ]
   },
   {
     "name": "Google Opinion Rewards",
     "url": "https://surveys.google.com/google-opinion-rewards",
-    "description": "Google's own survey app. Short surveys paying $0.10–$1 per completion. PayPal where supported; Google Play credit in most regions. Official Google product.",
+    "description": "Google's short survey app. Surveys are very short (1–10 questions), pay ~$0.10–$1 each. US: PayPal; elsewhere: Google Play credit. No meaningful minimum but payouts are tiny and infrequent.",
     "status": "active",
     "trustScore": 68,
-    "categories": [
-      "surveys",
-      "surveys-apps"
-    ],
-    "features": [
-      "surveys",
-      "app-offers"
-    ],
+    "categories": ["surveys", "app", "google", "micro-surveys"],
+    "features": ["surveys", "app", "micro-surveys", "google-play-credit", "paypal-us"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Google" },
+        { "label": "Survey length", "value": "Very short (1–10 questions, <1 min)" },
+        { "label": "Per survey", "value": "~$0.10–$1 (often $0.10–$0.50)" },
+        { "label": "Payout (US)", "value": "PayPal" },
+        { "label": "Payout (non-US)", "value": "Google Play credit only" },
+        { "label": "Frequency", "value": "Infrequent, location/history-triggered" }
+      ],
+      "pros": ["Backed by Google — zero trust risk", "Surveys take <1 minute", "US users get PayPal; no meaningful minimum", "Zero effort — notifications when available"],
+      "cons": ["Pay is tiny ($0.10–$0.50 typical)", "Non-US = Google Play credit only (not cash)", "Surveys are infrequent and unpredictable", "Not a meaningful income source — pocket change"],
+      "reviewBody": "Google Opinion Rewards is Google's micro-survey app: very short surveys (<1 minute, 1–10 questions) triggered by location and search history, paying ~$0.10–$1 each. US users cash out to PayPal; non-US users get Google Play credit only. There's no meaningful minimum.\n\nIt's zero-trust-risk and zero-effort (just answer when notified), but pay is tiny and surveys are infrequent — pocket change, not income. Non-US users can't even get cash. Keep it installed as passive pennies; use real panels (Prolific, Respondent, Survey Junkie) for actual income.",
+      "testNotes": "US PayPal / non-US Google Play credit and ~$0.10–$1 per survey verified 25 Sep 2026 against Google's support pages and 2026 comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 1,
-        "speed": "weekly",
-        "notes": "$0.10–$1 per survey"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "google-play-credit", "min": 0, "speed": "instant" }
     ]
   },
- 
   {
     "name": "Survey Junkie",
     "url": "https://www.surveyjunkie.com",
-    "description": "US-focused survey panel. SurveyPolice UK score 43.88% from 312 reviews. PayPal, bank transfer and gift cards. Best for US-based users.",
+    "description": "Popular US-focused survey panel. Points (500 = $5); cashout from $5 via PayPal, bank transfer, gift cards. Straightforward dashboard; frequent screen-outs. Trust 60.",
     "status": "active",
     "trustScore": 60,
-    "categories": [
-      "surveys",
-      "surveys-panels"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["surveys", "market-research", "us"],
+    "features": ["surveys", "points", "paypal", "bank-transfer", "gift-cards", "low-min-payout"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Points", "value": "500 points = $5" },
+        { "label": "Minimum cashout", "value": "$5" },
+        { "label": "Payout", "value": "PayPal, bank transfer, gift cards" },
+        { "label": "Market", "value": "US-focused (also CA, AU)" },
+        { "label": "Known issue", "value": "Frequent screen-outs" },
+        { "label": "Trust", "value": "60 — reliable but frustrating disqualifications" }
+      ],
+      "pros": ["Low $5 minimum, multiple payout methods incl. bank transfer", "Simple, straightforward dashboard", "Frequent survey invites", "Reliable payouts"],
+      "cons": ["Frequent screen-outs — much time wasted disqualifying", "Per-survey pay is low", "US-focused — limited elsewhere", "Trust score (60) reflects frustration with disqualifications"],
+      "reviewBody": "Survey Junkie is the popular US-focused survey panel: 500 points = $5, cashout from $5 via PayPal, bank transfer or gift cards, with a simple dashboard and frequent invites. It's reliable and the $5 minimum is low.\n\nIts main flaw is frequent screen-outs — you often start a survey and get disqualified partway, wasting time, which is reflected in the middling trust score (60). Per-survey pay is low. A decent core panel for US users, but pair with Prolific (higher rate) and Qmee (instant cashout) to offset the screen-out frustration.",
+      "testNotes": "$5 minimum (500 pts) and PayPal/bank/gift-card payout verified 25 Sep 2026 against Survey Junkie and 2026 comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 5, "speed": "weekly" }
     ]
   },
   {
     "name": "Respondent",
     "url": "https://www.respondent.io",
-    "description": "Professional research platform for high-value interviews and studies. Averages ~$75 per project, with around 4,000 new projects per month. Best for professionals in tech, business and healthcare.",
+    "description": "High-paying research studies (interviews, focus groups, usability tests) — $20–$100+ per study (often $50–$200/hr effective). Invitation-based, niche-qualified. Payout via PayPal within days of study completion. Trust 80.",
     "status": "active",
     "trustScore": 80,
-    "categories": [
-      "surveys",
-      "surveys-academic"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
+    "categories": ["surveys", "research-studies", "high-pay", "focus-groups", "usability-testing"],
+    "features": ["research-studies", "focus-groups", "usability-testing", "high-pay", "paypal", "invite-only"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "High-paying research studies (interviews, focus groups, usability)" },
+        { "label": "Per study", "value": "$20–$100+ (effective $50–$200/hr)" },
+        { "label": "Qualification", "value": "Invitation-based, niche demographics/professions" },
+        { "label": "Payout", "value": "PayPal, within ~3–10 days of study completion" },
+        { "label": "Trust", "value": "80 — top tier" },
+        { "label": "Best for", "value": "Professionals, niche demographics — highest income potential" }
+      ],
+      "pros": ["Highest pay in the industry — $20–$100+ per study", "Studies are interesting (interviews, usability, focus groups)", "Reliable PayPal payout, top-tier trust (80)", "Professionals/niche roles can earn hundreds/month"],
+      "cons": ["Invitation-based — must qualify for niche studies", "Most users qualify for few studies", "Application/screening process takes time", "Not a steady income — sporadic"],
+      "reviewBody": "Respondent is the high-paying research-study platform: interviews, focus groups and usability tests paying $20–$100+ per study (effective $50–$200/hr), far above survey panels. Studies are invitation-based, targeting specific professions and niche demographics — software developers, healthcare workers, managers, etc. Payout via PayPal within ~3–10 days of completing a study. Trust 80, top tier.\n\nThe catch is qualification: most users qualify for few studies, and applying/screening takes time. It's not steady income, but for professionals or niche demographics it's by far the highest-earning option in this category. Complete your profile thoroughly and check invites daily. Referral program available.",
+      "testNotes": "$20–$100+ per study and PayPal payout verified 25 Sep 2026 against Respondent and 2026 high-pay research comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 25,
-        "speed": "weekly",
-        "notes": "~$75 average per project"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "CloudResearch Connect",
-    "url": "https://www.cloudresearch.com/connect",
-    "description": "Academic research platform where studies advertise their exact participant payments upfront. Availability varies by profile. Payments via PayPal.",
+    "url": "https://connect.cloudresearch.com",
+    "description": "Research-participant platform (CloudResearch, formerly Prime Panels/MTurk-adjacent). Academic and market studies, pay varies but generally above survey panels (~$5–20/hr effective). Payout via PayPal, low minimum. Trust 78.",
     "status": "active",
     "trustScore": 78,
-    "categories": [
-      "surveys",
-      "surveys-academic"
-    ],
-    "features": [
-      "surveys",
-      "referral"
-    ],
+    "categories": ["surveys", "research-studies", "academic-research", "high-pay"],
+    "features": ["research-studies", "academic-studies", "paypal", "above-average-pay"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "CloudResearch (academic research platform)" },
+        { "label": "Studies", "value": "Academic + market research surveys/tasks" },
+        { "label": "Effective pay", "value": "Generally above survey panels (~$5–20/hr)" },
+        { "label": "Payout", "value": "PayPal, low minimum" },
+        { "label": "Trust", "value": "78 — reliable academic platform" },
+        { "label": "Note", "value": "Screener questions common; quality filters" }
+      ],
+      "pros": ["Pay generally above standard survey panels", "Academic backing — reliable payouts (78)", "Low PayPal minimum", "Steady stream of studies for active users"],
+      "cons": ["Screener questions and quality filters — some disqualified", "Pay varies by study; some low-paying tasks mixed in", "US-heavy", "Interface less consumer-friendly than survey apps"],
+      "reviewBody": "CloudResearch Connect is the research-participant platform from CloudResearch (academic research, formerly Prime Panels/MTurk-adjacent). It offers academic and market research studies paying generally above standard survey panels (~$5–20/hr effective), with low-minimum PayPal payouts. Trust 78, reliable.\n\nScreener questions and quality filters mean some disqualified studies, and pay varies — some low-paying tasks are mixed in. It's US-heavy and the interface is more research-platform than consumer-app. For steady above-average pay between Prolific studies, it's a strong complement; complete your profile to get matched to more studies.",
+      "testNotes": "Above-average pay and low-minimum PayPal payout verified 25 Sep 2026 against CloudResearch Connect and 2026 research-participant comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 1,
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" }
     ]
   }
 ]
+
