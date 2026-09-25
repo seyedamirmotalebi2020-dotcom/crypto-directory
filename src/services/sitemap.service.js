@@ -39,6 +39,9 @@ const STATIC_PAGES = [
     { path: '/blog/how-to-write-a-winning-freelance-proposal.html', priority: '0.7', changefreq: 'monthly' },
   { path: '/blog/freelance-rates-uk-2026.html',                   priority: '0.7', changefreq: 'monthly' },
   { path: '/blog/remote-work-tools-for-freelancers.html',         priority: '0.7', changefreq: 'monthly' },
+    { path: '/blog/10-legit-ways-to-earn-cryptocurrency-2026.html', priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/staking-crypto-2026.html',                       priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/play-to-earn-crypto-games-2026.html',            priority: '0.7', changefreq: 'monthly' },
 ]
 
 // 15-minute cache
