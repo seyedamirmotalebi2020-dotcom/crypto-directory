@@ -117,6 +117,7 @@ async function main() {
         referralPercent:    s.referralPercent ?? null,
         startedAt:          s.startedAt ? new Date(s.startedAt) : null,
         lastTestedAt:       s.lastTestedAt ? new Date(s.lastTestedAt) : null,
+         reviewData:         s.reviewData ?? null,             // ← new line
       }
 
       let site
