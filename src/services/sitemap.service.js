@@ -24,6 +24,16 @@ const STATIC_PAGES = [
   { path: '/blog/paid-surveys-and-uk-tax.html',          priority: '0.7', changefreq: 'monthly' },
   { path: '/blog/prolific-vs-yougov.html',               priority: '0.7', changefreq: 'monthly' },
   { path: '/blog/survey-apps-vs-research-panels.html',   priority: '0.7', changefreq: 'monthly' },
+   { path: '/blog/best-cashback-sites-uk.html',              priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/how-cashback-sites-work.html',             priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/do-you-pay-tax-on-cashback-uk.html',       priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/topcashback-vs-quidco.html',               priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/best-cashback-apps-for-groceries-uk.html', priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/best-freelance-platforms-uk.html',         priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/how-to-start-freelancing-uk.html',         priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/freelance-tax-uk.html',                    priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/upwork-vs-fiverr.html',                    priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/how-to-spot-a-freelance-scam.html',        priority: '0.7', changefreq: 'monthly' },
 ]
 
 // 15-minute cache
