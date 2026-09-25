@@ -34,6 +34,11 @@ const STATIC_PAGES = [
   { path: '/blog/freelance-tax-uk.html',                    priority: '0.7', changefreq: 'monthly' },
   { path: '/blog/upwork-vs-fiverr.html',                    priority: '0.7', changefreq: 'monthly' },
   { path: '/blog/how-to-spot-a-freelance-scam.html',        priority: '0.7', changefreq: 'monthly' },
+    { path: '/blog/best-freelance-platforms-uk-2026.html',           priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/how-to-find-first-freelance-client-30-days.html', priority: '0.7', changefreq: 'monthly' },
+    { path: '/blog/how-to-write-a-winning-freelance-proposal.html', priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/freelance-rates-uk-2026.html',                   priority: '0.7', changefreq: 'monthly' },
+  { path: '/blog/remote-work-tools-for-freelancers.html',         priority: '0.7', changefreq: 'monthly' },
 ]
 
 // 15-minute cache
