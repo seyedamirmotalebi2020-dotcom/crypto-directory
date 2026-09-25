@@ -1,0 +1,1362 @@
+[
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com",
+    "description": "Largest video platform. Monetization via ads (55% creator share long-form, 45% Shorts), channel memberships, YouTube Premium revenue, Super Thanks, Super Chat, Shopping and Shorts ad revenue. Full YPP requires 1,000 subscribers + 4,000 valid watch hours in 365 days OR 10M valid Shorts views in 90 days. A lower fan-funding tier unlocks at 500 subscribers + 3,000 watch hours or 3M Shorts views. From 1 February 2027, new-applicant thresholds rise to 8,000 watch hours or 20M Shorts views (1,000-subscriber requirement unchanged).",
+    "status": "active",
+    "trustScore": 88,
+    "categories": ["content", "content-video", "content-livestream", "content-shorts", "content-podcasts"],
+    "features": ["ads", "memberships", "super-chat", "super-thanks", "shopping", "premium-revenue", "shorts"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Full ad-revenue eligibility", "value": "1,000 subs + 4,000 watch hours (365d) or 10M Shorts views (90d)" },
+        { "label": "Fan-funding tier (early access)", "value": "500 subs + 3,000 watch hours or 3M Shorts views" },
+        { "label": "Upcoming change (1 Feb 2027)", "value": "New applicants need 8,000 watch hours or 20M Shorts views" },
+        { "label": "Creator ad revenue share", "value": "55% long-form, 45% Shorts" },
+        { "label": "AdSense payout threshold", "value": "$100" },
+        { "label": "Payout methods", "value": "Bank transfer / EFT, wire (via AdSense)" },
+        { "label": "Payout speed", "value": "Monthly (NET 21 after month-end)" },
+        { "label": "Minimum age", "value": "18 for monetization" },
+        { "label": "Access", "value": "Any browser, iOS/Android, YouTube Studio" }
+      ],
+      "pros": [
+        "Largest audience and highest ad RPM of any free video platform",
+        "Two-tier eligibility lets smaller channels unlock memberships/tips before ad revenue",
+        "Diversified income: ads, memberships, Super Chat, Shopping, Premium revenue",
+        "Payout infrastructure (AdSense) is mature and reliable worldwide"
+      ],
+      "cons": [
+        "Thresholds are rising from Feb 2027 — 8,000 watch hours for new applicants",
+        "Ad revenue share (55%) is lower than Rumble's 60% and far below Kick's 95%",
+        "Demonetization and limited-advertiser flags are opaque and appeal is slow",
+        "$100 AdSense minimum is one of the higher payout thresholds"
+      ],
+      "reviewBody": "YouTube remains the default for video creators because its audience and ad rates are unmatched, but the eligibility bar is about to get higher. From 1 February 2027, new applicants to the full ad-revenue tier need 8,000 qualified watch hours (or 20M Shorts views in 90 days) — double the current 4,000-hour requirement. The 1,000-subscriber floor and the lower 500-subscriber fan-funding tier (memberships, Super Thanks) are unchanged.\n\nLong-form creators keep 55% of ad revenue; Shorts creators keep 45% from a pooled Shorts fund. Once approved, earnings accumulate in a linked Google AdSense account and pay out monthly once the balance clears $100, typically by the 21st of the following month. The real upside for most creators is not ad money alone but the funnel YouTube provides to memberships, merch, courses and brand deals.",
+      "testNotes": "Desk research verified 24 September 2026 against YouTube support pages, vidIQ and Finder guides. Confirmed the two-tier structure (500-sub fan funding vs 1,000-sub full YPP) and the 1 Feb 2027 threshold increase. No live channel test performed; payout timing assumes a verified AdSense account in good standing."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 100, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "TikTok",
+    "url": "https://www.tiktok.com",
+    "description": "Short-form video platform. Creator Rewards Program pays eligible original videos over 1 minute based on originality, play duration, search value and engagement. Requires 10,000 followers, 100,000 views in 30 days, age 18+, personal account in an eligible country (US, UK, Germany, France, Japan, South Korea, Mexico, Brazil and expanding). Additional income via LIVE gifts, subscriptions and brand deals.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": ["content", "content-video", "content-shorts", "content-livestream"],
+    "features": ["creator-rewards", "live-gifts", "subscriptions", "brand-deals"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Creator Rewards eligibility", "value": "10,000 followers + 100,000 views in 30 days" },
+        { "label": "Minimum video length to earn", "value": "1 minute (original content only)" },
+        { "label": "Excluded content", "value": "Duets, stitches, photo-mode, sponsored/reposted content" },
+        { "label": "Estimated pay rate", "value": "$0.50–$2.00 per 1,000 qualified views" },
+        { "label": "Account type", "value": "Personal only — business accounts ineligible" },
+        { "label": "Minimum age", "value": "18 (19 in South Korea)" },
+        { "label": "Payout methods", "value": "PayPal, bank transfer" },
+        { "label": "Payout speed", "value": "Monthly" }
+      ],
+      "pros": [
+        "Pay rate ($0.50–$2 per 1k views) is far above the old Creator Fund's $0.02–$0.05",
+        "Algorithm can launch unknown creators to huge reach without an existing audience",
+        "LIVE gifts and subscriptions add income independent of the Rewards Program",
+        "Eligible region list keeps expanding (UK included)"
+      ],
+      "cons": [
+        "Only original videos over 1 minute earn — duets, stitches and photo mode are excluded",
+        "10,000-follower gate is higher than YouTube's fan-funding tier",
+        "Earnings are volatile and formula changes are not announced in advance",
+        "Business/brand accounts cannot join the Rewards Program"
+      ],
+      "reviewBody": "TikTok's Creator Rewards Program replaced the old Creator Fund and pays meaningfully better — roughly $0.50–$2 per 1,000 qualified views versus $0.02–$0.05 under the Fund. The entry bar is unchanged at 10,000 followers and 100,000 views in the last 30 days, but only original, public videos longer than one minute qualify; duets, stitches, photo-mode posts and sponsored content do not. Accounts must be personal (not business) and based in an eligible country — the UK is included, alongside the US, Germany, France, Japan, South Korea, Mexico and Brazil.\n\nBecause rewards weight watch duration and search value, creators who hook viewers for the full minute-plus earn far more than viral-but-short clips. LIVE gifts, subscriptions and brand deals remain separate, more reliable income lines for established creators.",
+      "testNotes": "Eligibility thresholds verified 24 September 2026 against TikTok support pages and multiple 2026 creator guides. Pay-rate range is an industry estimate, not a published rate card. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "monthly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 10, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com",
+    "description": "Writing platform with a Partner Program that pays based on paying-member reading time plus bonuses for external traffic, search discovery and new-member conversions. Requires a paid Medium membership ($5/mo or $50/yr), a complete profile, published stories, a Stripe account and residence in a supported country. No follower minimum.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["content", "content-writing", "content-newsletters"],
+    "features": ["partner-program", "referral", "publications"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Membership required to earn", "value": "$5/month or $50/year (paid Medium member)" },
+        { "label": "Published stories required", "value": "At least 1–6 (sources vary; application reviewed)" },
+        { "label": "Follower minimum", "value": "None" },
+        { "label": "How you're paid", "value": "Member reading time + traffic/conversion bonuses" },
+        { "label": "Payout processor", "value": "Stripe Express → bank account" },
+        { "label": "Payout threshold", "value": "No stated platform minimum" },
+        { "label": "Payout speed", "value": "Monthly (around the 20th)" },
+        { "label": "Minimum age", "value": "18" }
+      ],
+      "pros": [
+        "No follower minimum — earning depends on writing, not audience size",
+        "No minimum payout threshold and no payment-processing fee passed to writers",
+        "Built-in distribution through Medium's homepage and publications",
+        "Bonus pool rewards external traffic and search discovery, not just internal reads"
+      ],
+      "cons": [
+        "You must pay $5/month for a Medium membership to participate",
+        "Earnings are unpredictable and the formula changes frequently",
+        "Application is manually reviewed — not automatic",
+        "AI-content policy is strict; flagged accounts can be removed"
+      ],
+      "reviewBody": "Medium's Partner Program pays writers from a pool funded by paid memberships, weighted by member reading time plus bonuses for external traffic, search discovery and converting new members. Unlike most creator platforms, there is no follower minimum — but you must yourself be a paying Medium member ($5/month or $50/year), have a complete profile and published stories, and link a Stripe account in a supported country. Applications go to Medium's team for review rather than switching on automatically.\n\nPayouts run monthly (around the 20th) via Stripe Express with no stated minimum threshold, which is unusually creator-friendly. The catch is volatility: Medium has repeatedly adjusted the earnings formula through 2025–2026, so monthly income can swing sharply for the same body of work.",
+      "testNotes": "Facts verified 24 September 2026 against Medium's help center and 2026 creator guides. Story-count requirement varies by source (1 vs 6) because Medium has changed it; application is reviewed case-by-case. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Substack",
+    "url": "https://substack.com",
+    "description": "Newsletter platform for writers, podcasters and video creators. Free to publish; paid subscriptions incur a flat 10% platform fee plus Stripe processing (~2.9% + $0.30 and a 0.7% recurring-billing surcharge). Writers own and can export their email list. Supports podcasts, video, chat and Notes discovery.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": ["content", "content-newsletters", "content-writing", "content-podcasts", "content-video"],
+    "features": ["paid-subscriptions", "referral", "notes-discovery", "podcast-hosting", "chat"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Platform fee", "value": "10% of paid subscription revenue (free newsletters cost $0)" },
+        { "label": "Payment processing", "value": "Stripe ~2.9% + $0.30 + 0.7% recurring-billing surcharge" },
+        { "label": "All-in take on a $10 sub", "value": "~13–16% (you keep ~$8.40–$8.70)" },
+        { "label": "Payout processor", "value": "Your own Stripe account → bank" },
+        { "label": "Payout threshold", "value": "None" },
+        { "label": "First payout delay", "value": "7–14 days for a new Stripe account" },
+        { "label": "Payout speed", "value": "Monthly (NET 30)" },
+        { "label": "List ownership", "value": "Full — export subscribers anytime" }
+      ],
+      "pros": [
+        "Free to start and free newsletters cost nothing — you only pay when you earn",
+        "You own your email list and can export it at any time",
+        "Stripe account is yours, so money flows directly to you",
+        "Notes discovery and recommendations give cold starts an audience boost"
+      ],
+      "cons": [
+        "10% flat fee never decreases, even at $100k+/month revenue",
+        "Stripe's 0.7% recurring-billing surcharge (post-July 2024) adds a hidden cut",
+        "iOS in-app purchases add Apple's fee on top",
+        "Design and customization are limited compared to Ghost"
+      ],
+      "reviewBody": "Substack is the lowest-friction way to launch a paid newsletter: publishing is free, you only pay the 10% platform cut on actual paid subscription revenue, and the money flows through your own Stripe account directly to your bank. On top of the 10%, Stripe charges ~2.9% + $0.30 per transaction plus a 0.7% recurring-billing surcharge (for accounts created after July 2024), putting the all-in take at roughly 13–16% on a typical monthly subscription.\n\nWriters fully own their subscriber list and can export it, which makes exit cheap. The trade-off is limited design control and a flat 10% fee that never scales down — at high revenue, Ghost (0% platform fee) or beehiiv become cheaper. Substack's Notes feed and recommendations remain its biggest advantage for growing an audience from zero.",
+      "testNotes": "Fee structure verified 24 September 2026 against Substack support docs and multiple 2026 fee analyses. Payout timing assumes a verified Stripe account. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Patreon",
+    "url": "https://www.patreon.com",
+    "description": "Membership platform for creators. Fans pay monthly for exclusive content. New creators (pages created after 4 August 2025) pay a flat 10% platform fee plus payment processing (2.9% + $0.30) and payout fees. Legacy creators pay 5–12%. Works for video, podcasts, art, writing and communities. Includes native video, livestreaming and podcast RSS.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": ["content", "content-fans", "content-podcasts", "content-digital", "content-video", "content-livestream"],
+    "features": ["memberships", "referral", "livestreaming", "podcast-rss", "analytics"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Platform fee (new creators)", "value": "10% flat (pages created after 4 Aug 2025)" },
+        { "label": "Legacy creator fees", "value": "5%, 8% or ~11–12% depending on plan" },
+        { "label": "Payment processing", "value": "2.9% + $0.30 per pledge" },
+        { "label": "PayPal payout", "value": "1% fee (min $0.25, cap $20), $10 minimum" },
+        { "label": "Payoneer payout", "value": "$1 per payout, $25 minimum (non-US)" },
+        { "label": "US direct deposit", "value": "$0.25 per payout, no stated minimum" },
+        { "label": "Payout speed", "value": "Monthly (around the 5th)" },
+        { "label": "Spotify integration", "value": "Paid episodes can sit alongside free in Spotify feed" }
+      ],
+      "pros": [
+        "Most established membership brand — fans already understand the model",
+        "Flat 10% for new creators includes every feature (video, livestream, podcast RSS, analytics)",
+        "Strong discovery and recommendation tools for converting fans",
+        "Spotify integration lets paid episodes appear in the same feed as free ones"
+      ],
+      "cons": [
+        "All-in cost is ~14–16% of revenue once processing and payout fees are added",
+        "Small pledges are hit hard by the $0.30 flat processing fee",
+        "Payout fees vary by method and region — international creators pay more",
+        "You do not own your audience list as directly as on Ghost/Substack"
+      ],
+      "reviewBody": "Patreon consolidated its pricing on 4 August 2025: any creator launching a page after that date pays a flat 10% platform fee on everything, with legacy creators grandfathered at 5–12%. On top of that, every pledge incurs Stripe-style processing of 2.9% + $0.30, and withdrawals add payout fees — $0.25 for US direct deposit, 1% (capped at $20) for PayPal with a $10 minimum, and $1 per Payoneer payout with a $25 minimum for non-US creators. Real take-home is therefore closer to 84–86% of gross.\n\nPatreon's strength is maturity: native video, livestreaming, podcast RSS with Spotify integration, member analytics and the strongest brand recognition in memberships. It remains the default for creators converting an existing audience into recurring revenue, though at scale Ghost or self-hosted alternatives keep more.",
+      "testNotes": "Fee schedule verified 24 September 2026 against Patreon's official help center and 2026 fee breakdowns. Payout minimums vary by method and region; figures shown are the most common. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "monthly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Twitch",
+    "url": "https://www.twitch.tv",
+    "description": "Livestreaming platform for gaming, music, talk and creative streams. Affiliate and Partner creators earn via subscriptions (standard 50/50 split; Partners can reach 70/30 via the Plus Program), Bits ($0.01 each), ads and sponsorships. Affiliate requirements: 25 followers, 4 hours streamed on 4 unique days, and 3 average viewers on 4 stream days in a rolling 30-day window. Payout threshold $50.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": ["content", "content-livestream", "content-gaming"],
+    "features": ["subscriptions", "bits", "ads", "sponsorships", "channel-points"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Affiliate requirements", "value": "25 followers, 4 hours, 4 unique days, 3 avg viewers (rolling 30d)" },
+        { "label": "Standard sub split", "value": "50/50 (~$2.50 per $4.99 Tier 1 sub)" },
+        { "label": "Partner Plus Program", "value": "Up to 70/30 after viewership thresholds" },
+        { "label": "Bits value", "value": "$0.01 per Bit to the creator" },
+        { "label": "Payout threshold", "value": "$50" },
+        { "label": "Payout schedule", "value": "NET 15 (around the 15th of the following month)" },
+        { "label": "Payout methods", "value": "Direct deposit, PayPal, check, other regional methods" },
+        { "label": "Minimum age", "value": "13 to use; 18+ for monetization in most regions" }
+      ],
+      "pros": [
+        "Affiliate unlock is reachable within weeks of consistent streaming",
+        "Most mature livestream monetization stack: subs, Bits, ads, sponsorships",
+        "Partner Plus Program can lift the split to 70/30",
+        "Discovery infrastructure (categories, raids, clips) is the deepest in live"
+      ],
+      "cons": [
+        "50/50 default split is the lowest among major livestream platforms (Kick pays 95/5)",
+        "$50 payout threshold means small earners wait months",
+        "Ad revenue is modest and ad-skipping tools reduce it further",
+        "Partner status is invite-only and requires sustained ~75 average viewers"
+      ],
+      "reviewBody": "Twitch is still the default livestream platform, and its Affiliate tier is deliberately easy to reach: 25 followers, 4 hours streamed across 4 unique days, and 3 average concurrent viewers on 4 stream days within a rolling 30-day window. Once in, creators earn from subscriptions at a standard 50/50 split (~$2.50 per $4.99 Tier 1 sub), Bits at $0.01 each, and ads. Partners can qualify for the Plus Program and a 70/30 split after crossing viewership thresholds.\n\nThe weak point is economics. Kick's flat 95/5 split leaves roughly double the per-sub revenue, and Twitch's $50 minimum payout (NET 15 schedule) means small streamers accumulate balances for months. Twitch's real moat is discovery — raids, categories, clips and the largest live audience — which is why most streamers stay even when the split is worse.",
+      "testNotes": "Affiliate criteria and $50 threshold verified 24 September 2026 against Twitch's help center and 2026 streamer guides. Some older guides still cite 50 followers/500 minutes, but Twitch lowered the bar to 25/4h/4d/3 viewers. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 50, "speed": "monthly" },
+      { "coin": "USD", "payment": "paypal", "min": 50, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Buy Me a Coffee",
+    "url": "https://www.buymeacoffee.com",
+    "description": "Creator support platform. Fans send tips and buy memberships, extras and shop items. Flat 5% platform fee on all transactions (no monthly plan, no tier that reduces it), plus Stripe processing. First payout unlocks at $10 after account moderation. Payouts via Stripe to bank, processed weekly (Wednesdays).",
+    "status": "active",
+    "trustScore": 82,
+    "categories": ["content", "content-fans", "content-digital", "selling", "selling-digital"],
+    "features": ["tips", "memberships", "shop", "extras", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Platform fee", "value": "Flat 5% on all transactions (no monthly fee)" },
+        { "label": "Payment processing", "value": "Stripe ~2.9% + $0.30 (usually passed to supporters)" },
+        { "label": "First payout threshold", "value": "$10" },
+        { "label": "Payout route", "value": "Stripe → bank account (PayPal not direct)" },
+        { "label": "Payout processing day", "value": "Weekly, each Wednesday after moderation" },
+        { "label": "What you can sell", "value": "Tips, memberships, extras (commissions), physical/digital shop" },
+        { "label": "Minimum age", "value": "18" }
+      ],
+      "pros": [
+        "Simplest pricing of any tip platform — one flat 5%, no monthly tiers",
+        "Cleanest default page design and high tip-page conversion",
+        "One dashboard covers tips, memberships, commissions and a shop",
+        "Embeddable widget works on any personal website"
+      ],
+      "cons": [
+        "5% never goes down, even at high volume (Ko-fi Gold and others reach 0%)",
+        "Payouts go through Stripe only — no direct PayPal route",
+        "First payout requires moderation review and a $10 balance",
+        "Discovery and integrations are weaker than Patreon's"
+      ],
+      "reviewBody": "Buy Me a Coffee keeps pricing deliberately simple: no monthly plans, no tiers, just a flat 5% platform fee on every transaction — tips, memberships, extras (custom commissions) and shop sales alike. Stripe processing (~2.9% + $0.30) sits on top, and most creators pass that to supporters at checkout. The first payout unlocks at a $10 balance and requires a moderation review; after approval, funds move to your connected Stripe account and then to your bank, with payout runs processed weekly (typically each Wednesday).\n\nThe trade-off for simplicity is that 5% never decreases — creators earning consistently can reach 0% platform fees on Ko-fi Gold or Fourthwall Pro. BMC's edge is the polished default page and the highest tip conversion among the lightweight platforms, plus an embeddable widget for personal sites.",
+      "testNotes": "Fee and $10 threshold verified 24 September 2026 against BMC's official FAQ. Weekly Wednesday processing confirmed via payout aggregator data. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 10, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Facebook Creator",
+    "url": "https://www.facebook.com/creators",
+    "description": "Facebook's creator monetization via in-stream ads, Reels ads, Stars (tips, $0.01 each), subscriptions and performance bonuses. In-stream ads require ~10,000 Page followers plus 600,000 minutes viewed in 60 days and 5+ active videos; Stars opens around 500 followers. Thresholds are invite-only/varying and Meta no longer publishes fixed numbers. Paid monthly at ~$100 minimum.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": ["content", "content-video", "content-shorts", "content-fans", "content-livestream"],
+    "features": ["in-stream-ads", "reels-ads", "stars", "subscriptions", "bonuses"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "In-stream ads (typical)", "value": "~10,000 followers + 600,000 min viewed (60d) + 5 videos" },
+        { "label": "Stars (tips) eligibility", "value": "From ~500 followers, by invite" },
+        { "label": "Star value to creator", "value": "$0.01 per Star" },
+        { "label": "Reels RPM (typical)", "value": "$0.02–$0.20 per 1,000 views" },
+        { "label": "Creator ad share", "value": "~55%" },
+        { "label": "Payout threshold", "value": "$100 (Stars and ad revenue)" },
+        { "label": "Payout speed", "value": "Monthly" },
+        { "label": "Enrollment", "value": "Invite-only via Professional Dashboard; thresholds not published" }
+      ],
+      "pros": [
+        "Huge built-in audience and strong Reels distribution",
+        "Multiple income lines: in-stream ads, Reels ads, Stars, subscriptions, bonuses",
+        "Stars tipping opens at a low follower count (~500) for eligible creators",
+        "Meta payout infrastructure is reliable for established creators"
+      ],
+      "cons": [
+        "No open-enrollment program — Meta invites creators and keeps thresholds opaque",
+        "Reels pay very little ($0.02–$0.20 RPM) versus long-form in-stream ads",
+        "Bonus programs are seasonal and invite-only; no self-service apply",
+        "$100 minimum payout and monthly cadence slow down small earners"
+      ],
+      "reviewBody": "Facebook's creator monetization is real but gated: there is no open-enrollment program in 2026, and Meta no longer publishes fixed thresholds — access is via the Professional Dashboard by invitation. Commonly cited entry bars are ~10,000 Page followers plus 600,000 minutes viewed in 60 days (with 5+ active videos) for in-stream ads, and roughly 500 followers for Stars tipping, but both vary by country and account. Reels ad revenue pays poorly — typically $0.02–$0.20 per 1,000 views — while long-form in-stream ads pay a more meaningful ~55% creator share of a higher CPM.\n\nStars ($0.01 each to the creator) and subscriptions are the most accessible income for smaller creators. Everything pays out monthly through Meta's payout system once the balance clears $100.",
+      "testNotes": "Verified 24 September 2026. Meta does not publish fixed thresholds in 2026; figures are the commonly cited ranges from creator guides and Meta Business Help. Treat exact numbers as indicative. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 100, "speed": "monthly" },
+      { "coin": "USD", "payment": "paypal", "min": 100, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Instagram Creator",
+    "url": "https://creators.instagram.com",
+    "description": "Instagram creator monetization via gifts on Reels and Live (from ~500 followers), subscriptions (from ~10,000 followers, invite), and brand partnerships/affiliate. The Reels Play Bonus program stopped accepting new participants in March 2025; seasonal bonuses are invite-only with no self-service path. Paid monthly via Meta payout.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["content", "content-video", "content-shorts", "content-fans"],
+    "features": ["gifts", "subscriptions", "brand-deals", "affiliate"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Gifts on Reels/Live", "value": "From ~500 followers (eligible accounts)" },
+        { "label": "Subscriptions", "value": "From ~10,000 followers, by invite" },
+        { "label": "Reels Play Bonus", "value": "Closed to new participants since March 2025" },
+        { "label": "Ads on Reels RPM", "value": "$0.01–$0.05 per 1,000 views" },
+        { "label": "Subscription price range", "value": "$0.99–$99.99/month" },
+        { "label": "Payout threshold", "value": "$100 (Meta payout)" },
+        { "label": "Payout speed", "value": "Monthly" },
+        { "label": "Most reliable income", "value": "Brand deals and affiliate (no platform minimum)" }
+      ],
+      "pros": [
+        "Gifts open at a relatively low ~500 followers for eligible accounts",
+        "Unmatched reach for brand deals — the primary real income for most creators",
+        "Affiliate and subscription tools are built in",
+        "Meta payout is reliable once you're in the system"
+      ],
+      "cons": [
+        "No open-enrollment ad program; Reels Play Bonus is closed to new creators",
+        "Reels ad RPM is very low ($0.01–$0.05 per 1k views)",
+        "Subscriptions and bonuses are invite-only with no self-service application",
+        "Platform algorithm changes can crater reach overnight"
+      ],
+      "reviewBody": "Instagram in 2026 has no open-enrollment monetization program. The Reels Play Bonus stopped accepting new participants in March 2025, and its seasonal replacements are invite-only. Direct platform income is limited to gifts on Reels and Live (opening around 500 followers for eligible accounts) and subscriptions (around 10,000 followers, by invitation). Ads on Reels pay a very low $0.01–$0.05 per 1,000 views.\n\nFor most creators the real money on Instagram is off-platform: brand deals and affiliate marketing, which have no follower minimum and no platform cut. Anything earned through Meta's own tools accumulates in the Meta payout system and releases monthly at $100.",
+      "testNotes": "Verified 24 September 2026 against creator-economy guides and Meta's 2026 documentation. Follower thresholds are indicative; Meta does not publish fixed numbers. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 100, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "X (Twitter) Creator",
+    "url": "https://x.com",
+    "description": "X's creator monetization is in transition. The Creator Revenue Sharing program was retired on 7 September 2026 (new enrollments closed 7 August 2026). It is replaced by the Original Content Rewards program, which requires ~500 verified followers, 500,000 Home Timeline impressions from verified users in 90 days, and an active X Premium subscription. Reposts and recycled content are explicitly excluded. US creators paid via X Money; others via Stripe. Status: under active review.",
+    "status": "under_review",
+    "trustScore": 62,
+    "categories": ["content", "content-writing", "content-fans", "content-video"],
+    "features": ["original-content-rewards", "subscriptions", "x-money"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Old program retired", "value": "Creator Revenue Sharing ended 7 Sep 2026; final payout ~11 Sep 2026" },
+        { "label": "Replacement program", "value": "Original Content Rewards (rolling out from 8 Sep 2026)" },
+        { "label": "New eligibility (reported)", "value": "~500 verified followers + 500k verified-user impressions (90d) + X Premium" },
+        { "label": "Excluded content", "value": "Reposts, re-uploads, recycled/aggregated content" },
+        { "label": "US payout rail", "value": "X Money (instant)" },
+        { "label": "Non-US payout rail", "value": "Stripe (monthly)" },
+        { "label": "Re-application", "value": "Everyone must re-apply; approval is not automatic" }
+      ],
+      "pros": [
+        "New program explicitly rewards original posts rather than reply-ad impressions",
+        "US creators get instant payouts via X Money",
+        "Subscriptions remain a separate, stable income line",
+        "Premium-heavy audiences may earn more under the new formula"
+      ],
+      "cons": [
+        "Program changed in September 2026 — rules are new and unproven",
+        "Everyone must re-apply; existing Revenue Sharing members were not grandfathered",
+        "Requires an active paid X Premium subscription to earn",
+        "Eligibility depends on impressions from verified (Premium) users, which most accounts lack"
+      ],
+      "reviewBody": "X retired its Creator Revenue Sharing program on 7 September 2026 (new enrollments had closed on 7 August) and replaced it with Original Content Rewards, rolling out from 8 September. Existing members earned through 7 September and received a final payout around 11 September; no one is grandfathered — every creator must re-apply, and approval is not automatic. The new program pays based on qualified impressions from Premium subscribers and explicitly excludes reposts, re-uploaded media and lightly recycled content. Reported eligibility is roughly 500 verified followers, 500,000 Home Timeline impressions from verified users in 90 days, and an active X Premium subscription.\n\nUS creators are paid through X Money instantly; everyone else is still paid through Stripe. Because the program is weeks old at time of research, earnings stability and payout reliability are unproven — hence under_review status.",
+      "testNotes": "Program-change dates verified 24 September 2026 against X's help center and multiple news reports (7–11 Sep 2026). Eligibility figures for Original Content Rewards are reported by industry outlets, not yet fully published by X in one help page. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 50, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Rumble",
+    "url": "https://rumble.com",
+    "description": "Video platform positioned as a free-speech alternative to YouTube. Ad revenue share (60% to creator) is available with no subscriber/watch-hour gate — an account in good standing for 30 days with one original video can apply. The separate Rumble Creator Program (livestreaming) requires 100 followers, 1 hour streamed via Rumble Studio in 30 days and an active Rumble Premium subscription to enroll; monthly payout requires 30 stream hours, 200+ watch hours and 20+ chatters. Owns Locals.com.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["content", "content-video", "content-livestream"],
+    "features": ["ads", "licensing", "creator-program", "premium-revenue"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Ad revenue creator share", "value": "60% (above YouTube's 55%)" },
+        { "label": "Ad monetization gate", "value": "None — 30-day good-standing account + 1 original video" },
+        { "label": "Creator Program (live) enrollment", "value": "100 followers + 1hr streamed (30d) + Rumble Premium" },
+        { "label": "Monthly payout (live) requirements", "value": "30 stream hrs, 200+ watch hrs, 20+ chatters, 5 raids" },
+        { "label": "Payout methods", "value": "PayPal, bank transfer" },
+        { "label": "Payout threshold", "value": "$50 (commonly cited)" },
+        { "label": "Payout speed", "value": "Monthly" },
+        { "label": "Strongest markets", "value": "US, UK, Canada" }
+      ],
+      "pros": [
+        "No subscriber or watch-hour gate for ad revenue — earn from your first original video",
+        "60% creator ad share beats YouTube's 55%",
+        "More lenient content moderation for controversial topics",
+        "Licensing deals can provide lump-sum income for popular clips"
+      ],
+      "cons": [
+        "Audience and ad RPM are much smaller than YouTube's",
+        "Livestream Creator Program has demanding monthly hurdles to actually get paid",
+        "Requires your own Rumble Premium subscription to join the Creator Program",
+        "Brand-safe advertisers are fewer, so RPMs stay low"
+      ],
+      "reviewBody": "Rumble's headline advantage is the lowest monetization gate in video: an account in good standing for 30 days with at least one original video can apply for the Partner Program and earn a 60% share of ad revenue — no 1,000 subscribers or 4,000 watch hours. Approval takes roughly 5–10 business days in 2026. The catch is scale: Rumble's audience and advertiser base are a fraction of YouTube's, so RPMs are lower and absolute earnings are usually far smaller.\n\nThe separate livestream Creator Program is easy to enroll in (100 followers, 1 hour streamed, active Rumble Premium) but hard to get paid from — each month requires 30 stream hours, 200+ hours of watch time, 20+ unique chatters and raids across five streams. Rumble also owns Locals.com for paid communities.",
+      "testNotes": "Requirements verified 24 September 2026 against Rumble's support center and 2026 creator guides. $50 payout threshold is widely cited but not always published on Rumble's own pages; confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 50, "speed": "monthly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 50, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Kick",
+    "url": "https://kick.com",
+    "description": "Livestreaming platform taking on Twitch. Streamers keep 95% of subscription revenue — the highest split in the industry ($4.75 per $5 sub). Tips ('Kicks') pass through at ~97%. Additional monetization via the Hours Watched Program and sponsorships. Minimum payout $50, paid monthly via wire/PayPal (Tipalti for non-US creators, who must complete tax forms).",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["content", "content-livestream", "content-gaming"],
+    "features": ["subscriptions", "tips-kicks", "hours-watched-program", "sponsorships"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Subscription split", "value": "95/5 creator ($4.75 per $5 Tier 1 sub)" },
+        { "label": "Tips ('Kicks') pass-through", "value": "~97% after payment processing" },
+        { "label": "Minimum payout", "value": "$50 (balances roll over monthly)" },
+        { "label": "Payout methods", "value": "Wire/ACH, PayPal, regional methods via Tipalti" },
+        { "label": "Payout speed", "value": "Monthly, ~15–30 days after month-end" },
+        { "label": "Non-US tax form", "value": "W-8BEN via Tipalti required before first payout" },
+        { "label": "Affiliate/Creator entry", "value": "Low — no fixed follower gate for monetization" }
+      ],
+      "pros": [
+        "95/5 sub split is the industry best — roughly double Twitch's standard 50/50",
+        "Low entry barrier — monetization opens without a fixed follower gate",
+        "Tips pass through at ~97%, near-full value",
+        "Hours Watched Program adds revenue for top streamers"
+      ],
+      "cons": [
+        "Audience size and discovery lag far behind Twitch",
+        "$50 minimum payout means small earners wait 2–3 months",
+        "Non-US creators must complete tax forms via Tipalti before first payout",
+        "Platform financial backing has been questioned; long-term stability unproven"
+      ],
+      "reviewBody": "Kick's entire pitch is the 95/5 subscription split — a $5 sub leaves $4.75 with the streamer, roughly double what the same sub leaves on Twitch's standard 50/50. Tips ('Kicks') pass through at about 97% after processing, and the Hours Watched Program adds a variable pool for top streamers. Monetization opens at a low barrier with no fixed follower gate, and balances below $50 roll over month to month until the threshold is crossed.\n\nPayouts run monthly (around 15–30 days after month-end) via wire, ACH or PayPal, with non-US creators routed through Tipalti and required to complete a W-8BEN-equivalent tax form before their first withdrawal. The trade-off is audience: Kick's viewership and discovery are a fraction of Twitch's, so most streamers earn less in absolute terms despite the better split.",
+      "testNotes": "Split and $50 threshold verified 24 September 2026 against multiple 2026 payout guides. One source cites $100; the majority and most recent sources say $50 — confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 50, "speed": "monthly" },
+      { "coin": "USD", "payment": "paypal", "min": 50, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Spotify for Creators",
+    "url": "https://creators.spotify.com",
+    "description": "Free podcast and video hosting from Spotify. Monetization via the Spotify Partner Program (50% share of ad revenue + Premium video engagement), creator-managed sponsorships (100% kept), and paid subscriptions (Spotify takes ~5%). Eligibility lowered Jan 2026 to 1,000 engaged listeners, 2,000 consumption hours in 30 days and 3 published episodes, in an eligible market (expanded to 35+ new markets in Sep 2026).",
+    "status": "active",
+    "trustScore": 78,
+    "categories": ["content", "content-podcasts", "content-video"],
+    "features": ["free-hosting", "partner-program-ads", "sponsorships", "paid-subscriptions", "video-podcasts"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Hosting cost", "value": "Free, unlimited uploads" },
+        { "label": "Partner Program ad share", "value": "50% to creator" },
+        { "label": "Eligibility (lowered Jan 2026)", "value": "1,000 engaged listeners + 2,000 hrs consumed (30d) + 3 episodes" },
+        { "label": "Creator-managed sponsorships", "value": "100% revenue kept by creator" },
+        { "label": "Paid subscriptions cut", "value": "~5% to Spotify" },
+        { "label": "Markets", "value": "35+ new markets added Sep 2026 (UK included)" },
+        { "label": "Payout speed", "value": "Monthly" },
+        { "label": "Analytics", "value": "Thinner than IAB-certified competitors" }
+      ],
+      "pros": [
+        "Hosting is completely free with unlimited uploads — the default starting point",
+        "Eligibility thresholds were cut sharply in January 2026",
+        "You keep 100% of creator-managed sponsorship revenue",
+        "Program expanded to 35+ new markets in September 2026"
+      ],
+      "cons": [
+        "Spotify keeps 50% of ad revenue — the highest cut among major podcast ad programs",
+        "Analytics are thinner than IAB-certified competitors like Buzzsprout/Captivate",
+        "Free hosting comes with limited customization and no custom domain",
+        "Native recording/editing tools have been scaled back"
+      ],
+      "reviewBody": "Spotify for Creators (formerly Spotify for Podcasters) is the default free host — unlimited uploads at $0, with distribution built into the world's largest audio platform. Monetization runs through the Spotify Partner Program, which pays a 50% share of ad revenue plus Premium-video engagement; eligibility was lowered in January 2026 to 1,000 engaged listeners, 2,000 consumption hours in 30 days and 3 published episodes, and the program expanded to 35+ new markets in September 2026. Creators keep 100% of sponsorships they sell themselves, and paid subscriptions cost Spotify only ~5%.\n\nThe catch is the 50% ad-revenue cut — the steepest among major podcast monetization programs — plus analytics that are thinner than IAB-certified hosts. For established shows, moving hosting to Buzzsprout, Captivate or Podbean and keeping your own ad deals usually nets more.",
+      "testNotes": "Eligibility and market expansion verified 24 September 2026 against Spotify's newsroom (Jan & Sep 2026) and creator guides. Payout minimum not publicly stated; monthly cadence confirmed. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 10, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Beehiiv",
+    "url": "https://www.beehiiv.com",
+    "description": "Newsletter platform built for growth and monetization. Free Launch plan up to 2,500 subscribers with unlimited sends. Paid Scale plan from ~$43/month (annual) unlocks the ad network (Boost), referrals, A/B testing and monetization. Takes 0% of subscription revenue; creators keep ~97% after Stripe. Built-in ad network pays $15–$30 CPMs.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": ["content", "content-newsletters", "content-writing"],
+    "features": ["paid-subscriptions", "ad-network", "referral", "boosts", "website", "podcast-hosting"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Free Launch plan", "value": "Up to 2,500 subscribers, unlimited sends, no card required" },
+        { "label": "Scale plan", "value": "~$43/mo annual ($49 monthly), unlocks ad network & referrals" },
+        { "label": "Max plan", "value": "~$96/mo annual" },
+        { "label": "Platform cut on subscriptions", "value": "0% (you pay Stripe processing only)" },
+        { "label": "Ad network CPM", "value": "$15–$30 (built-in, no sales work)" },
+        { "label": "Payout processor", "value": "Stripe → bank" },
+        { "label": "Payout speed", "value": "Weekly/monthly via Stripe" },
+        { "label": "Growth tools", "value": "Boosts (paid cross-promo), referrals, A/B testing" }
+      ],
+      "pros": [
+        "Best free tier in newsletters — 2,500 subscribers and unlimited sends",
+        "0% platform cut on subscription revenue (Substack takes 10%)",
+        "Built-in ad network pays $15–$30 CPM with no sales effort",
+        "Strongest growth tooling: Boosts cross-promo, referrals, A/B testing"
+      ],
+      "cons": [
+        "Monetization and growth tools require the paid Scale plan (~$43/mo+)",
+        "Pricing scales with subscriber count and can jump sharply at tiers",
+        "Less established than Substack for discovery (no equivalent of Notes)",
+        "Customization and design control trail Ghost"
+      ],
+      "reviewBody": "Beehiiv is the growth-first newsletter platform. Its free Launch plan is genuinely useful — up to 2,500 subscribers, unlimited sends, a website and podcast hosting, no credit card — and unlike Substack it takes 0% of subscription revenue (you pay only Stripe processing). The paid Scale plan (~$43/month annual, $49 monthly) unlocks the built-in ad network (paying $15–$30 CPMs), Boosts (paid cross-promotion between newsletters), referrals and A/B testing — tools that have made it the default for creators who treat their newsletter as a business.\n\nThe trade-off is that monetization and growth features sit behind the paid plan, and pricing scales with list size. For pure writing with minimal overhead, Substack's free-forever model is cheaper at the start; for maximizing revenue per subscriber, beehiiv's ad network and growth tooling usually win.",
+      "testNotes": "Pricing verified 24 September 2026 against beehiiv's pricing page and 2026 comparisons. Ad-network CPM range is reported by industry sources, not guaranteed. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Ghost",
+    "url": "https://ghost.org",
+    "description": "Open-source publishing platform for blogs, newsletters and memberships. 0% platform fee on all plans — you connect your own Stripe and keep everything minus processing. Self-host for free (your own server), or use managed Ghost(Pro) from ~$18/month (Starter, annual, 1,000 members); paid subscriptions require Publisher at ~$29/month. Full brand ownership and SEO.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": ["content", "content-newsletters", "content-writing", "content-fans"],
+    "features": ["paid-memberships", "0%-platform-fee", "self-hosted", "custom-domain", "seo", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Platform fee on revenue", "value": "0% on all plans (pay only Stripe ~2.9% + $0.30)" },
+        { "label": "Self-hosted", "value": "Free, open source (MIT) — your server, your ops" },
+        { "label": "Ghost(Pro) Starter", "value": "~$18/mo annual ($22 monthly), 1,000 members" },
+        { "label": "Ghost(Pro) Publisher (paid subs)", "value": "~$29/mo annual ($35 monthly)" },
+        { "label": "Payout", "value": "Direct to your own Stripe account — money never touches Ghost" },
+        { "label": "Payout speed", "value": "Instant/direct (Stripe timing)" },
+        { "label": "Break-even vs Substack", "value": "Roughly $290–$350/mo paid revenue" },
+        { "label": "Ownership", "value": "Full — own your data, brand, domain and audience" }
+      ],
+      "pros": [
+        "0% platform fee — the best economics at scale (above ~$300/mo revenue beats Substack's 10%)",
+        "Money goes straight to your Stripe — Ghost never holds funds",
+        "Full brand ownership, custom domain and strong SEO",
+        "Open source — self-host for free and never be locked in"
+      ],
+      "cons": [
+        "Flat monthly hosting fee means it costs money even before you earn",
+        "Self-hosting requires technical ops; managed Pro is not free",
+        "No built-in discovery network (you must drive your own audience)",
+        "Setup and theme customization have a steeper learning curve"
+      ],
+      "reviewBody": "Ghost is the economics-first choice for paid newsletters and memberships: it charges 0% of your revenue on every plan, connecting directly to your own Stripe account so money flows to you instantly and Ghost never holds funds. You can self-host the open-source software for free (your own server, your own maintenance), or use managed Ghost(Pro) hosting from about $18/month annual on Starter (1,000 members), with paid subscriptions requiring the Publisher plan at about $29/month annual.\n\nBecause Ghost costs a flat monthly fee rather than a revenue cut, it becomes cheaper than Substack's 10% at roughly $290–$350/month in paid revenue, and far cheaper at scale. The trade-off is that there is no built-in discovery network — you must bring your own audience — and self-hosting requires technical comfort. For publishers with an existing audience, it is usually the optimal financial choice.",
+      "testNotes": "Pricing and 0% fee verified 24 September 2026 against Ghost's official pages and 2026 comparisons. Ghost(Pro) prices vary slightly by member tier and billing cycle. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
+  },
+  {
+    "name": "Teachable",
+    "url": "https://teachable.com",
+    "description": "Online course platform. Create and sell video courses with memberships, quizzes, drip content and coaching. The standalone free plan was eliminated in 2025; entry is now Starter at $39/month ($29 annual) with a 7.5% transaction fee, capped at 5 courses and 100 students. Builder ($89/mo, $69 annual) and above have 0% transaction fees via Teachable:Pay.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["content", "content-courses", "content-coaching", "content-digital"],
+    "features": ["courses", "quizzes", "drip-content", "coaching", "affiliate", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Entry plan (Starter)", "value": "$39/mo ($29 annual), 7.5% transaction fee" },
+        { "label": "Starter limits", "value": "5 courses, 100 active students" },
+        { "label": "Builder plan", "value": "$89/mo ($69 annual), 0% fee, 10 courses, 1,000 students" },
+        { "label": "Growth plan", "value": "$189/mo ($139 annual), 0% fee, 50 courses, 5,000 students" },
+        { "label": "Free plan", "value": "Eliminated 2025 (limited test plan with 10%+$1 fee may remain)" },
+        { "label": "Payment processing", "value": "2.9% + $0.30 via Teachable:Pay (on top of any transaction fee)" },
+        { "label": "Payout speed", "value": "Monthly via Teachable:Pay / Stripe" },
+        { "label": "Affiliate program", "value": "Built-in on higher plans" }
+      ],
+      "pros": [
+        "Most widely used course platform — large community and support ecosystem",
+        "0% transaction fees on Builder and above via Teachable:Pay",
+        "Built-in affiliate marketing, quizzes, drip content and coaching",
+        "7-day free trial on all paid plans"
+      ],
+      "cons": [
+        "Free plan eliminated in 2025 — no zero-cost way to test a course",
+        "Starter's 7.5% fee + $39/mo is expensive for low-volume creators",
+        "Course and student caps on lower plans are restrictive",
+        "Thinkific's free plan charges 0% and is more generous for beginners"
+      ],
+      "reviewBody": "Teachable is the most established name in online course platforms, but its pricing moved upmarket in 2025 when the standalone free plan was eliminated. The entry point is now Starter at $39/month ($29 billed annually) with a 7.5% transaction fee, capped at 5 courses and 100 active students. The Builder plan ($89/month, $69 annual) removes the transaction fee via Teachable:Pay and raises caps to 10 courses and 1,000 students; Growth ($189/month) adds affiliate marketing and 50 courses.\n\nStandard payment processing (2.9% + $0.30) applies on top of any platform transaction fee. For creators just testing a course, Thinkific's genuinely free 0%-fee plan is friendlier; for established course sellers, Teachable's maturity and built-in affiliate tooling justify the cost.",
+      "testNotes": "Pricing verified 24 September 2026 against Teachable's pricing page and multiple 2026 comparisons. Some older guides still list a free plan (10%+$1 fee) — the standalone free tier was removed in 2025; a limited test plan may remain. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Thinkific",
+    "url": "https://thinkific.com",
+    "description": "Course and community platform. Sell courses, memberships and downloads. Generous free plan: 1 course, unlimited students, 0% transaction fees. Paid plans start at ~$49/month ($36–$40 annual) with 0% transaction fees via Thinkific Payments (5% surcharge if you connect your own Stripe on Basic). Popular with educators.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": ["content", "content-courses", "content-community", "content-digital"],
+    "features": ["courses", "community", "0%-transaction-fee", "free-plan", "affiliate", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Free plan", "value": "1 course, unlimited students, 0% transaction fees" },
+        { "label": "Basic paid plan", "value": "~$49/mo ($36–$40 annual), unlimited courses" },
+        { "label": "Transaction fee (all plans)", "value": "0% via Thinkific Payments (5% surcharge on own-Stripe Basic)" },
+        { "label": "Payment processing", "value": "Stripe/PayPal ~2.9% + $0.30" },
+        { "label": "Payout speed", "value": "2–4 business days via Stripe Express" },
+        { "label": "Student cap (paid)", "value": "10,000 current students on named plans" },
+        { "label": "Affiliate program", "value": "20% recurring commission" }
+      ],
+      "pros": [
+        "Best free plan in course platforms — 1 course, unlimited students, 0% fees",
+        "0% transaction fee on every plan via Thinkific Payments",
+        "Strong course-building tools and student experience",
+        "Lower entry price than Teachable/Kajabi"
+      ],
+      "cons": [
+        "Connecting your own Stripe on Basic incurs a 5% surcharge",
+        "Named plans cap at 10,000 current students",
+        "Marketing/email automation is weaker than Kajabi",
+        "Free plan is limited to a single course"
+      ],
+      "reviewBody": "Thinkific's standout feature is pricing: even its free plan charges 0% transaction fees and allows one course with unlimited students — the most generous entry point in the course-platform category. Paid plans start around $49/month ($36–$40 billed annually) and also charge 0% via Thinkific Payments, though connecting your own Stripe on the Basic plan adds a 5% surcharge. Standard Stripe/PayPal processing (~2.9% + $0.30) applies everywhere.\n\nPayouts run through Stripe Express in roughly 2–4 business days. The limitations are a 10,000-student cap on named plans and weaker built-in marketing automation than Kajabi. For educators selling courses without needing an all-in-one marketing suite, Thinkific is usually the best value.",
+      "testNotes": "Pricing and 0%-fee structure verified 24 September 2026 against Thinkific's pricing page and 2026 comparisons. Exact monthly/annual figures vary slightly by source ($36–$49); annual billing saves ~25%. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Kajabi",
+    "url": "https://kajabi.com",
+    "description": "All-in-one platform for courses, coaching, podcasts, communities and digital products with built-in email marketing and funnels. Higher price point: Basic $179/mo ($143 annual), Growth $249/mo ($199 annual), Pro $499/mo ($399 annual). 0% platform transaction fee via Kajabi Payments, but 0.7% surcharge on subscriptions/payment plans and 1.5% on international cards.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["content", "content-courses", "content-coaching", "content-community", "content-digital", "content-podcasts"],
+    "features": ["courses", "coaching", "email-marketing", "funnels", "community", "affiliate", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Basic plan", "value": "$179/mo ($143 annual), 5 products, 2,500 contacts" },
+        { "label": "Growth plan", "value": "$249/mo ($199 annual), 50 products, 25,000 contacts, affiliates" },
+        { "label": "Pro plan", "value": "$499/mo ($399 annual), unlimited products, 100,000 contacts" },
+        { "label": "Platform transaction fee", "value": "0% via Kajabi Payments" },
+        { "label": "Hidden surcharges", "value": "0.7% on subscriptions/payment plans + 1.5% international cards" },
+        { "label": "Free tier", "value": "None — 14–30 day trial only" },
+        { "label": "Payout speed", "value": "~2 business days via Stripe" },
+        { "label": "Best for", "value": "Established creators who want email + funnels + courses in one" }
+      ],
+      "pros": [
+        "True all-in-one: courses, coaching, email, funnels, community, podcasts — no extra tools",
+        "0% platform transaction fee via Kajabi Payments",
+        "Built-in affiliate program on Growth and above",
+        "Most polished marketing automation of any course platform"
+      ],
+      "cons": [
+        "Highest entry price — $143/month minimum, no free tier",
+        "0.7% subscription surcharge and 1.5% international-card fee are rarely mentioned",
+        "Overkill and overpriced for creators selling one or two courses",
+        "Product/contact caps force upgrades as you grow"
+      ],
+      "reviewBody": "Kajabi is the premium all-in-one choice for established creator businesses: courses, coaching, communities, podcasts, email marketing and sales funnels in a single dashboard. Pricing starts at $179/month ($143 annual) for Basic (5 products, 2,500 contacts), rising to $249/$199 for Growth (adds affiliate marketing) and $499/$399 for Pro. There is no free tier.\n\nKajabi advertises 0% transaction fees via Kajabi Payments, but two surcharges most reviews miss: 0.7% on every subscription or payment-plan transaction, and 1.5% on international cards. With standard card processing on top, the effective rate runs 4–5%. For creators already paying separately for an email service provider and funnel builder, Kajabi consolidates costs and usually pays for itself; for solo course sellers, Thinkific or Podia are far cheaper.",
+      "testNotes": "Pricing verified 24 September 2026 against Kajabi's pricing and multiple 2026 comparisons. Surcharge figures from Kajabi's own help center. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Podia",
+    "url": "https://podia.com",
+    "description": "Simple platform for courses, digital downloads, webinars, memberships and community. Free plan removed in October 2024; 30-day trial only. Mover $49/mo ($42 annual) with 5% transaction fee; Shaker $99/mo ($84 annual) at 0% fee; Earthquaker $179/mo at 0% fee. Popular with solo creators moving off Gumroad.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["content", "content-courses", "content-digital", "content-community", "content-memberships"],
+    "features": ["courses", "digital-downloads", "memberships", "community", "webinars", "affiliate", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Free plan", "value": "Removed October 2024 — 30-day trial only" },
+        { "label": "Mover plan", "value": "$49/mo ($42 annual), 5% transaction fee, 50 products" },
+        { "label": "Shaker plan", "value": "$99/mo ($84 annual), 0% fee, adds affiliates & PayPal" },
+        { "label": "Earthquaker plan", "value": "$179/mo, 0% fee, unlimited" },
+        { "label": "Payment processing", "value": "Stripe/PayPal ~2.9% + $0.30" },
+        { "label": "Payout speed", "value": "Weekly via Stripe/PayPal" },
+        { "label": "Best for", "value": "Solo creators selling courses + digital products simply" }
+      ],
+      "pros": [
+        "Simple, clean interface — easiest all-in-one for solo creators",
+        "Shaker plan removes transaction fees entirely",
+        "Includes community, webinars and digital downloads in the base",
+        "No VAT/tax handling headaches (depends on gateway)"
+      ],
+      "cons": [
+        "Free plan removed in October 2024 — no zero-cost testing",
+        "Mover's 5% fee on top of $49/month is costly at low volume",
+        "Fewer marketing/automation features than Kajabi or Teachable",
+        "Email subscriber caps on lower plans (100 on Mover)"
+      ],
+      "reviewBody": "Podia positions itself as the simple, friendly alternative for solo creators selling courses, digital downloads, memberships and community from one dashboard. Its free plan was removed in October 2024, so testing now requires a 30-day trial. Mover costs $49/month ($42 annual) and takes a 5% transaction fee (with 50 products and 100 email subscribers); Shaker at $99/month ($84 annual) drops the fee to 0% and adds affiliate marketing, PayPal and Zapier; Earthquaker at $179/month is unlimited.\n\nPodia's strength is simplicity — it deliberately skips the complex automation of Kajabi and Teachable in favor of a clean setup. For creators moving off Gumroad who want courses and memberships without Gumroad's 10% cut, Podia is a common landing spot; for pure digital downloads, Payhip or Gumroad remain cheaper at low volume.",
+      "testNotes": "Pricing and free-plan removal verified 24 September 2026 against Podia's pages and 2026 comparisons. Some older guides still cite a free plan — it was discontinued Oct 2024. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Fourthwall",
+    "url": "https://fourthwall.com",
+    "description": "Creator business platform combining print-on-demand merch, memberships, digital products and donations. Free plan: 0% on physical merch and donations, 5% on digital products and memberships. Pro $19/mo ($15 annual) drops digital/membership fees to 0%. Payment processing 2.9% + $0.30. Free to start, no upfront cost. Popular with YouTubers, streamers and podcasters.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["content", "content-merch", "content-fans", "content-digital", "content-memberships"],
+    "features": ["merch-pod", "memberships", "digital-products", "donations", "0%-merch-fee", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Free plan cost", "value": "$0/month, no upfront cost" },
+        { "label": "Physical merch fee", "value": "0% platform fee (margin built into product cost)" },
+        { "label": "Donations/tips fee", "value": "0%" },
+        { "label": "Digital + memberships (Free)", "value": "5% flat fee" },
+        { "label": "Pro plan", "value": "$19/mo ($15 annual) — digital/membership fee drops to 0%" },
+        { "label": "Payment processing", "value": "2.9% + $0.30 (US cards)" },
+        { "label": "Payout speed", "value": "Weekly via Stripe" },
+        { "label": "Merchant of Record", "value": "Yes — handles tax/returns on merch" }
+      ],
+      "pros": [
+        "0% platform fee on physical merch and donations on the free plan",
+        "Print-on-demand fulfillment built in — no inventory, no upfront cost",
+        "One storefront covers merch, memberships, digital products and tips",
+        "Pro at $19/mo removes all platform fees — cheaper than Ko-fi Gold"
+      ],
+      "cons": [
+        "5% on digital products/memberships on the free plan (Ko-fi is 0% on tips)",
+        "Earns through production margins on merch — base costs can be high",
+        "Less brand/store customization than a dedicated Shopify store",
+        "Discovery is minimal — you drive your own traffic"
+      ],
+      "reviewBody": "Fourthwall is the merch-first creator platform: free to start with no upfront cost, it charges 0% platform fee on physical print-on-demand products and donations, making its money instead through production/fulfillment margins on goods. Digital products and memberships cost 5% on the free plan; the Pro plan at $19/month ($15 annual) drops that to 0% and adds a custom domain, sample credit and unlimited team members. Standard card processing (2.9% + $0.30) applies on top, and Fourthwall acts as Merchant of Record for merch, handling tax and returns.\n\nFor creators whose audience buys physical goods, Fourthwall's 0% merch fee beats Spring's base-cost model and Ko-fi's shop fees. For pure digital/tip creators, Ko-fi (0% on tips) or Buy Me a Coffee (flat 5%) remain simpler and cheaper.",
+      "testNotes": "Fee structure verified 24 September 2026 against Fourthwall's own pages and 2026 reviews. Merch base costs vary by product — check sample pricing before committing. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 10, "speed": "weekly" },
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Whop",
+    "url": "https://whop.com",
+    "description": "Platform for paid communities, courses and digital products, strong in crypto/trading niches. Free to start, no monthly fee. Transaction fee ~2.7–3% + $0.30 (the old 3% platform fee was largely rolled into processing). Payout fees by method: next-day ACH $2.50, instant bank 4%+$1, crypto/Venmo 5%+$1, wire $23. Processed $2.67B+ GMV, $845M+ paid to creators.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["content", "content-courses", "content-digital", "content-community", "content-fans", "selling", "selling-digital"],
+    "features": ["communities", "courses", "digital-products", "affiliate", "marketplace-discovery", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Monthly fee", "value": "$0 — free to start, no approval process" },
+        { "label": "Transaction fee", "value": "~2.7–3% + $0.30 (includes processing)" },
+        { "label": "International cards", "value": "+1.5%; currency conversion +1%" },
+        { "label": "Next-day ACH payout", "value": "$2.50 per payout" },
+        { "label": "Instant bank (RTP)", "value": "4% + $1.00 per payout" },
+        { "label": "Crypto / Venmo payout", "value": "5% + $1.00 per payout" },
+        { "label": "Bank wire payout", "value": "$23.00 per payout" },
+        { "label": "Lifetime creator payouts", "value": "$845M+ (GMV $2.67B+)" }
+      ],
+      "pros": [
+        "No monthly fee and no approval process — start selling same day",
+        "All-in rate (~5.7–7.2%) beats Gumroad's 10% + $0.50",
+        "Includes checkout, course delivery, community, mobile app, affiliate management",
+        "Tolerates creator niches (crypto, trading) that Stripe often freezes"
+      ],
+      "cons": [
+        "Payout fees are steep, especially instant/crypto (4–5% + $1)",
+        "Brand reputation tied to crypto/trading communities — not for all creators",
+        "Customization is limited compared to self-hosted stores",
+        "Marketplace discovery can bring low-quality customers"
+      ],
+      "reviewBody": "Whop has grown fast in paid communities, courses and digital products — particularly in crypto and trading niches that mainstream payment processors often reject. It's free to start with no monthly fee and no approval process; the all-in transaction cost runs roughly 2.7–3% + $0.30 plus international/currency surcharges, landing around 5.7–7.2% — meaningfully cheaper than Gumroad's 10% + $0.50. The platform bundles checkout, course delivery, a community, a mobile app and affiliate management, which would cost $200–500/month in separate tools on Stripe.\n\nThe catch is payout fees: next-day ACH costs $2.50, instant bank deposit 4% + $1, crypto or Venmo 5% + $1, and a wire $23. Creators should pick the cheapest payout rail (standard ACH) and avoid instant withdrawals. Whop's association with crypto/trading communities also makes it a poor brand fit for mainstream educators.",
+      "testNotes": "Fees verified 24 September 2026 against Whop's pricing and 2026 reviews. Transaction-fee wording changed during 2026 (old 3% platform fee merged into processing); confirm current rate in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "daily" }
+    ]
+  },
+  {
+    "name": "Buzzsprout",
+    "url": "https://www.buzzsprout.com",
+    "description": "Beginner-friendly podcast hosting with monetization via an affiliate marketplace, dynamic ad insertion (Buzzsprout Ads), listener support and subscriptions. Paid plans from $12/month (3 hours upload/month); free tier is a 90-day trial. IAB-certified analytics. Takes ~15% on subscriptions and a $10 CPM cut on Buzzsprout Ads.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["content", "content-podcasts"],
+    "features": ["podcast-hosting", "dynamic-ads", "affiliate-marketplace", "listener-support", "subscriptions", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Entry plan", "value": "$12/mo (3 hrs upload/month)" },
+        { "label": "Higher tiers", "value": "$18/mo (6 hrs), $24/mo (12 hrs)" },
+        { "label": "Free tier", "value": "90-day trial only (episodes deleted after)" },
+        { "label": "Buzzsprout Ads cut", "value": "$10 CPM (creator keeps the rest)" },
+        { "label": "Subscription cut", "value": "~15%" },
+        { "label": "Affiliate marketplace", "value": "Built-in — no minimum audience" },
+        { "label": "Analytics", "value": "IAB certified" },
+        { "label": "Payout", "value": "PayPal / bank, monthly for ad/affiliate earnings" }
+      ],
+      "pros": [
+        "Easiest podcast host for beginners — clean UI, good onboarding",
+        "Built-in affiliate marketplace lets small shows earn from day one",
+        "IAB-certified analytics are advertiser-grade",
+        "Dynamic ad insertion available without a network deal"
+      ],
+      "cons": [
+        "No permanent free plan — 90-day trial only, episodes deleted after",
+        "Upload-hour caps force plan upgrades for frequent publishers",
+        "Takes a $10 CPM cut on its ad network and ~15% on subscriptions",
+        "Fewer growth/monetization features than Captivate or Podbean"
+      ],
+      "reviewBody": "Buzzsprout is the beginner-friendly podcast host: simple publishing workflow, IAB-certified analytics and a built-in affiliate marketplace that lets even small shows earn from day one. Paid plans start at $12/month for 3 hours of upload per month, rising to $18 (6 hours) and $24 (12 hours). There is no permanent free tier — the 90-day trial deletes episodes afterward.\n\nMonetization runs through the affiliate marketplace (no minimum), Buzzsprout Ads dynamic insertion (Buzzsprout takes a $10 CPM cut), listener support and subscriptions (~15% cut). Ad and affiliate earnings pay out monthly via PayPal or bank transfer. For podcasters who want maximum monetization tooling, Podbean or Captivate offer more; for simplicity, Buzzsprout is the standard recommendation.",
+      "testNotes": "Pricing and fee splits verified 24 September 2026 against Buzzsprout's pages and 2026 hosting comparisons. Some sources cite $19/mo entry — the $12 3-hour tier is current as of research. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Podbean",
+    "url": "https://www.podbean.com",
+    "description": "Podcast hosting with monetization: dynamic ad marketplace ($1 CPM insertion fee), premium subscriptions, Patron program, live gifts and merch. Free tier with 5 hours total storage. Paid Unlimited Audio $9/mo; Unlimited Plus $14/mo adds video, paid subscriptions and Patron. Apple Podcasts subscriptions manageable from dashboard.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["content", "content-podcasts", "content-video"],
+    "features": ["podcast-hosting", "dynamic-ads", "premium-subscriptions", "patron", "live-gifts", "merch"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Free tier", "value": "5 hours total storage, 100GB monthly bandwidth" },
+        { "label": "Unlimited Audio", "value": "$9/mo ($108/yr), unlimited audio storage/bandwidth" },
+        { "label": "Unlimited Plus", "value": "$14/mo ($168/yr), adds video, paid subs, Patron" },
+        { "label": "Dynamic ad insertion fee", "value": "$1 CPM via Podbean's marketplace" },
+        { "label": "Patron payments cut", "value": "5%" },
+        { "label": "Monetization minimum", "value": "None for ad marketplace" },
+        { "label": "Payout", "value": "PayPal / bank, monthly" },
+        { "label": "Extra", "value": "Apple Podcasts subscriptions manageable from dashboard" }
+      ],
+      "pros": [
+        "Cheapest paid host at $9/month with unlimited audio",
+        "Widest monetization stack of any host: ads, premium subs, Patron, live gifts, merch",
+        "Free tier available for testing",
+        "Dynamic ad insertion at just $1 CPM is the lowest in the industry"
+      ],
+      "cons": [
+        "Interface and analytics feel dated vs Buzzsprout/Captivate",
+        "Free tier storage (5 hours total) is very limited",
+        "Customer support reputation is weaker than competitors",
+        "Advanced features require the Unlimited Plus tier"
+      ],
+      "reviewBody": "Podbean is the budget-and-breadth choice for podcast hosting: a free tier (5 hours total storage) and the cheapest unlimited-audio paid plan at $9/month. Its monetization stack is the widest in the industry — a dynamic ad marketplace with a $1 CPM insertion fee (the lowest around), premium subscriptions, a Patron program (5% cut), live gifts, merch and Apple Podcasts subscriptions managed from the dashboard. The $14/month Unlimited Plus tier adds video hosting and the paid-subscription/Patron features.\n\nThe trade-off is polish: Podbean's interface, analytics and support reputation lag behind Buzzsprout and Captivate. For creators who want the most monetization options per dollar, Podbean is hard to beat; for a premium experience, Captivate or Transistor are better.",
+      "testNotes": "Pricing verified 24 September 2026 against Podbean's pricing page and 2026 comparisons. $1 CPM dynamic-ad fee confirmed on Podbean's own materials. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Captivate",
+    "url": "https://www.captivate.fm",
+    "description": "Podcast hosting focused on growth and monetization for professional podcasters. Plans from $19/month (30,000 downloads), unlimited podcasts on every plan, IAB-certified analytics, dynamic ad insertion, private feeds for paid subscribers and growth tools. No platform cut on your own ad deals.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["content", "content-podcasts"],
+    "features": ["podcast-hosting", "dynamic-ads", "private-feeds", "iab-analytics", "unlimited-shows", "growth-tools"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Personal plan", "value": "$19/mo, 30,000 downloads/mo" },
+        { "label": "Professional plan", "value": "$49/mo, 150,000 downloads/mo" },
+        { "label": "Business plan", "value": "$99/mo, 300,000 downloads/mo" },
+        { "label": "Podcasts per account", "value": "Unlimited on every plan" },
+        { "label": "Analytics", "value": "IAB Tech Lab certified" },
+        { "label": "Platform cut on own ad deals", "value": "None" },
+        { "label": "Paid subscribers", "value": "Private feeds supported" },
+        { "label": "Payout", "value": "Direct via your own ad sponsors / Stripe" }
+      ],
+      "pros": [
+        "Unlimited podcasts on every plan — ideal for networks/multi-show creators",
+        "IAB-certified analytics satisfy advertiser requirements",
+        "No platform cut on sponsorships you sell yourself",
+        "Strong growth tooling and private feeds for paid subscribers"
+      ],
+      "cons": [
+        "No free tier — paid only (free trial available)",
+        "Download caps force upgrades as shows grow",
+        "No built-in ad marketplace — you sell your own sponsorships",
+        "Pricier than Podbean for basic hosting"
+      ],
+      "reviewBody": "Captivate is the growth-focused, professional podcast host: $19/month for the Personal plan (30,000 downloads/month), $49 for Professional (150,000) and $99 for Business (300,000). Its defining feature is unlimited podcasts on every plan, which makes it the default for multi-show creators and small networks. Analytics are IAB Tech Lab certified, which matters for selling sponsorships, and Captivate takes no cut of ad deals you arrange yourself.\n\nThere is no free tier and no built-in ad marketplace — you sell your own sponsorships, which is the point for professionals who want to keep 100%. Private feeds support paid subscribers, and dynamic ad insertion is available. For hobbyists, Podbean or Buzzsprout are cheaper; for serious podcasters, Captivate's unlimited-show model and analytics justify the cost.",
+      "testNotes": "Pricing verified 24 September 2026 against Captivate's pages and 2026 hosting comparisons. Download caps are per month and roll over. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Spring",
+    "url": "https://www.spri.ng",
+    "description": "Creator merch platform (formerly Teespring), owned by Amaze Holding Co. Print-on-demand with no upfront costs; creators set retail price above base cost and keep the margin. Payout via PayPal or Payoneer, $25 minimum, processed weekly on Fridays after order fulfillment. Note: Amaze reported a going-concern flag and $55.2M net loss in its 2025 annual report, with frequent creator payout-delay complaints — elevated risk.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": ["content", "content-merch", "selling", "selling-physical"],
+    "features": ["merch-pod", "boosted-network", "social-integrations", "no-upfront-cost"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Upfront cost", "value": "$0 — print-on-demand, no inventory" },
+        { "label": "Creator earnings model", "value": "Retail price minus base cost (typically $5–$15/item profit)" },
+        { "label": "Payout methods", "value": "PayPal, Payoneer" },
+        { "label": "Minimum payout", "value": "$25 (cannot be overridden)" },
+        { "label": "Payout schedule", "value": "Weekly on Fridays, after orders fulfilled (7–14 day hold)" },
+        { "label": "Parent company", "value": "Amaze Holding Co. (acquired 2023)" },
+        { "label": "Financial warning", "value": "2025 annual report: $55.2M net loss, going-concern flag" },
+        { "label": "Creator complaints", "value": "Frequent multi-month payout delays reported through 2025–2026" }
+      ],
+      "pros": [
+        "Zero upfront cost and no monthly fee — print-on-demand",
+        "Deep social integrations (YouTube, Twitch, Streamlabs, Discord)",
+        "Boosted Network expands reach to external marketplaces",
+        "Volume-based discounts for high sellers"
+      ],
+      "cons": [
+        "Parent company Amaze reported a going-concern doubt and $55.2M loss in 2025",
+        "Frequent creator reports of payout delays of several months",
+        "$25 minimum payout cannot be overridden — small balances stuck",
+        "Base costs higher than Printify/Printful, squeezing margins"
+      ],
+      "reviewBody": "Spring (formerly Teespring) is a print-on-demand merch platform owned by Amaze Holding Co. since 2023. Creators set a retail price above Spring's base cost and keep the margin (typically $5–15 per item); Spring handles printing, shipping and customer service with no upfront cost. Payouts run via PayPal or Payoneer weekly on Fridays, but only after orders are fulfilled (a 7–14 day hold) and only once the balance crosses $25 — a threshold support explicitly cannot override, so small balances can be stuck indefinitely.\n\nThe elevated risk is financial: Amaze's 2025 annual report disclosed a $55.2 million net loss, a $34.3 million goodwill impairment and a going-concern flag from auditors, and creator reports of multi-month payout delays persisted through 2025 and into 2026. TrustScore lowered accordingly. Creators should withdraw frequently and consider Fourthwall (0% merch fee) or Printful+Shopify as lower-risk alternatives.",
+      "testNotes": "Payout threshold and schedule verified 24 September 2026 against Spring's KB and Amaze's terms of service. Financial warning (going-concern, $55.2M loss) from Amaze's 2025 annual report, widely cited in 2026 reviews. No live account test performed; treat as elevated-risk."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 25, "speed": "weekly" },
+      { "coin": "USD", "payment": "payoneer", "min": 25, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Ko-fi",
+    "url": "https://ko-fi.com",
+    "description": "Creator support platform for tips, memberships, commissions and digital shop sales. Free plan: 0% on one-time tips, 5% on shop/memberships/commissions. New accounts default to 'Standard/Contributor' mode which charges 5% on tips too — switch it off in Settings. Ko-fi Gold $12/mo removes all service fees. Payments go instantly and directly to your own PayPal or Stripe — Ko-fi never holds funds.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": ["content", "content-fans", "content-digital", "selling", "selling-digital"],
+    "features": ["tips-0%-fee", "memberships", "commissions", "shop", "gold-0%-fee", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "One-time tips (Free)", "value": "0% platform fee" },
+        { "label": "Shop/memberships/commissions (Free)", "value": "5%" },
+        { "label": "New-account default", "value": "'Standard/Contributor' mode = 5% on tips too (toggle off in Settings)" },
+        { "label": "Ko-fi Gold", "value": "$12/mo — 0% service fee on everything" },
+        { "label": "Payment routing", "value": "Direct to your PayPal/Stripe — Ko-fi never holds funds" },
+        { "label": "Payout speed", "value": "Instant/direct (PayPal/Stripe timing)" },
+        { "label": "Payout threshold", "value": "None (money goes straight to you)" },
+        { "label": "Processing fees", "value": "PayPal/Stripe ~2.9% + $0.30 apply" }
+      ],
+      "pros": [
+        "0% fee on one-time tips — the best tip rate in the industry",
+        "Money goes directly to your PayPal/Stripe — Ko-fi never holds funds",
+        "No payout threshold and no waiting period",
+        "Gold at $12/mo removes all fees — break-even at ~$240/mo revenue"
+      ],
+      "cons": [
+        "New accounts default to Standard mode charging 5% even on tips — must opt out manually",
+        "5% on shop/memberships/commissions on the free plan",
+        "Discovery is weak — you drive your own traffic",
+        "Fewer integrations for podcasters than Patreon"
+      ],
+      "reviewBody": "Ko-fi has the best tip economics in creator support: on the free plan, one-time tips cost 0% platform fee, with 5% applying only to shop sales, memberships and commissions. A critical gotcha: new accounts default to 'Standard' (formerly Contributor) mode, which applies the 5% fee to tips too — creators must toggle it off in Settings → Payment. Ko-fi Gold at $12/month removes all service fees and pays for itself at roughly $240/month in revenue.\n\nUnlike Buy Me a Coffee or Patreon, Ko-fi routes payments directly to the creator's own PayPal or Stripe account — Ko-fi never holds funds, there is no payout threshold, and money arrives on PayPal/Stripe's normal schedule. This makes Ko-fi the cheapest pure-tip option, though its discovery and integrations are weaker than Patreon's.",
+      "testNotes": "Fee structure and Standard-mode default verified 24 September 2026 against Ko-fi's help center and multiple 2026 fee analyses. Gold price cited as $6–12/mo by different sources; $12 is current. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "instant" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Gumroad",
+    "url": "https://gumroad.com",
+    "description": "Digital product marketplace for e-books, courses, software, templates and memberships. 10% + $0.50 per direct sale; 30% flat on sales through Gumroad's Discover marketplace. Above $20,000/month in sales, direct-sale fee drops to 5% + $0.50. No monthly fee. Merchant of Record (handles global VAT/GST/sales tax since Jan 2025). Pays weekly on Fridays at $10 minimum via direct deposit or PayPal; daily payouts unlock after 4 successful weekly payouts.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": ["content", "content-digital", "content-courses", "content-memberships", "selling", "selling-digital"],
+    "features": ["digital-products", "memberships", "discover-marketplace", "merchant-of-record", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Direct sale fee", "value": "10% + $0.50 per transaction (no monthly fee)" },
+        { "label": "Discover marketplace sale", "value": "30% flat" },
+        { "label": "Volume discount", "value": "Above $20k/mo sales, direct fee drops to 5% + $0.50" },
+        { "label": "Tax handling", "value": "Merchant of Record since Jan 2025 — collects/remits VAT/GST/sales tax" },
+        { "label": "Payout schedule", "value": "Weekly on Fridays; daily after 4 successful weekly payouts" },
+        { "label": "Payout threshold", "value": "$10" },
+        { "label": "Payout methods", "value": "Direct deposit (ACH), PayPal" },
+        { "label": "Product types", "value": "E-books, courses, software, templates, memberships, pay-what-you-want" }
+      ],
+      "pros": [
+        "No monthly fee — pay only when you sell",
+        "Merchant of Record handles global VAT/GST/sales tax — a major convenience",
+        "Discover marketplace brings organic buyers (at 30% cost)",
+        "Weekly payouts with a low $10 minimum; daily after 4 weeks"
+      ],
+      "cons": [
+        "10% + $0.50 direct fee is high vs Payhip (5%) or Whop (~3%)",
+        "30% Discover fee is steep — drive your own traffic to avoid it",
+        "No volume discount until $20,000/month in sales",
+        "Course/membership features are basic vs Teachable/Podia"
+      ],
+      "reviewBody": "Gumroad is the simplest way to sell digital products: no monthly fee, no tiers, just 10% + $0.50 per direct sale. Sales through Gumroad's own Discover marketplace cost a flat 30%, so creators should drive their own traffic where possible. Above $20,000 in monthly sales the direct fee drops to 5% + $0.50, resetting each calendar month. Since January 2025 Gumroad acts as Merchant of Record, collecting and remitting VAT, GST and sales tax worldwide — a genuine compliance convenience that justifies some of the fee.\n\nPayouts run every Friday via direct deposit or PayPal once the balance clears $10, and after four successful weekly payouts creators unlock daily payouts. The fee is high compared to Payhip (5% free tier) or Whop (~3%), and course/membership features are basic — for pure digital downloads at low volume, Gumroad's simplicity wins; for scale, cheaper alternatives exist.",
+      "testNotes": "Fee structure and payout schedule verified 24 September 2026 against Gumroad's official help and 2026 reviews. Merchant-of-Record status confirmed (Jan 2025). No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 10, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Payhip",
+    "url": "https://payhip.com",
+    "description": "Digital product platform for e-books, courses, memberships and software. Free forever plan: 5% transaction fee, unlimited products/revenue, all features. Plus $29/mo: 2% fee. Pro $99/mo: 0% fee. Payouts go directly to your PayPal or Stripe at the moment of sale — no held funds, no minimum. Simple alternative to Gumroad for solo creators.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["content", "content-digital", "content-courses", "content-memberships", "selling", "selling-digital"],
+    "features": ["digital-products", "courses", "memberships", "software-keys", "free-forever", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Free Forever plan", "value": "$0/mo, 5% transaction fee, unlimited products/revenue" },
+        { "label": "Plus plan", "value": "$29/mo, 2% transaction fee" },
+        { "label": "Pro plan", "value": "$99/mo, 0% transaction fee" },
+        { "label": "Feature differences between plans", "value": "None — only the fee changes" },
+        { "label": "Payout routing", "value": "Direct to PayPal/Stripe at moment of sale — no held funds" },
+        { "label": "Payout threshold", "value": "None" },
+        { "label": "Payout speed", "value": "Instant/direct (PayPal/Stripe timing)" },
+        { "label": "Break-even Free→Plus", "value": "~$967/mo revenue; Plus→Pro ~$3,500/mo" }
+      ],
+      "pros": [
+        "Free forever with unlimited products and all features — only the fee changes with plans",
+        "5% free-tier fee is half of Gumroad's 10% + $0.50",
+        "Money goes directly to your PayPal/Stripe at sale — no holding, no minimum",
+        "Supports software license keys, courses, memberships and physical goods"
+      ],
+      "cons": [
+        "Not a Merchant of Record — you handle VAT/GST/sales tax yourself",
+        "No built-in marketplace discovery (unlike Gumroad Discover)",
+        "Course/membership features are lighter than Podia/Teachable",
+        "Design and storefront customization are limited"
+      ],
+      "reviewBody": "Payhip is the low-fee alternative to Gumroad for solo creators selling digital products. Its Free Forever plan costs $0/month and charges just 5% per sale — half Gumroad's 10% + $0.50 — with unlimited products, unlimited revenue and every feature unlocked. Upgrading to Plus ($29/month) drops the fee to 2%, and Pro ($99/month) removes it entirely; the only difference between plans is the fee. Break-even from Free to Plus is around $967/month in revenue.\n\nCrucially, Payhip routes payouts directly to the creator's PayPal or Stripe at the moment of sale — there are no held funds, no marketplace clearing period and no minimum threshold. The trade-off is that Payhip is not a Merchant of Record (you handle global tax yourself) and has no built-in discovery marketplace. For low-volume solo sellers who drive their own traffic, Payhip is usually the cheapest option.",
+      "testNotes": "Pricing and instant-payout model verified 24 September 2026 against Payhip's official FAQ/pricing and 2026 reviews. Break-even figures from fee-analysis sites. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "instant" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
+  },
+  {
+    "name": "Vimeo",
+    "url": "https://vimeo.com",
+    "description": "Professional video hosting with monetization via Vimeo OTT: sell subscriptions (SVOD), buy/rent (TVOD) or run your own OTT channel. Vimeo OTT charges $1/subscriber/month + 2.5% + $0.30 for SVOD, and 10% + $0.50 per transaction for TVOD. Standard hosting plans from ~$20/month (Standard). Higher video quality and ad-free player than YouTube. Monthly subscription required for most monetization features.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["content", "content-video", "content-ott", "content-svod", "content-tvod"],
+    "features": ["ott", "svod", "tvod-buy-rent", "white-label", "apps", "ad-free-player"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Standard hosting plan", "value": "~$20–$33/mo (annual/monthly), 1TB storage" },
+        { "label": "Advanced plan", "value": "~$65–$108/mo, unlimited, sell videos" },
+        { "label": "Vimeo OTT SVOD fee", "value": "$1/subscriber/mo + 2.5% + $0.30 per transaction" },
+        { "label": "Vimeo OTT TVOD (buy/rent)", "value": "10% + $0.50 per transaction" },
+        { "label": "OTT Lite", "value": "Free + 7% revenue cut (for testing)" },
+        { "label": "Payout", "value": "Via Stripe, monthly" },
+        { "label": "Player", "value": "Ad-free, white-label, embeddable" },
+        { "label": "Best for", "value": "Professional creators selling premium video, not ad-supported" }
+      ],
+      "pros": [
+        "Ad-free, white-label player — no competing content, no ads on your videos",
+        "OTT platform supports SVOD, TVOD and branded apps (iOS/Android/Roku/Apple TV)",
+        "Higher video quality and better analytics than YouTube",
+        "OTT Lite lets you test the model free with a 7% cut"
+      ],
+      "cons": [
+        "No free monetization — paid subscription required to sell video",
+        "$1/subscriber/month SVOD fee is expensive at low price points",
+        "No built-in audience or discovery — you bring 100% of traffic",
+        "Pricing increased significantly in 2025"
+      ],
+      "reviewBody": "Vimeo is the professional, ad-free alternative to YouTube for creators who sell premium video rather than rely on ads. Standard hosting starts around $20–33/month, but selling video requires the Advanced plan (~$65–108/month) or Vimeo OTT. OTT's fee model is per-subscriber: $1 per subscriber per month plus 2.5% + $0.30 processing for subscriptions (SVOD), and 10% + $0.50 per buy/rent transaction (TVOD). A free OTT Lite tier with a 7% revenue cut exists for testing the model.\n\nVimeo's strengths are the ad-free white-label player, higher video quality, branded OTT apps and no competing-content recommendations. Its weakness is the same: there is no built-in audience, so creators must bring 100% of their own traffic. Pricing rose sharply in 2025, making Uscreen a closer competitor on cost.",
+      "testNotes": "OTT fee breakdown verified 24 September 2026 against Vimeo's official OTT pricing help page. Hosting plan prices vary by source due to 2025 increases; annual billing ~20–40% cheaper. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 10, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Dailymotion",
+    "url": "https://www.dailymotion.com",
+    "description": "Video platform with advertising revenue sharing. Lowest monetization gate of any major platform: 1,000 total cumulative views across uploads automatically enables ads (no subscriber/watch-hour gate). Creator share ~70%. Payout minimum $100, monthly. From 1 September 2026 all partner payments move to Tipalti with a new invoicing process, rolled out progressively.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": ["content", "content-video"],
+    "features": ["ads", "low-monetization-gate", "embeddable-player"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Monetization gate", "value": "1,000 total cumulative views — auto-enables, no sub/watch-hour gate" },
+        { "label": "Creator ad share", "value": "~70% (Dailymotion keeps ~30%)" },
+        { "label": "Payout threshold", "value": "$100" },
+        { "label": "Payout schedule", "value": "Monthly; revenue consolidated ~35 days after month-end, paid in following ~60-day window" },
+        { "label": "Payment change (1 Sep 2026)", "value": "All partners move to Tipalti + new invoicing process (progressive rollout)" },
+        { "label": "Payout methods", "value": "Bank transfer, PayPal, Payoneer (via Tipalti)" },
+        { "label": "Audience strength", "value": "~300M monthly viewers, strong in Europe/Asia" },
+        { "label": "RPM", "value": "Low — typically a fraction of YouTube's" }
+      ],
+      "pros": [
+        "Lowest monetization gate in video — 1,000 total views, no subscriber minimum",
+        "~70% creator ad share beats YouTube's 55%",
+        "Embeddable player earns revenue on external websites too",
+        "Good secondary revenue stream alongside YouTube"
+      ],
+      "cons": [
+        "RPM is very low — audience and advertiser base are a fraction of YouTube's",
+        "$100 payout threshold is high relative to earnings",
+        "Payment migration to Tipalti (Sep 2026) may cause teething issues",
+        "Discovery is weak — most views come from embeds/SEO, not the platform"
+      ],
+      "reviewBody": "Dailymotion has the lowest monetization gate of any major video platform: once your channel accumulates 1,000 total views, ad monetization enables automatically — no subscriber minimum, no watch-hour requirement, no separate application. Creators keep roughly 70% of ad revenue. The catch is scale: Dailymotion's audience (~300M monthly viewers, strong in Europe and Asia) and advertiser base are a fraction of YouTube's, so RPMs are very low and absolute earnings are usually small.\n\nPayouts require a $100 minimum and run monthly, with revenue consolidated roughly 35 days after month-end and paid in the following ~60-day window. From 1 September 2026 all partner payments moved to Tipalti with a new invoicing process, rolled out progressively — creators should register promptly to avoid payment holds. Dailymotion works best as a secondary revenue stream (especially via embeddable players on your own site) rather than a primary platform.",
+      "testNotes": "1,000-view gate, ~70% share and $100 threshold verified 24 September 2026 against Dailymotion's help center and 2026 guides. Tipalti migration (1 Sep 2026) confirmed on Dailymotion's official payment-change notice. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 100, "speed": "monthly" },
+      { "coin": "USD", "payment": "paypal", "min": 100, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://www.tumblr.com",
+    "description": "Blogging and social platform with creator support features. Tip jar (via Stripe/PayPal) and ad-free browsing revenue share remain; Post+ paid subscriptions were wound down. Strong community in art, writing and fandom niches. Monetization program status uncertain as of 2026 — under review.",
+    "status": "under_review",
+    "trustScore": 62,
+    "categories": ["content", "content-writing", "content-art", "content-fans"],
+    "features": ["tips", "ad-free-revenue-share", "fandom-community"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Tip jar", "value": "Available via Stripe/PayPal (where supported)" },
+        { "label": "Post+ paid subscriptions", "value": "Wound down / discontinued — verify current status" },
+        { "label": "Ad-free revenue share", "value": "Creators earn a share when supporters buy ad-free browsing via their link" },
+        { "label": "Payout", "value": "Via Stripe/PayPal directly" },
+        { "label": "Strong niches", "value": "Art, writing, fandom, queer communities" },
+        { "label": "Status", "value": "under_review — monetization features changing" }
+      ],
+      "pros": [
+        "Strong, loyal communities in art, writing and fandom niches",
+        "Tip jar provides direct support with no platform gate",
+        "Ad-free browsing revenue share is a passive income line",
+        "Low barrier to posting and building a following"
+      ],
+      "cons": [
+        "Post+ paid subscriptions were discontinued — paid-membership path is gone",
+        "Monetization features are limited and changing under Automattic",
+        "Earnings potential is low compared to Patreon/Ko-fi",
+        "No formal creator program with published terms"
+      ],
+      "reviewBody": "Tumblr's monetization has been pared back under Automattic. The tip jar (via Stripe/PayPal, in supported countries) and a revenue share on ad-free browsing referrals remain active, but the Post+ paid-subscription product was wound down, removing the recurring-membership income line. Tumblr's real value is its strong, loyal communities — particularly in art, writing and fandom — which can be converted to support on external platforms (Ko-fi, Patreon) rather than earned on Tumblr itself.\n\nBecause the monetization feature set is in flux and no formal, published creator program exists, this entry is marked under_review. Creators should verify the current status of tipping and any revenue-share program in their dashboard before relying on it.",
+      "testNotes": "Status assessed 24 September 2026. Post+ discontinuation reported across 2024–2026 coverage; tip jar and ad-free revenue share remain in some markets. No live account test performed; treat monetization as uncertain."
+    },
+    "offers": []
+  },
+  {
+    "name": "Quora",
+    "url": "https://www.quora.com",
+    "description": "Q&A platform. The original Quora Partner Program (paid per question) has been wound down for most writers; current monetization is limited to Quora+ (paid content) in select markets and is largely invite-only. Lower earning potential than dedicated writing platforms but wide reach. Status: under review.",
+    "status": "under_review",
+    "trustScore": 60,
+    "categories": ["content", "content-writing", "content-qa"],
+    "features": ["quora-plus", "wide-reach"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Quora Partner Program (per-question)", "value": "Largely wound down — closed to most new writers", "note": "verify" },
+        { "label": "Current monetization", "value": "Quora+ paid content, invite-only, select markets" },
+        { "label": "Earning potential", "value": "Very low vs Medium/Substack" },
+        { "label": "Payout", "value": "Via Stripe/PayPal where available" },
+        { "label": "Main value", "value": "Traffic/audience building, not direct earnings" },
+        { "label": "Status", "value": "under_review — program largely defunct" }
+      ],
+      "pros": [
+        "Enormous reach — answers can rank in Google for years",
+        "Good for building authority and driving traffic to your own site/products",
+        "No cost to participate"
+      ],
+      "cons": [
+        "Original Partner Program is largely defunct — most writers cannot earn",
+        "Quora+ is invite-only and limited to select markets",
+        "Direct earnings are negligible compared to dedicated writing platforms",
+        "No published, reliable payout terms"
+      ],
+      "reviewBody": "Quora's original Partner Program — which paid writers per question asked — has been wound down and is closed to most new writers. What remains is Quora+, a paid-content program that is invite-only and limited to select markets, with negligible earnings for most participants. As a direct-earning platform, Quora no longer competes with Medium, Substack or Ghost.\n\nQuora's real value is indirect: its answers rank well in Google and can drive sustained traffic to a creator's own website, newsletter or products. Marked under_review because the monetization program is largely defunct; creators should not rely on Quora for direct income.",
+      "testNotes": "Status assessed 24 September 2026. The Partner Program wind-down is widely reported from 2023 onward; Quora+ availability varies by market and is invite-only. No live account test performed."
+    },
+    "offers": []
+  },
+  {
+    "name": "Locals",
+    "url": "https://locals.com",
+    "description": "Membership community platform. Create paid communities with posts, videos, live streams and messaging. 10% platform fee plus payment processing. Owned by Rumble (acquired 2021) and integrated with Rumble's ecosystem. Popular with independent commentators and creators de-platformed elsewhere.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": ["content", "content-fans", "content-community", "content-livestream", "content-video"],
+    "features": ["paid-communities", "livestreaming", "video", "messaging", "rumble-integration"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Platform fee", "value": "10% plus payment processing" },
+        { "label": "Owner", "value": "Rumble (acquired 2021)" },
+        { "label": "Community features", "value": "Posts, videos, live streams, messaging, paid tiers" },
+        { "label": "Payout methods", "value": "Stripe/PayPal, monthly" },
+        { "label": "Payout threshold", "value": "~$10 (commonly cited)" },
+        { "label": "Audience", "value": "Independent commentators, free-speech creators" },
+        { "label": "Integration", "value": "Tied to Rumble account/ecosystem" }
+      ],
+      "pros": [
+        "Combines community, video and livestreaming in one paid-membership product",
+        "Lenient content moderation vs Patreon — popular with de-platformed creators",
+        "Integrated with Rumble's growing ecosystem",
+        "Creators own their community data"
+      ],
+      "cons": [
+        "10% fee + processing is comparable to Patreon with fewer features",
+        "Audience niche is narrow — not mainstream",
+        "Tied to Rumble's fortunes and brand reputation",
+        "Tooling and integrations lag Patreon's maturity"
+      ],
+      "reviewBody": "Locals is a paid-membership community platform owned by Rumble since 2021, combining posts, video, livestreaming and messaging behind subscription tiers. It charges a 10% platform fee plus payment processing — comparable to Patreon's new-creator rate — and pays out monthly via Stripe/PayPal. Its user base skews toward independent commentators and free-speech creators, including those de-platformed from Patreon, and it integrates with Rumble's video ecosystem.\n\nLocals' moderation leniency is its main differentiator; on features, integrations and polish it trails Patreon. For creators already on Rumble or in the free-speech niche, the integration is convenient; for mainstream creators, Patreon, Fourthwall or Ghost offer better tooling.",
+      "testNotes": "Fee and ownership verified 24 September 2026. Payout threshold ($10) is commonly cited but not prominently published; confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 10, "speed": "monthly" },
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Uscreen",
+    "url": "https://www.uscreen.tv",
+    "description": "Video monetization platform for subscription video on demand (SVOD), courses, live events and OTT apps. Starter $49/month (monthly only, 100 subscriber cap, 10% fee on one-time sales); Growth $149/month annual + $1.99/subscriber (5% fee); App Essentials $449/month annual + $0.99/subscriber with native mobile/TV apps. Popular for fitness, education and niche video services.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["content", "content-video", "content-svod", "content-courses", "content-ott", "content-livestream"],
+    "features": ["svod", "ott-apps", "live-events", "community", "email-marketing", "courses"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Starter plan", "value": "$49/mo (monthly only), 100 subscriber cap, 10% on one-time sales" },
+        { "label": "Growth plan", "value": "$149/mo annual ($199 monthly) + $1.99/active subscriber, 5% fee" },
+        { "label": "App Essentials", "value": "$449/mo annual ($499 monthly) + $0.99/subscriber, native mobile/TV apps" },
+        { "label": "Monetization models", "value": "SVOD, TVOD, live event tickets, digital products, donations" },
+        { "label": "Free trial", "value": "14 days" },
+        { "label": "Payout", "value": "Via Stripe/PayPal, monthly" },
+        { "label": "Best for", "value": "Fitness, education, niche video memberships with apps" }
+      ],
+      "pros": [
+        "All-in-one SVOD with native mobile and TV apps on higher plans",
+        "Built-in email marketing, coupons, free trials and community spaces",
+        "Supports live events with one-time ticket access",
+        "Strong for fitness and education creators with a loyal audience"
+      ],
+      "cons": [
+        "Per-subscriber fees ($0.99–$1.99) make scaling expensive",
+        "Starter caps at 100 subscribers and is monthly-billing only",
+        "5–10% transaction fee on top of monthly subscription",
+        "No free tier — 14-day trial only"
+      ],
+      "reviewBody": "Uscreen is the all-in-one SVOD platform for creators who want a branded video-membership business, including native mobile and TV apps. Pricing is tiered: Starter at $49/month (monthly billing only, capped at 100 subscribers, 10% fee on one-time sales); Growth at $149/month annual plus $1.99 per active subscriber (5% fee); and App Essentials at $449/month annual plus $0.99 per subscriber, adding native iOS/Android/TV apps. It supports subscriptions, one-time purchases, live-event tickets, digital products and donations, with built-in email marketing and community spaces.\n\nThe per-subscriber fee ($0.99–$1.99) is the key cost to model — at scale it can exceed the flat monthly fee. Uscreen is best for fitness, education and niche video creators with a loyal, paying audience who want apps without building them. Vimeo OTT is the closest competitor on a per-subscriber ($1) model.",
+      "testNotes": "Pricing verified 24 September 2026 against Uscreen's pages and multiple 2026 comparisons. Per-subscriber fees apply above Starter; exact caps confirmed. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  }
+]
+

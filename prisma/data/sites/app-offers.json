@@ -1,0 +1,694 @@
+[
+  {
+    "name": "Freecash",
+    "url": "https://freecash.com",
+    "description": "Large GPT platform with game offers, app installs, surveys, trials and cashback. One of the highest-rated in the category. Trustpilot 4.6/5 from 325,000+ reviews. Not a pure watch-to-earn platform — video is one of many methods.",
+    "status": "active",
+    "trustScore": 85,
+    "categories": [
+      "videos",
+      "videos-mixed",
+      "app-offers",
+      "app-offers-installs",
+      "app-offers-games",
+      "app-offers-trials",
+      "app-offers-walls",
+      "surveys",
+      "surveys-gpt",
+      "cashback",
+      "cashback-online",
+      "offerwalls",
+      "games"
+    ],
+    "features": [
+      "videos",
+      "app-offers",
+      "offerwall",
+      "games",
+      "surveys",
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-20",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trustpilot", "value": "4.6 / 5 from 325,000+ reviews" },
+        { "label": "First cashout unlocks at", "value": "$5–$20 (region dependent, one-time)" },
+        { "label": "After unlock, payout from", "value": "$0.10–$0.50 (crypto/Stake), $5 (PayPal)" },
+        { "label": "Payout methods", "value": "PayPal, bank transfer, crypto (BTC/ETH/LTC/DOGE/USDT), gift cards, Stake, Visa prepaid" },
+        { "label": "Welcome bonus", "value": "Often $5–$10 / £8 on first qualifying offer click" },
+        { "label": "Survey length", "value": "3–20 min" },
+        { "label": "Minimum age", "value": "16" },
+        { "label": "Access", "value": "iOS and Android app, or any browser" },
+        { "label": "Members / paid out", "value": "70–80+ million users, $300–400M+ paid" },
+        { "label": "Fees", "value": "5% on PayPal/bank; free on crypto & most gift cards" }
+      ],
+      "pros": [
+        "Very high Trustpilot score and volume of reviews",
+        "Low post-unlock minimums (especially crypto)",
+        "5,000+ live tasks including high-paying game offers",
+        "Fast payouts on most methods once unlocked",
+        "Strong for game players (mobile offers often best)"
+      ],
+      "cons": [
+        "First cashout threshold ($5–$20) is higher than many competitors",
+        "5% fee on cash methods (PayPal/bank)",
+        "Game offers frequently mobile-only",
+        "Offer tracking can fail; support response times vary",
+        "Some high-value offers require purchases or long play"
+      ],
+      "reviewBody": "Freecash remains one of the largest and most reviewed GPT platforms in 2026. It combines exclusive surveys (often starting higher than average) with a massive catalogue of game and app offers. The one-time first-cashout threshold is the main friction point — once cleared, withdrawals become flexible down to very low amounts on crypto routes. Fees apply only on traditional cash methods. Users report reliable payouts when tracking works correctly, though failed offer credits remain the most common complaint across the category.",
+      "testNotes": "Public data and recent Trustpilot reviews (Sep 2026) confirm ongoing payouts. Regional minima and exact bonus amounts vary; always check the in-app payout page. Game offers are typically stronger on mobile."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "min": 5, "speed": "daily" },
+      { "coin": "BTC", "payment": "direct-wallet", "min": 1, "speed": "daily" },
+      { "coin": "LTC", "payment": "direct-wallet", "min": 0.5, "speed": "daily" }
+    ]
+  },
+  {
+    "name": "KashKick",
+    "url": "https://www.kashkick.com",
+    "description": "US-focused app-offer and mobile-game mission platform. Primary earning through installing games via KashKick, enabling tracking, and hitting level/goal targets. Rewards via PayPal, Venmo and gift cards. Games are mobile-only.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "app-offers",
+      "app-offers-games",
+      "app-offers-installs"
+    ],
+    "features": [
+      "app-offers",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-15",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trustpilot", "value": "4.0 / 5 from ~7,800 reviews" },
+        { "label": "App Store / Play", "value": "4.5–4.6 stars (tens of thousands of ratings)" },
+        { "label": "Minimum payout", "value": "$10" },
+        { "label": "Payout methods", "value": "PayPal, Venmo, gift cards" },
+        { "label": "Payout speed", "value": "Typically 1–3 days after approval; some offers have 14–31 day pending periods" },
+        { "label": "Availability", "value": "Primarily United States" },
+        { "label": "Referral", "value": "Up to 25% of referrals’ game/offer earnings" },
+        { "label": "Members / paid", "value": "3.5M+ members; millions paid out annually (e.g. $11M+ in 2024 reports)" }
+      ],
+      "pros": [
+        "Strong focus on mobile game offers that can pay well",
+        "Low $10 minimum and real PayPal/Venmo payouts",
+        "Responsive support reported by many users",
+        "High referral rate",
+        "Appeared on growth lists (Inc. 5000)"
+      ],
+      "cons": [
+        "US-only (or heavily limited outside US)",
+        "Tracking failures and pending periods on some offers",
+        "Account deactivation after inactivity",
+        "Occasional reports of bans after legitimate activity",
+        "Not a survey-first platform — games dominate"
+      ],
+      "reviewBody": "KashKick is a legitimate US-based rewards platform specialising in mobile game missions and app offers. Users install through the platform, enable tracking, and complete specified goals. Payouts are real and the $10 threshold is competitive. The main friction is tracking accuracy and the wait times built into some higher-value offers. Best suited to people already playing mobile games who live in the US.",
+      "testNotes": "Trustpilot and app-store ratings remain solid in 2026. Multiple independent reviews confirm successful PayPal cashouts. Always read each offer’s exact requirements (purchases, play time, device) before starting."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "min": 10, "speed": "weekly" },
+      { "coin": "USDT", "payment": "gift-card", "min": 10, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Swagbucks",
+    "url": "https://www.swagbucks.com",
+    "description": "Long-running GPT platform (Prodege) with Discover offers (apps/games), surveys, shopping cashback, search, polls and more. Trustpilot 4.0/5 from 43,000+ reviews. Rewards via PayPal, gift cards and more.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "app-offers",
+      "app-offers-installs",
+      "app-offers-games",
+      "surveys",
+      "surveys-gpt",
+      "cashback",
+      "cashback-online",
+      "cashback-giftcard",
+      "cashback-coupons",
+      "offerwalls"
+    ],
+    "features": [
+      "app-offers",
+      "offerwall",
+      "games",
+      "surveys",
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-10",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trustpilot", "value": "4.0 / 5 from 43,000+ reviews" },
+        { "label": "Minimum payout", "value": "$3 (gift cards) / $5–$25 (PayPal, varies by region & promotion)" },
+        { "label": "Points system", "value": "100 SB = $1" },
+        { "label": "Payout methods", "value": "PayPal, Amazon and many other gift cards, Visa prepaid, charity" },
+        { "label": "Payout speed", "value": "Gift cards often 1–2 days; PayPal 2–10 business days (first can be slower)" },
+        { "label": "Operating since", "value": "2008 (Prodege)" },
+        { "label": "Paid out", "value": "Hundreds of millions to over $1B claimed historically" },
+        { "label": "Availability", "value": "Many countries; best rates in US, UK, Canada, Australia" }
+      ],
+      "pros": [
+        "Extremely long track record and brand recognition",
+        "Very low gift-card minimums",
+        "Multiple earning methods (surveys + shopping + offers + search)",
+        "Frequent gift-card discounts",
+        "BBB accredited / established company"
+      ],
+      "cons": [
+        "PayPal threshold can be higher than gift cards",
+        "Survey disqualification rates are high",
+        "Account holds or bans reported by some long-term users",
+        "Video watching is no longer a reliable standalone method",
+        "Earnings for casual users often modest ($5–$30/month)"
+      ],
+      "reviewBody": "Swagbucks remains a staple GPT site in 2026 thanks to its longevity and variety. The Discover section still includes app and game offers, while shopping cashback and surveys provide steady (if lower) activity. Gift cards are the fastest and lowest-threshold route. PayPal works but often has a higher bar and slower processing on the first redemption. Tracking and support quality are generally solid for a platform of this age and size.",
+      "testNotes": "Current Trustpilot rating holds at 4.0. Minimums and exact PayPal thresholds can vary by country and account history — always check the redemption page inside the account."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "min": 5, "speed": "daily" },
+      { "coin": "USDT", "payment": "gift-card", "min": 3, "speed": "daily" }
+    ]
+  },
+  {
+    "name": "Reward XP",
+    "url": "https://www.rewardxp.com",
+    "description": "App-offer and game rewards platform with 1,200+ live offers across mobile games, apps and services. Rewards from $5 via cash, gift cards and crypto. Tracking accuracy varies — read offer conditions carefully.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "app-offers",
+      "app-offers-games",
+      "app-offers-installs",
+      "app-offers-trials"
+    ],
+    "features": [
+      "app-offers",
+      "games",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-01",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trustpilot", "value": "3.8 / 5 from ~410 reviews" },
+        { "label": "Minimum payout", "value": "$5 (50,000 XP)" },
+        { "label": "Conversion", "value": "10,000 XP = $1" },
+        { "label": "Payout methods", "value": "PayPal, gift cards, prepaid cards, crypto, gaming currency" },
+        { "label": "Payout speed", "value": "Often within hours to a few days once approved" },
+        { "label": "Operating since", "value": "Around 2018–2020" },
+        { "label": "Availability", "value": "Many countries (VPN prohibited)" }
+      ],
+      "pros": [
+        "Clear XP-to-dollar conversion",
+        "Decent selection of game and app offers",
+        "Multiple payout routes including crypto",
+        "Low $5 threshold",
+        "Some users report fast cashouts"
+      ],
+      "cons": [
+        "Relatively low volume of Trustpilot reviews",
+        "Tracking and pending issues reported",
+        "Account reviews / holds can delay payouts",
+        "Offer volume smaller than Freecash or Swagbucks",
+        "Some older reviews mention site relaunches / temporary issues"
+      ],
+      "reviewBody": "Reward XP is a mid-tier GPT platform focused on app and game offers. It converts XP at a transparent rate and offers flexible redemptions. While many users successfully cash out, the limited review volume and occasional tracking or account-review complaints mean it sits below the top-tier platforms in overall confidence. Best used as a secondary site after checking current live offers.",
+      "testNotes": "Trustpilot sits at 3.8 in late 2026. Always verify that an offer has credited before investing significant time or money. No VPN."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "BTC", "payment": "direct-wallet", "speed": "weekly" },
+      { "coin": "USDT", "payment": "gift-card", "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Earnably",
+    "url": "https://earnably.com",
+    "description": "Long-running GPT platform combining app offers, games, surveys and videos. Low $1 minimum on many rewards. PayPal, gift cards and crypto options. Stable user base since 2015.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "app-offers",
+      "app-offers-installs",
+      "app-offers-games",
+      "surveys-gpt",
+      "offerwalls"
+    ],
+    "features": [
+      "app-offers",
+      "offerwall",
+      "games",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-30",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trustpilot", "value": "Around 4.0–4.2 / 5 (thousands of reviews historically)" },
+        { "label": "Minimum payout", "value": "$1 (PayPal / most gift cards); higher for bank/crypto in some cases" },
+        { "label": "Payout methods", "value": "PayPal, gift cards, Bitcoin, bank transfer (higher min)" },
+        { "label": "Payout speed", "value": "Often fast once threshold met" },
+        { "label": "Operating since", "value": "2015" },
+        { "label": "Availability", "value": "50+ countries" }
+      ],
+      "pros": [
+        "Very low $1 minimum on many options",
+        "Long operating history",
+        "Multiple offerwall providers",
+        "Simple interface",
+        "Referral program available"
+      ],
+      "cons": [
+        "Per-task pay can be low",
+        "Survey disqualifications common",
+        "Some users report account bans or verification friction",
+        "Earnings rate is modest for most people",
+        "Video section can be time-inefficient"
+      ],
+      "reviewBody": "Earnably has been a consistent mid-tier GPT site for over a decade. The standout feature is the low $1 cashout threshold, which makes it easy to test and verify. Offer volume and pay rates are average; it works best as a supplementary platform rather than a primary earner. Payouts are generally reliable when the account stays in good standing.",
+      "testNotes": "Still active and paying in 2026. Check current minimums inside the account as they can vary by method and region."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "min": 1, "speed": "weekly" },
+      { "coin": "USDT", "payment": "gift-card", "min": 1, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "GG2U",
+    "url": "https://gg2u.org",
+    "description": "GPT platform with offerwalls, games and surveys. Rewards via PayPal, crypto and gift cards. US-based (Massachusetts). Multiple offerwall providers. Longer-running reputation in the GPT space.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "app-offers",
+      "app-offers-installs",
+      "app-offers-games",
+      "app-offers-walls",
+      "surveys-gpt",
+      "offerwalls"
+    ],
+    "features": [
+      "app-offers",
+      "offerwall",
+      "games",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-20",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trustpilot", "value": "3.5 / 5 from ~1,165 reviews" },
+        { "label": "Minimum payout", "value": "Around $7" },
+        { "label": "Payout methods", "value": "PayPal, crypto, gift cards" },
+        { "label": "Payout speed", "value": "Often next-day once requested" },
+        { "label": "Location", "value": "Wellesley, Massachusetts, USA" },
+        { "label": "Operating since", "value": "2018–2019" }
+      ],
+      "pros": [
+        "Confirmed real payouts and next-day processing reported by many",
+        "US company with verifiable address",
+        "Multiple offerwall providers",
+        "Reasonable minimum for the category",
+        "Support generally responsive"
+      ],
+      "cons": [
+        "Trustpilot score is average (3.5)",
+        "Some users report point deductions on surveys without clear explanation",
+        "Offer volume and rates are mid-tier",
+        "Interface is functional but not modern",
+        "Referral program not especially strong"
+      ],
+      "reviewBody": "GG2U is a legitimate, US-based GPT site that has been operating for several years. Users regularly report successful and relatively fast payouts once the minimum is reached. The main drawbacks are an average Trustpilot score and occasional complaints about survey-related deductions. It sits comfortably in the mid-tier of the GPT space — reliable enough for secondary use, but not a top earner for most people.",
+      "testNotes": "Still active with recent positive payout confirmations in 2026. Always screenshot completed offers."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "speed": "weekly" },
+      { "coin": "BTC", "payment": "direct-wallet", "speed": "weekly" },
+      { "coin": "USDT", "payment": "gift-card", "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "CoinDiger",
+    "url": "https://coindiger.com",
+    "description": "Mobile rewards app claiming 50K+ downloads and payouts via FaucetPay (BTC, DOGE, etc.). $1 minimum with claimed 5–30 min processing. VPN circumvention prohibited. Limited independent review volume.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "app-offers",
+      "surveys",
+      "games",
+      "faucets"
+    ],
+    "features": [
+      "app-offers",
+      "surveys",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-01",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trustpilot", "value": "Limited reviews (small sample, mixed/high scores on small base)" },
+        { "label": "Minimum payout", "value": "Claimed $1" },
+        { "label": "Payout methods", "value": "FaucetPay (BTC, DOGE, LTC, USDT observed)" },
+        { "label": "Processing", "value": "Claimed 5–30 minutes" },
+        { "label": "Notes", "value": "FaucetPay monitoring shows low but ongoing payments" }
+      ],
+      "pros": [
+        "Low claimed minimum",
+        "Crypto via FaucetPay",
+        "Mobile-focused"
+      ],
+      "cons": [
+        "Very limited independent review volume",
+        "Small payment activity visible on public faucet monitors",
+        "Higher risk profile due to lack of large-scale verification",
+        "VPN banned"
+      ],
+      "reviewBody": "CoinDiger positions itself as a mobile rewards app with FaucetPay payouts. Public faucet-monitor data shows small but continuing payments. Independent review volume is low, so treat it as higher-risk than established GPT platforms. Suitable only for small tests with money you can afford to lose tracking on.",
+      "testNotes": "FaucetPay activity confirmed as of recent checks, but scale is modest. Proceed with caution."
+    },
+    "offers": [
+      { "coin": "BTC", "payment": "faucetpay", "min": 1, "speed": "instant" },
+      { "coin": "DOGE", "payment": "faucetpay", "min": 1, "speed": "instant" }
+    ]
+  },
+  {
+    "name": "LootGain",
+    "url": "https://lootgain.com",
+    "description": "App-offer and survey platform. Users earn internal Loots currency (1,000 Loots = $1). Withdrawals generally processed within a few business days. Smaller offer volume than top-tier platforms but generally reliable tracking reported.",
+    "status": "active",
+    "trustScore": 65,
+    "categories": [
+      "app-offers",
+      "app-offers-installs",
+      "surveys-gpt"
+    ],
+    "features": [
+      "app-offers",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Conversion", "value": "1,000 Loots = $1" },
+        { "label": "Payout methods", "value": "PayPal, gift cards" },
+        { "label": "Processing", "value": "Typically within 3 business days" },
+        { "label": "Offer volume", "value": "Smaller than Freecash / Swagbucks" }
+      ],
+      "pros": [
+        "Transparent internal currency",
+        "Generally reliable tracking according to users",
+        "Straightforward PayPal / gift-card options"
+      ],
+      "cons": [
+        "Smaller catalogue of offers",
+        "Limited large-scale review data",
+        "Weekly rather than daily payout cadence common"
+      ],
+      "reviewBody": "LootGain is a smaller app-offer and survey platform that converts Loots to dollars at a clear rate. Users who stick to it report reliable tracking and reasonable processing times. It will not match the offer volume of the largest platforms, so treat it as a secondary or niche option.",
+      "testNotes": "Still listed as active. Verify current minimums and available offers inside the account."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "speed": "weekly" },
+      { "coin": "USDT", "payment": "gift-card", "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "PrizeRebel",
+    "url": "https://www.prizerebel.com",
+    "description": "GPT platform with offers, app installations and surveys. Trustpilot historically around 3.3–3.7. Rewards via PayPal, gift cards and crypto.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "app-offers",
+      "app-offers-installs",
+      "app-offers-walls",
+      "surveys",
+      "surveys-gpt",
+      "cashback",
+      "cashback-online",
+      "offerwalls"
+    ],
+    "features": [
+      "app-offers",
+      "offerwall",
+      "surveys",
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-10",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trustpilot", "value": "Approximately 3.3–3.7 / 5 (hundreds of reviews)" },
+        { "label": "Minimum payout", "value": "$5 (common)" },
+        { "label": "Payout methods", "value": "PayPal, gift cards, crypto" },
+        { "label": "Payout speed", "value": "Daily possible once threshold met" }
+      ],
+      "pros": [
+        "Multiple earning methods including cashback",
+        "Long presence in the GPT space",
+        "Crypto options available"
+      ],
+      "cons": [
+        "Below-average Trustpilot score",
+        "Offer tracking and support quality vary",
+        "Not a top earner for most users"
+      ],
+      "reviewBody": "PrizeRebel is an established but lower-rated GPT platform. It offers the usual mix of surveys, app offers and walls. Payouts do occur, but the overall user sentiment is more mixed than on Freecash or Swagbucks. Suitable as a secondary site.",
+      "testNotes": "Still active. Expect more friction than on higher-rated platforms."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "min": 5, "speed": "daily" }
+    ]
+  },
+  {
+    "name": "ySense",
+    "url": "https://www.ysense.com",
+    "description": "GPT platform with offers, app installs, surveys and tasks. Trustpilot historically around 3.9. PayPal and other reward options. Available in the UK and internationally.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "app-offers",
+      "app-offers-installs",
+      "app-offers-walls",
+      "surveys",
+      "surveys-gpt",
+      "cashback",
+      "cashback-online",
+      "offerwalls"
+    ],
+    "features": [
+      "app-offers",
+      "offerwall",
+      "surveys",
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-05",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trustpilot", "value": "Around 3.9 / 5 from 3,000+ reviews historically" },
+        { "label": "Minimum payout", "value": "$10 (common for PayPal)" },
+        { "label": "Payout methods", "value": "PayPal and other options" },
+        { "label": "Availability", "value": "UK and many other countries" }
+      ],
+      "pros": [
+        "International availability including UK",
+        "Mix of offers, surveys and cashback",
+        "Established platform"
+      ],
+      "cons": [
+        "Higher minimum than some competitors",
+        "Mid-range Trustpilot score",
+        "Earnings and offer quality vary by country"
+      ],
+      "reviewBody": "ySense is a solid mid-tier GPT option with decent international reach. The $10 PayPal threshold is higher than the lowest platforms, but the site remains active and pays. Best used alongside higher-volume or lower-minimum alternatives.",
+      "testNotes": "Still operating. Check current country-specific offers and minima."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "min": 10, "speed": "daily" }
+    ]
+  },
+  {
+    "name": "AppOffers",
+    "url": "https://appoffers.io",
+    "description": "Mobile rewards app rather than a standard FaucetPay faucet. Earn TRCoin from surveys, games, partner tasks, a daily faucet and tournaments. Last FaucetPay-tracked payment noted in earlier 2026 data; status under review.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "app-offers",
+      "surveys",
+      "games"
+    ],
+    "features": [
+      "app-offers",
+      "surveys",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-04-11",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Status", "value": "Under review — limited recent independent confirmation" },
+        { "label": "Payout", "value": "TRX / direct wallet, claimed weekly" },
+        { "label": "Notes", "value": "Earlier FaucetPay activity recorded; current activity should be verified independently" }
+      ],
+      "pros": [
+        "Mobile-focused with multiple task types"
+      ],
+      "cons": [
+        "Limited recent independent verification",
+        "Under-review status",
+        "Higher risk"
+      ],
+      "reviewBody": "AppOffers presents itself as a mobile rewards app. Public payment tracking data is sparse after early 2026. Treat as higher-risk until fresh independent payout confirmations appear.",
+      "testNotes": "Status remains under_review pending fresher verification."
+    },
+    "offers": [
+      { "coin": "TRX", "payment": "direct-wallet", "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Freeward",
+    "url": "https://freeward.com",
+    "description": "App-offer, game and task platform. Rewards via cash and other methods. Smaller catalog than Freecash or Swagbucks. Clean interface. Status under review due to limited large-scale data.",
+    "status": "under_review",
+    "trustScore": 58,
+    "categories": [
+      "app-offers",
+      "app-offers-installs",
+      "app-offers-games"
+    ],
+    "features": [
+      "app-offers",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-07-01",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Status", "value": "Under review" },
+        { "label": "Payout methods", "value": "PayPal claimed" },
+        { "label": "Catalog size", "value": "Smaller than top-tier platforms" }
+      ],
+      "pros": [
+        "Clean interface reported by users"
+      ],
+      "cons": [
+        "Limited independent review volume",
+        "Smaller offer catalog",
+        "Under-review status"
+      ],
+      "reviewBody": "Freeward is a smaller app-offer and game platform. Independent verification volume is limited, so it carries higher uncertainty than established names. Use only with small tests if at all.",
+      "testNotes": "Marked under_review pending more recent confirmation."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "RewardingWays",
+    "url": "https://rewardingways.com",
+    "description": "App-offer, survey and task platform. Rewards via PayPal and gift cards. Smaller platform with less brand recognition — verify tracking before committing to high-effort offers.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "app-offers",
+      "app-offers-installs",
+      "surveys-gpt"
+    ],
+    "features": [
+      "app-offers",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-07-01",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Status", "value": "Under review" },
+        { "label": "Payout methods", "value": "PayPal, gift cards" },
+        { "label": "Notes", "value": "Smaller platform; tracking should be verified on low-value offers first" }
+      ],
+      "pros": [
+        "Simple PayPal / gift-card options"
+      ],
+      "cons": [
+        "Limited brand recognition and review volume",
+        "Under-review status",
+        "Higher risk of tracking issues on high-effort offers"
+      ],
+      "reviewBody": "RewardingWays is a smaller GPT-style platform. Because independent data is limited, treat it cautiously and test tracking thoroughly before investing significant time.",
+      "testNotes": "Status under_review."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "speed": "weekly" },
+      { "coin": "USDT", "payment": "gift-card", "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "GrabPoints",
+    "url": "https://grabpoints.com",
+    "description": "GPT platform with app offers, games and surveys. Rewards via PayPal and gift cards. Available in many countries including the UK.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "app-offers",
+      "app-offers-installs",
+      "app-offers-games",
+      "surveys-gpt",
+      "offerwalls"
+    ],
+    "features": [
+      "app-offers",
+      "offerwall",
+      "games",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-01",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Availability", "value": "Many countries including UK" },
+        { "label": "Payout methods", "value": "PayPal, gift cards" },
+        { "label": "Type", "value": "Standard GPT with offerwalls" }
+      ],
+      "pros": [
+        "International availability",
+        "Multiple task types"
+      ],
+      "cons": [
+        "Mid-tier offer volume and rates",
+        "Limited standout features versus larger competitors"
+      ],
+      "reviewBody": "GrabPoints is a conventional GPT platform available in a wide range of countries. It offers the usual mix of offers, games and surveys with PayPal and gift-card redemptions. Suitable as a secondary site.",
+      "testNotes": "Still active. Verify current minima and country-specific offers."
+    },
+    "offers": [
+      { "coin": "USDT", "payment": "paypal", "speed": "weekly" },
+      { "coin": "USDT", "payment": "gift-card", "speed": "weekly" }
+    ]
+  }
+]

@@ -1,0 +1,1652 @@
+[
+  {
+    "name": "Upwork",
+    "url": "https://www.upwork.com",
+    "description": "Largest general freelance marketplace. Hourly and fixed-price contracts with escrow protection and time tracking. Since 1 May 2025 the freelancer service fee is a variable 0–15% per contract (most freelancers ~10%), locked at proposal; Connects cost $0.15 each to bid. Weekly payouts via direct deposit, PayPal, Payoneer or wire.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": ["freelancing", "freelancing-general", "freelancing-dev", "freelancing-writing", "freelancing-marketing", "freelancing-va"],
+    "features": ["freelancing", "escrow", "time-tracking", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer service fee", "value": "0–15% per contract (most ~10%), locked at proposal" },
+        { "label": "Old tiered model", "value": "Replaced May 2025 (was 20/10/5%)" },
+        { "label": "Connects (bids)", "value": "$0.15 each; 10 free per month" },
+        { "label": "Payout methods", "value": "Direct deposit/ACH (free), PayPal, Payoneer, wire" },
+        { "label": "Payout schedule", "value": "Weekly (Wednesdays), daily available for some" },
+        { "label": "Minimum age", "value": "18" },
+        { "label": "Categories", "value": "130+ — dev, design, writing, marketing, VA" }
+      ],
+      "pros": [
+        "Largest client pool and highest volume of any freelance marketplace",
+        "Hourly contracts have full payment protection via Work Diary time tracking",
+        "Variable 0–15% fee can be as low as 0% on some contracts",
+        "Multiple payout rails with free ACH and weekly cadence"
+      ],
+      "cons": [
+        "Connects ($0.15 each) make bidding a real cost, especially for beginners",
+        "Fee is opaque — set per contract at proposal and not negotiable",
+        "High competition keeps entry-level rates low",
+        "Account suspensions can be abrupt and appeal is slow"
+      ],
+      "reviewBody": "Upwork remains the default freelance marketplace by volume, but its fee model changed on 1 May 2025: the old 20/10/5% sliding scale was replaced by a variable 0–15% service fee attached to each contract and locked the moment you submit a proposal — most freelancers land around 10%. Bidding costs Connects at $0.15 each (10 free per month), so proposal strategy matters.\n\nPayouts run weekly (typically Wednesdays) via ACH (free), PayPal, Payoneer or wire, with daily payout available to established accounts. Hourly contracts are protected by the Work Diary time-tracking escrow. The platform's weakness is competition and account-suspension risk, but for established freelancers it delivers the most consistent client flow.",
+      "testNotes": "Fee change (1 May 2025) and payout schedule verified 25 Sep 2026 against Upwork's legal fee agreement and multiple 2026 fee guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "payoneer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Fiverr",
+    "url": "https://www.fiverr.com",
+    "description": "Fixed-price gig marketplace for design, programming, video, writing and marketing. Flat 20% seller commission on all orders, extras and tips. 14-day clearing period (7 days for Level 2/Top Rated/Pro/Seller Plus). Payout via PayPal (free, $1 min), Payoneer/bank transfer ($1, $20 min) or Fiverr Revenue Card.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": ["freelancing", "freelancing-general", "freelancing-design", "freelancing-dev", "freelancing-writing", "freelancing-marketing"],
+    "features": ["freelancing", "gigs", "escrow", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Seller commission", "value": "Flat 20% on all orders, extras and tips" },
+        { "label": "Clearing period", "value": "14 days (7 days for Level 2 / Top Rated / Pro / Seller Plus)" },
+        { "label": "PayPal payout", "value": "Free, $1 minimum" },
+        { "label": "Payoneer / bank transfer", "value": "$1 fee, $20 minimum" },
+        { "label": "Fiverr Revenue Card", "value": "$1 within 2 days, $3 within 2 hours" },
+        { "label": "Buyer fee", "value": "5.5% service fee + $3–$5 small-order fee" },
+        { "label": "Seller levels", "value": "New → Level 1 → Level 2 → Top Rated → Pro" }
+      ],
+      "pros": [
+        "Highest inbound order volume — buyers come to you, no bidding cost",
+        "PayPal withdrawals are free with just a $1 minimum",
+        "Seller levels reduce clearing time and unlock more gig extras",
+        "Productized gigs scale well with repeat orders"
+      ],
+      "cons": [
+        "20% flat commission is the highest among major marketplaces",
+        "14-day clearing for new/Level 1 sellers delays cash flow",
+        "Price pressure is intense — many categories race to the bottom",
+        "Withdrawal fees stack on top of the 20% for non-PayPal methods"
+      ],
+      "reviewBody": "Fiverr is the inbound-order alternative to bidding marketplaces: sellers list fixed-price gigs and buyers come to them, with no per-proposal cost. The trade-off is a flat 20% commission on every order, gig extra and tip — the highest standard rate among the major platforms. Funds clear after 14 days for new and Level 1 sellers, dropping to 7 days for Level 2, Top Rated, Pro and Seller Plus accounts.\n\nPayPal withdrawals are free with a $1 minimum; Payoneer-powered bank transfer costs $1 with a $20 minimum, and the Fiverr Revenue Card costs $1 (2-day) or $3 (2-hour). Buyers pay 5.5% plus a small-order fee on top. For productized, repeatable services with fast delivery, Fiverr's volume usually justifies the cut; for high-end custom work, Upwork or a vetted network keeps more.",
+      "testNotes": "Commission, clearing periods and withdrawal fees verified 25 Sep 2026 against Fiverr's official Payment Terms (updated Aug 2026) and 2026 fee guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 1, "speed": "biweekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 20, "speed": "biweekly" }
+    ]
+  },
+  {
+    "name": "Freelancer.com",
+    "url": "https://www.freelancer.com",
+    "description": "Bidding marketplace with 1,350+ categories and contests. Freelancer fee 10% or $5 minimum (whichever greater) on fixed-price, hourly and contest payments. Withdrawal minimum $50 (wire $500); PayPal/Skrill/Payoneer $1 fee, wire $25, local bank deposit free where available.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-general", "freelancing-dev", "freelancing-design", "freelancing-writing"],
+    "features": ["freelancing", "contests", "milestone-escrow", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee", "value": "10% or $5, whichever is greater (fixed, hourly, contests)" },
+        { "label": "Client fee", "value": "3% or $3, whichever greater" },
+        { "label": "Withdrawal minimum", "value": "$50 general; $500 for wire" },
+        { "label": "PayPal / Skrill / Payoneer fee", "value": "$1 per withdrawal" },
+        { "label": "Wire transfer fee", "value": "$25" },
+        { "label": "Local bank deposit", "value": "Free where available" },
+        { "label": "Free plan limits", "value": "Very limited; paid memberships ~$5–$70/mo" }
+      ],
+      "pros": [
+        "Huge project volume across 1,350+ categories, including contests",
+        "Milestone escrow protects both parties",
+        "Local bank deposits are free in supported countries",
+        "Low barrier to entry — free to create a profile"
+      ],
+      "cons": [
+        "$5 minimum fee makes small jobs expensive (effectively 50% on a $10 task)",
+        "$50 withdrawal minimum is high relative to other platforms",
+        "Free plan is heavily limited; most active freelancers need a paid membership",
+        "Quality of clients and competition are weaker than Upwork"
+      ],
+      "reviewBody": "Freelancer.com is the volume-bidding marketplace: 10% or $5 (whichever is greater) on every fixed-price, hourly and contest payment, with milestone escrow for protection. The $5 floor is punishing on small jobs — a $10 task effectively costs 50%. Withdrawals require a $50 balance ($500 for wire), and PayPal/Skrill/Payoneer withdrawals cost $1 each, while international wire costs $25; local bank deposits are free where available.\n\nThe free plan is very limited (bids, features), so most active freelancers end up on a paid membership tier. For freelancers in regions with local-bank-deposit support and a steady flow of mid-size projects, it remains a viable secondary source; for everyone else, Upwork or Fiverr usually net more.",
+      "testNotes": "Fee structure and withdrawal minimums verified 25 Sep 2026 against Freelancer.com's official Fees & Charges page (updated Sep 2026). No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 50, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 50, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "PeoplePerHour",
+    "url": "https://www.peopleperhour.com",
+    "description": "UK-founded freelance marketplace with Hourlies (fixed-price offers) and custom projects. Sliding freelancer fee: 20% on first £500 per client, 7.5% £501–£3,000, 3.5% above £3,000. Escrow protection; UK bank/SEPA withdrawals free, PayPal 2%. Strong UK/EU presence.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": ["freelancing", "freelancing-general", "freelancing-design", "freelancing-dev", "freelancing-writing", "freelancing-marketing"],
+    "features": ["freelancing", "hourlies", "escrow", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee (sliding per client)", "value": "20% first £500 → 7.5% £501–£3,000 → 3.5% above £3,000" },
+        { "label": "Client deposit fee", "value": "10% + £0.60 per payment into escrow" },
+        { "label": "Withdrawal — UK bank / SEPA", "value": "Free" },
+        { "label": "Withdrawal — PayPal", "value": "2% fee" },
+        { "label": "Payment release", "value": "~24–48h after completion (new freelancers longer)" },
+        { "label": "Focus market", "value": "UK and Europe" },
+        { "label": "Dormant balance rule", "value": "Admin fees applied to balances held >30 days" }
+      ],
+      "pros": [
+        "Sliding fee drops to 3.5% with repeat clients — rewards loyalty",
+        "UK bank and SEPA withdrawals are free",
+        "Hourlies (fixed-price offers) generate inbound orders like Fiverr gigs",
+        "Escrow protection on all project payments"
+      ],
+      "cons": [
+        "20% starting fee is high until you build a client relationship",
+        "Client deposit fee (10% + £0.60) is effectively passed through in pricing pressure",
+        "Dormant balances over 30 days incur admin fees — withdraw promptly",
+        "Volume is much lower than Upwork/Fiverr, especially outside the UK"
+      ],
+      "reviewBody": "PeoplePerHour is the UK/EU-focused marketplace combining fixed-price 'Hourlies' with custom projects, all protected by escrow. Its freelancer fee slides per client: 20% on the first £500, 7.5% from £501–£3,000, and 3.5% above £3,000 — so repeat relationships get materially cheaper. Clients pay a 10% + £0.60 deposit fee into escrow, and freelancers withdraw free via UK bank or SEPA (PayPal costs 2%).\n\nA notable term: dormant balances held over 30 days can incur admin fees, so withdraw promptly. Volume is lower than Upwork/Fiverr and skews UK/EU, but for freelancers in those markets building repeat clients, the sliding 3.5% end-rate is among the best in marketplaces.",
+      "testNotes": "Sliding fee and withdrawal fees verified 25 Sep 2026 against PPH terms (updated Sep 2026) and 2026 fee comparisons. Thresholds vary slightly by source (£350/£5,000 vs £500/£3,000); £500/£3,000 is the most-cited current structure. No live account test."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "GBP", "payment": "paypal", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Guru",
+    "url": "https://www.guru.com",
+    "description": "Established freelance marketplace with SafePay escrow. Freelancer service fee 5–9% by membership tier (Basic free = 9%, paid tiers down to 5%). Withdrawal fees: PayPal $0.50, Payoneer $1.50, wire $15. Weekly payouts. Programming, design, writing and business projects.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-general", "freelancing-dev", "freelancing-design", "freelancing-va"],
+    "features": ["freelancing", "safepay-escrow", "membership-tiers"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee", "value": "9% (Basic/free) down to 5% (paid memberships $11.95–$49.95/mo)" },
+        { "label": "Escrow", "value": "SafePay — funds held before work starts" },
+        { "label": "PayPal withdrawal fee", "value": "$0.50" },
+        { "label": "Payoneer withdrawal fee", "value": "$1.50" },
+        { "label": "Wire withdrawal fee", "value": "$15" },
+        { "label": "Payout schedule", "value": "Weekly" },
+        { "label": "Client handling fee", "value": "2.9% (100% cashback if paid via eCheck/wire)" }
+      ],
+      "pros": [
+        "Lowest standard marketplace fee (5–9%) once on a paid tier",
+        "SafePay escrow is one of the oldest and most reliable protection systems",
+        "Paid memberships both lower fees and boost bid visibility",
+        "Lower competition than Upwork"
+      ],
+      "cons": [
+        "Free Basic tier charges 9% and limits bids (120/year)",
+        "Withdrawal fees ($0.50–$15) eat into small balances",
+        "Project volume is a fraction of Upwork's",
+        "Site UX and mobile experience feel dated"
+      ],
+      "reviewBody": "Guru is the low-fee incumbent: its SafePay escrow system predates most competitors, and freelancer fees run 5–9% depending on membership tier — Basic (free) pays 9% with 120 bids/year, while paid tiers ($11.95–$49.95/month) drop the fee to 5% and increase bid allocation. Clients pay a 2.9% handling fee, fully refunded when paying by eCheck or wire.\n\nWithdrawals run weekly but carry per-method fees: PayPal $0.50, Payoneer $1.50, wire $15. Project volume is lower than Upwork, so Guru works best as a secondary channel or for freelancers willing to pay for a membership tier that lowers the effective take.",
+      "testNotes": "Fee tiers and withdrawal fees verified 25 Sep 2026 against Guru's help center and 2026 fee comparisons. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Contra",
+    "url": "https://contra.com",
+    "description": "Commission-free freelance platform (0% to freelancers). Portfolio-led with verified profiles and direct client relationships. Clients pay a flat $2–$29 project fee; Contra Pro/Max subscriptions can waive payment-processing fees. Payout via Stripe to bank. Best for creatives and independents who bring their own clients.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": ["freelancing", "freelancing-general", "freelancing-design", "freelancing-marketing"],
+    "features": ["freelancing", "0%-commission", "portfolio", "pro-subscription"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer commission", "value": "0% — always" },
+        { "label": "Client fee", "value": "Flat $2–$29 per project (paid by client)" },
+        { "label": "Contra Pro / Max", "value": "Paid tiers can waive payment-processing fees" },
+        { "label": "Payout rail", "value": "Stripe → bank account" },
+        { "label": "Payout speed", "value": "Typically 2–3 business days" },
+        { "label": "Best for", "value": "Creatives/independents bringing their own clients" },
+        { "label": "Discovery", "value": "Jobs board + Opportunities feed (varies by plan)" }
+      ],
+      "pros": [
+        "Genuinely 0% commission — freelancers keep everything",
+        "Clean portfolio-first UX and verified profiles",
+        "Ideal for invoicing clients you already have with escrow protection",
+        "Pro/Max tiers can remove even payment-processing fees"
+      ],
+      "cons": [
+        "Inbound client volume is much lower than Upwork/Fiverr",
+        "Opportunity access varies by plan tier",
+        "Payout only via Stripe/bank — no PayPal/Payoneer",
+        "Smaller platform — fewer categories and clients"
+      ],
+      "reviewBody": "Contra's pitch is simple and rare: 0% commission to freelancers, always. Instead, clients pay a flat $2–$29 project fee, and Contra Pro/Max subscriptions ($/month) can waive payment-processing fees entirely. Payouts run through Stripe to a bank account in 2–3 business days.\n\nThe trade-off is volume: Contra's inbound client flow is a fraction of Upwork's, and opportunity access varies by plan. It shines for freelancers who already have clients and want a polished, fee-free invoicing/escrow layer, or for creatives building a portfolio presence. As a sole source of clients, it's thinner than the marketplaces.",
+      "testNotes": "0% commission and client-fee model verified 25 Sep 2026 against Contra's own payments blog (Feb 2026) and 2026 comparisons. Pro/Max pricing varies; confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Toptal",
+    "url": "https://www.toptal.com",
+    "description": "Elite vetted talent network — top ~3% of applicants — across software, design, finance and project management. Freelancers set their own rate and pay 0% platform fee; Toptal's margin is a client-side markup (~40–60%) plus a $79/mo client fee. Monthly invoicing, payout via wire or Payoneer. Trustpilot ~4.8/5.",
+    "status": "active",
+    "trustScore": 90,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-dev", "freelancing-design", "freelancing-marketing"],
+    "features": ["freelancing", "vetted-network", "0%-freelancer-fee", "enterprise-clients"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Acceptance rate", "value": "~3% of applicants" },
+        { "label": "Freelancer fee", "value": "0% — you set your rate and keep it" },
+        { "label": "Client-side markup", "value": "~40–60% built into client rate + $79/mo client fee" },
+        { "label": "Typical freelancer rate", "value": "$60–$150+/hr (senior specialists higher)" },
+        { "label": "Payout methods", "value": "Wire transfer, Payoneer" },
+        { "label": "Payout schedule", "value": "Monthly invoicing (NET terms)" },
+        { "label": "Vertical focus", "value": "Software, design, finance, project management" }
+      ],
+      "pros": [
+        "0% freelancer fee — you keep 100% of your stated rate",
+        "Enterprise clients (Fortune 500) with serious budgets",
+        "No bidding — curated matching by Toptal staff",
+        "Highest trust rating of any freelance platform"
+      ],
+      "cons": [
+        "Extremely selective (~3% acceptance) — long screening process",
+        "Client markup means you could earn more going direct",
+        "Monthly invoicing means slower cash flow than weekly marketplaces",
+        "Limited to a few verticals — not for writers, VAs, generalists"
+      ],
+      "reviewBody": "Toptal is the elite end of freelance: a multi-stage screening accepts roughly 3% of applicants, and accepted talent set their own rate with 0% platform fee — Toptal's margin lives in a client-side markup of roughly 40–60% plus a $79/month client fee. Typical freelancer rates run $60–$150+/hour, higher for niche specialists, with enterprise clients including Fortune 500 companies.\n\nPayout is monthly by invoice via wire or Payoneer — slower cash flow than weekly marketplaces, but engagements are long-term and high-value. The screening is long and selective, and the platform is limited to software, design, finance and project management. For senior specialists who pass, it's the highest-paying, lowest-hassle channel; for everyone else, the vetting itself is the barrier.",
+      "testNotes": "0% freelancer fee, client markup and $79/mo client fee verified 25 Sep 2026 against Toptal talent FAQ and 2026 breakdowns. Acceptance rate (~3%) is Toptal's own long-standing claim. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" },
+      { "coin": "USD", "payment": "payoneer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Malt",
+    "url": "https://www.malt.com",
+    "description": "European professional freelance network (France-origin, UK and Europe-wide). Tech, data, consulting and creative. Freelancers pay 0% commission — Malt charges clients a service fee (typically 5–10%). Payout via bank transfer, usually within days of invoice approval. Strong in France, Germany, Spain, UK.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-dev", "freelancing-marketing"],
+    "features": ["freelancing", "0%-freelancer-fee", "europe-focus", "escrow"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer commission", "value": "0% — fee charged to client" },
+        { "label": "Client service fee", "value": "Typically 5–10% of contract value" },
+        { "label": "Payout method", "value": "Bank transfer (SEPA / UK)" },
+        { "label": "Payout speed", "value": "Within days of client approving invoice" },
+        { "label": "Strong markets", "value": "France, Germany, Spain, UK, rest of EU" },
+        { "label": "Focus", "value": "Tech, data, consulting, creative professionals" },
+        { "label": "Freelancer status", "value": "You invoice directly (self-employed / limited company)" }
+      ],
+      "pros": [
+        "0% freelancer commission — you keep your full rate",
+        "Fast payout — days after invoice approval, not monthly",
+        "Strong professional client base in Europe",
+        "No bidding cost — clients find and contact you"
+      ],
+      "cons": [
+        "Limited outside Europe — weak in US/Asia",
+        "Requires proper self-employed/limited-company setup to invoice",
+        "Client fee can push clients to negotiate your rate down",
+        "Less suited to creative/design than tech/consulting"
+      ],
+      "reviewBody": "Malt is the European professional freelance network: freelancers pay 0% commission, and Malt charges clients a service fee of typically 5–10%. Freelancers invoice directly (you need a self-employed or limited-company setup) and get paid by bank transfer within days of the client approving the invoice — much faster than monthly marketplace cycles.\n\nMalt is strong in France (its origin), Germany, Spain and the UK, focused on tech, data, consulting and creative professionals. Its weakness is reach outside Europe and a requirement for proper invoicing status. For EU-based professionals, the 0% fee and fast payout make it a primary channel; for US/Asia freelancers, the client base is too thin.",
+      "testNotes": "0% freelancer fee and client-side commission verified 25 Sep 2026 against Malt's terms and 2026 EU freelance guides. Exact client fee varies by contract size and country. No live account test performed."
+    },
+    "offers": [
+      { "coin": "EUR", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "YunoJuno",
+    "url": "https://www.yunojuno.com",
+    "description": "UK freelance platform for creative, tech and marketing contractors, with a strong focus on freelancer management for agencies and brands. Freelancers pay no commission — YunoJuno charges clients a service fee. Handles contracts, IR35 status determination and payments. Payout via bank transfer, typically within days of timesheet approval.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-design", "freelancing-dev", "freelancing-marketing"],
+    "features": ["freelancing", "0%-freelancer-fee", "uk-focus", "ir35-support"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer commission", "value": "0% — fee charged to client" },
+        { "label": "Payout method", "value": "UK bank transfer (Faster Payments)" },
+        { "label": "Payout speed", "value": "Within days of timesheet/invoice approval" },
+        { "label": "Market focus", "value": "UK — agencies, brands, in-house teams" },
+        { "label": "Specialisms", "value": "Creative, design, tech, marketing contractors" },
+        { "label": "Extra", "value": "IR35 status determination and contract handling included" },
+        { "label": "Freelancer setup", "value": "Limited company or umbrella via platform partners" }
+      ],
+      "pros": [
+        "0% freelancer commission — client pays the platform fee",
+        "Fast UK bank payouts within days of approval",
+        "Handles IR35 determinations and contracts — major UK benefit",
+        "Quality client base (agencies and brands) with less rate pressure"
+      ],
+      "cons": [
+        "UK-only — no international client base",
+        "Curated/invite-heavy — not open self-service for all freelancers",
+        "Focused on longer contracts, not one-off small projects",
+        "Limited verticals beyond creative/tech/marketing"
+      ],
+      "reviewBody": "YunoJuno is the UK contractor platform for creative, tech and marketing freelancers working with agencies and brands. Freelancers pay 0% commission — the platform fee is charged to clients — and payouts run by UK Faster Payments within days of timesheet approval. A key UK-specific benefit is that YunoJuno handles IR35 status determinations and contracts, removing a major administrative burden for limited-company contractors.\n\nIt is UK-only and curated rather than fully open self-service, and it skews toward longer contracts rather than one-off projects. For UK creative/tech contractors who get accepted, the combination of 0% fee, fast payout and IR35 handling is hard to beat.",
+      "testNotes": "0% freelancer fee and IR35 handling verified 25 Sep 2026 against YunoJuno's materials and 2026 UK freelance guides. Acceptance is curated; terms may vary. No live account test performed."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Twine",
+    "url": "https://www.twine.net",
+    "description": "Creative freelance marketplace (music, film, design, branding) with portfolio-led discovery and project briefs. Freelancer commission around 15–20% on platform-brokered work; direct client relationships pay less. Payout via PayPal/bank. UK-founded with global reach.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-general", "freelancing-design"],
+    "features": ["freelancing", "portfolio", "creative-focus"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer commission", "value": "~15–20% on platform-brokered work (lower for direct clients)" },
+        { "label": "Focus", "value": "Music, film, design, branding, creative services" },
+        { "label": "Payout methods", "value": "PayPal, bank transfer" },
+        { "label": "Payout schedule", "value": "On project completion / milestone" },
+        { "label": "Origin", "value": "UK-founded, global reach" },
+        { "label": "Discovery", "value": "Portfolio + briefs + jobs board" }
+      ],
+      "pros": [
+        "Niche creative community with less competition than general marketplaces",
+        "Portfolio-led discovery suits designers, musicians and filmmakers",
+        "Direct client relationships can reduce the platform cut",
+        "Global client base for creative briefs"
+      ],
+      "cons": [
+        "Commission (~15–20%) is high relative to specialist creative networks",
+        "Project volume is lower than Fiverr/Upwork",
+        "Payment protection and dispute resolution are less mature",
+        "Less suited to non-creative freelancers"
+      ],
+      "reviewBody": "Twine is the creative-niche marketplace — music, film, design and branding — with portfolio-led discovery and project briefs. Platform-brokered work carries roughly 15–20% commission, while direct client relationships negotiated off-platform reduce the cut. Payouts release on project completion or milestone via PayPal or bank transfer.\n\nThe niche focus means less competition than general marketplaces, but also lower project volume, and the commission is high relative to creative-specialist alternatives. It works best as a portfolio showcase plus secondary lead source for creative freelancers.",
+      "testNotes": "Commission range verified 25 Sep 2026 against 2026 creative-freelance comparisons; exact rate varies by project type and client source — confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Bark",
+    "url": "https://www.bark.com",
+    "description": "Lead-generation marketplace for local and professional services (trades, tutoring, design, marketing, events). Professionals buy credits to respond to leads; no commission on completed work. UK-founded, global. Payout is direct between client and professional — Bark never holds funds.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": ["freelancing", "freelancing-general", "freelancing-local"],
+    "features": ["freelancing", "lead-generation", "local-services", "no-commission"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Business model", "value": "Professionals buy credits to respond to leads" },
+        { "label": "Commission on work", "value": "0% — paid directly by client" },
+        { "label": "Credit cost", "value": "Varies by category; bundles from ~£20" },
+        { "label": "Payout", "value": "Direct client→professional (Bark holds no funds)" },
+        { "label": "Categories", "value": "Trades, tutoring, design, marketing, events, wellness" },
+        { "label": "Coverage", "value": "UK, US, Australia, and more" },
+        { "label": "Risk", "value": "Pay-per-lead means cost even if you don't win the job" }
+      ],
+      "pros": [
+        "0% commission on completed work — you keep 100%",
+        "No bidding wars — you contact the lead directly",
+        "Strong for local services and high-ticket professionals",
+        "No escrow hold — clients pay you directly"
+      ],
+      "cons": [
+        "Pay-per-lead means you spend money even on leads you don't win",
+        "Lead quality varies — many are price-shoppers",
+        "No payment protection or escrow",
+        "Credit packs can be consumed quickly with low conversion"
+      ],
+      "reviewBody": "Bark is a lead-generation platform, not a freelance marketplace: professionals buy credits (bundles from roughly £20, varying by category) to receive and respond to customer leads, and pay 0% commission on any work they win — clients pay professionals directly. It covers trades, tutoring, design, marketing, events and wellness across the UK, US, Australia and beyond.\n\nThe model's strength and weakness are the same: you pay for leads regardless of whether you win the job. For high-ticket services with good conversion, the effective cost per acquired client can be low; for price-sensitive categories, lead quality is often poor. There is no escrow or payment protection. Best treated as a marketing channel with a tracked cost-per-acquisition, not a guaranteed work source.",
+      "testNotes": "Pay-per-lead model and 0% commission verified 25 Sep 2026 against Bark's site and 2026 reviews. Credit pricing varies by category and bundle. No live account test performed."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
+  },
+  {
+    "name": "99designs",
+    "url": "https://99designs.com",
+    "description": "Design marketplace (logos, branding, packaging, web design) owned by Vista. Two routes: design contests and 1-to-1 projects. Designer platform fee 5% (Top), 10% (Mid) or 15% (Entry) on direct projects, plus a $100 introduction fee per new client (capped, spread over first $500). Contest winners keep the prize (platform fee built into prize). Payout via PayPal.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": ["freelancing", "freelancing-design"],
+    "features": ["freelancing", "design-contests", "1-to-1-projects", "tiered-fees"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Direct-project platform fee", "value": "5% Top / 10% Mid / 15% Entry (by designer level)" },
+        { "label": "New-client introduction fee", "value": "$100, spread over first $500 billed (capped)" },
+        { "label": "Contests", "value": "Winner receives prize (fee built into prize pool)" },
+        { "label": "Payout method", "value": "PayPal" },
+        { "label": "Payout minimum", "value": "~$25 (commonly cited)" },
+        { "label": "Owner", "value": "Vista (formerly 99designs independent)" },
+        { "label": "Designer levels", "value": "Entry → Mid → Top (raise level = lower fee)" }
+      ],
+      "pros": [
+        "Top-level designers pay just 5% — among the lowest marketplace fees",
+        "Contests can win prize money with no client relationship needed",
+        "Guaranteed contests mean the prize is funded",
+        "Raising your designer level lowers your fee permanently"
+      ],
+      "cons": [
+        "Entry-level designers pay 15% + $100 intro fee per new client",
+        "Contest work is speculative — most entries earn nothing",
+        "Payout via PayPal only (with PayPal's own fees/currency spread)",
+        "Design-only — no dev, writing or marketing work"
+      ],
+      "reviewBody": "99designs (owned by Vista) is the design-specialist marketplace with two work routes: design contests (submit concepts, winner takes the funded prize) and 1-to-1 direct projects. On direct projects, designers pay a platform fee by level: 5% (Top), 10% (Mid) or 15% (Entry), plus a $100 introduction fee per new client, capped and spread over the first $500 billed. Contest prizes have the platform margin built in, so winners receive the advertised amount.\n\nPayouts run via PayPal with a commonly cited ~$25 minimum. The model rewards designers who level up (Top pays just 5%), but contest work is speculative — most entries earn nothing. For dedicated designers it's the strongest design-specific channel; for generalists it's irrelevant.",
+      "testNotes": "Tiered fees and $100 intro fee verified 25 Sep 2026 against 99designs' own designer pages (updated Sep 2026) and 2026 guides. $25 payout minimum is commonly cited; confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 25, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://dribbble.com",
+    "description": "Design portfolio network and job board for UI/UX, graphic and product designers. Freelance work comes via the job board and inbound client messages; Dribbble takes no commission on freelance projects (revenue is Pro subscriptions and job-posting fees paid by employers). Payment is direct between client and designer.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": ["freelancing", "freelancing-design"],
+    "features": ["freelancing", "portfolio", "job-board", "no-commission"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelance commission", "value": "0% — paid directly by client" },
+        { "label": "Revenue model", "value": "Pro subscription for designers + job-posting fees for employers" },
+        { "label": "Pro subscription", "value": "~$5/month (billed annually) for full portfolio/tools" },
+        { "label": "Job board", "value": "Freelance + full-time design roles" },
+        { "label": "Payout", "value": "Direct (client pays you — Dribbble holds no funds)" },
+        { "label": "Focus", "value": "UI/UX, graphic, product, brand design" }
+      ],
+      "pros": ["0% commission on any work you win", "Highest-quality design community — strong inbound leads", "Pro subscription is cheap relative to leads", "Portfolio doubles as a discovery engine"],
+      "cons": ["You must drive and close clients yourself — no escrow/protection", "Hiring is skewed to full-time roles, not freelance", "Invite-only legacy (now open) still carries prestige bias", "No payment infrastructure — invoice clients directly"],
+      "reviewBody": "Dribbble is a portfolio network and job board, not a transactional marketplace: it takes 0% commission on freelance work, earning instead from designer Pro subscriptions (~$5/month annual) and employer job-posting fees. Designers find freelance work through the job board and inbound client messages, and get paid directly by clients — Dribbble holds no funds and provides no escrow.\n\nIts value is discovery and prestige: a strong Dribbble profile generates inbound leads that convert off-platform. The trade-off is no payment protection or invoicing infrastructure, and hiring skews toward full-time roles. For designers it's best treated as a top-of-funnel channel paired with direct invoicing (Stripe, PayPal, Contra).",
+      "testNotes": "0% commission and subscription model verified 25 Sep 2026 against Dribbble's pricing and 2026 design-career guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
+  },
+  {
+    "name": "DesignCrowd",
+    "url": "https://www.designcrowd.com",
+    "description": "Design contest and project marketplace (logos, web, print, branding). Designers pay a flat 15% commission on all payments received (prize placements, participation payments, paid invites, tips). Free to join. Payout via PayPal.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": ["freelancing", "freelancing-design"],
+    "features": ["freelancing", "design-contests", "15%-commission"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Designer commission", "value": "Flat 15% on all payments (prizes, invites, tips)" },
+        { "label": "Joining cost", "value": "Free" },
+        { "label": "Work types", "value": "Contests (1st/2nd/3rd), participation payments, paid invites, 1-to-1 projects" },
+        { "label": "Payout method", "value": "PayPal" },
+        { "label": "Payout minimum", "value": "~$50 (commonly cited)" },
+        { "label": "Contest model", "value": "Speculative — only placed entries earn" }
+      ],
+      "pros": ["Free to join with no subscription", "Multiple earning routes (placements, participation, invites, tips)", "Lower client prices than 99designs = more contest volume", "Flat 15% is predictable"],
+      "cons": ["15% flat is higher than 99designs' Top/Mid tiers", "Contest work is speculative — most submissions earn nothing", "PayPal-only payout with its own fees", "Quality of briefs and prize budgets varies widely"],
+      "reviewBody": "DesignCrowd is the volume contest marketplace: designers submit to logo/brand/web/print contests, and the platform takes a flat 15% commission on every payment received — prize placements, participation payments, paid invites and tips. Joining is free. Payouts run via PayPal with a commonly cited ~$50 minimum.\n\nThe model is speculative by design — only placed or invited entries earn — and the flat 15% is higher than 99designs' tiered fees for Mid/Top designers. Its advantage is volume and lower client price points generating more contests. Best for designers who treat it as a numbers game with a strong conversion rate; for established designers, 99designs' tiered fees or direct clients net more.",
+      "testNotes": "15% flat commission verified 25 Sep 2026 against DesignCrowd's official designer-fees help page (updated Sep 2026). $50 payout minimum commonly cited; confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 50, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Designhill",
+    "url": "https://www.designhill.com",
+    "description": "Graphic design and branding marketplace with both contest and 1-to-1 project models (logos, web, packaging, print). Designer commission ~10–15% depending on project type; free to join. Payout via PayPal. Smaller contest volume than 99designs/DesignCrowd.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": ["freelancing", "freelancing-design"],
+    "features": ["freelancing", "design-contests", "1-to-1-projects"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Designer commission", "value": "~10–15% depending on project type" },
+        { "label": "Joining cost", "value": "Free" },
+        { "label": "Models", "value": "Design contests + 1-to-1 projects + AI logo maker" },
+        { "label": "Payout method", "value": "PayPal" },
+        { "label": "Categories", "value": "Logos, web, packaging, print, branding" },
+        { "label": "Volume", "value": "Lower than 99designs and DesignCrowd" }
+      ],
+      "pros": ["Free to join, multiple work models", "1-to-1 projects avoid speculative contest work", "AI tools help designers deliver faster", "Lower competition than larger platforms"],
+      "cons": ["Commission structure is less transparent than competitors", "Lower contest volume means fewer winning chances", "PayPal-only payout", "Brand reputation and trust trail 99designs"],
+      "reviewBody": "Designhill is the smaller design contest/1-to-1 marketplace: free to join, with designer commission of roughly 10–15% depending on project type, paid out via PayPal. It offers design contests, 1-to-1 projects and an AI logo maker, covering logos, web, packaging and print.\n\nIts commission structure is less transparent than 99designs' published tiers or DesignCrowd's flat 15%, and contest volume is lower. It can work as a secondary channel for designers already on the larger platforms, but the lower volume and less-clear fees make it a weaker primary choice.",
+      "testNotes": "Commission range (~10–15%) verified 25 Sep 2026 against 2026 design-platform comparisons; Designhill does not publish a single flat rate prominently — confirm in your dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 25, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Codeable",
+    "url": "https://codeable.io",
+    "description": "Expert WordPress developer network — accepts ~2% of applicants. Fixed project pricing, no bidding, no hourly contracts. Estimated 17.5% platform fee built into rates ($70–$120+/hr equivalent). Payout via PayPal or Payoneer, typically within days of project completion. High-quality client base.",
+    "status": "active",
+    "trustScore": 84,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-dev"],
+    "features": ["freelancing", "vetted-network", "wordpress", "fixed-price"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Acceptance rate", "value": "~2% of applicants (strict vetting)" },
+        { "label": "Platform fee", "value": "~17.5% (built into fixed project pricing)" },
+        { "label": "Rate equivalent", "value": "$70–$120+/hr" },
+        { "label": "Contract model", "value": "Fixed-price projects only — no bidding, no hourly" },
+        { "label": "Payout methods", "value": "PayPal, Payoneer" },
+        { "label": "Payout speed", "value": "Within days of project completion/approval" },
+        { "label": "Focus", "value": "WordPress (development, design, maintenance)" }
+      ],
+      "pros": ["No bidding — clients are pre-qualified and projects are fixed-price", "High-quality client base with serious budgets", "Fast payout within days of completion", "Strict vetting means less rate competition"],
+      "cons": ["~2% acceptance — long, technical vetting process", "WordPress-only — no other stacks", "~17.5% effective fee is high vs vetted networks (0%)", "Fixed-price only — no ongoing hourly retainers"],
+      "reviewBody": "Codeable is the WordPress-specialist vetted network: it accepts roughly 2% of applicants through a technical vetting, then matches developers with pre-qualified clients on fixed-price projects — no bidding, no hourly contracts. The platform fee of roughly 17.5% is built into project pricing, equivalent to $70–$120+/hour. Payouts run via PayPal or Payoneer within days of project approval.\n\nThe trade-off is focus: WordPress only, fixed-price only, and a ~17.5% fee that is high compared with 0%-fee vetted networks like Toptal or Gun.io. For WordPress specialists who pass vetting, the steady flow of serious clients and fast payout justify it; for multi-stack developers, a general vetted network pays more.",
+      "testNotes": "~2% acceptance and ~17.5% fee verified 25 Sep 2026 against 2026 Codeable reviews and developer guides; exact fee is not published as a single number — confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "payoneer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Gun.io",
+    "url": "https://gun.io",
+    "description": "Vetted software-developer talent network (developer-only). Freelancers pay 0% platform fee — Gun.io's margin is in the client rate. Talent Advocates personally match you with long-term engagements. Weekly payouts, multi-currency to 100+ countries. Rates typically $75–$200/hr.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-dev"],
+    "features": ["freelancing", "vetted-network", "0%-freelancer-fee", "weekly-payout"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee", "value": "0% — margin built into client rate" },
+        { "label": "Focus", "value": "Software developers only (no designers/writers)" },
+        { "label": "Typical rate", "value": "$75–$200/hr (senior)" },
+        { "label": "Matching", "value": "Human Talent Advocates, not algorithm" },
+        { "label": "Payout", "value": "Weekly, multi-currency to 100+ countries" },
+        { "label": "Engagement type", "value": "Mostly long-term contracts" }
+      ],
+      "pros": ["0% freelancer fee — keep your full negotiated rate", "Weekly payouts in 100+ countries — best cash flow of vetted networks", "Human matching removes bidding and proposal work", "Senior-focused, so rates are high"],
+      "cons": ["Developers only — no other disciplines", "Vetting emphasizes communication as much as code", "Mostly long-term contracts — not for short gigs", "Client markup means you could earn more going direct"],
+      "reviewBody": "Gun.io is a developer-only vetted network: freelancers pay 0% platform fee, with the margin built into the rate quoted to the client. Human Talent Advocates match developers with long-term engagements, and payouts run weekly in multiple currencies to 100+ countries — the fastest cash flow among the vetted networks. Typical senior rates run $75–$200/hour.\n\nThe network is developers only, and the vetting emphasizes communication quality alongside technical skill. Engagements are mostly long-term. For senior developers who want zero bidding and weekly pay, it's one of the strongest options; for short gigs or non-developers, it's not a fit.",
+      "testNotes": "0% freelancer fee and weekly multi-currency payout verified 25 Sep 2026 against Gun.io materials and 2026 dev-platform comparisons. Rate ranges are industry estimates. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Arc.dev",
+    "url": "https://arc.dev",
+    "description": "Vetted remote developer/designer talent network (formerly CodementorX). Freelancers pay 0% commission — clients pay a service fee. ~1 in 20 applicants accepted; AI-assisted matching with candidate calls within ~72 hours. Contract rates $60–$150+/hr. Weekly payouts.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-dev", "freelancing-remote"],
+    "features": ["freelancing", "vetted-network", "0%-commission", "remote-first"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer commission", "value": "0% — clients pay a separate service fee" },
+        { "label": "Acceptance", "value": "~1 in 20 applicants (coding + interview vetting)" },
+        { "label": "Contract rate", "value": "$60–$150+/hr" },
+        { "label": "Matching speed", "value": "Candidate calls within ~72 hours (AI-assisted)" },
+        { "label": "Also offers", "value": "Permanent placement (~25% of annual salary)" },
+        { "label": "Payout", "value": "Weekly" },
+        { "label": "Formerly", "value": "CodementorX (rebranded 2019)" }
+      ],
+      "pros": ["0% commission to freelancers", "Fast matching (~72h to first calls) via AI + human", "Remote-first — global clients, no geographic restriction", "Both contract and permanent placement routes"],
+      "cons": ["Selective vetting (~5% acceptance)", "Client-side markup can be 15–25% — direct would earn more", "Focused on mid-to-senior engineers — not juniors", "Designer track is smaller than developer"],
+      "reviewBody": "Arc.dev (formerly CodementorX) is a remote-first vetted talent network accepting roughly 1 in 20 applicants through coding assessments and interviews. Freelancers pay 0% commission — Arc's margin is a client-side service fee of roughly 15–25%. AI-assisted matching plus human review delivers candidate calls within about 72 hours, with contract rates of $60–$150+/hour and weekly payouts. Arc also does permanent placement (~25% of annual salary).\n\nIt sits between Toptal (more elite, slower) and open marketplaces (faster, lower rates): less screening intensity than Toptal, higher rates than Upwork. For mid-to-senior remote engineers, it's one of the best balance of speed and pay. Juniors and non-developers are poorly served.",
+      "testNotes": "0% commission, ~1-in-20 acceptance and 72h matching verified 25 Sep 2026 against Arc.dev materials and 2026 dev-platform comparisons. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Lemon.io",
+    "url": "https://lemon.io",
+    "description": "Vetted developer matching for startups (Eastern Europe, LatAm, US). ~1.2% acceptance with live technical interviews. Freelancers pay 0% fee — margin in client rate ($55–$200+/hr). 160-hour minimum engagement. Weekly payouts.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-dev"],
+    "features": ["freelancing", "vetted-network", "0%-freelancer-fee", "startup-clients"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee", "value": "0% — margin in client rate" },
+        { "label": "Acceptance", "value": "~1.2% (live technical interviews)" },
+        { "label": "Client rate", "value": "$55–$200+/hr" },
+        { "label": "Talent pool", "value": "Eastern Europe, LatAm, US (all-human vetting)" },
+        { "label": "Minimum engagement", "value": "160 hours (~1 month full-time)" },
+        { "label": "Payout", "value": "Weekly" },
+        { "label": "Clients", "value": "Startups and scale-ups" }
+      ],
+      "pros": ["0% freelancer fee", "All-human vetting (no automated rejection loop)", "Startup clients move fast — matching in days", "Weekly payouts"],
+      "cons": ["Extremely selective (~1.2% acceptance)", "160-hour minimum — no short projects", "Talent pool skews Eastern Europe/LatAm", "Client markup is significant (~20%)"],
+      "reviewBody": "Lemon.io matches vetted developers (Eastern Europe, LatAm, US) with startups, accepting roughly 1.2% of applicants through live technical interviews. Freelancers pay 0% fee; the margin (~20%) is built into the client rate of $55–$200+/hour. Engagements require a 160-hour minimum (about a month full-time), and payouts run weekly.\n\nIt's a strong fit for mid-senior developers who want startup clients and zero bidding, but the 160-hour minimum rules out short gigs, and the acceptance bar is very high. For developers in its talent regions who pass vetting, the combination of 0% fee and fast startup matching is compelling.",
+      "testNotes": "0% fee, ~1.2% acceptance and 160-hour minimum verified 25 Sep 2026 against Lemon.io materials and 2026 comparisons. Rate ranges are estimates. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Topcoder",
+    "url": "https://www.topcoder.com",
+    "description": "Competitive programming and design platform. Solve challenges for cash prizes (development, design, data science), or join longer-term Gig Work projects for enterprise clients. Payout via PayPal or Payoneer. No freelancer fee on challenge prizes (margin built into prize amounts).",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-dev", "freelancing-design"],
+    "features": ["freelancing", "competitive-challenges", "gig-work", "enterprise-clients"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Earning model", "value": "Challenge prizes + longer-term Gig Work projects" },
+        { "label": "Challenge types", "value": "Development, design, data science, QA" },
+        { "label": "Freelancer fee", "value": "None on prizes (margin built into prize amounts)" },
+        { "label": "Payout methods", "value": "PayPal, Payoneer" },
+        { "label": "Payout schedule", "value": "After challenge review/approval (varies)" },
+        { "label": "Clients", "value": "Enterprise (Topcoder enterprise community)" },
+        { "label": "Skill focus", "value": "Competitive — rewards speed + quality" }
+      ],
+      "pros": ["No bidding — compete on skill, prizes awarded on merit", "Enterprise clients with serious budgets", "Winning builds a verifiable competitive portfolio", "Multiple tracks (dev, design, data science)"],
+      "cons": ["Speculative — only winners earn; most submissions unpaid", "Prize amounts have the platform margin built in", "Payout timing depends on challenge review cycles", "Steep learning curve — regular winners are specialists"],
+      "reviewBody": "Topcoder is the competitive-coding platform turned enterprise talent network: developers, designers and data scientists compete in challenges for cash prizes, and top performers move into longer-term Gig Work projects for enterprise clients. There is no explicit freelancer fee on challenge prizes — the platform margin is built into prize amounts. Payouts run via PayPal or Payoneer after challenge review/approval.\n\nThe model is inherently speculative: only winners and top-placed finishers earn, and regular winners tend to be specialists who know the format. It works best as a skill-building + portfolio channel that can graduate into steady enterprise gig work; as a primary income it's unreliable unless you're a consistent top finisher.",
+      "testNotes": "Model and payout methods verified 25 Sep 2026 against Topcoder's site and 2026 competitive-programming guides. Prize amounts and review cycles vary by challenge. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Andela",
+    "url": "https://www.andela.com",
+    "description": "Global talent network placing software engineers (strong in Africa and emerging markets) in long-term contracts with global companies. Freelancers/contractors are paid via Andela's payroll — 0% explicit fee, margin in client rate. Monthly payouts, typically via bank/Payoneer. Now global (not Africa-only).",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-dev", "freelancing-remote"],
+    "features": ["freelancing", "vetted-network", "long-term-contracts", "global-talent"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Long-term contractor placements via Andela payroll" },
+        { "label": "Freelancer fee", "value": "0% explicit — margin in client rate" },
+        { "label": "Talent base", "value": "Global, historically strong in Africa and emerging markets" },
+        { "label": "Payout", "value": "Monthly via Andela payroll (bank / Payoneer)" },
+        { "label": "Contract length", "value": "Long-term (months to years)" },
+        { "label": "Focus", "value": "Software engineers, product, design" },
+        { "label": "Extra", "value": "Career support, learning stipends for some" }
+      ],
+      "pros": ["Long-term stable contracts with global companies", "0% explicit fee — paid your contracted rate", "Strong for engineers in emerging markets with limited direct access", "Career support and learning benefits"],
+      "cons": ["Monthly payroll — slower than weekly marketplaces", "Rate is set by Andela — less negotiation leverage", "Long-term only — no short projects", "Vetting and placement can take weeks"],
+      "reviewBody": "Andela places vetted software engineers (historically strong in Africa and emerging markets, now global) into long-term contracts with global companies, paying contractors through its own payroll monthly via bank or Payoneer. There is no explicit freelancer fee — the margin is built into the client rate. Contracts run months to years, and Andela provides career support and learning stipends.\n\nIt's the stability play: predictable monthly income and long tenure, in exchange for less rate control and slower cash flow (monthly vs weekly). For engineers in regions with limited direct access to global clients, it's a credible route; for freelancers wanting short gigs or rate control, the vetted networks (Gun.io, Arc) pay faster.",
+      "testNotes": "Model and monthly payroll verified 25 Sep 2026 against Andela's site and 2026 talent-network comparisons. Andela expanded beyond Africa in recent years. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Braintrust",
+    "url": "https://www.usebraintrust.com",
+    "description": "Talent-owned freelance network for tech, design and product. Freelancers pay 0% fee — clients pay 10% and the network is owned by its users (BTRST token governance). Enterprise clients (Nike, Porsche, Goldman Sachs). Payout via bank transfer, typically NET 14–30.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-dev", "freelancing-design"],
+    "features": ["freelancing", "0%-commission", "talent-owned", "enterprise-clients"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee", "value": "0% — clients pay 10%" },
+        { "label": "Ownership", "value": "Talent-owned network (BTRST token governance)" },
+        { "label": "Clients", "value": "Enterprise — Nike, Porsche, Goldman Sachs, etc." },
+        { "label": "Payout method", "value": "Bank transfer (direct deposit)" },
+        { "label": "Payout terms", "value": "Typically NET 14–30 days after invoice" },
+        { "label": "Focus", "value": "Tech, design, product, marketing professionals" },
+        { "label": "Vetting", "value": "Curated — not open self-service" }
+      ],
+      "pros": ["0% freelancer fee — keep 100% of your rate", "Enterprise clients with long-term budgets", "Talent-owned — fees and governance controlled by users", "No bidding — curated matching"],
+      "cons": ["Curated/invite — not open to all freelancers", "NET 14–30 payout terms are slower than weekly", "Limited verticals (tech/design/product/marketing)", "Smaller match volume than Upwork/Toptal"],
+      "reviewBody": "Braintrust is the talent-owned network: freelancers pay 0% fee, clients pay 10%, and the network is governed by its users via the BTRST token. It serves enterprise clients (Nike, Porsche, Goldman Sachs) with tech, design, product and marketing talent, paying freelancers by direct bank transfer on typically NET 14–30 terms.\n\nThe 0% fee is the headline, and the enterprise client base is high-quality, but access is curated (not open self-service), payout terms are slower than weekly marketplaces, and verticals are limited. For established tech/design/product freelancers who get in, it's one of the best economics in the industry; for others, the curated gate is the blocker.",
+      "testNotes": "0% freelancer fee, 10% client fee and enterprise client list verified 25 Sep 2026 against Braintrust materials and 2026 reviews. NET payout terms vary by client. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "ProBlogger Jobs",
+    "url": "https://problogger.com/jobs",
+    "description": "Long-running writing/content job board from the ProBlogger network. Employers pay to post (so listings are screened); writers apply directly and are paid by the client — ProBlogger takes no commission. Free for job seekers. Payout is direct (PayPal/bank) per client terms.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-writing"],
+    "features": ["freelancing", "job-board", "writing", "no-commission"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Job board — employers pay to post, writers apply free" },
+        { "label": "Commission to writer", "value": "0% — paid directly by client" },
+        { "label": "Job types", "value": "Blog posts, copywriting, editing, content strategy" },
+        { "label": "Payout", "value": "Direct per client (PayPal, bank, Wise)" },
+        { "label": "Screening", "value": "Paid postings reduce scam listings" },
+        { "label": "Cost to writer", "value": "Free" }
+      ],
+      "pros": ["0% commission — you negotiate and invoice directly", "Paid postings mean fewer scams than free boards", "Long-running, trusted brand in writing niche", "Free to apply"],
+      "cons": ["No escrow or payment protection", "High competition for each listing", "No platform infrastructure — handle contracts yourself", "Writing only — no other categories"],
+      "reviewBody": "ProBlogger Jobs is a niche writing job board: employers pay to post (which screens out most scams), and writers apply directly, negotiate their own rate, and get paid directly by the client — ProBlogger takes 0% commission. It covers blog posts, copywriting, editing and content strategy, and is free for job seekers.\n\nBecause it's a board, not a marketplace, there's no escrow, invoicing or payment protection — you handle contracts and chasing payment yourself. Competition per listing is high. For writers, it's one of the better-curated free boards; pair it with direct outreach and a portfolio site.",
+      "testNotes": "Model verified 25 Sep 2026 against ProBlogger's job board. Posting fees are employer-paid; writers apply free. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "ProZ.com",
+    "url": "https://www.proz.com",
+    "description": "Long-running translation and interpreting platform (since 1999). Agencies and direct clients post projects; translators bid. No platform commission on jobs — revenue from Plus membership and paid directory features. Payment is direct between client and translator. Payout via PayPal/bank per client terms.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-writing", "freelancing-translation"],
+    "features": ["freelancing", "translation", "job-board", "no-commission"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Job board + directory — no commission on jobs" },
+        { "label": "Revenue", "value": "Plus membership + paid directory features" },
+        { "label": "Job types", "value": "Translation, interpreting, localization, editing" },
+        { "label": "Payout", "value": "Direct per client (PayPal, bank, Wise)" },
+        { "label": "Community", "value": "Forums, KudoZ glossary, certification (ATA etc.)" },
+        { "label": "Cost to freelancer", "value": "Free basic; Plus ~$120/yr optional" }
+      ],
+      "pros": ["0% commission on jobs — paid directly by client", "Largest translation-industry community since 1999", "KudoZ glossary and forums are genuine professional resources", "Free basic membership"],
+      "cons": ["No escrow or payment protection", "Plus membership effectively needed for full visibility", "Agency jobs dominate — rates can be low", "Payment terms vary wildly by client"],
+      "reviewBody": "ProZ.com is the established translation-industry platform since 1999: agencies and direct clients post translation/interpreting/localization jobs, translators bid, and ProZ takes no commission on work — its revenue comes from Plus membership (~$120/year) and paid directory features. Payment is direct between client and translator via PayPal, bank or Wise.\n\nThe KudoZ glossary and industry forums are genuine professional resources. The downside is no escrow or payment protection, agency-dominated jobs with downward rate pressure, and Plus membership effectively needed for full visibility. For professional translators it's the industry default; for casuals, the free tier suffices to browse.",
+      "testNotes": "No-commission model and Plus pricing verified 25 Sep 2026 against ProZ.com and 2026 translation-industry guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Gengo",
+    "url": "https://gengo.com",
+    "description": "Translation platform with structured per-word/per-job rates (part of Lionbridge group). Rates are set by the platform (low-to-moderate); translators work through a dashboard with no bidding. Payout via PayPal, typically monthly. Good for beginner translators building volume. Note: Gengo's standard service was wound down in some markets — verify current availability.",
+    "status": "under_review",
+    "trustScore": 68,
+    "categories": ["freelancing", "freelancing-writing", "freelancing-translation"],
+    "features": ["freelancing", "translation", "structured-rates"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Parent", "value": "Lionbridge (acquired Gengo)" },
+        { "label": "Rate model", "value": "Platform-set per-word/per-job rates (low to moderate)" },
+        { "label": "Bidding", "value": "None — claim jobs from dashboard" },
+        { "label": "Payout method", "value": "PayPal" },
+        { "label": "Payout schedule", "value": "Typically monthly" },
+        { "label": "Status", "value": "under_review — standard service wound down in some markets" },
+        { "label": "Best for", "value": "Beginner translators building volume" }
+      ],
+      "pros": ["No bidding — claim jobs from a dashboard", "Structured rates mean predictable per-job pay", "Good for beginners to build translation volume", "PayPal payout is simple"],
+      "cons": ["Rates are low-to-moderate — set by platform, not negotiable", "Standard service wound down in some markets — availability uncertain", "Monthly payout is slow", "Limited to translation — no growth into higher-value work"],
+      "reviewBody": "Gengo is the structured-rate translation platform (owned by Lionbridge): translators claim jobs from a dashboard at platform-set per-word rates, with no bidding. Payouts run via PayPal, typically monthly. It has historically been a starting point for beginner translators building volume.\n\nStatus is marked under_review: Gengo's standard translation service was wound down in some markets following the Lionbridge acquisition, and availability varies by language pair. Rates are low-to-moderate and non-negotiable. For translators, ProZ.com (0% commission, direct clients) usually nets more; Gengo remains a volume-builder where available.",
+      "testNotes": "Lionbridge ownership and market wind-down verified 25 Sep 2026 against 2026 translation-industry coverage. Availability by language pair is uncertain — verify in your dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "MarketerHire",
+    "url": "https://marketerhire.com",
+    "description": "Vetted marketing specialist network placing senior marketers (SEO, paid ads, email, social, growth) into freelance and part-time roles with US companies. Freelancers pay 0% fee — margin in client rate. Monthly invoicing, payout via direct deposit. Pre-vetted, no bidding.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-marketing"],
+    "features": ["freelancing", "vetted-network", "0%-freelancer-fee", "marketing"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee", "value": "0% — margin in client rate" },
+        { "label": "Specialisms", "value": "SEO, paid ads, email, social, content, growth, CRO" },
+        { "label": "Role types", "value": "Freelance, part-time, fractional CMO" },
+        { "label": "Clients", "value": "US startups and scale-ups" },
+        { "label": "Payout", "value": "Direct deposit, monthly invoicing" },
+        { "label": "Vetting", "value": "Curated — portfolio + interview" }
+      ],
+      "pros": ["0% freelancer fee", "Marketing-specialist — no competition from generalists", "Pre-vetted clients with real budgets", "Fractional/part-time roles fit around other work"],
+      "cons": ["Curated — not open self-service", "Monthly invoicing — slower cash flow", "US-heavy client base", "Rate set in negotiation with MarketerHire"],
+      "reviewBody": "MarketerHire is the marketing-specialist vetted network: senior marketers (SEO, paid ads, email, social, growth, fractional CMO) are placed into freelance and part-time roles with US startups and scale-ups. Freelancers pay 0% fee — the margin is in the client rate — with monthly invoicing paid by direct deposit.\n\nIt's curated (portfolio + interview), not open self-service, and the client base is US-heavy. For senior marketers who pass vetting, the specialist focus means less rate competition than general marketplaces and a steady flow of fractional roles; for juniors or non-marketers, it's not accessible.",
+      "testNotes": "0% fee and model verified 25 Sep 2026 against MarketerHire materials and 2026 marketing-freelance guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Mayple",
+    "url": "https://www.mayple.com",
+    "description": "Curated marketplace for vetted marketing experts (SEO, paid ads, email, social, analytics). Freelancers pay 0% fee — Mayple charges clients a platform fee. Matches experts with businesses based on niche and past results. Monthly invoicing, payout via bank. Strong for performance marketers.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-marketing"],
+    "features": ["freelancing", "vetted-network", "0%-freelancer-fee", "marketing"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee", "value": "0% — clients pay platform fee" },
+        { "label": "Specialisms", "value": "SEO, paid ads (Google/Meta), email, social, analytics" },
+        { "label": "Matching", "value": "Algorithm + human, based on niche and past results" },
+        { "label": "Payout", "value": "Bank transfer, monthly invoicing" },
+        { "label": "Clients", "value": "SMB to mid-market, global" },
+        { "label": "Vetting", "value": "Performance-based — requires proven campaign results" }
+      ],
+      "pros": ["0% freelancer fee", "Performance-based vetting keeps client quality high", "Matching by niche/results reduces mismatches", "Ongoing retainer relationships are common"],
+      "cons": ["Vetting requires proven campaign results — hard for beginners", "Monthly invoicing — slower cash flow", "Smaller network than MarketerHire — fewer openings", "Marketing-only"],
+      "reviewBody": "Mayple is the performance-marketing curated marketplace: vetted experts in SEO, paid ads, email, social and analytics are matched to businesses by niche and past campaign results. Freelancers pay 0% fee — Mayple charges clients a platform fee — with monthly invoicing paid by bank transfer.\n\nVetting is performance-based, so beginners without proven campaign results struggle to get in. The network is smaller than MarketerHire, so openings are fewer, but the matching quality and retainer focus suit experienced performance marketers. For marketing generalists or juniors, MarketerHire or Upwork is more accessible.",
+      "testNotes": "0% fee and performance-vetting model verified 25 Sep 2026 against Mayple materials and 2026 marketing-platform comparisons. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Superprof",
+    "url": "https://www.superprof.co.uk",
+    "description": "Tutoring marketplace (academic, languages, music, sports, hobbies) active in UK and 40+ countries. Tutors set their own rates; first lesson with each new student is free. Tutors keep 100% if paid privately; platform-processed payments cost 10% (free with Premium subscription). Payout to bank/PayPal within ~3 working days, minimum ~$3/£2.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-tutoring", "freelancing-local"],
+    "features": ["freelancing", "tutoring", "set-own-rates", "optional-premium"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Tutor rate", "value": "Set your own (typically $20–$80/hr)" },
+        { "label": "First lesson", "value": "Free with every new student (required)" },
+        { "label": "Commission (platform payment)", "value": "10% if not Premium; 0% with Premium" },
+        { "label": "Private payment", "value": "0% — arrange and pay off-platform" },
+        { "label": "Premium subscription", "value": "Optional (~£/$ monthly or annual) for visibility + 0% processing" },
+        { "label": "Payout", "value": "Bank or PayPal within ~3 working days; min ~$3" },
+        { "label": "Subjects", "value": "Academic, languages, music, sports, hobbies" }
+      ],
+      "pros": ["Set your own rates; 0% if paid privately or on Premium", "Huge subject range — academic to hobbies", "Low payout minimum (~$3) and fast (~3 days)", "Free first lesson lowers student risk"],
+      "cons": ["First lesson with every new student is free — unpaid acquisition cost", "10% processing fee on platform payments without Premium", "Premium subscription needed for full visibility", "Quality/rate competition is high"],
+      "reviewBody": "Superprof is the broad-subject tutoring marketplace (academic, languages, music, sports, hobbies) active in the UK and 40+ countries. Tutors set their own rates (typically $20–$80/hour), but the first lesson with every new student is free — an unpaid customer-acquisition cost. Tutors keep 100% if they arrange private payment off-platform; payments processed through Superprof cost 10%, waived with a Premium subscription that also boosts visibility. Payouts run to bank or PayPal within about 3 working days with a low ~$3 minimum.\n\nThe model rewards tutors who convert free first lessons into long-term paying students and then move them to private payment. For casual or new tutors, the free-first-lesson model and 10% processing fee eat into early earnings; for established tutors with retention, it's effectively 0%.",
+      "testNotes": "10% processing fee, Premium waiver and ~3-day payout verified 25 Sep 2026 against Superprof's own help pages (updated 2026). First-lesson-free is platform policy. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 3, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 3, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Preply",
+    "url": "https://preply.com",
+    "description": "Language and academic tutoring platform. Tutors set their own hourly rate. Preply takes 100% commission on every trial lesson with a new student; subsequent lessons start at 33% and decrease to 18% based on lifetime hours taught. Weekly payouts via PayPal or Payoneer.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["freelancing", "freelancing-tutoring"],
+    "features": ["freelancing", "tutoring", "sliding-commission", "set-own-rates"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Trial lesson commission", "value": "100% (unpaid for tutor) with every new student" },
+        { "label": "Subsequent lessons", "value": "33% starting, decreasing to 18% by lifetime hours" },
+        { "label": "Tutor rate", "value": "Set your own (most English tutors $15–$25/hr)" },
+        { "label": "Payout methods", "value": "PayPal, Payoneer" },
+        { "label": "Payout schedule", "value": "Weekly" },
+        { "label": "Subjects", "value": "Languages (primary), academic, music" },
+        { "label": "Minimum age", "value": "18" }
+      ],
+      "pros": ["Set your own hourly rate", "Commission drops to 18% as you teach more hours", "Huge student base — fastest way to get first students", "Weekly PayPal/Payoneer payouts"],
+      "cons": ["100% commission on trial lessons — every new student costs a free hour", "Starting 33% commission is very high", "Rate competition is intense (many tutors underprice)", "No long-term loyalty — students can leave anytime"],
+      "reviewBody": "Preply is the volume tutoring platform, strongest in language teaching. Tutors set their own rate (most English tutors charge $15–$25/hour), but Preply takes 100% commission on every trial lesson with a new student — effectively an unpaid acquisition hour. Subsequent lessons start at 33% commission and decrease to 18% as lifetime teaching hours accumulate. Payouts run weekly via PayPal or Payoneer.\n\nThe economics only work with high student retention: a tutor who converts trial students into long-term learners and climbs the commission ladder nets far more than one who churns. For new tutors it's the fastest route to students, but the 100% trial commission and 33% starting rate mean early earnings are low. Established tutors often move students off-platform to avoid the cut.",
+      "testNotes": "Commission structure (100% trial, 33%→18% sliding) verified 25 Sep 2026 against Preply's official tutor page (updated Sep 2026). Weekly payout confirmed. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "payoneer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "italki",
+    "url": "https://www.italki.com",
+    "description": "Language learning platform connecting students with native-speaker teachers. Tutors set their own rates. Historically ~15% platform fee; from 30 January 2026 the Teacher Policy removed published percentages — the fee now varies with teacher performance, and disbursement may be delayed or stopped for policy violations. Payout via PayPal or bank transfer, typically monthly.",
+    "status": "under_review",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-tutoring"],
+    "features": ["freelancing", "tutoring", "set-own-rates", "language-focus"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Tutor rate", "value": "Set your own" },
+        { "label": "Historical platform fee", "value": "~15%" },
+        { "label": "Policy change (30 Jan 2026)", "value": "Published percentages removed; fee varies by teacher performance" },
+        { "label": "Disbursement", "value": "May be delayed or stopped for policy violations" },
+        { "label": "Payout methods", "value": "PayPal, bank transfer" },
+        { "label": "Payout schedule", "value": "Typically monthly" },
+        { "label": "Status", "value": "under_review — fee terms now opaque" }
+      ],
+      "pros": ["Largest language-teaching student base globally", "Set your own rates — niche/specialist teachers charge premium", "Community features and lesson tools built in", "Native speakers without teaching qualifications can start"],
+      "cons": ["Jan 2026 policy made the fee opaque — varies by performance", "Disbursement can be delayed or stopped without a published fee schedule", "Monthly payout is slower than Preply's weekly", "High competition keeps average rates low"],
+      "reviewBody": "italki is the largest language-teaching marketplace: tutors set their own rates, and historically the platform took roughly 15%. A Teacher Policy effective 30 January 2026 removed published fee percentages — the fee now varies with teacher performance, and disbursement may be delayed or stopped for policy violations. Payouts run via PayPal or bank transfer, typically monthly. Marked under_review because fee terms are no longer transparent.\n\nFor established teachers with loyal students, italki's scale still generates the most lesson volume; for new teachers, the opaque fee and monthly payout make it harder to model income. Preply (published sliding commission, weekly payout) offers more predictable terms.",
+      "testNotes": "Jan 2026 policy change (removal of published percentages) verified 25 Sep 2026 against italki's Teacher Policy and a 2026 commission-calculator analysis. Historical ~15% widely cited; current rate varies per account. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "monthly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Cambly",
+    "url": "https://www.cambly.com",
+    "description": "English conversation tutoring platform. No lesson planning — just chat with students. Fixed pay: $0.17/minute ($10.20/hr) for adult sessions, $0.20/minute ($12/hr) for Cambly Kids. Paid weekly via PayPal. No degree required. Low barrier to entry but low pay.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-tutoring"],
+    "features": ["freelancing", "tutoring", "english-conversation", "fixed-rate", "no-degree"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Adult pay rate", "value": "$0.17/minute = $10.20/hour (fixed)" },
+        { "label": "Cambly Kids pay rate", "value": "$0.20/minute = $12/hour (fixed)" },
+        { "label": "Payout method", "value": "PayPal" },
+        { "label": "Payout schedule", "value": "Weekly (every Monday)" },
+        { "label": "Minimum requirements", "value": "Native/fluent English; no degree, no lesson plan" },
+        { "label": "Hours", "value": "Completely flexible — log on anytime" },
+        { "label": "Best for", "value": "Side income, travelers, first online-teaching job" }
+      ],
+      "pros": ["Lowest barrier — no degree, no lesson planning, no interview pressure", "Completely flexible hours — log on and take calls anytime", "Weekly PayPal payout, reliable", "Good first rung on online-teaching ladder"],
+      "cons": ["Fixed low pay ($10.20–$12/hr) — no raises, no tips", "Pay is in USD — currency conversion costs for non-US tutors", "Students can be no-shows or disruptive", "No career progression — pay never increases"],
+      "reviewBody": "Cambly is the casual English-conversation platform: tutors (native/fluent English speakers, no degree required) chat with students with no lesson planning, paid a fixed $0.17/minute ($10.20/hour) for adult sessions or $0.20/minute ($12/hour) for Cambly Kids. Hours are completely flexible — log on and take calls anytime — and payouts run weekly via PayPal (every Monday).\n\nIt's the classic first rung of online teaching: low barrier, reliable pay, but the rate is fixed and low, with no raises or tips, and USD conversion costs hit non-US tutors. It works best as side income or a travel-friendly stopgap; for career teachers, Preply or italki (set your own rate) earn far more at scale.",
+      "testNotes": "Pay rates ($0.17/$0.20 per minute) and weekly Monday PayPal payout verified 25 Sep 2026 against Cambly's tutor pages and multiple 2026 TEFL guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Tutorful",
+    "url": "https://tutorful.co.uk",
+    "description": "UK-focused tutoring platform (in-person and online, academic subjects). Tutors set their own rates; platform commission ~25% on first paid hours with a student, dropping to ~20% on repeat lessons. Payout via UK bank transfer, typically within days of lesson completion. Strong UK student base.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-tutoring", "freelancing-local"],
+    "features": ["freelancing", "tutoring", "uk-focus", "set-own-rates"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Tutor rate", "value": "Set your own (typically £20–£45/hr)" },
+        { "label": "Commission", "value": "~25% first paid hours with a student → ~20% repeat lessons" },
+        { "label": "Payout method", "value": "UK bank transfer (Faster Payments)" },
+        { "label": "Payout speed", "value": "Within days of lesson completion" },
+        { "label": "Market", "value": "UK only (in-person + online)" },
+        { "label": "Subjects", "value": "Academic (KS1–degree), languages, music" },
+        { "label": "Requirements", "value": "DBS check, subject expertise" }
+      ],
+      "pros": ["Set your own rates; strong UK student demand", "Fast UK bank payout within days", "Repeat-lesson commission drops to ~20%", "Handles booking, payments and DBS guidance"],
+      "cons": ["~25% starting commission is high", "UK-only — no international students", "DBS check and vetting required", "Rate competition among tutors"],
+      "reviewBody": "Tutorful is the UK tutoring platform covering in-person and online academic tuition (KS1 through degree level), languages and music. Tutors set their own rates (typically £20–£45/hour) and pay roughly 25% commission on the first paid hours with a student, dropping to about 20% on repeat lessons. Payouts run by UK Faster Payments within days of lesson completion. A DBS check is required.\n\nIt's UK-only, and the starting commission is high, but the domestic student demand is strong and payout is fast. For UK tutors building a repeat-client base, the drop to ~20% improves economics; for international tutors, Preply or italki offer global reach.",
+      "testNotes": "Commission (~25%→~20%) and fast UK payout verified 25 Sep 2026 against 2026 UK-tutoring comparisons; exact percentages vary by tutor tier — confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "TaskRabbit",
+    "url": "https://www.taskrabbit.com",
+    "description": "Local task platform (furniture assembly, moving help, handyman, cleaning, errands) owned by IKEA, live in 8 countries. Taskers set their own hourly rate and keep ~100% of it — clients pay a separate service fee + Trust & Support fee. One-time $25 registration fee. Weekly payout via direct deposit. Note: some sources report a 15% tasker deduction — verify in your market.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-local"],
+    "features": ["freelancing", "local-tasks", "set-own-rates", "weekly-payout"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Tasker rate", "value": "Set your own ($20–$60+/hr typical)" },
+        { "label": "Tasker commission", "value": "~0% — client pays service + Trust & Support fee" },
+        { "label": "Registration fee", "value": "One-time $25" },
+        { "label": "Payout method", "value": "Direct deposit (bank)" },
+        { "label": "Payout schedule", "value": "Weekly" },
+        { "label": "Coverage", "value": "8 countries (US, UK, Canada, Germany, France, Spain, Italy, Portugal)" },
+        { "label": "Owner", "value": "IKEA" }
+      ],
+      "pros": ["Taskers set rates and keep ~100% — client pays the fees", "Strong in IKEA furniture assembly (owned by IKEA)", "Weekly direct deposit, no minimum", "Tips are common and 100% to tasker"],
+      "cons": ["One-time $25 registration fee + background check", "Utilization is the challenge — unpaid travel/quoting/gaps", "Some markets/sources report a 15% tasker-side deduction — verify", "Physical work — wear and tear, liability"],
+      "reviewBody": "TaskRabbit (owned by IKEA) is the local-task marketplace: taskers set their own hourly rate ($20–$60+ typical) and, per the current model, keep roughly 100% of it — clients pay a separate service fee and Trust & Support fee on top. There's a one-time $25 registration fee and background check. Payouts run weekly by direct deposit with no minimum, and tips go 100% to the tasker. The IKEA ownership drives steady furniture-assembly demand.\n\nThe real constraint is utilization: unpaid travel, quoting and gaps between tasks mean effective hourly earnings are lower than the listed rate. Some sources and markets report a 15% tasker-side deduction — taskers should verify their market's exact terms. For handy people in dense cities, it's reliable side income; for rural areas, demand is thin.",
+      "testNotes": "Client-fee model, $25 registration and weekly payout verified 25 Sep 2026 against TaskRabbit's terms and 2026 tasker guides. Conflicting reports of a 15% tasker deduction exist — confirm in your market's dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Airtasker",
+    "url": "https://www.airtasker.com",
+    "description": "Local task marketplace (Australia, UK, US, Ireland, New Zealand). Taskers bid on posted tasks. Service fee tiered by tasker level: Bronze 20%, Silver 18.5%, Gold 14.9%, Platinum 12.5% (plus GST); repeat clients cost 1.9%. Payout after task completion, typically within days via bank. No fee on tasks you don't win.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": ["freelancing", "freelancing-local"],
+    "features": ["freelancing", "local-tasks", "tiered-fees", "bidding"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Service fee (tiered)", "value": "Bronze 20% · Silver 18.5% · Gold 14.9% · Platinum 12.5% (+GST)" },
+        { "label": "Repeat client fee", "value": "1.9%" },
+        { "label": "Cost to bid", "value": "Nothing — you only pay on tasks you win and complete" },
+        { "label": "Payout method", "value": "Bank transfer" },
+        { "label": "Payout speed", "value": "Within days of task completion (after clearing)" },
+        { "label": "Coverage", "value": "Australia, UK, US, Ireland, New Zealand" },
+        { "label": "Task types", "value": "Removals, cleaning, handyman, delivery, admin, gardening" }
+      ],
+      "pros": ["No cost to bid — only pay on won/completed tasks", "Tiered fee drops to 12.5% for Platinum taskers", "Repeat clients cost just 1.9%", "Escrow-style payment held until task complete"],
+      "cons": ["Starting 20% fee is high for new (Bronze) taskers", "Bidding competition drives prices down", "GST added on top of the fee in Australia", "Demand concentrated in cities"],
+      "reviewBody": "Airtasker is the bidding-based local-task marketplace active in Australia, the UK, US, Ireland and New Zealand. Taskers bid on posted jobs (removals, cleaning, handyman, delivery, admin) and pay nothing to bid — the service fee only applies to won, completed tasks. It's tiered by tasker level: Bronze 20%, Silver 18.5%, Gold 14.9%, Platinum 12.5% (plus GST in Australia), and repeat clients cost just 1.9%. Payment is held until task completion and released to bank within days.\n\nThe model rewards consistency: climb the tiers and build repeat clients and your effective fee falls from 20% toward 1.9%. New taskers face high starting fees and bidding-driven price pressure. For established local taskers in cities, it's a steady channel; for rural areas or new entrants, volume is thin.",
+      "testNotes": "Tiered fees (Bronze 20% → Platinum 12.5%) and 1.9% repeat-client rate verified 25 Sep 2026 against Airtasker's tier table (July 2026) and 2026 tasker reviews. GST applies in Australia. No live account test performed."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Rover",
+    "url": "https://www.rover.com",
+    "description": "Pet services marketplace (dog walking, boarding, drop-in visits, house sitting, daycare). Sitters set their own rates; Rover takes 20% service fee (RoverGO users pay 25%). Payout 2 days after service completion via check or direct deposit. Established in the US, expanding internationally.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-local"],
+    "features": ["freelancing", "pet-services", "set-own-rates", "insurance"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Sitter service fee", "value": "20% (25% for RoverGO users)" },
+        { "label": "Sitter rate", "value": "Set your own (typically $20–$40/night boarding, $15–$25/walk)" },
+        { "label": "Owner booking fee", "value": "~11% (capped at $50)" },
+        { "label": "Payout timing", "value": "2 days after service completion" },
+        { "label": "Payout methods", "value": "Direct deposit, check (US)" },
+        { "label": "Services", "value": "Dog walking, boarding, drop-in, house sitting, daycare" },
+        { "label": "Extra", "value": "Rover Guarantee insurance included" }
+      ],
+      "pros": ["Set your own rates; repeat clients build quickly", "Payout just 2 days after service — fast", "Rover Guarantee insurance included", "A handful of regular clients = steady side income"],
+      "cons": ["20% fee (25% RoverGO) is high", "Boarding requires your home space and tolerance for pets", "Cancellations and last-minute bookings are common", "Demand concentrated in cities/suburbs"],
+      "reviewBody": "Rover is the pet-services marketplace: sitters set their own rates for dog walking, boarding, drop-in visits, house sitting and daycare, and Rover takes a 20% service fee (25% for RoverGO users). Pet owners pay an ~11% booking fee (capped at $50). Payouts release 2 days after service completion via direct deposit or check, and the Rover Guarantee insurance is included.\n\nThe economics work through repeat clients: a handful of regular dog-walking or boarding clients generate $500–$800/month with low time commitment, and holiday boarding peaks are lucrative. The 20% fee is high, and boarding requires suitable home space. For pet lovers in dense residential areas, it's reliable side income; for everyone else, the demand isn't there.",
+      "testNotes": "20% sitter fee (25% RoverGO), 2-day payout and ~11% owner fee verified 25 Sep 2026 against Rover's help center and 2026 sitter-fee calculators. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Checkatrade",
+    "url": "https://www.checkatrade.com",
+    "description": "UK trade directory and lead-generation platform. Vetted tradespeople (plumbing, electrical, building, home services) pay a monthly membership for profile, leads and reviews. No commission on jobs — clients pay tradespeople directly. Membership cost varies by trade and location.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-local"],
+    "features": ["freelancing", "lead-generation", "uk-trades", "no-commission", "monthly-membership"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Monthly membership for profile + leads + reviews" },
+        { "label": "Commission on jobs", "value": "0% — paid directly by client" },
+        { "label": "Membership cost", "value": "Varies by trade/location (typically £60–£120+/month)" },
+        { "label": "Vetting", "value": "Required — references, qualifications, insurance checked" },
+        { "label": "Payout", "value": "Direct client→tradesperson (platform holds no funds)" },
+        { "label": "Focus", "value": "UK trades — plumbing, electrical, building, home services" },
+        { "label": "Trust signal", "value": "Verified reviews drive conversion" }
+      ],
+      "pros": ["0% commission on work — keep 100%", "Strong UK consumer trust brand — high conversion", "Verified reviews are a genuine sales asset", "Recurring local client base"],
+      "cons": ["Monthly membership cost even with no leads", "Vetting requires insurance, qualifications and references", "Lead quality varies — many are price enquiries", "UK-only; trades-only"],
+      "reviewBody": "Checkatrade is the UK trade directory and lead-gen platform: vetted tradespeople pay a monthly membership (typically £60–£120+/month, varying by trade and location) for a profile, leads and verified reviews, and pay 0% commission on jobs — clients pay tradespeople directly. Vetting requires references, qualifications and insurance, and verified reviews drive conversion.\n\nThe model is a marketing cost, not a commission: you pay monthly regardless of lead volume, and lead quality varies (many are price enquiries). For established UK tradespeople with good reviews, the trust brand converts well; for new entrants, the monthly cost before winning work is a risk. UK-only and trades-only.",
+      "testNotes": "Membership model and 0% commission verified 25 Sep 2026 against Checkatrade's site and 2026 UK-trade comparisons. Membership fees vary by trade/location — get a quote. No live account test performed."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
+  },
+  {
+    "name": "MyBuilder",
+    "url": "https://www.mybuilder.com",
+    "description": "UK trades marketplace. Homeowners post jobs; vetted tradespeople express interest and pay to get the homeowner's contact details (pay-per-lead). No commission on completed work. Popular for home improvement. Payout direct between client and tradesperson.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": ["freelancing", "freelancing-local"],
+    "features": ["freelancing", "lead-generation", "uk-trades", "pay-per-lead", "no-commission"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Pay-per-lead — pay to unlock homeowner contact details" },
+        { "label": "Commission on work", "value": "0% — paid directly by client" },
+        { "label": "Lead cost", "value": "Varies by job size/trade (typically £5–£30+)" },
+        { "label": "Payout", "value": "Direct client→tradesperson" },
+        { "label": "Focus", "value": "UK home improvement — building, roofing, landscaping, electrical" },
+        { "label": "Risk", "value": "Pay for leads even if you don't win the job" }
+      ],
+      "pros": ["0% commission on completed work", "Large volume of UK home-improvement jobs", "Only pay for leads you choose to pursue", "Reviews and profile build repeat business"],
+      "cons": ["Pay-per-lead — cost incurred even on lost jobs", "Lead quality varies; many quotes go to competitors", "No payment protection or escrow", "UK-only; trades/home-improvement only"],
+      "reviewBody": "MyBuilder is the UK home-improvement marketplace: homeowners post jobs, vetted tradespeople express interest and pay per lead to unlock the homeowner's contact details, then quote directly. There is 0% commission on completed work — clients pay tradespeople directly. Lead costs vary by job size and trade (typically £5–£30+).\n\nLike Bark, the pay-per-lead model means you spend money even on leads you don't win, so conversion rate is everything. For tradespeople with strong quoting and a good profile, the high volume of UK home-improvement work makes it viable; for price-shopped categories, lead costs can eat margins. UK-only and trades/home-improvement only.",
+      "testNotes": "Pay-per-lead model and 0% commission verified 25 Sep 2026 against MyBuilder's site and 2026 UK-trade comparisons. Lead costs vary by job. No live account test performed."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
+  },
+  {
+    "name": "FlexJobs",
+    "url": "https://www.flexjobs.com",
+    "description": "Curated remote and flexible job board — every listing is hand-screened for legitimacy (no scams). Subscription-based for job seekers (~$9.95–$24.95/month or less on annual). Employers pay to post. 0% commission — you apply directly and are paid by the employer. Free alternative: We Work Remotely, RemoteOK.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-remote"],
+    "features": ["freelancing", "job-board", "vetted-listings", "subscription"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Job board — hand-screened listings, no scams" },
+        { "label": "Cost to job seeker", "value": "Subscription ~$9.95–$24.95/mo (cheaper annually)" },
+        { "label": "Commission on work", "value": "0% — paid directly by employer" },
+        { "label": "Listing types", "value": "Remote, hybrid, flexible, freelance, part-time" },
+        { "label": "Screening", "value": "Every listing hand-checked — no scam listings" },
+        { "label": "Payout", "value": "Direct per employer terms" }
+      ],
+      "pros": ["Every listing screened — essentially zero scams", "0% commission on any work you land", "Covers remote, hybrid, freelance and flexible roles", "Saves time vs sifting through scam-heavy free boards"],
+      "cons": ["Subscription cost even if you don't land a job", "US-heavy listings", "Free alternatives (We Work Remotely, RemoteOK) exist", "No payment infrastructure — deal directly with employers"],
+      "reviewBody": "FlexJobs is the scam-free remote/flexible job board: every listing is hand-screened, which is its entire value proposition given how scam-heavy remote job boards are. Job seekers pay a subscription (~$9.95–$24.95/month, cheaper annually) to browse and apply; employers pay to post. FlexJobs takes 0% commission on any work — you apply directly and are paid by the employer on their terms.\n\nThe trade-off is the subscription cost with no guarantee of landing work, and listings are US-heavy. For remote job seekers frustrated by scams, the screening saves real time; for the cost-sensitive, free boards like We Work Remotely and RemoteOK cover much of the same tech roles without a subscription.",
+      "testNotes": "Subscription pricing and hand-screened model verified 25 Sep 2026 against FlexJobs' pricing and 2026 remote-work guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "We Work Remotely",
+    "url": "https://weworkremotely.com",
+    "description": "Largest remote job board. Programming, design, marketing, customer support, sales, copywriting. Free for job seekers; employers pay ~$300 to post a listing for 30 days. 0% commission — apply directly, paid by employer. Strong tech and design focus.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["freelancing", "freelancing-remote", "freelancing-dev"],
+    "features": ["freelancing", "job-board", "remote", "free-for-seekers"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Job board — free for seekers, employers pay to post" },
+        { "label": "Employer posting cost", "value": "~$300 for 30 days" },
+        { "label": "Commission", "value": "0% — apply directly, paid by employer" },
+        { "label": "Categories", "value": "Programming, design, marketing, support, sales, copywriting" },
+        { "label": "Traffic", "value": "Largest remote job board (~3M+ monthly visitors)" },
+        { "label": "Payout", "value": "Direct per employer terms" }
+      ],
+      "pros": ["Free for job seekers — no subscription", "Largest remote job board — high volume", "Paid postings reduce scams", "Strong tech/design/marketing categories"],
+      "cons": ["High competition per listing (large audience)", "No payment protection or escrow", "Mostly full-time roles — fewer pure freelance gigs", "No matching/curation — you sift and apply"],
+      "reviewBody": "We Work Remotely is the largest remote job board (~3M+ monthly visitors), covering programming, design, marketing, customer support, sales and copywriting. It's free for job seekers; employers pay roughly $300 to post for 30 days, which screens out most scams. There's 0% commission — you apply directly and are paid by the employer on their terms.\n\nThe flip side of large volume is high competition per listing, and most roles are full-time rather than pure freelance. For remote job seekers in tech/design/marketing, it's the highest-volume free board; for freelance gigs specifically, marketplaces (Upwork, Contra) are more appropriate.",
+      "testNotes": "Free-for-seekers model and ~$300 posting fee verified 25 Sep 2026 against WWR's site and 2026 remote-work guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Remote OK",
+    "url": "https://remoteok.com",
+    "description": "Remote job board with strong tech focus. Free to browse and apply; employers pay to post. Tag-heavy filtering (by tech stack, salary, timezone). 0% commission — apply directly. Higher proportion of startup roles and salary-transparent listings than competitors.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-remote", "freelancing-dev"],
+    "features": ["freelancing", "job-board", "remote", "tech-focus", "free-for-seekers"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Job board — free for seekers, employers pay to post" },
+        { "label": "Focus", "value": "Tech (programming, design, ops) with startup skew" },
+        { "label": "Commission", "value": "0% — apply directly" },
+        { "label": "Filtering", "value": "Tag-based (tech stack, salary, timezone)" },
+        { "label": "Salary transparency", "value": "Higher than most boards — many listings show salary" },
+        { "label": "Payout", "value": "Direct per employer terms" }
+      ],
+      "pros": ["Free to browse and apply", "Strong tech/startup focus with salary-transparent listings", "Tag-based filtering is precise (stack, timezone, salary)", "Daily email digests of new roles"],
+      "cons": ["UI is dense and dated", "Mostly full-time — fewer freelance gigs", "High competition for popular listings", "No payment protection"],
+      "reviewBody": "Remote OK is the tech-skewed remote job board, free for job seekers (employers pay to post), with precise tag-based filtering by tech stack, salary and timezone. A higher proportion of listings are salary-transparent and startup-backed than on competitors, and daily email digests surface new roles.\n\nThe UI is dense and dated, most roles are full-time rather than freelance, and popular listings get heavy competition. For developers/designers targeting startups, it's a high-signal free board; for non-tech or pure-freelance seekers, We Work Remotely or marketplaces are better.",
+      "testNotes": "Free-for-seekers model and tech focus verified 25 Sep 2026 against Remote OK's site and 2026 remote-work guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Wellfound",
+    "url": "https://wellfound.com",
+    "description": "Formerly AngelList Talent. Startup jobs and contracts across engineering, design, marketing and operations. Free for candidates; direct messaging to founders/recruiters with salary and equity transparency. 0% commission — apply directly. Strong startup focus.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["freelancing", "freelancing-remote", "freelancing-dev", "freelancing-design"],
+    "features": ["freelancing", "job-board", "startup-focus", "free-for-seekers", "salary-transparency"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Formerly", "value": "AngelList Talent (rebranded)" },
+        { "label": "Model", "value": "Free for candidates; employers/startups pay for tools" },
+        { "label": "Commission", "value": "0% — apply/message directly" },
+        { "label": "Focus", "value": "Startups — engineering, design, marketing, ops" },
+        { "label": "Transparency", "value": "Salary + equity ranges shown upfront" },
+        { "label": "Payout", "value": "Direct per employer terms" }
+      ],
+      "pros": ["Free for candidates; direct messaging to founders", "Salary + equity transparency upfront", "Highest concentration of startup roles anywhere", "Recruiters can reach out to you proactively"],
+      "cons": ["Mostly full-time with equity — few pure freelance contracts", "US-startup-heavy; fewer international roles", "Response rates can be low from busy founders", "No payment protection"],
+      "reviewBody": "Wellfound (formerly AngelList Talent) is the startup job platform: free for candidates, with direct messaging to founders and recruiters, and upfront salary + equity transparency. It has the highest concentration of startup roles (engineering, design, marketing, ops) of any platform, and recruiters can proactively reach out to matching candidates. 0% commission — you deal directly with the employer.\n\nMost roles are full-time with equity rather than pure freelance contracts, and the base is US-startup-heavy. For anyone targeting startup roles (including contract/fractional), it's essential; for pure freelance gigs or non-startup employers, marketplaces and other boards cover more.",
+      "testNotes": "AngelList Talent rebrand to Wellfound and free-candidate model verified 25 Sep 2026 against Wellfound's site and 2026 guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
+    ]
+  },
+  {
+    "name": "Hubstaff Talent",
+    "url": "https://talent.hubstaff.com",
+    "description": "Free remote freelance directory by Hubstaff (time-tracking company). Connects freelancers with companies; no freelancer fee and no bidding cost. Companies often use Hubstaff for time tracking and payments. 0% commission — paid directly or via Hubstaff. Free profiles.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-remote", "freelancing-general"],
+    "features": ["freelancing", "remote-directory", "0%-fee", "free-profile"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Free remote talent directory (by Hubstaff)" },
+        { "label": "Freelancer fee", "value": "0%" },
+        { "label": "Bidding cost", "value": "None — free profile, companies contact you" },
+        { "label": "Integration", "value": "Companies often use Hubstaff time tracking + payments" },
+        { "label": "Categories", "value": "Dev, design, marketing, writing, support" },
+        { "label": "Payout", "value": "Direct or via Hubstaff payment rails" }
+      ],
+      "pros": ["Truly free — 0% fee, no bidding cost, free profile", "Companies find and contact you (inbound)", "Integrates with Hubstaff's trusted time-tracking/payment", "Good for remote generalists"],
+      "cons": ["Lower volume and brand recognition than Upwork/Toptal", "Many clients expect Hubstaff time tracking (monitoring)", "Less vetting — quality of clients varies", "Fewer enterprise/high-budget clients"],
+      "reviewBody": "Hubstaff Talent is the free remote talent directory from time-tracking company Hubstaff: freelancers create a free profile, companies find and contact them, and there is 0% fee and no bidding cost. Clients often use Hubstaff's time tracking and payment rails, which adds trust but also means activity monitoring is the norm.\n\nIt's genuinely free, which is rare, but volume and brand recognition are lower than the major marketplaces, and client budgets are generally smaller. The Hubstaff integration is a plus for clients who want time tracking, but a minus for freelancers who dislike activity monitoring. Best as a free supplementary channel alongside a primary marketplace.",
+      "testNotes": "0% fee and free-profile model verified 25 Sep 2026 against Hubstaff Talent's site and 2026 remote-freelance guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "LinkedIn Services",
+    "url": "https://www.linkedin.com/services",
+    "description": "LinkedIn's professional services marketplace — freelancers and consultants list services directly on their LinkedIn profile. Strong for B2B services (consulting, coaching, marketing, design, tech). 0% platform commission — payment arranged directly between parties (or via LinkedIn's payment tools where available). Leverages your existing network and profile.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-general"],
+    "features": ["freelancing", "b2b-services", "0%-commission", "network-leverage"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Service listings on LinkedIn profile — discoverable by network" },
+        { "label": "Platform commission", "value": "0% — payment arranged directly (or via LinkedIn tools where available)" },
+        { "label": "Best for", "value": "B2B — consulting, coaching, marketing, design, tech" },
+        { "label": "Cost to freelancer", "value": "Free (LinkedIn Premium optional for visibility)" },
+        { "label": "Payout", "value": "Direct per client terms" },
+        { "label": "Discovery", "value": "Search + your network + LinkedIn recommendations" }
+      ],
+      "pros": ["0% platform commission", "Leverages your existing professional network and credibility", "B2B clients with serious budgets", "Recommendations/endorsements double as social proof"],
+      "cons": ["No escrow or payment protection on most transactions", "Visibility depends heavily on your network size and activity", "Limited structured categories — less of a marketplace", "No matching algorithm — you must build presence"],
+      "reviewBody": "LinkedIn Services lets freelancers and consultants list services directly on their LinkedIn profile, discoverable by their network and via search, with 0% platform commission — payment is arranged directly between parties (or via LinkedIn's payment tools where available). It's strongest for B2B services: consulting, coaching, marketing, design and tech, where LinkedIn recommendations and network credibility directly convert.\n\nThe catch is that visibility depends on your network size and activity — there's no marketplace matching algorithm or escrow. For freelancers with an established LinkedIn presence, it's the cheapest (0%) high-trust channel; for those without one, building the audience is the real cost. Best paired with active content posting.",
+      "testNotes": "0% commission and service-listing model verified 25 Sep 2026 against LinkedIn's Services pages and 2026 guides. Payment tools availability varies by market. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
+  },
+  {
+    "name": "Legiit",
+    "url": "https://legiit.com",
+    "description": "Service marketplace for SEO, marketing, design and development. Sellers list predefined services (like Fiverr gigs); buyers purchase directly. Seller fee ~15% (lower on premium tiers). Payout via PayPal. Lower fees than Fiverr but smaller volume. SEO/marketing niche is strong.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": ["freelancing", "freelancing-general", "freelancing-marketing", "freelancing-dev"],
+    "features": ["freelancing", "gigs", "seo-marketing-niche", "referral"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Seller fee", "value": "~15% (lower on premium tiers)" },
+        { "label": "Model", "value": "Predefined service listings (gigs) — buyers purchase directly" },
+        { "label": "Strong niche", "value": "SEO, marketing, link building, design, dev" },
+        { "label": "Payout method", "value": "PayPal" },
+        { "label": "vs Fiverr", "value": "Lower fees but smaller buyer volume" },
+        { "label": "Referral", "value": "Yes — affiliate/referral program" }
+      ],
+      "pros": ["Lower seller fee (~15%) than Fiverr's 20%", "Strong SEO/marketing buyer niche — less generalist competition", "Gig model = inbound orders, no bidding cost", "Referral program adds passive income"],
+      "cons": ["Much smaller buyer volume than Fiverr/Upwork", "PayPal-only payout with its own fees", "Niche buyer base — non-marketing services get little traffic", "Brand recognition is lower"],
+      "reviewBody": "Legiit is the Fiverr-style gig marketplace focused on SEO, marketing, link building, design and development: sellers list predefined services, buyers purchase directly, and the seller fee is roughly 15% (lower on premium tiers) — undercutting Fiverr's 20%. Payouts run via PayPal, and there's a referral/affiliate program.\n\nThe trade-off is volume: Legiit's buyer base is a fraction of Fiverr's, and traffic concentrates in the SEO/marketing niche. For SEO/marketing sellers, the lower fee and niche focus can net more than Fiverr; for generalist services (writing, dev, design), the larger platforms deliver more orders.",
+      "testNotes": "~15% seller fee and SEO/marketing focus verified 25 Sep 2026 against Legiit's site and 2026 marketplace comparisons; exact tiered rates vary — confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Workana",
+    "url": "https://www.workana.com",
+    "description": "Latin American and Spanish-speaking freelance marketplace (development, design, writing, marketing). Freelancer fee sliding 5–20% decreasing with client relationship. Growing presence in Spain and Portugal. Payout via PayPal, Payoneer or bank. Strong for LATAM-based freelancers and clients.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": ["freelancing", "freelancing-general"],
+    "features": ["freelancing", "latam-focus", "sliding-fee", "escrow"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee", "value": "Sliding ~5–20%, decreasing with client relationship" },
+        { "label": "Focus market", "value": "Latin America + Spain/Portugal (Spanish/Portuguese)" },
+        { "label": "Categories", "value": "Development, design, writing, marketing, translation" },
+        { "label": "Payout methods", "value": "PayPal, Payoneer, bank transfer" },
+        { "label": "Escrow", "value": "Yes — milestone payments" },
+        { "label": "Best for", "value": "LATAM-based freelancers and Spanish/Portuguese clients" }
+      ],
+      "pros": ["Sliding fee drops with repeat clients", "Dominant in LATAM — less competition from global freelancers", "Milestone escrow protection", "Local payment methods for LATAM"],
+      "cons": ["Starting fee (~20%) is high", "Rates are lower than global marketplaces (LATAM pricing)", "Limited outside Spanish/Portuguese markets", "Withdrawal fees for international methods"],
+      "reviewBody": "Workana is the dominant Latin American freelance marketplace, growing in Spain and Portugal, covering development, design, writing, marketing and translation. Freelancers pay a sliding fee of roughly 5–20% that decreases with repeat-client relationships, with milestone escrow protection. Payouts run via PayPal, Payoneer or bank transfer, with local methods for LATAM.\n\nIts strength and weakness are the same: it's regionally focused. LATAM-based freelancers face less global competition and have local payment rails, but rates are priced for LATAM markets and lower than global platforms, and the starting ~20% fee is high. For Spanish/Portuguese-speaking freelancers, it's the primary regional channel; for global-rate freelancers, Upwork or vetted networks pay more.",
+      "testNotes": "Sliding 5–20% fee and LATAM focus verified 25 Sep 2026 against Workana's help pages and 2026 comparisons. Exact tiers vary by country. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Truelancer",
+    "url": "https://www.truelancer.com",
+    "description": "Project bidding marketplace (IT, writing, design, data entry). Freelancer fee ~10% on projects; payment protection via escrow. Payout via PayPal, Payoneer or bank. Smaller volume than Upwork/Freelancer; popular in India and Southeast Asia. Lower rates typical.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": ["freelancing", "freelancing-general", "freelancing-dev", "freelancing-writing"],
+    "features": ["freelancing", "bidding", "escrow", "data-entry"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee", "value": "~10% on projects" },
+        { "label": "Model", "value": "Bidding on posted projects" },
+        { "label": "Categories", "value": "IT, writing, design, data entry, virtual assistance" },
+        { "label": "Payout methods", "value": "PayPal, Payoneer, bank transfer" },
+        { "label": "Payment protection", "value": "Escrow / milestone" },
+        { "label": "User base", "value": "Strong in India and Southeast Asia; lower rates" }
+      ],
+      "pros": ["~10% fee is lower than Fiverr's 20%", "Escrow payment protection", "Lower barrier to entry than Upwork", "Data-entry and VA jobs are abundant"],
+      "cons": ["Much smaller project volume than Upwork/Freelancer", "Rates are low — price competition from SEA/India", "TrustScore lowest in this category — fewer client safeguards", "Client quality and dispute resolution are weaker"],
+      "reviewBody": "Truelancer is the smaller bidding marketplace covering IT, writing, design, data entry and virtual assistance, with a ~10% freelancer fee and escrow payment protection. Payouts run via PayPal, Payoneer or bank transfer. Its user base is strong in India and Southeast Asia, where rates are typically lower.\n\nThe ~10% fee undercuts Fiverr, but project volume is a fraction of Upwork or Freelancer, and rate competition is intense. Client quality and dispute resolution are weaker, reflected in the lowest trust score in this category. It can work as a secondary channel for data-entry/VA and entry-level freelancers; for anyone able to access Upwork, the larger volume usually nets more.",
+      "testNotes": "~10% fee and escrow model verified 25 Sep 2026 against Truelancer's site and 2026 marketplace comparisons. Volume/rates are indicative. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Aquent",
+    "url": "https://aquent.com",
+    "description": "Creative, marketing and digital talent agency. Places freelancers and contractors with major brands and agencies (UK, US, international). Freelancers are paid as W-2/umbrella employees or via payroll — 0% explicit fee (agency markup on client rate). Weekly pay, benefits eligibility for long-term contractors. No bidding.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-design", "freelancing-marketing"],
+    "features": ["freelancing", "talent-agency", "0%-explicit-fee", "weekly-pay", "benefits"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Talent agency — places contractors with major brands/agencies" },
+        { "label": "Freelancer fee", "value": "0% explicit — margin in client rate (agency markup)" },
+        { "label": "Pay structure", "value": "W-2/umbrella payroll or direct contractor" },
+        { "label": "Payout", "value": "Weekly" },
+        { "label": "Benefits", "value": "Eligible for long-term contractors (health, 401k in US)" },
+        { "label": "Focus", "value": "Creative, marketing, digital, UX" },
+        { "label": "Coverage", "value": "UK, US, international" }
+      ],
+      "pros": ["0% explicit fee — paid your contracted rate", "Weekly payroll — reliable and fast", "Major brand/agency clients with long engagements", "Benefits eligibility for long-term contractors"],
+      "cons": ["Agency markup means you could earn more going direct", "Curated — not open self-service; placement takes time", "Creative/marketing/digital only", "Rate is set by the agency, less negotiation"],
+      "reviewBody": "Aquent is the creative/marketing/digital talent agency: it places freelancers and contractors with major brands and agencies in the UK, US and internationally, paying them via W-2/umbrella payroll or direct contractor terms. There's 0% explicit freelancer fee — the margin is the agency markup on the client rate. Payouts run weekly, and long-term contractors can be eligible for benefits.\n\nIt's curated (not open self-service) and placement takes time, but the client base is high-quality and engagements are long. For creative/marketing/digital contractors who value weekly pay and benefits, it's a stable alternative to marketplaces; for everyone else, the vertical and gate limit it.",
+      "testNotes": "Agency model and weekly payroll verified 25 Sep 2026 against Aquent's site and 2026 creative-contracting guides. Benefits eligibility varies by country/tenure. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Worksome",
+    "url": "https://www.worksome.com",
+    "description": "Freelancer management platform — companies build curated talent pools; freelancers get matched with ongoing contracts. Freelancers pay 0% fee — clients pay a platform fee. Popular in UK and Europe. Handles contracts, compliance and payments. Payout via bank transfer, fast.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-premium", "freelancing-remote"],
+    "features": ["freelancing", "talent-pools", "0%-freelancer-fee", "compliance", "europe-focus"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Freelancer fee", "value": "0% — clients pay platform fee" },
+        { "label": "Model", "value": "Curated talent pools + matching to ongoing contracts" },
+        { "label": "Extra", "value": "Handles contracts, IR35/compliance, invoicing, payments" },
+        { "label": "Payout", "value": "Bank transfer, fast (days)" },
+        { "label": "Focus market", "value": "UK and Europe" },
+        { "label": "Freelancer types", "value": "Consultants, interim managers, tech, creative" }
+      ],
+      "pros": ["0% freelancer fee", "Handles compliance (IR35, contracts, invoicing) — major UK/EU benefit", "Fast bank payout", "Curated talent pools mean repeat engagements"],
+      "cons": ["Curated/invite — not open self-service", "UK/Europe-focused", "Ongoing contracts — not one-off small projects", "Less brand recognition than Malt/YunoJuno"],
+      "reviewBody": "Worksome is the freelancer-management platform: companies build curated talent pools, and freelancers are matched to ongoing contracts with 0% freelancer fee (clients pay the platform fee). It handles contracts, IR35/compliance, invoicing and payments — a major benefit for UK/EU freelancers — with fast bank payout. Popular in the UK and Europe across consulting, interim management, tech and creative.\n\nIt's curated rather than open self-service, UK/Europe-focused, and skews to ongoing contracts rather than one-off projects. For UK/EU freelancers who value compliance handling and 0% fee, it's a strong channel; for international or project-based freelancers, Malt or marketplaces are broader.",
+      "testNotes": "0% freelancer fee and compliance-handling model verified 25 Sep 2026 against Worksome's site and 2026 UK freelance guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Behance",
+    "url": "https://www.behance.net",
+    "description": "Adobe-owned creative portfolio platform (designers, illustrators, photographers, motion artists). Freelance work comes via the job board and inbound client messages; 0% commission — paid directly by client. Adobe integration (Creative Cloud) is a plus. Portfolio is the discovery engine.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": ["freelancing", "freelancing-design"],
+    "features": ["freelancing", "portfolio", "job-board", "0%-commission", "adobe-integration"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Owner", "value": "Adobe" },
+        { "label": "Freelance commission", "value": "0% — paid directly by client" },
+        { "label": "Revenue model", "value": "Job-posting fees for employers; ProSite/portfolio tools" },
+        { "label": "Job board", "value": "Creative freelance + full-time roles" },
+        { "label": "Integration", "value": "Adobe Creative Cloud — publish work directly" },
+        { "label": "Payout", "value": "Direct (client pays you)" }
+      ],
+      "pros": ["0% commission on any work won", "Largest creative portfolio network — strong inbound leads", "Adobe Creative Cloud integration", "Free basic portfolio"],
+      "cons": ["No escrow or payment protection", "Hiring skews full-time; freelance is a minority", "Visibility requires active curation and Adobe network", "No payment infrastructure — invoice clients directly"],
+      "reviewBody": "Behance (Adobe-owned) is the largest creative portfolio network: designers, illustrators, photographers and motion artists showcase work, and freelance work comes through the job board and inbound client messages — with 0% commission, paid directly by clients. Adobe Creative Cloud integration lets creators publish work directly, and a basic portfolio is free.\n\nLike Dribbble, there's no escrow or payment infrastructure — you invoice clients directly — and hiring skews toward full-time roles. Its advantage over Dribbble is Adobe integration and a broader creative scope (motion, photography, illustration). For creative freelancers, maintaining both Behance and Dribbble as top-of-funnel channels is standard.",
+      "testNotes": "0% commission and Adobe ownership verified 25 Sep 2026 against Behance's site and 2026 design-career guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
+  },
+  {
+    "name": "ArtStation",
+    "url": "https://www.artstation.com",
+    "description": "Portfolio and job platform for digital artists, game artists and 3D creators, owned by Epic Games. Strong for games, film, VFX and concept art. 0% commission on freelance work found via the platform — paid directly. ArtStation Learning and marketplace for digital assets (12% fee on marketplace sales).",
+    "status": "active",
+    "trustScore": 76,
+    "categories": ["freelancing", "freelancing-design"],
+    "features": ["freelancing", "portfolio", "game-film-vfx", "0%-commission", "digital-asset-marketplace"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Owner", "value": "Epic Games" },
+        { "label": "Freelance commission", "value": "0% — paid directly by client" },
+        { "label": "Focus", "value": "Game art, film, VFX, concept art, 3D" },
+        { "label": "Marketplace fee", "value": "12% on digital asset sales (brushes, models, tutorials)" },
+        { "label": "Extra", "value": "ArtStation Learning (tutorials)" },
+        { "label": "Payout", "value": "Direct per client / marketplace via Stripe/PayPal" }
+      ],
+      "pros": ["0% commission on freelance work", "Dominant platform for game/film/VFX artists — the right audience", "Owned by Epic Games — industry credibility", "Sell digital assets (12% fee) as passive income"],
+      "cons": ["Niche — only game/film/3D/concept art", "No escrow or payment protection for freelance work", "Highly competitive — top artists dominate visibility", "Freelance job volume is smaller than full-time roles"],
+      "reviewBody": "ArtStation (owned by Epic Games) is the dominant portfolio and job platform for game artists, film/VFX artists, concept artists and 3D creators. Freelance work found through the platform pays 0% commission — clients pay directly — and creators can also sell digital assets (brushes, models, tutorials) on the marketplace with a 12% fee, plus ArtStation Learning tutorials.\n\nIt's deliberately niche: if you're a game/film/3D artist, it's the single most important platform (your clients are all there); if you're not, it's irrelevant. Visibility is competitive — top artists dominate — and freelance job volume is smaller than full-time roles. For the niche, pair a strong ArtStation portfolio with direct outreach to studios.",
+      "testNotes": "Epic Games ownership, 0% freelance commission and 12% marketplace fee verified 25 Sep 2026 against ArtStation's site and 2026 game-art guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Textbroker",
+    "url": "https://www.textbroker.co.uk",
+    "description": "Content writing platform with tiered author levels (2–5 stars) and fixed per-word rates set by the platform. No bidding — claim orders from the pool. UK, US and other markets. Payout weekly via PayPal or direct deposit, minimum ~$10. Rates are low but reliable volume.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": ["freelancing", "freelancing-writing"],
+    "features": ["freelancing", "content-writing", "tiered-rates", "no-bidding"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Rate model", "value": "Fixed per-word rates by author star level (2–5 stars)" },
+        { "label": "Bidding", "value": "None — claim orders from open pool or take direct orders" },
+        { "label": "Markets", "value": "US, UK, Germany, France, Spain, and more" },
+        { "label": "Payout methods", "value": "PayPal, direct deposit" },
+        { "label": "Payout schedule", "value": "Weekly" },
+        { "label": "Payout minimum", "value": "~$10 (commonly cited)" },
+        { "label": "Author rating", "value": "Evaluated on sample text; higher stars = higher per-word rate" }
+      ],
+      "pros": ["No bidding — claim orders instantly", "Reliable volume of content orders", "Weekly payout with low minimum", "Good for building writing samples and speed"],
+      "cons": ["Per-word rates are low (platform-set, not negotiable)", "Author rating caps your rate — hard to raise quickly", "Content is often SEO/affiliate — low creative value", "Quality expectations can be demanding for the pay"],
+      "reviewBody": "Textbroker is the volume content-writing platform: authors are rated 2–5 stars on a sample text, paid fixed per-word rates set by the platform, and claim orders from an open pool or take direct client orders — no bidding. It operates in the US, UK, Germany, France, Spain and more, with weekly payouts via PayPal or direct deposit at a ~$10 minimum.\n\nIt's reliable volume but low pay: rates are platform-set and rise only with your star rating. It's best for new writers building samples and speed, or as a steady baseline; for earning potential, direct clients, ProBlogger jobs, or Contently-style platforms pay far more per word.",
+      "testNotes": "Tiered per-word model and weekly payout verified 25 Sep 2026 against Textbroker's author pages and 2026 writing-platform comparisons. ~$10 minimum commonly cited; confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 10, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 10, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Wyzant",
+    "url": "https://www.wyzant.com",
+    "description": "US tutoring marketplace (in-person and online, academic subjects, test prep, music). Tutors set their own hourly rate. Platform takes 25% commission, dropping to 20% after $2,000 in lifetime earnings. Payout via direct deposit. US-focused; strong student demand.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": ["freelancing", "freelancing-tutoring", "freelancing-local"],
+    "features": ["freelancing", "tutoring", "set-own-rates", "sliding-commission", "us-focus"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Tutor rate", "value": "Set your own ($30–$150+/hr typical)" },
+        { "label": "Commission", "value": "25%, dropping to 20% after $2,000 lifetime earnings" },
+        { "label": "Payout method", "value": "Direct deposit (US bank)" },
+        { "label": "Payout schedule", "value": "Within days of lesson completion" },
+        { "label": "Market", "value": "US-focused (in-person + online)" },
+        { "label": "Subjects", "value": "Academic K–12, college, test prep (SAT/ACT), music, languages" },
+        { "label": "Tutor keep-rate", "value": "75–80% of listed rate" }
+      ],
+      "pros": ["Set your own rate — top tutors charge $100+/hr", "Commission drops to 20% after $2,000 earned", "Strong US student demand across subjects", "No subscription cost for tutors"],
+      "cons": ["25% starting commission is high", "US-only — no international students", "Rate competition keeps average rates moderate", "In-person tutors limited to their local area"],
+      "reviewBody": "Wyzant is the US tutoring marketplace: tutors set their own hourly rate ($30–$150+ typical), and Wyzant takes 25% commission, dropping to 20% after $2,000 in lifetime earnings. Payouts run by direct deposit within days of lesson completion. It covers K–12, college, test prep (SAT/ACT), music and languages, in-person and online.\n\nIt's US-only, and the 25% starting commission is high, but US student demand is strong and top tutors with good reviews charge premium rates. For US-based tutors, it's the highest-volume channel; for international tutors, Preply or italki offer global reach (though at lower average rates).",
+      "testNotes": "25%→20% commission after $2,000 and direct-deposit payout verified 25 Sep 2026 against Wyzant's tutor pages and 2026 tutoring-platform comparisons. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
+    ]
+  },
+  {
+    "name": "Fancy Hands",
+    "url": "https://www.fancyhands.com",
+    "description": "US virtual assistant task platform. Assistants complete short tasks (scheduling, calls, research, data entry) for a fixed per-task rate (~$3–$7). US-based assistants only; reliable internet and phone required. Payout weekly via PayPal. Low pay but flexible micro-tasks.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": ["freelancing", "freelancing-va", "freelancing-microtasks"],
+    "features": ["freelancing", "virtual-assistant", "microtasks", "us-only"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Task type", "value": "Short VA tasks — scheduling, calls, research, data entry" },
+        { "label": "Pay per task", "value": "~$3–$7 fixed (varies by complexity)" },
+        { "label": "Assistant location", "value": "US-based only" },
+        { "label": "Requirements", "value": "Reliable internet + phone (US number)" },
+        { "label": "Payout method", "value": "PayPal" },
+        { "label": "Payout schedule", "value": "Weekly (Tuesdays)" },
+        { "label": "Flexibility", "value": "Claim tasks anytime — fully flexible" }
+      ],
+      "pros": ["Fully flexible — claim micro-tasks anytime", "Weekly PayPal payout, reliable", "No bidding or proposal writing", "Good entry-level VA experience"],
+      "cons": ["Pay is very low (~$3–$7/task)", "US-based assistants only", "Tasks can be tedious and time-consuming for the pay", "No career progression or rate increases"],
+      "reviewBody": "Fancy Hands is the US virtual-assistant micro-task platform: assistants claim short tasks (scheduling, phone calls, research, data entry) paying a fixed ~$3–$7 each, with weekly PayPal payouts (Tuesdays). Assistants must be US-based with reliable internet and a US phone number. Hours are fully flexible — claim tasks anytime.\n\nIt's entry-level and low-paying by design: the per-task rate means effective hourly earnings are often low, and there's no progression. It suits US-based assistants wanting flexible side income or entry-level VA experience; for earning potential, specialized VA work on Upwork or a dedicated VA agency pays far more.",
+      "testNotes": "~$3–$7 per task, US-only and weekly Tuesday PayPal payout verified 25 Sep 2026 against Fancy Hands' assistant pages and 2026 VA-platform guides. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
+    ]
+  }
+]
+

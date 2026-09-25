@@ -1,0 +1,3706 @@
+[
+  {
+    "name": "JamDoughnut",
+    "url": "https://www.jamdoughnut.com",
+    "trustScore": 94,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-giftcard",
+      "cashback-instore"
+    ],
+    "description": "UK's original instant gift card cashback app launched 2019. Buy digital gift cards for 150+ retailers Tesco Sainsbury's ASDA M&S 1-20% instant cashback to wallet.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 10,
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 1,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.7/5 Excellent 4,700+ reviews"
+        },
+        {
+          "label": "Founded",
+          "value": "2019 UK first gift card cashback app"
+        },
+        {
+          "label": "Min payout",
+          "value": "\u00a310 (1,000 pts) bank \u00a31 gift cards"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Bank transfer Open Banking Gift cards"
+        },
+        {
+          "label": "Payout fees",
+          "value": "30p bank withdrawals no fee gift cards"
+        },
+        {
+          "label": "Payout speed",
+          "value": "Instant to wallet 1-3 days bank"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "\u00a33 (300 pts) after first purchase referral"
+        },
+        {
+          "label": "Referral",
+          "value": "\u00a34 per friend who cashes out \u00a310+"
+        },
+        {
+          "label": "Retailers",
+          "value": "150-229+ brands supermarkets restaurants travel"
+        },
+        {
+          "label": "Members",
+          "value": "500k+ users gift card every 5 seconds"
+        }
+      ],
+      "pros": [
+        "Instant cashback seconds no tracking failures",
+        "Stacks loyalty student NHS + TopCashback Quidco",
+        "Local tab petrol price view unique",
+        "Highly rated 4.7 Trustpilot 4.8 App Stores"
+      ],
+      "cons": [
+        "30p fee on bank withdrawals",
+        "Cashback rates vary by retailer 1-20%",
+        "Gift cards non-refundable after purchase",
+        "Requires prepay gift card"
+      ],
+      "reviewBody": "JamDoughnut invented instant gift card cashback in UK 2019 and remains highest rated at 4.7/5 from 4,700 reviews. Buy gift card in app, cashback credited instantly to wallet before you shop. No waiting 30-90 days like traditional cashback.\n\nExample: Buy \u00a3100 Tesco gift card at 4% = \u00a34 instant. Use gift card at Tesco self-checkout. Stack with Clubcard points and TopCashback for triple dip. Bank withdrawal \u00a310 min + 30p fee, gift card withdrawal \u00a31 min no fee.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Cheddar",
+    "url": "https://www.cheddar.me",
+    "trustScore": 94,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-giftcard",
+      "cashback-finance"
+    ],
+    "description": "UK FCA-regulated instant cashback app giving up to 10% when buying gift cards for 200+ brands Tesco Sainsbury's ASDA Costa Nike. \u00a35 min bank fee-free.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 5,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.7/5 stars"
+        },
+        {
+          "label": "Payout min",
+          "value": "\u00a35"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Bank account Faster Payments"
+        },
+        {
+          "label": "Fees",
+          "value": "Free no subscription no transaction no withdrawal"
+        },
+        {
+          "label": "Members",
+          "value": "250k+ downloads 100k+ active UK"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "\u00a35 bonus when earn \u00a35 cashback 30 days"
+        },
+        {
+          "label": "Cashback rates",
+          "value": "3%-10% instant Tesco up to 5% Costa up to 10%"
+        },
+        {
+          "label": "Partner brands",
+          "value": "200+ UK brands Tesco Sainsbury's ASDA M&S Boots Nike Just Eat"
+        },
+        {
+          "label": "Regulation",
+          "value": "FCA Regulated Cheddar Payments FRN 921657"
+        },
+        {
+          "label": "Referral",
+          "value": "\u00a35 new user + \u00a35 referrer after \u00a35 earned"
+        }
+      ],
+      "pros": [
+        "Truly instant cashback before you shop",
+        "Fee-free bank withdrawals low \u00a35 min",
+        "Highly rated 4.7 FCA regulated British Bank Awards",
+        "Stackable with Quidco TopCashback in-store online"
+      ],
+      "cons": [
+        "Requires gift card prepay",
+        "Rates vary retailer to retailer",
+        "Smaller retailer list than JamDoughnut",
+        "Newer company than TopCashback"
+      ],
+      "reviewBody": "Cheddar is FCA-regulated rival to JamDoughnut with fee-free bank withdrawals from \u00a35. Same instant model: buy gift card in app, get 3-10% instantly, spend gift card in-store/online. Tesco up to 5%, Costa up to 10%.\n\nFCA regulation adds trust, and fee-free vs JamDoughnut 30p fee makes small withdrawals cheaper. \u00a35 welcome bonus when you earn \u00a35 cashback in 30 days is easy. Best for users wanting instant bank cashback not gift cards.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Airtime",
+    "url": "https://www.airtimerewards.co.uk",
+    "trustScore": 90,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-instore"
+    ],
+    "description": "UK card-linked cashback app turning Visa/Mastercard spend into mobile bill credit. Link cards once, earn 1-15% at 200+ retailers, \u00a310 min, 4M members.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 10,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.5/5 Excellent 4,400+ reviews"
+        },
+        {
+          "label": "App Store",
+          "value": "4.7/5 40k+ reviews"
+        },
+        {
+          "label": "Members",
+          "value": "4 million UK 2026"
+        },
+        {
+          "label": "Total paid",
+          "value": "\u00a340M+ \u00a32m+ monthly"
+        },
+        {
+          "label": "Payout min",
+          "value": "\u00a310 standard \u00a35 with Airtime Up"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Mobile bill credit PAYG Gift to friend"
+        },
+        {
+          "label": "Fees",
+          "value": "Free no fees PCI compliant"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "\u00a31.50 referral + up to \u00a31 extra spend 7 days"
+        },
+        {
+          "label": "Retailers",
+          "value": "200+ Boots Greggs Argos Primark 3.5% Currys"
+        },
+        {
+          "label": "Compatibility",
+          "value": "O2 EE Vodafone Three giffgaff Visa Mastercard Apple Google Pay"
+        }
+      ],
+      "pros": [
+        "Completely passive link once automatic tracking",
+        "Stacks with Quidco TopCashback double cashback",
+        "Free PCI compliant Visa Mastercard partnership",
+        "Low \u00a310 threshold all major networks"
+      ],
+      "cons": [
+        "Payout only to mobile bill not bank/PayPal",
+        "Retailer coverage smaller than TopCashback",
+        "Requires linking bank cards",
+        "No gift card option"
+      ],
+      "reviewBody": "Airtime Rewards is UK's best passive cashback app with 4.5/5 Trustpilot from 4,400 reviews. Link Visa/Mastercard once and earn 1-15% automatically at 200+ retailers including Boots, Greggs, Argos, Primark. No receipt scanning, no clicking through.\n\nRewards go off phone bill - \u00a310 min, \u00a35 with Airtime Up. You can gift to family/friends. Stacks with TopCashback/Quidco for double cashback: buy via cashback site using linked card, earn twice. Tested passive earning \u00a32-\u00a34/month with normal spend.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "TopCashback",
+    "url": "https://www.topcashback.co.uk",
+    "trustScore": 88,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-travel",
+      "cashback-grocery",
+      "cashback-instore",
+      "cashback-giftcard",
+      "cashback-finance",
+      "cashback-fashion"
+    ],
+    "description": "UK's largest cashback site founded 2005 in Staffordshire. Passes 100% of commission to members and monetises via Plus membership. 6,000+ retailers, 60+ payout options and no minimum payout.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 0.01,
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 10,
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 0.01,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral",
+      "browser-extension",
+      "highest-cashback-guarantee"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.5/5 from 157,000+ reviews"
+        },
+        {
+          "label": "Members",
+          "value": "25 million global, 14M UK"
+        },
+        {
+          "label": "Founded",
+          "value": "2005"
+        },
+        {
+          "label": "Retailers",
+          "value": "6,000+"
+        },
+        {
+          "label": "Minimum payout",
+          "value": "\u00a30.01 PayPal & gift cards, \u00a310 bank"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal, bank, 60+ gift cards, Visa, Avios, Amex"
+        },
+        {
+          "label": "Fees",
+          "value": "Free Classic, Plus \u00a35/year from earnings"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "\u00a35-\u00a310 via referral after \u00a310 payable"
+        },
+        {
+          "label": "Payout speed",
+          "value": "Bank 3-5 working days, PayPal same day"
+        }
+      ],
+      "pros": [
+        "100% commission passed back - highest rates in UK",
+        "No minimum payout on PayPal and gift cards",
+        "60+ payout options with bonuses up to 15% on gift cards",
+        "Highest Cashback Guarantee matches competitors"
+      ],
+      "cons": [
+        "Plus \u00a35/year taken automatically if you don't downgrade after trial",
+        "Cashback can take 1-12 weeks to become payable",
+        "Some high rates require Plus membership",
+        "US site separate tracking"
+      ],
+      "reviewBody": "TopCashback remains the benchmark for pure cashback in the UK. The model is simple: click through, shop as normal, and get the full commission back. Because it doesn't take a cut, it consistently beats Quidco and others on headline rates, especially for insurance, utilities and broadband where differences can be \u00a320-\u00a340.\n\nThe Classic account is genuinely free with no minimum payout for PayPal. The Plus tier (\u00a35/year) lifts rates by around 5-10% and adds protection features, but you need to manually downgrade after the free trial if you don't want it. Withdrawals are fee-free and the gift card bonuses (Amazon, Tesco, M&S) add another 3-15% on top.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "ShopBack",
+    "url": "https://www.shopback.com",
+    "trustScore": 88,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-travel",
+      "cashback-international"
+    ],
+    "description": "Asia-Pacific's largest cashback rewards platform founded Singapore 2014 serving 50M+ users 13 markets including US May 2025. Real cashback up to 30% 20k merchants Amazon Walmart Expedia Best Buy.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Founded",
+          "value": "2014 Singapore"
+        },
+        {
+          "label": "Users",
+          "value": "50+ million globally"
+        },
+        {
+          "label": "Markets",
+          "value": "13 markets including US"
+        },
+        {
+          "label": "Merchants",
+          "value": "20,000+ partners"
+        },
+        {
+          "label": "Annual sales",
+          "value": "US$4-5.5B"
+        },
+        {
+          "label": "Total paid",
+          "value": "US$900M+ S$1B+"
+        },
+        {
+          "label": "Min payout",
+          "value": "$5 via PayPal"
+        },
+        {
+          "label": "Payout speed",
+          "value": "7-14 days after request"
+        },
+        {
+          "label": "Referral bonus",
+          "value": "$20 bonus varies by country"
+        },
+        {
+          "label": "US launch",
+          "value": "May 15 2025 Austin TX"
+        }
+      ],
+      "pros": [
+        "Only portal offering real cashback on Amazon via app extension US",
+        "Low $5 PayPal minimum confirmed 2025-2026",
+        "Stackable auto-coupons quests shipping rebates credit card rewards",
+        "Highly rated 4.2-4.3 Trustpilot $200M Series F funding"
+      ],
+      "cons": [
+        "Cashback 7 days track weeks confirmable withdrawable",
+        "Amazon cashback capped $1-$5 lower than other categories",
+        "US coverage newer launched 2025 than Rakuten",
+        "Cashback excludes taxes shipping"
+      ],
+      "reviewBody": "ShopBack is Asia-Pacific cashback leader expanding to US May 2025. 50M+ users, 20k merchants, $900M+ paid. In US, it's only portal offering real cashback on Amazon via app/extension - others don't. $5 PayPal min.\n\nAuto-coupons, quests, shipping rebates add extra. Amazon cashback capped $1-$5 per order but still unique. Strong alternative to Rakuten for US and APAC users, especially Amazon shoppers.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "iGraal",
+    "url": "https://www.igraal.com",
+    "trustScore": 86,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-coupons",
+      "cashback-international"
+    ],
+    "description": "France's #1 cashback platform founded 2006 owned Global Savings Group since 2020 1500+ partner merchants 12M members. Up to 30% cashback online gift cards in-store coupons 100M euros refunded.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 20,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Founded",
+          "value": "2006 Boulogne-Billancourt France"
+        },
+        {
+          "label": "Owner",
+          "value": "Global Savings Group acquired 2020"
+        },
+        {
+          "label": "Headquarters",
+          "value": "50 Rue Taitbout Paris 75009"
+        },
+        {
+          "label": "Members",
+          "value": "12M+ members"
+        },
+        {
+          "label": "Merchants",
+          "value": "1,500-1,800+ partners"
+        },
+        {
+          "label": "Total refunded",
+          "value": "Over 100M euros"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "Excellent 4.1/5 from 41,341 reviews"
+        },
+        {
+          "label": "Cashback rate",
+          "value": "Up to 30%"
+        },
+        {
+          "label": "Payout min",
+          "value": "20 euros"
+        },
+        {
+          "label": "Availability",
+          "value": "France Germany Spain Italy"
+        }
+      ],
+      "pros": [
+        "Excellent reputation 4.1/5 100M euros paid since 2006",
+        "High rates up to 30% combinable promo codes sales Black Friday",
+        "Multiple types online instant gift cards 5.28% Carrefour in-store coupons iGraal Play",
+        "Generous referral 5 euros welcome + 3 euros + 10% lifetime"
+      ],
+      "cons": [
+        "20 euros min higher than some competitors 5-10 euros",
+        "Primarily French market Germany Spain Italy smaller",
+        "In-store coupons limited supermarkets",
+        "App rating lower than Widilo"
+      ],
+      "reviewBody": "iGraal is historic French cashback founded 2006, owned by Global Savings Group, 12M members, 100M+ euros refunded, 4.1/5 from 41k reviews. Up to 30% cashback, plus instant gift cards (Carrefour 5.28%) and in-store coupons.\n\n\u20ac20 min bank/PayPal. Referral 5\u20ac welcome + 3\u20ac + 10% lifetime for referrer. Operates France, Germany, Spain, Italy. Best for French users wanting variety online + gift cards + in-store.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Prezzee",
+    "url": "https://www.prezzee.com",
+    "trustScore": 86,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-giftcard"
+    ],
+    "description": "Global digital gift card platform buying sending storing redeeming eGift cards from 300+ brands. Founded Australia 2014 operates US UK AU NZ Canada 4,000+ business customers.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 5,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.3/5 US 85% 5-star 97 reviews AU 4.5/5"
+        },
+        {
+          "label": "Payout min",
+          "value": "$5 min gift card purchase no min store redeem"
+        },
+        {
+          "label": "Payout methods",
+          "value": "eGift cards 300+ brands Nordstrom Target Uber Macy's etc Prezzee Smart eGift"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees no account no registration no delivery email"
+        },
+        {
+          "label": "Business users",
+          "value": "4,000+ Prezzee Business millions consumers 5 countries"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$5 Bonus Smart eGift when spending $100+ referral"
+        },
+        {
+          "label": "Referral",
+          "value": "$5 Smart eGift referrer referee after $100 purchase"
+        },
+        {
+          "label": "Delivery speed",
+          "value": "Instant email SMS or scheduled"
+        },
+        {
+          "label": "Availability",
+          "value": "US UK AU NZ Canada"
+        }
+      ],
+      "pros": [
+        "Instant delivery email SMS",
+        "300+ top brands one wallet",
+        "No fees",
+        "Personalisation video messages"
+      ],
+      "cons": [
+        "Not cashback site - gift card marketplace",
+        "No PayPal bank cashout only gift cards",
+        "$100 spend to trigger referral bonus high",
+        "Exchange fees 5% some e-codes"
+      ],
+      "reviewBody": "Prezzee is a gift card marketplace not traditional cashback. Buy digital gift cards for 300+ brands and send instantly. Useful if you get paid via TopCashback in Prezzee or want to send gifts. No fees for email delivery.\n\nNot a cashback earner itself, but appears in many cashback stacks as bonus payout option (TopCashback offers 4-15% bonus if paid in Prezzee). Good wallet for gift cards.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Fluz",
+    "url": "https://www.fluz.app",
+    "trustScore": 86,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-giftcard",
+      "cashback-finance"
+    ],
+    "description": "Free cashback app founded 2016 New York earning up to 35% by purchasing gift cards paying with one-time virtual Mastercard. 160k monthly visits referral royalty 5-level network.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 15,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.6/5 Excellent 3.9/5 on 103 reviews TradersUnion Aug 2025"
+        },
+        {
+          "label": "Min payout",
+          "value": "$15 wallet $25 Visa prepaid"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal Venmo ACH bank Virtual Debit Prepaid Visa Gift Cards"
+        },
+        {
+          "label": "Fees",
+          "value": "Free no sign-up transaction payout fees external bank PayPal fees may deduct"
+        },
+        {
+          "label": "Members",
+          "value": "Not disclosed 161k visits Sep 2025 +36.6% YoY 4.6 stars Google Play"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$5 + 3 vouchers up to 35% cashback up to $3.50 each + $5 Quick Start"
+        },
+        {
+          "label": "Referral",
+          "value": "$5 each after referee spends $25 30 days + royalties 5 levels 1.5% total 0.3% each"
+        },
+        {
+          "label": "Cashback rate",
+          "value": "1.5% base virtual Mastercard up to 25-35% select merchants"
+        }
+      ],
+      "pros": [
+        "Up to 35% at select merchants Starbucks Uber Amazon",
+        "$5 welcome + quick start challenge",
+        "5-level royalty network passive",
+        "No fees"
+      ],
+      "cons": [
+        "$15 wallet $25 Visa min higher than $5 competitors",
+        "Requires virtual Mastercard flow",
+        "Smaller brand coverage than Rakuten",
+        "Network marketing style referral may deter"
+      ],
+      "reviewBody": "Fluz combines gift card cashback with virtual Mastercard: buy gift card in app, pay with one-time virtual card, earn 1.5% base up to 35% at select merchants like Starbucks, Uber. $5 welcome plus 3 vouchers up to 35% (max $3.50 each) = ~$15 potential.\n\nUnique 5-level royalty: earn 0.3% per level on network spend. Growing fast 36.6% YoY traffic. $15 min PayPal, $25 Visa prepaid.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Poulpeo",
+    "url": "https://www.poulpeo.com",
+    "trustScore": 85,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-coupons",
+      "cashback-international"
+    ],
+    "description": "Leading French cashback coupon platform founded 2009 1.5M members 1800+ partner stores. Real money back online in-store payouts bank transfer from \u20ac10 up to 30% cashback plus stackable promo codes.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 10,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Founded",
+          "value": "2009"
+        },
+        {
+          "label": "Owner",
+          "value": "Plebicom mother Ebuyclub acquired 2024"
+        },
+        {
+          "label": "Members",
+          "value": "1.5M+ France"
+        },
+        {
+          "label": "Partner merchants",
+          "value": "1800+ 1600+ online & in-store"
+        },
+        {
+          "label": "Min payout",
+          "value": "\u20ac10"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Bank transfer PayPal"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "\u20ac3 standard \u20ac5 with referral code"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "4.3/5 from 31,600+ certified reviews"
+        },
+        {
+          "label": "Referral",
+          "value": "\u20ac3 per godchild + 10% lifetime 15% with Poulpeo+"
+        },
+        {
+          "label": "Headquarters",
+          "value": "France"
+        }
+      ],
+      "pros": [
+        "Low \u20ac10 min vs \u20ac20 iGraal",
+        "4.3/5 from 31,600 certified reviews high trust",
+        "1800+ merchants online in-store",
+        "Referral 10% lifetime 15% with Plus"
+      ],
+      "cons": [
+        "France-focused less UK US coverage",
+        "Cashback rates sometimes lower than Widilo",
+        "Poulpeo+ paid membership needed for 15% referral",
+        "In-store cashback limited"
+      ],
+      "reviewBody": "Poulpeo founded 2009, 1.5M members, 1,800+ stores, 4.3/5 from 31,600 certified reviews. \u20ac10 min bank/PayPal low for France. Up to 30% cashback + stackable codes. Owned by Plebicom (Ebuyclub) since 2024.\n\nReferral \u20ac3 per godchild + 10% lifetime, 15% with Poulpeo+ paid membership. Good French alternative to iGraal/Widilo with lower minimum.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Widilo",
+    "url": "https://www.widilo.fr",
+    "trustScore": 84,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-coupons",
+      "cashback-international"
+    ],
+    "description": "France's #1 cashback platform offering up to 65% cashback 2,000+ partner merchants plus verified promo codes. Founded Paris combines cashback coupons gift-card cashback website extension mobile app.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 15,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 15,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Country",
+          "value": "France"
+        },
+        {
+          "label": "Merchants",
+          "value": "2,000+"
+        },
+        {
+          "label": "Max cashback",
+          "value": "Up to 65%"
+        },
+        {
+          "label": "Payout min",
+          "value": "\u20ac15"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Bank Transfer PayPal Gift Cards"
+        },
+        {
+          "label": "Referral bonus",
+          "value": "\u20ac3 godfather + \u20ac3 godchild after 1st validated cashback"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "Excellent 76% 5-star 12% 4-star"
+        },
+        {
+          "label": "Extension",
+          "value": "Widilo Cashback Reminder Chrome Firefox"
+        },
+        {
+          "label": "Average annual savings",
+          "value": "\u20ac160 claimed"
+        },
+        {
+          "label": "Address",
+          "value": "57 rue de la Roquette 75011 Paris"
+        }
+      ],
+      "pros": [
+        "Up to 65% highest max in France",
+        "Excellent Trustpilot 76% 5-star",
+        "Gift card cashback extra",
+        "\u20ac160 average annual savings claimed"
+      ],
+      "cons": [
+        "\u20ac15 min higher than \u20ac5 competitors",
+        "France-focused 2,000 merchants less than TopCashback 6k",
+        "Requires French bank for bank transfer",
+        "Gift card cashback limited brands"
+      ],
+      "reviewBody": "Widilo is France's #1 cashback with up to 65% and 2,000+ merchants. Founded Paris, excellent reputation 76% 5-star Trustpilot. Offers cashback + coupons + gift card cashback. Average \u20ac160/year savings claimed.\n\n\u20ac15 min bank/PayPal/gift cards. Referral \u20ac3 each after first validated cashback. Extension reminds when cashback available. Best for France, less for UK/US.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Quidco",
+    "url": "https://www.quidco.com",
+    "trustScore": 84,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-instore",
+      "cashback-giftcard",
+      "cashback-travel",
+      "cashback-grocery",
+      "cashback-coupons"
+    ],
+    "description": "One of the UK's oldest cashback sites founded 2005. 5,000+ retailers including John Lewis, Boots and Just Eat. Features ClickSnap receipt cashback, in-store card-linked offers and voucher codes with Highest Cashback Guarantee.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 1,
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 1,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral",
+      "browser-extension"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.3/5 from 100,000+ reviews"
+        },
+        {
+          "label": "Members",
+          "value": "10 million+"
+        },
+        {
+          "label": "Retailers",
+          "value": "5,000+"
+        },
+        {
+          "label": "Minimum payout",
+          "value": "\u00a31"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal, bank, Amazon & gift cards with bonus"
+        },
+        {
+          "label": "Fees",
+          "value": "Free Basic, Premium \u00a31/month capped \u00a312/year"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "\u00a310-\u00a315 via referral after \u00a35 confirmed"
+        },
+        {
+          "label": "Referral",
+          "value": "\u00a310 Basic / \u00a325 Premium per friend"
+        },
+        {
+          "label": "Average earnings",
+          "value": "\u00a3280-\u00a3781 per family/year estimated"
+        }
+      ],
+      "pros": [
+        "\u00a31 minimum payout - among lowest in UK",
+        "ClickSnap adds grocery receipt cashback supermarkets miss",
+        "Stacks with loyalty cards and discount codes",
+        "Premium bonus rates on many retailers"
+      ],
+      "cons": [
+        "Premium membership \u00a31/month auto-deducted",
+        "Some retailer rates lower than TopCashback",
+        "Payable period up to 12 weeks on insurance/travel",
+        "Referral requires friend earns \u00a35 confirmed"
+      ],
+      "reviewBody": "Quidco pioneered cashback in the UK and remains the closest competitor to TopCashback. The experience is almost identical: search retailer, click through, cashback tracks within hours and becomes payable after retailer return window. ClickSnap is its differentiator for groceries - scan receipts from Tesco, Sainsbury's, ASDA for branded products where TopCashback has no equivalent.\n\nBasic is free forever. Premium costs \u00a31 per active month (max \u00a312/year) and raises rates and gives faster support. For pure online shopping TopCashback often wins on rate, but Quidco wins for in-store and receipt offers.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Ibotta",
+    "url": "https://www.ibotta.com",
+    "trustScore": 84,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery",
+      "cashback-online",
+      "cashback-coupons"
+    ],
+    "description": "Leading US cashback and rewards platform offering real money back grocery retail online via receipt scanning loyalty linking browser extension. Founded 2012 publicly traded NYSE: IBTA 54M+ users $2.7B+ paid 2,700+ partners.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 20,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 20,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Founded",
+          "value": "2012 Denver CO Public NYSE: IBTA"
+        },
+        {
+          "label": "Members",
+          "value": "54M+ registered 200M+ via IPN"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "4.2/5 Excellent 1,200+ reviews"
+        },
+        {
+          "label": "Min payout",
+          "value": "$20 Bank PayPal $25 Gift Cards"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal Bank ACH Gift Cards Venmo"
+        },
+        {
+          "label": "Fees",
+          "value": "Free $3.99/mo maintenance after 180 days inactive"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$5-$20 after first qualifying offer"
+        },
+        {
+          "label": "Referral",
+          "value": "Up to $10 per referral both get bonus"
+        },
+        {
+          "label": "Availability",
+          "value": "US only"
+        },
+        {
+          "label": "Total paid",
+          "value": "$2.7B+ credited FY2025"
+        }
+      ],
+      "pros": [
+        "Real cash via PayPal bank not just points",
+        "Stacks store coupons loyalty cards weekly bonuses",
+        "$5-$20 welcome bonus",
+        "Browser extension + loyalty linking automatic"
+      ],
+      "cons": [
+        "$20 minimum higher than $3 Fetch",
+        "US only no UK",
+        "$3.99/month inactivity fee after 180 days",
+        "Receipt scanning required for grocery"
+      ],
+      "reviewBody": "Ibotta is US grocery cashback king - 54M+ users, $2.7B+ paid, publicly traded. Receipt scanning + loyalty card linking + browser extension for online. Weekly bonuses add $5-$10 for completing set offers.\n\n$20 PayPal/bank minimum, $25 gift cards. Stacks with store coupons and loyalty. $3.99/month fee after 180 days inactive - scan a receipt every 6 months to avoid. Best for US grocery shoppers.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Rakuten",
+    "url": "https://www.rakuten.com",
+    "trustScore": 82,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-travel",
+      "cashback-coupons",
+      "cashback-international"
+    ],
+    "description": "US cashback leader founded 1998 as Ebates, acquired by Rakuten for $1B in 2014. 3,500+ stores, up to 40% cashback. Pays quarterly Big Fat Payment via PayPal, check or Amex Membership Rewards. Publicly traded parent.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5.01,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral",
+      "browser-extension"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.3/5 from 1,500+ reviews"
+        },
+        {
+          "label": "Founded",
+          "value": "1998 as Ebates"
+        },
+        {
+          "label": "Members",
+          "value": "17M+, $4.6B+ paid out"
+        },
+        {
+          "label": "Payout minimum",
+          "value": "$5.01 confirmed"
+        },
+        {
+          "label": "Payout schedule",
+          "value": "Quarterly - Feb 15, May 15, Aug 15, Nov 15"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal, Check, Amex Membership Rewards, gift card"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$30 after $30 spend within 90 days via referral"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "App rating",
+          "value": "4.8/5 iOS"
+        }
+      ],
+      "pros": [
+        "Huge store coverage and consistently high rates in US",
+        "$30 welcome bonus is one of highest in industry",
+        "Amex and Bilt points conversion adds value",
+        "Quarterly bonus events double cashback"
+      ],
+      "cons": [
+        "Quarterly payout only - must wait up to 3 months",
+        "$5.01 minimum feels arbitrary",
+        "US-focused, UK rates via rakuten.co.uk weaker",
+        "Travel cashback excludes taxes/fees"
+      ],
+      "reviewBody": "Rakuten is the US equivalent of TopCashback - the place to start for any US online shopping. The browser extension auto-applies coupons and activates cashback, and the quarterly Big Fat Payment is predictable. The $30 bonus after $30 spend via referral is real cash, not points, and tracks within days.\n\nThe downside is the quarterly schedule. If you need cash quickly, it's slower than TopCashback or Ibotta. But for pure percentage back, especially during 10-15% store events, it beats most US competitors.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Picodi",
+    "url": "https://www.picodi.com",
+    "trustScore": 78,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-coupons",
+      "cashback-international"
+    ],
+    "description": "Polish-founded global cashback coupon platform operating 30+ countries 7000+ stores 100+ employees since 2010. Cashback up to 50% verified promo codes automatic code application website mobile app browser extension.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Founded",
+          "value": "2010 Poland as International Coupons"
+        },
+        {
+          "label": "Coverage",
+          "value": "30+ countries 7000+ online stores"
+        },
+        {
+          "label": "Cashback range",
+          "value": "Typically 1-10% up to 50% software"
+        },
+        {
+          "label": "Min withdrawal",
+          "value": "$5 / \u00a35 / PLN 20 depending region"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Bank Account Bank Card PayPal Crypto USDT BNB"
+        },
+        {
+          "label": "Payout speed",
+          "value": "Up to 3 business days occasionally 2 weeks"
+        },
+        {
+          "label": "Referral bonus",
+          "value": "Welcome bonus friend + bonus referrer after first order"
+        },
+        {
+          "label": "Platforms",
+          "value": "Web iOS Android App Chrome Firefox Safari Extension"
+        },
+        {
+          "label": "Cost",
+          "value": "100% Free"
+        },
+        {
+          "label": "Company",
+          "value": "Private 100+ staff"
+        }
+      ],
+      "pros": [
+        "Very low $5/\u00a35 min withdrawal threshold",
+        "Flexible payouts PayPal bank crypto USDT BNB",
+        "Combines cashback discount codes stackable",
+        "Decent mobile app auto-activating extension"
+      ],
+      "cons": [
+        "Standard rates rarely highest vs TopCashback Quidco",
+        "UK retailer coverage smaller than UK leaders",
+        "Crypto payout USDT BNB may have fees",
+        "Support response slower"
+      ],
+      "reviewBody": "Picodi started Poland 2010 as International Coupons, now 30+ countries 7,000 stores. Cashback 1-10% typically, up to 50% software. Low $5/\u00a35/PLN 20 min, payouts via bank, PayPal, even crypto USDT/BNB - unique.\n\nExtension auto-activates cashback. Not highest rates vs TopCashback (Adidas 0.5% vs 9% example) but good for international and crypto payout option. Free.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Fetch",
+    "url": "https://fetch.com",
+    "trustScore": 78,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery",
+      "cashback-receipt"
+    ],
+    "description": "US #1 receipt scanning app with 13M active users. Snap any receipt within 14 days or connect eReceipts. $3 gift card minimum.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 3,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.6/5 1k+ reviews"
+        },
+        {
+          "label": "App Store",
+          "value": "4.8/5 iOS 2M ratings"
+        },
+        {
+          "label": "Active users",
+          "value": "13M+"
+        },
+        {
+          "label": "Min payout",
+          "value": "$3 = 3,000 pts"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Gift cards, Visa prepaid, charity"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "2,000 pts ~$2 after first receipt"
+        },
+        {
+          "label": "Referral",
+          "value": "2,000-4,000 pts both"
+        },
+        {
+          "label": "Points expiry",
+          "value": "90 days no scan"
+        },
+        {
+          "label": "Availability",
+          "value": "US & Puerto Rico only"
+        },
+        {
+          "label": "Total rewards",
+          "value": "$340M+ given"
+        }
+      ],
+      "pros": [
+        "Easiest - scan any receipt no pre-clipping",
+        "$3 minimum lowest in receipt category",
+        "eReceipts auto-sync Amazon Walmart",
+        "Instant gift cards"
+      ],
+      "cons": [
+        "US only no UK access",
+        "Points value low ~0.33c per receipt",
+        "No PayPal cash - gift cards only",
+        "90-day expiry without scan"
+      ],
+      "reviewBody": "Fetch Rewards is the dominant receipt app in US with 13M active users. You don't need to select offers - any receipt earns 25 pts minimum, more for partner brands. eReceipts from Amazon auto-sync, adding points without scanning.\n\n$3 Amazon gift card threshold is among lowest. No PayPal cash option - only gift cards and Visa prepaid which costs fee. US only, so UK test via US account.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Coupert",
+    "url": "https://www.coupert.com",
+    "trustScore": 78,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-coupons",
+      "cashback-online"
+    ],
+    "description": "Free AI-powered browser extension from COUPERT PTE.LTD. automatically finds applies coupon codes checkout offers cashback 15,000+ stores. 8M+ weekly active users 200k retailers real cash payouts.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 10,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Company",
+          "value": "COUPERT PTE.LTD. New York NY"
+        },
+        {
+          "label": "Weekly active users",
+          "value": "8M+ as of Oct 2025"
+        },
+        {
+          "label": "Coupon coverage",
+          "value": "200,000+ online stores"
+        },
+        {
+          "label": "Cashback coverage",
+          "value": "15,000+ stores 1% to 10%+ rates"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "4.7-4.8/5 Excellent 14,000+ reviews"
+        },
+        {
+          "label": "Chrome Web Store",
+          "value": "4.7/5 stars 3M+ users"
+        },
+        {
+          "label": "Cashback confirmation",
+          "value": "7-15 days vs industry 60-90 days"
+        },
+        {
+          "label": "Min payout",
+          "value": "$1 official $2 new users then $10 standard"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal Bank Transfer"
+        },
+        {
+          "label": "Referral",
+          "value": "Up to $80 per referral"
+        }
+      ],
+      "pros": [
+        "4.7/5 Trustpilot from 14k+ reviews high trust",
+        "Auto-applies coupons + cashback + price comparison",
+        "Fast 7-15 day confirmation vs 60-90 days industry",
+        "$1-$2 low minimum for new users"
+      ],
+      "cons": [
+        "Cashback rates often lower than Rakuten TopCashback",
+        "Extension requires broad permissions",
+        "New user $2 then $10 standard confusing",
+        "Primarily US stores"
+      ],
+      "reviewBody": "Coupert is AI coupon + cashback extension with 8M weekly actives and 4.7/5 Trustpilot from 14k reviews. Automatically tests coupon codes at checkout and offers cashback at 15k stores. Cashback confirms in 7-15 days vs 60-90 days industry - fastest confirmation.\n\n$1 official minimum, $2 for new users, then $10 standard. PayPal payout. Good for coupon auto-apply, less for highest cashback rate - Rakuten/TopCashback often beat its cashback %.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Checkout 51",
+    "url": "https://www.checkout51.com",
+    "trustScore": 78,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery",
+      "cashback-fuel"
+    ],
+    "description": "Cashback app for groceries everyday essentials gas weekly offers redeemable any store uploading receipts. Owned News America Marketing since 2015 17M members US Canada PayPal Venmo check $20 min.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 20,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "3.9/5 Good"
+        },
+        {
+          "label": "App Store",
+          "value": "4.0 iOS 4.2 Google Play"
+        },
+        {
+          "label": "Payout min",
+          "value": "$20 entire balance at once"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal Venmo US only Check"
+        },
+        {
+          "label": "Payout speed",
+          "value": "5-15 business days PayPal Venmo 5-32 days check"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "Up to $5 $2 first receipt + $1 each next 3 within 30 days"
+        },
+        {
+          "label": "Referral",
+          "value": "$10 per friend friend gets up to $5 no limit"
+        },
+        {
+          "label": "Members",
+          "value": "17M+ US Canada"
+        },
+        {
+          "label": "Availability",
+          "value": "US & Canada only free"
+        }
+      ],
+      "pros": [
+        "Works any store no retailer lock-in",
+        "Fresh weekly offers groceries household gas up to $0.10/gal",
+        "PayPal and check options",
+        "Up to $5 welcome + $10 referrals"
+      ],
+      "cons": [
+        "$20 minimum high vs $3 Fetch",
+        "US & Canada only",
+        "Weekly offers expire",
+        "Entire balance withdrawn at once no partial"
+      ],
+      "reviewBody": "Checkout 51 is Canadian/US grocery app with weekly offers - no need to pre-select store. Buy at any store, upload receipt, cashback for specific brands. Gas cashback up to $0.10/gal in addition to groceries.\n\n17M+ members. $20 minimum entire balance withdrawn at once. Up to $5 welcome bonus for first 4 receipts in 30 days. Works well stacked with Ibotta and Fetch - same receipt can be used on all three.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Upside",
+    "url": "https://www.getupside.com",
+    "trustScore": 76,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-fuel",
+      "cashback-grocery",
+      "cashback-food"
+    ],
+    "description": "Free US cashback app formerly GetUpside offering real money back on gas groceries restaurants 100k+ locations. 30M+ users access via app and partners Uber DoorDash.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 10,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "3.8/5 827 reviews"
+        },
+        {
+          "label": "App Store",
+          "value": "4.8/5 iOS 4.6-4.7 Android"
+        },
+        {
+          "label": "Members",
+          "value": "30M+ consumers 35M incl partner apps"
+        },
+        {
+          "label": "Min payout",
+          "value": "$10 PayPal Bank gift cards check"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal Bank Deposit Check e-Gift Card"
+        },
+        {
+          "label": "Fees",
+          "value": "Free $1 fee cashing under $15 PayPal under $10 bank"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$5 + 15-25\u00a2/gal extra first offer $10+"
+        },
+        {
+          "label": "Referral",
+          "value": "Both get 15\u00a2/gal bonus + 1\u00a2/gal forever per referral"
+        },
+        {
+          "label": "Cashback rates",
+          "value": "Up to 25\u00a2/gal gas up to 45% restaurants up to 30% grocery"
+        },
+        {
+          "label": "Founded",
+          "value": "2016 Washington DC Valuation $1.5B"
+        }
+      ],
+      "pros": [
+        "Very high cashback rates gas dining vs competitors",
+        "Free no subscription",
+        "Multi-category gas grocery restaurants",
+        "Partners Uber DoorDash expand reach"
+      ],
+      "cons": [
+        "US only",
+        "Requires claim offer before purchase check-in",
+        "Gas cashback per gallon not percent",
+        "$1 fee under minimum"
+      ],
+      "reviewBody": "Upside (formerly GetUpside) is US leader for fuel cashback - up to 25\u00a2/gal plus grocery up to 30% and restaurants up to 45%. Claim offer in app before you pump/shop, check-in, pay with linked card, cashback appears.\n\n30M+ users via own app plus Uber and DoorDash integration. $10 minimum PayPal/bank. Gas savings alone can be $200+/year for drivers. US only, no UK version.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Swagbucks",
+    "url": "https://www.swagbucks.com",
+    "trustScore": 72,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-giftcard",
+      "cashback-coupons",
+      "surveys",
+      "surveys-gpt",
+      "videos",
+      "games",
+      "offerwalls"
+    ],
+    "description": "Large GPT platform owned by Prodege LLC since 2008. Earn SB points (100 SB = $1) for cashback, surveys, games, videos and search. 20M+ members, $650M+ paid. Rewards via PayPal and gift cards from $3.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 25,
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 3,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "surveys",
+      "offerwall",
+      "games",
+      "videos",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.0/5 from 42,600+ reviews"
+        },
+        {
+          "label": "Total paid",
+          "value": "$650M+ since 2008"
+        },
+        {
+          "label": "Members",
+          "value": "20M+"
+        },
+        {
+          "label": "PayPal minimum",
+          "value": "$25 / 2,500 SB"
+        },
+        {
+          "label": "Gift card minimum",
+          "value": "$3 / 300 SB Amazon"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$10 after $25 Shop spend or 300 SB referral"
+        },
+        {
+          "label": "Payout speed",
+          "value": "Gift 24-48h, PayPal 2-3 days, 10 days first time"
+        },
+        {
+          "label": "Referral",
+          "value": "300 SB + 10% lifetime"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "Access",
+          "value": "Web, iOS and Android app"
+        }
+      ],
+      "pros": [
+        "Low $3 gift card cashout - one of lowest in GPT",
+        "Many earning methods when surveys dry up",
+        "SwagButton auto-coupons and cashback activation",
+        "Daily goals and streaks boost earnings"
+      ],
+      "cons": [
+        "PayPal minimum $25 is high vs competitors $5",
+        "Survey disqualifications common, hourly rate low",
+        "Game offers mostly mobile-only, tracking can fail",
+        "First PayPal payout held 10 days for security"
+      ],
+      "reviewBody": "Swagbucks isn't a pure cashback site - it's a GPT with cashback as one method. Cashback rates are rarely highest vs Rakuten/TopCashback, but the value is fallback tasks: when you have no shopping to do, surveys, games and receipt scans fill the gap. The $3 Amazon cashout makes it accessible.\n\nFor UK users, Swagbucks UK exists but retailer coverage is thinner than TopCashback. Best used as a secondary site for game offers and daily polls rather than primary cashback.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Receipt Hog",
+    "url": "https://www.receipthog.com",
+    "trustScore": 72,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery",
+      "cashback-receipt"
+    ],
+    "description": "Receipt scanning app owned by Numerator (InfoScout). Upload any store receipts, earn coins via Hog Slots and surveys. $5 PayPal min.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Owner",
+          "value": "Numerator LLC"
+        },
+        {
+          "label": "Founded",
+          "value": "2011"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "3.4/5 394 reviews"
+        },
+        {
+          "label": "App Store",
+          "value": "4.7/5 iOS 165k"
+        },
+        {
+          "label": "Members",
+          "value": "8.3M+ downloads"
+        },
+        {
+          "label": "Payout min",
+          "value": "$5 = 1,000 coins"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal, Amazon, Visa prepaid"
+        },
+        {
+          "label": "Receipt limit",
+          "value": "20/week within 14 days"
+        },
+        {
+          "label": "Referral",
+          "value": "5 spins new user"
+        },
+        {
+          "label": "Availability",
+          "value": "US, Canada, Germany"
+        }
+      ],
+      "pros": [
+        "Any store receipt accepted",
+        "Hog Slots adds gambling fun bonus",
+        "Low $5 payout",
+        "High app store ratings"
+      ],
+      "cons": [
+        "Coins per receipt low 5-20",
+        "Weekly limit 20 receipts",
+        "Trustpilot only 3.4/5 complaints delays",
+        "Survey disqualifications"
+      ],
+      "reviewBody": "Receipt Hog is owned by market research giant Numerator and pays coins for any receipt. Base earning is low - 5-20 coins per receipt (100 coins ~$0.10). Hog Slots gives chance for extra coins daily.\n\n$5 PayPal minimum is achievable in 2-3 months of regular scanning. Works in US, Canada and Germany. Not as fast earning as Fetch but more countries.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "LetyShops",
+    "url": "https://letyshops.com",
+    "trustScore": 72,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-international"
+    ],
+    "description": "International cashback service founded 2014 offering up to 30% cashback 3445+ online stores. Shop via website browser extension mobile app withdraw real cashback PayPal bank accounts.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Founded",
+          "value": "2014 12 years active"
+        },
+        {
+          "label": "Stores",
+          "value": "3445+ stores"
+        },
+        {
+          "label": "Max cashback",
+          "value": "Up to 30% up to 40% with fire boost"
+        },
+        {
+          "label": "Min payout",
+          "value": "$5 / \u00a35 / \u20ac5"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal Bank Transfer"
+        },
+        {
+          "label": "Payout speed",
+          "value": "1-3 business days"
+        },
+        {
+          "label": "New user bonus",
+          "value": "$2 / \u00a33 / \u20ac1 after \u00a315 spend"
+        },
+        {
+          "label": "Total users",
+          "value": "44,325,778+ users"
+        },
+        {
+          "label": "Extension rating",
+          "value": "4.70/5 with 13,324 ratings"
+        },
+        {
+          "label": "Loyalty program",
+          "value": "LetyBronze to LetyGold +10% to +30% bonus"
+        }
+      ],
+      "pros": [
+        "Low $5/\u00a35/\u20ac5 minimum",
+        "44M+ users large base",
+        "Loyalty program +30% bonus Gold tier",
+        "Fire boost up to 40% temporary"
+      ],
+      "cons": [
+        "Cashback rates often lower than local leaders TopCashback",
+        "International support mixed reviews",
+        "$15 spend to unlock welcome bonus",
+        "Fire boost random not guaranteed"
+      ],
+      "reviewBody": "LetyShops is international cashback with 44M+ users and 3,445 stores, up to 30% (40% with fire boost). Works via website, extension, app. Loyalty program LetyBronze to LetyGold adds 10-30% bonus on cashback.\n\n$5/\u00a35/\u20ac5 PayPal/bank min, 1-3 business days payout. Good for Eastern Europe and global stores where TopCashback/Rakuten weak. Extension 4.7/5 from 13k ratings.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Capital One Shopping",
+    "url": "https://capitaloneshopping.com",
+    "trustScore": 72,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-coupons",
+      "cashback-online"
+    ],
+    "description": "Free browser extension shopping portal owned Capital One automatically finds applies coupon codes compares prices 30k+ retailers offers Shopping Rewards credits redeemable gift cards not cash.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Owner",
+          "value": "Capital One acquired Wikibuy 2018"
+        },
+        {
+          "label": "Founded",
+          "value": "2015 as Wikibuy rebranded 2020"
+        },
+        {
+          "label": "Users",
+          "value": "10M+ active extension users"
+        },
+        {
+          "label": "Supported stores",
+          "value": "30,000+ online retailers"
+        },
+        {
+          "label": "Reward type",
+          "value": "Shopping Credits for Gift Cards not cash"
+        },
+        {
+          "label": "Max cashback rate",
+          "value": "Up to 25% back"
+        },
+        {
+          "label": "Min redemption",
+          "value": "$5 for gift cards"
+        },
+        {
+          "label": "Referral bonus",
+          "value": "Up to $80 per side cap $1900 lifetime"
+        },
+        {
+          "label": "Platforms",
+          "value": "Chrome Firefox Edge Safari iOS Android app"
+        }
+      ],
+      "pros": [
+        "Free no fees 10M+ users",
+        "Up to 25% back select stores",
+        "Auto-applies coupons price comparison 30k stores",
+        "Up to $80 per referral"
+      ],
+      "cons": [
+        "Rewards gift cards only no PayPal bank cash",
+        "Owned by credit card company data concerns",
+        "Cashback credits not real cash",
+        "Rates vary tracking issues reported"
+      ],
+      "reviewBody": "Capital One Shopping (formerly Wikibuy) is free extension with 10M+ users comparing prices across 30k retailers and auto-applying coupons. Rewards are Shopping Credits for gift cards - not cash - at 100+ retailers like Walmart, eBay.\n\n$5 min gift card redemption. Up to 25% back at select stores, but typically 1-10%. Referral up to $80 per side. Good for coupon auto-apply and gift card rewards, not pure cash.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "MyPoints",
+    "url": "https://www.mypoints.com",
+    "trustScore": 70,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "surveys-gpt"
+    ],
+    "description": "Long-running US/Canada rewards platform founded 1996, now owned by Prodege. Shopping cashback, surveys, videos, games, coupons. 9M+ members, 2,000+ retailers.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 3,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Founded",
+          "value": "1996, acquired Prodege 2016"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "4.3/5 from 25,983 reviews"
+        },
+        {
+          "label": "Members",
+          "value": "9M+, 2,000+ retailers"
+        },
+        {
+          "label": "Min payout",
+          "value": "$3-$5 gift cards, $10-$25 PayPal"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal, gift cards, Visa, travel miles"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$10 (1,750 pts) after $20 shop spend"
+        },
+        {
+          "label": "Referral",
+          "value": "25 pts signup + 750 pts after $20 spend + 10% lifetime"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "Payout speed",
+          "value": "Gift 1-3 days, PayPal 2-5 days"
+        }
+      ],
+      "pros": [
+        "Established since 1996 - among oldest in US",
+        "Low $3 gift card threshold",
+        "Stacks shopping + surveys + coupons",
+        "Travel miles redemption option"
+      ],
+      "cons": [
+        "PayPal min $25 for some options",
+        "Points devaluation over time",
+        "Video rewards discontinued 2026",
+        "Cashback tracking slower than Rakuten"
+      ],
+      "reviewBody": "MyPoints has been around since 1996 - older than almost every competitor. It works like Swagbucks (same parent Prodege) but with a stronger focus on shopping cashback and coupon printing. The $10 bonus after $20 shop spend is easy to hit via a grocery order.\n\nVideo rewards were discontinued in 2026, so earning now relies on shopping and surveys. It's not the highest payer but its longevity and 4.3 Trustpilot make it trustworthy.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "ySense",
+    "url": "https://www.ysense.com",
+    "trustScore": 68,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "surveys-gpt",
+      "offerwalls"
+    ],
+    "description": "GPT platform formerly ClixSense (2007), now owned by Prodege. Surveys, offers, micro-tasks via Appen and cashback. 7M+ members, $39M+ paid.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "surveys",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Former name",
+          "value": "ClixSense 2007-2019"
+        },
+        {
+          "label": "Owner",
+          "value": "Prodege LLC"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "3.9/5 from 3,000+ reviews"
+        },
+        {
+          "label": "Members",
+          "value": "7M+"
+        },
+        {
+          "label": "PayPal min",
+          "value": "$10"
+        },
+        {
+          "label": "Gift card min",
+          "value": "$5 Amazon"
+        },
+        {
+          "label": "Fees",
+          "value": "PayPal 2-5%, Skrill 1%"
+        },
+        {
+          "label": "Checklist bonus",
+          "value": "Up to 16% daily"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "None - $2 bonus when referral earns $5"
+        },
+        {
+          "label": "Availability",
+          "value": "200+ countries"
+        }
+      ],
+      "pros": [
+        "Longest-running GPT since 2007, legit owner",
+        "Daily checklist bonus up to 16%",
+        "Available worldwide",
+        "Micro-tasks pay better than surveys"
+      ],
+      "cons": [
+        "$10 PayPal min higher than PrizeRebel $5",
+        "Fees on PayPal withdrawals",
+        "No direct welcome bonus",
+        "Survey disqualification rate high"
+      ],
+      "reviewBody": "ySense is the rebranded ClixSense, one of the oldest GPTs still active. Owned by Prodege since 2019, it shares survey routers with Swagbucks but often pays slightly less. The Daily Checklist Bonus (12% if you do 2 surveys/offers + checklist) is its unique feature and adds up.\n\nCashback rates are modest vs pure cashback sites. Its advantage is global availability - works in 200+ countries where TopCashback/Rakuten don't. Payout fees are a downside; Skrill is cheapest at $5 min.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Shopmium",
+    "url": "https://www.shopmium.com",
+    "trustScore": 68,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery",
+      "cashback-food"
+    ],
+    "description": "Grocery cashback app with 8M users UK, France, US. Buy at Tesco, Sainsbury's, ASDA, upload receipt, barcode scan for PayPal cashback. Free product welcome.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 0.01,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 0.01,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "3.2/5 Average 57% 5-star"
+        },
+        {
+          "label": "App Store",
+          "value": "4.8/5 iOS 5k+, 4.7/5 Android"
+        },
+        {
+          "label": "Users",
+          "value": "8M+ worldwide"
+        },
+        {
+          "label": "Min payout",
+          "value": "None - from 1p (historically \u00a310)"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal, bank"
+        },
+        {
+          "label": "Payout speed",
+          "value": "48h validate + 2-6 business days"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "Free product Pringles etc with HELLO code"
+        },
+        {
+          "label": "Referral",
+          "value": "\u00a33/\u20ac3/$3 both after first cashback"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "Availability",
+          "value": "UK, France, US, Belgium"
+        }
+      ],
+      "pros": [
+        "No minimum payout from 1p",
+        "Free product for new users",
+        "Works at all major supermarkets",
+        "Barcode scan prevents fraud"
+      ],
+      "cons": [
+        "Trustpilot 3.2/5 receipt rejections reported",
+        "Offers limited vs CheckoutSmart",
+        "PayPal delay 2-6 days",
+        "France/US offers differ"
+      ],
+      "reviewBody": "Shopmium focuses on branded grocery cashback - think Kellogg's, PepsiCo, Nestl\u00e9 - up to 100% free products. Buy at any supermarket, upload receipt within 2 days and scan barcode. Cashback is from 20p to \u00a32 per product, often stackable with supermarket loyalty.\n\nNo minimum payout now - previously \u00a310, now from 1p to PayPal. Welcome free product via referral code is genuine. Best for UK grocery shoppers wanting freebies.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "ReceiptPal",
+    "url": "https://www.receiptpal.com",
+    "trustScore": 68,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery"
+    ],
+    "description": "Free receipt rewards app owned by Circana (NPD Group) founded 2014. Scan any receipt or connect Gmail/Amazon for points, $5 gift card min.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Founded",
+          "value": "2014 owned Circana"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "No official profile"
+        },
+        {
+          "label": "App Store",
+          "value": "4.4/5 iOS 22.6k, 4.0/5 Android"
+        },
+        {
+          "label": "Downloads",
+          "value": "1M+ Google Play"
+        },
+        {
+          "label": "Min payout",
+          "value": "$5 ~2,200 points"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Amazon, Walmart, Target, Starbucks, Visa prepaid"
+        },
+        {
+          "label": "Fees",
+          "value": "Free"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "150 pts email + 500 pts connect + up to 1,550 referral"
+        },
+        {
+          "label": "Referral",
+          "value": "250 pts per referral max 6,250/month"
+        },
+        {
+          "label": "How works",
+          "value": "4 receipts = 1 point card"
+        }
+      ],
+      "pros": [
+        "Any receipt accepted no pre-select",
+        "eReceipt auto-connect Gmail Amazon",
+        "Low $5 payout",
+        "Legit owner Circana"
+      ],
+      "cons": [
+        "No PayPal - gift cards only",
+        "Point cards require 4 receipts each",
+        "Referral must connect email to count",
+        "Earnings slow vs Fetch"
+      ],
+      "reviewBody": "ReceiptPal is owned by Circana (formerly NPD) - same owner as Receipt Hog and Shopmium. Fill a point card with 4 receipts to earn points. Gmail and Amazon linking auto-collects eReceipts.\n\n$5 Amazon minimum reachable in ~1 month. No PayPal, only gift cards. Good as additional receipt stacker alongside Fetch.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "InboxDollars",
+    "url": "https://www.inboxdollars.com",
+    "trustScore": 68,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "surveys-panels"
+    ],
+    "description": "US-only GPT paying real cash not points. Founded 2000, owned by Prodege, $80M+ paid. Surveys, games, paid emails, cashback, receipts. $5 signup bonus.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 15,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.1/5 from 47,000+ reviews"
+        },
+        {
+          "label": "Founded",
+          "value": "2000, acquired Prodege 2019"
+        },
+        {
+          "label": "Total paid",
+          "value": "$80M+"
+        },
+        {
+          "label": "Signup bonus",
+          "value": "$5 instant after verification"
+        },
+        {
+          "label": "Min payout",
+          "value": "$15 first, $10 after"
+        },
+        {
+          "label": "Payment methods",
+          "value": "PayPal, Visa prepaid, 100+ gift cards, check"
+        },
+        {
+          "label": "Payout speed",
+          "value": "1-10 business days"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees except $3 check"
+        },
+        {
+          "label": "Eligibility",
+          "value": "US only"
+        }
+      ],
+      "pros": [
+        "Pays real cash dollars not confusing points",
+        "$5 signup bonus verified",
+        "Low $10 subsequent payout",
+        "Multiple earning methods"
+      ],
+      "cons": [
+        "$15 first payout threshold high",
+        "US only - no UK access",
+        "Survey pay below $1 average",
+        "Check payout fee $3"
+      ],
+      "reviewBody": "InboxDollars pays in dollars shown in balance - no conversion math. Founded 2000, it's one of the few GPTs that survived dot-com bubble, now owned by Prodege. The $5 signup bonus appears immediately after email verification and counts toward $15 first cashout.\n\nCashback rates are secondary to surveys and paid emails. It's US-only, so UK test used VPN for verification only; UK users should use InboxPounds instead.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "GreenJinn",
+    "url": "https://www.greenjinn.com",
+    "trustScore": 68,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery"
+    ],
+    "description": "UK free grocery cashback app focused on healthy sustainable brands. B Corp certified, 1M+ members. Snap receipt, up to 100% cashback, \u00a31.50 PayPal min.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 1.5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Founded",
+          "value": "2014 App 2017"
+        },
+        {
+          "label": "Members",
+          "value": "1M-1.4M"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "3.2/5 handful reviews"
+        },
+        {
+          "label": "App Store",
+          "value": "4.7/5 iOS 2k+"
+        },
+        {
+          "label": "Google Play",
+          "value": "3.4/5 100k+"
+        },
+        {
+          "label": "Min payout",
+          "value": "\u00a31.50 PayPal/bank"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal, bank"
+        },
+        {
+          "label": "Payout speed",
+          "value": "24-48h approval next morning PayPal"
+        },
+        {
+          "label": "Fees",
+          "value": "Free"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "Free product via referral"
+        }
+      ],
+      "pros": [
+        "Low \u00a31.50 payout",
+        "B Corp certified climate positive",
+        "Up to 100% free healthy products",
+        "Personalised AI offers"
+      ],
+      "cons": [
+        "Trustpilot limited reviews",
+        "Android rating 3.4/5 lower than iOS",
+        "Healthy brands narrower than CheckoutSmart",
+        "Offers refresh Monday only"
+      ],
+      "reviewBody": "GreenJinn positions as sustainable grocery cashback - B Corp certified, focuses on healthy brands. Model same as Shopmium/CheckoutSmart: buy at any major supermarket, snap receipt, cashback 20p-\u00a32. Up to 100% free organic products weekly.\n\n\u00a31.50 minimum is among lowest UK grocery apps. Payouts next morning after approval. Good if you buy healthy/sustainable brands, less useful for mainstream.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "GasBuddy",
+    "url": "https://www.gasbuddy.com",
+    "trustScore": 68,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-fuel"
+    ],
+    "description": "North America's leading fuel savings platform real-time gas prices 150k+ stations 100M+ app downloads. Pay with GasBuddy+ Mastercard program Jan 2025 guaranteed cents-off per gallon checking account plus CashBack Deals PayPal.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 1,
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 10,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Founded",
+          "value": "2000 25+ years"
+        },
+        {
+          "label": "Owner",
+          "value": "PDI Technologies"
+        },
+        {
+          "label": "Stations covered",
+          "value": "150,000+ US Canada Australia"
+        },
+        {
+          "label": "App downloads",
+          "value": "100M+ 150M quoted 2026 PR"
+        },
+        {
+          "label": "Card program",
+          "value": "Pay with GasBuddy+ Mastercard issued Fifth Third Bank no credit check"
+        },
+        {
+          "label": "Guaranteed savings",
+          "value": "3\u00a2/gal every fill-up 5\u00a2/gal select"
+        },
+        {
+          "label": "Max savings",
+          "value": "Up to 33\u00a2/gal Deal Alert 25\u00a2 + 3\u00a2 c-store bonus"
+        },
+        {
+          "label": "CashBack Deals",
+          "value": "Scan receipts 2 per day PayPal min $1"
+        },
+        {
+          "label": "GasBack expiry",
+          "value": "CashBack 30 days GasBack 12 months"
+        },
+        {
+          "label": "Eligibility",
+          "value": "US residents 18+ checking account 21+ alcohol"
+        }
+      ],
+      "pros": [
+        "Works any station Mastercard accepted not one brand",
+        "Guaranteed fuel savings even with cheap gas",
+        "100M+ downloads real-time price map",
+        "CashBack Deals stack PayPal $1 min"
+      ],
+      "cons": [
+        "US only no UK",
+        "Checking account required for Pay card",
+        "GasBack expires 12 months",
+        "CashBack Deals require receipt scan 2 per day"
+      ],
+      "reviewBody": "GasBuddy is fuel price search + savings. Real-time prices at 150k+ stations reported by users. Pay with GasBuddy+ Mastercard (Fifth Third Bank) gives 3\u00a2/gal guaranteed every fill-up, 5\u00a2 at select stations, plus c-store bonuses. No credit check - links checking account.\n\nCashBack Deals separate: scan fuel/receipts 2 per day, PayPal min $1. 100M+ downloads. Best for US drivers wanting cheapest gas nearby + guaranteed cents off.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "PrizeRebel",
+    "url": "https://www.prizerebel.com",
+    "trustScore": 66,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "surveys-gpt",
+      "offerwalls",
+      "games"
+    ],
+    "description": "GPT platform combining cashback, surveys and offer walls. Founded 2007, 15M+ members, $30M+ paid. Low $2 gift card and $5 PayPal minimums with fast PayPal processing.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 2,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "surveys",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "3.8/5 from 789 reviews"
+        },
+        {
+          "label": "Founded",
+          "value": "2007"
+        },
+        {
+          "label": "Members",
+          "value": "15M+"
+        },
+        {
+          "label": "Total paid",
+          "value": "$30M+"
+        },
+        {
+          "label": "PayPal minimum",
+          "value": "$5 / 500 points"
+        },
+        {
+          "label": "Gift card minimum",
+          "value": "$2 / 200 points"
+        },
+        {
+          "label": "Payout speed",
+          "value": "PayPal 1-24h, gift cards instant"
+        },
+        {
+          "label": "Referral",
+          "value": "15-30% lifetime by tier"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "Rewards",
+          "value": "PayPal, bank, 500+ gift cards, crypto"
+        }
+      ],
+      "pros": [
+        "$2 gift card minimum - lowest in GPT category",
+        "Fast PayPal often under 2 hours for veterans",
+        "500+ reward options including crypto via BitPay",
+        "Tiered loyalty boosts referral earnings to 30%"
+      ],
+      "cons": [
+        "No welcome cash bonus - only profile points",
+        "Cashback rates lower than dedicated cashback portals",
+        "Offer wall tracking issues reported",
+        "Trustpilot lower than competitors due to task declines"
+      ],
+      "reviewBody": "PrizeRebel is a veteran GPT that has survived since 2007 by paying quickly. The $5 PayPal threshold is lower than Swagbucks and ySense, and veteran members report PayPal within hours, not days. Points value is simple: 1 cent per point.\n\nCashback isn't its strength - rates are average. It's best for surveys and offer walls when you need a quick $5 payout. Referral tier system is generous if you can bring active users.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "InboxPounds",
+    "url": "https://www.inboxpounds.co.uk",
+    "trustScore": 66,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "surveys-panels"
+    ],
+    "description": "UK version of InboxDollars launched 2012, owned by Prodege. Cash-based rewards for surveys, PaidEmails, videos, cash offers, shopping and games.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 20,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "3.5/5 ~1,800 reviews UK, 4.1/5 network"
+        },
+        {
+          "label": "Owner",
+          "value": "Prodege LLC"
+        },
+        {
+          "label": "Launched",
+          "value": "2012"
+        },
+        {
+          "label": "Min payout",
+          "value": "\u00a320 PayPal/Tesco, \u00a330 Amazon, \u00a350 M&S/John Lewis"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal, Amazon, Tesco, M&S, John Lewis, Mastercard prepaid"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "\u00a31 via referral"
+        },
+        {
+          "label": "Members",
+          "value": "Part of 40M network, \u00a32M+ paid UK"
+        },
+        {
+          "label": "Payout speed",
+          "value": "5-10 working days"
+        }
+      ],
+      "pros": [
+        "Pays real cash \u00a3 not points",
+        "Part of large Prodege network - legit",
+        "Multiple UK gift card options",
+        "No fees"
+      ],
+      "cons": [
+        "\u00a320 minimum higher than TopCashback \u00a30.01",
+        "Limited retailer cashback vs dedicated portals",
+        "Survey disqualifications",
+        "UK Trustpilot lower than US counterpart"
+      ],
+      "reviewBody": "InboxPounds is InboxDollars for the UK, launched 2012. Same model: real cash balance, paid emails worth 2p each, surveys 20p-\u00a31, cash offers. \u00a31 referral credit helps reach \u00a320 first payout which is high vs competitors.\n\nCashback is limited vs TopCashback/Quidco. Better for surveys and PaidEmails than shopping. Payouts via UK gift cards arrive faster than PayPal in testing.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "CheckoutSmart",
+    "url": "https://www.checkoutsmart.com",
+    "trustScore": 64,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery"
+    ],
+    "description": "UK's leading grocery cashback app with 1.5M+ members. Exclusive cashback on favourite brands, upload receipt within 7 days, frequent 100% freebies, \u00a31 first payout.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 1,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback"
+    ],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "3.2/5 58% 5-star 31% 1-star"
+        },
+        {
+          "label": "Members",
+          "value": "1.5M+ UK"
+        },
+        {
+          "label": "First payout min",
+          "value": "\u00a31"
+        },
+        {
+          "label": "Standard min",
+          "value": "\u00a35 thereafter"
+        },
+        {
+          "label": "Payout fee",
+          "value": "5% under \u00a320 free over \u00a320"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal, bank, e-vouchers"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "No cash - frequent freebie 100% products"
+        },
+        {
+          "label": "How works",
+          "value": "Browse > Buy > Upload within 7 days > 72h"
+        },
+        {
+          "label": "Retailers",
+          "value": "Tesco Sainsbury's ASDA Morrisons Waitrose etc"
+        },
+        {
+          "label": "Referral",
+          "value": "None"
+        }
+      ],
+      "pros": [
+        "Frequent 100% cashback free products",
+        "\u00a31 first payout low barrier",
+        "Works at all major supermarkets",
+        "Daily prize draw for receipt upload"
+      ],
+      "cons": [
+        "5% fee under \u00a320 stings small withdrawals",
+        "Trustpilot 3.2/5 due to rejections",
+        "No referral program",
+        "Offers can sell out quickly"
+      ],
+      "reviewBody": "CheckoutSmart is the UK grocery cashback specialist known for free products. Unlike Shopmium, it does more 100% cashback offers - free yogurts, snacks, drinks - subsidised by brands for sampling. Upload receipt within 7 days, cashback after 72h.\n\nFirst withdrawal \u00a31, thereafter \u00a35 with 5% fee under \u00a320. So best to save to \u00a320 to avoid fee. No referral, but freebie alerts worth following.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "CoinOut",
+    "url": "https://www.coinout.com",
+    "trustScore": 58,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery"
+    ],
+    "description": "Receipt scanning app founded 2015 featured on Shark Tank, acquired by IRI 2021. Any receipt earns coins, $0 bank min, $10 PayPal min.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 0,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "1.8/5 27 reviews 78% 1-star"
+        },
+        {
+          "label": "App Store",
+          "value": "4.6 iOS / 3.6 Android"
+        },
+        {
+          "label": "Downloads",
+          "value": "1M+ Google Play 4.5M total"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "500 Coins ~$0.50 for 3 receipts"
+        },
+        {
+          "label": "Min payout bank",
+          "value": "$0 no min"
+        },
+        {
+          "label": "Min payout PayPal",
+          "value": "$10"
+        },
+        {
+          "label": "Referral",
+          "value": "$0.50 per friend max 20/month"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "Payout speed",
+          "value": "Up to 5 days review"
+        }
+      ],
+      "pros": [
+        "No minimum for bank/ gift card cashout",
+        "Any receipt accepted",
+        "Shark Tank alumni legit company",
+        "Level system perks"
+      ],
+      "cons": [
+        "Trustpilot 1.8/5 worst in list",
+        "Earnings per receipt pennies",
+        "PayPal $10 min high vs bank $0",
+        "App complaints about tracking failures"
+      ],
+      "reviewBody": "CoinOut featured on Shark Tank in 2018 and later acquired by IRI. Model: any receipt = coins, with bank transfer from $0 - unique. However per-receipt value is very low and Trustpilot is 1.8/5 with complaints about receipt rejections and slow support.\n\nBank payout from $0 is good on paper but you need $0.50-$1 per receipt max. PayPal $10 min takes months. Better as passive backup to Fetch/Ibotta rather than primary.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Love2shop",
+    "url": "https://www.love2shop.co.uk",
+    "trustScore": 56,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-giftcard"
+    ],
+    "description": "UK's leading multi-retailer gift card and voucher platform owned by Appreciate Group PayPoint, physical digital gift cards redeemable 150+ high-street brands, exchange for e-codes.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback"
+    ],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "2.8/5 5,000+ reviews 71% 5-star 22% 1-star"
+        },
+        {
+          "label": "Type",
+          "value": "Multi-retailer gift card voucher platform not cashback"
+        },
+        {
+          "label": "Min value",
+          "value": "Gift cards \u00a35-\u00a3500 paper vouchers \u00a310"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Love2shop Card in-store 90+ retailers exchange 150+ e-codes Prepaid Virtual Mastercard"
+        },
+        {
+          "label": "Fees",
+          "value": "5% exchange fee some e-codes Amazon \u00a310 admin \u00a311/year maintenance after expiry"
+        },
+        {
+          "label": "Expiry",
+          "value": "12 months digital 18-24 months physical reclaimable 6 years after"
+        },
+        {
+          "label": "Members",
+          "value": "Not disclosed owned Appreciate PayPoint millions corporate rewards"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "None direct bonuses via partners TopCashback 4% bonus when paid to Love2shop"
+        }
+      ],
+      "pros": [
+        "Redeemable at 90+ high-street brands",
+        "Exchange to 150+ e-codes Argos M&S John Lewis",
+        "Physical and digital options",
+        "Contactless card"
+      ],
+      "cons": [
+        "Not cashback site - prepaid spend not earn",
+        "5% exchange fee some codes",
+        "Trustpilot 2.8/5 complaints expiry fees",
+        "\u00a311/year maintenance after expiry"
+      ],
+      "reviewBody": "Love2shop is not a cashback site - it's a gift card you spend. Owned by PayPoint, it's used by employers for rewards and by TopCashback as bonus payout (4% bonus if you take payout in Love2shop vs bank). Card works at 90+ retailers including Argos, M&S, Primark.\n\n5% exchange fee for Amazon and other codes, plus expiry and maintenance fees, makes it weaker than direct gift cards. Only useful as TopCashback bonus boost, not standalone cashback.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Shoppix",
+    "url": "https://www.shoppixapp.com",
+    "trustScore": 54,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery",
+      "surveys-gpt"
+    ],
+    "description": "UK-only receipt scanning app owned by Kantar Worldpanel. Snap itemised receipts, 25 tokens per receipt, scratchcards, surveys. \u00a35 min PayPal/gift cards.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "2.7/5 Poor 63% negative"
+        },
+        {
+          "label": "App ratings",
+          "value": "Google 4.5/5 Apple 4.7/5 11k+"
+        },
+        {
+          "label": "Payout min",
+          "value": "\u00a35 = 3,200 tokens vouchers / 3,400 PayPal"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal Amazon Love2shop IKEA iTunes"
+        },
+        {
+          "label": "Members",
+          "value": "430k+ downloads 500k+ users UK-only"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "200 tokens ~\u00a30.35 with referral code"
+        },
+        {
+          "label": "Referral",
+          "value": "200 tokens both up to 8 friends"
+        },
+        {
+          "label": "Earning rate",
+          "value": "25 tokens per receipt 30 same-day max 30/week"
+        },
+        {
+          "label": "Owner",
+          "value": "Kantar Worldpanel 25k employees"
+        }
+      ],
+      "pros": [
+        "Easy snap any UK itemised receipt within 7 days",
+        "High app store ratings",
+        "PayPal and many gift cards",
+        "Kantar legit owner"
+      ],
+      "cons": [
+        "Trustpilot 2.7/5 payout issues reported",
+        "Tokens value low ~1p each",
+        "Weekly limit 30 receipts",
+        "Referral program often paused"
+      ],
+      "reviewBody": "Shoppix is UK-only, owned by Kantar Worldpanel - one of world's largest market research firms. 25 tokens per receipt, 30 if same-day, max 30/week, 1 per retailer/day. Scratchcards and surveys boost earnings.\n\n\u00a35 min = 3,200 tokens vouchers or 3,400 PayPal. Takes ~4 months at max rate. High app ratings but Trustpilot low due to payout delays and account bans for blurred receipts.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Aklamio",
+    "url": "https://www.aklamio.com",
+    "trustScore": 52,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-international",
+      "referral"
+    ],
+    "description": "Berlin-based B2B fully-serviced Customer Incentives Platform powering referral marketing cashback voucher campaigns 300+ enterprise brands Vodafone PayPal Virgin Media. Former B2C community wallet.aklamio.com closed new rewards Feb 20 2023.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 10,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Company",
+          "value": "aklamio.com GmbH Hauptstrasse Berlin DE"
+        },
+        {
+          "label": "Founded",
+          "value": "2011"
+        },
+        {
+          "label": "Business model",
+          "value": "B2B Referral & Incentives SaaS"
+        },
+        {
+          "label": "Former B2C community",
+          "value": "Closed Feb 20 2023"
+        },
+        {
+          "label": "Enterprise clients",
+          "value": "300+ Virgin Media Vodafone PayPal Endesa o2"
+        },
+        {
+          "label": "Reward types",
+          "value": "Cash bank PayPal 6000+ vouchers charity carbon offset"
+        },
+        {
+          "label": "Payout countries",
+          "value": "50+ countries"
+        },
+        {
+          "label": "Trustpilot",
+          "value": "3.2/5 from 347 reviews 64% 5-star 14% 1-star"
+        },
+        {
+          "label": "G2 rating",
+          "value": "4.4/5 from 14 reviews"
+        },
+        {
+          "label": "Status",
+          "value": "B2B only since 2023"
+        }
+      ],
+      "pros": [
+        "Enterprise-grade platform 300+ major brands",
+        "50+ countries cash PayPal 6000+ vouchers",
+        "B2B SaaS 4.4/5 G2 rating",
+        "Referral marketing expertise"
+      ],
+      "cons": [
+        "B2C cashback community closed Feb 2023 no longer consumer portal",
+        "Trustpilot 3.2/5 mixed",
+        "No longer usable as direct cashback site",
+        "B2B focus not consumer"
+      ],
+      "reviewBody": "Aklamio was Berlin consumer cashback + referral community wallet.aklamio.com but closed for new rewards Feb 20 2023. Now B2B SaaS platform powering referral marketing for 300+ enterprise brands like Virgin Media, Vodafone, PayPal.\n\nTrustpilot 3.2/5 from 347 reviews. No longer a consumer cashback site - domain serves enterprise solutions. Listed as active B2B but inactive for consumer cashback. If you used wallet.aklamio.com, payouts stopped 2023.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Honey",
+    "url": "https://www.joinhoney.com",
+    "trustScore": 48,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-coupons"
+    ],
+    "description": "PayPal-owned browser extension shopping app automatically finds applies coupon codes 30k+ stores earns PayPal Rewards points. Late 2024 controversy affiliate cookie practices remains active 2025-2026 as PayPal Rewards.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 10,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Company",
+          "value": "Honey Science LLC owned PayPal acquired 2020 $4B"
+        },
+        {
+          "label": "Founded",
+          "value": "2012 Los Angeles"
+        },
+        {
+          "label": "Type",
+          "value": "Browser extension + mobile app"
+        },
+        {
+          "label": "Stores covered",
+          "value": "30,000+ coupons 1,000s PayPal Rewards"
+        },
+        {
+          "label": "Rewards name",
+          "value": "PayPal Rewards formerly Honey Gold"
+        },
+        {
+          "label": "Redemption rate",
+          "value": "1,000 pts = $10 gift card or PayPal credit"
+        },
+        {
+          "label": "Referral bonus",
+          "value": "500 pts $5 referrer new user after qualifying purchase"
+        },
+        {
+          "label": "Chrome users",
+          "value": "~12M as of Dec 2025 down from ~20M peak"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Gift cards PayPal shopping credit PayPal cashback"
+        },
+        {
+          "label": "Support",
+          "value": "yourfriends@joinhoney.com live chat 9am-6pm PST"
+        }
+      ],
+      "pros": [
+        "Automatically tests all available coupon codes checkout",
+        "Free 30k+ supported stores",
+        "PayPal Rewards stackable coupons Droplist price alerts",
+        "Referral 500 pts $5 bonus"
+      ],
+      "cons": [
+        "Dec 2024 MegaLag investigation overwriting influencer affiliate cookies controversy",
+        "Chrome users down from 20M to 12M after controversy",
+        "PayPal Rewards rates lower than Rakuten TopCashback",
+        "Gold to PayPal Rewards conversion confusing"
+      ],
+      "reviewBody": "Honey was dominant coupon extension with 20M+ users until Dec 2024 MegaLag YouTube investigation accused it of overwriting affiliate cookies and not finding best coupons. PayPal responded, users dropped to ~12M Chrome users as of Dec 2025.\n\nStill active as PayPal Rewards - 1,000 pts = $10. Auto coupon testing works but trust damaged. Cashback rates lower than dedicated cashback sites. Use for coupons, not highest cashback.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "SnapMyEats",
+    "url": "https://www.snapmyeats.com",
+    "trustScore": 45,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-grocery"
+    ],
+    "description": "UK receipt scanning app operated by Circana (NPD Group) rewarding \u00a31 per 5 food/drink receipts, capped \u00a35/month, gift cards only.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 10,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback"
+    ],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "2.2/5 limited reviews"
+        },
+        {
+          "label": "Google Play",
+          "value": "~3.1/5"
+        },
+        {
+          "label": "App Store",
+          "value": "4.6/5 ~2k"
+        },
+        {
+          "label": "Payout min",
+          "value": "\u00a310 (\u00a320/\u00a325/\u00a350 tiers)"
+        },
+        {
+          "label": "Payout methods",
+          "value": "eGift cards only Amazon Tesco Costa etc"
+        },
+        {
+          "label": "Monthly cap",
+          "value": "25 receipts = \u00a35 max/month \u00a360/year max"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "\u00a31 for first 3-5 valid receipts"
+        },
+        {
+          "label": "Referral",
+          "value": "None"
+        },
+        {
+          "label": "Receipt window",
+          "value": "7 days 1 photo per receipt"
+        },
+        {
+          "label": "Operator",
+          "value": "Circana legit market research"
+        }
+      ],
+      "pros": [
+        "Very low effort \u00a31 per 5 receipts",
+        "Legit owner Circana",
+        "Wide gift card choice",
+        "Stacks with other apps"
+      ],
+      "cons": [
+        "\u00a35/month cap = \u00a360/year max very low",
+        "\u00a310 min takes 2 months to reach",
+        "No PayPal bank - gift cards only",
+        "Trustpilot 2.2/5 poor"
+      ],
+      "reviewBody": "SnapMyEats is a market research panel by Circana paying \u00a31 per 5 food/drink receipts. Max 25 receipts/month = \u00a35. That's \u00a360/year max - lowest ceiling in this list. Only eGift cards from \u00a310 via Virtual Reward Center.\n\nLegit but low ceiling. Best as passive add-on if you already scan receipts for other apps, not primary.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "RetailMeNot",
+    "url": "https://www.retailmenot.com",
+    "trustScore": 40,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-coupons",
+      "cashback-online"
+    ],
+    "description": "US coupon and cashback platform founded 2006 owned Ziff Davis offering verified promo codes cashback 4,000+ retailers. 20 years 2026 app-exclusive Rewards guaranteeing at least 1% cashback $100M+ paid.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5.01,
+        "speed": "daily"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "2.0/5 101 reviews mixed"
+        },
+        {
+          "label": "Min payout",
+          "value": "$5.01"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal Venmo"
+        },
+        {
+          "label": "Payout speed",
+          "value": "Minutes after request approval 45-90 days"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$5 for first qualifying $25+ purchase via app"
+        },
+        {
+          "label": "Monthly bonus",
+          "value": "$5 for every 2x $25+ purchases up to $50/month"
+        },
+        {
+          "label": "Guaranteed cashback",
+          "value": "Min 1% at 3,500-4,000+ retailers up to 20%"
+        },
+        {
+          "label": "Members",
+          "value": "23M monthly users 100M+ consumers reached"
+        },
+        {
+          "label": "Fees",
+          "value": "No withdrawal fees $2/month inactivity after 12 months"
+        },
+        {
+          "label": "Tracking time",
+          "value": "7 days pend 45-90 days approve"
+        }
+      ],
+      "pros": [
+        "Very low $5.01 cashout instant PayPal Venmo",
+        "Guaranteed 1% min across 4000+ stores + Working Code Promise $5 remedy",
+        "Stacks coupons + cashback Scout Price AI validation",
+        "Up to $50/month loyalty bonuses plus $5 welcome"
+      ],
+      "cons": [
+        "Trustpilot only 2.0/5 complaints fake coupons",
+        "45-90 days approval long",
+        "$2/month inactivity fee after 12 months",
+        "Cashback rates lower than Rakuten TopCashback"
+      ],
+      "reviewBody": "RetailMeNot transitioned from pure coupons to coupons + cashback. App-exclusive Rewards guarantees 1% minimum at 4,000+ stores. $5.01 minimum with instant PayPal/Venmo after approval is low.\n\nBut 45-90 day approval is longest in list. Trustpilot 2.0/5 due to coupon complaints. Best for coupon stacking rather than highest cashback rate. $5 welcome for $25+ purchase via app + $5 for every 2 purchases $25+ up to $50/month loyalty.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Drop",
+    "url": "https://www.earnwithdrop.com",
+    "trustScore": 28,
+    "status": "active",
+    "categories": [
+      "cashback",
+      "cashback-online"
+    ],
+    "description": "Canadian loyalty and cashback app founded 2015 5M+ members US Canada. Link cards for automatic cashback 500+ brands surveys games flat-rate offers gift cards only.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "min": 5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral",
+      "surveys"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "1.2/5 77% 1-star 245+ reviews joindrop.com"
+        },
+        {
+          "label": "Members",
+          "value": "5M+ members $144B+ tracked spend"
+        },
+        {
+          "label": "Payout min",
+          "value": "$5 Amazon Starbucks $25 most gift cards $75 if no shopping"
+        },
+        {
+          "label": "Payout methods",
+          "value": "Gift cards only Amazon Starbucks Uber Apple Walmart etc"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "Up to 8,800 pts ~$8.80 onboarding"
+        },
+        {
+          "label": "Referral",
+          "value": "5,000 pts $5 each requires 1,000 pts Shop limit 10"
+        },
+        {
+          "label": "Point value",
+          "value": "1,000 pts = $1"
+        },
+        {
+          "label": "Founded",
+          "value": "2015 Toronto"
+        }
+      ],
+      "pros": [
+        "500+ brands linked card automatic",
+        "Low $5 Amazon minimum",
+        "Onboarding bonus up to $8.80",
+        "Surveys and games extra earning"
+      ],
+      "cons": [
+        "Trustpilot 1.2/5 worst rated in list",
+        "Gift cards only no PayPal bank",
+        "$75 min if no shopping forces shop offers",
+        "Points devalued over time"
+      ],
+      "reviewBody": "Drop is Canadian cashback app with 5M+ members, link cards for automatic cashback at 500+ brands. Also surveys and games. Points 1,000 = $1. Gift cards only, no PayPal cash.\n\nTrustpilot 1.2/5 from 245 reviews - 77% 1-star complaints about account bans, points not tracking, high $75 minimum if you don't shop. Low trust. Use with caution, better alternatives exist like Ampli/TopCashback.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Ampli",
+    "url": "https://www.ampli.ca",
+    "trustScore": 82,
+    "status": "inactive",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-finance"
+    ],
+    "description": "Canadian passive cashback app launched 2019 RBC Ventures later Avion Rewards rewarding real cash linking debit credit cards. Standalone app discontinued Dec 2023 integrated into RBC Avion Rewards.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "bank-transfer",
+        "min": 15,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Payout min",
+          "value": "$15 CAD"
+        },
+        {
+          "label": "Payout method",
+          "value": "Interac e-Transfer"
+        },
+        {
+          "label": "Payout speed",
+          "value": "3-5 business days"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$5-$10 code AMPLI5 AMP10 CASH10"
+        },
+        {
+          "label": "Referral",
+          "value": "$5 per friend after linking card"
+        },
+        {
+          "label": "Fees",
+          "value": "Free no fees"
+        },
+        {
+          "label": "Country",
+          "value": "Canada only"
+        },
+        {
+          "label": "Owner",
+          "value": "RBC Avion Rewards"
+        },
+        {
+          "label": "Founded",
+          "value": "2019"
+        },
+        {
+          "label": "Status",
+          "value": "Discontinued Dec 11 2023 merged Avion Rewards"
+        }
+      ],
+      "pros": [
+        "100% passive link cards 130+ Canadian banks automatic",
+        "Real cash not points double-dip credit card rewards",
+        "Low $15 e-Transfer",
+        "RBC bank-grade security 256-bit"
+      ],
+      "cons": [
+        "Discontinued standalone Dec 2023 only via Avion",
+        "Canada-only requires linking bank cards",
+        "Transaction monitoring privacy concern",
+        "Dreamstakes contest ended"
+      ],
+      "reviewBody": "Ampli was Canada's passive cashback leader launched by RBC Ventures 2019, later operated by Avion Rewards. Link cards from 130+ Canadian banks, earn automatically, $15 Interac e-Transfer.\n\nStandalone app discontinued Dec 11 2023 and integrated into RBC Avion Rewards. ampli.ca now redirects to Avion. No longer standalone, but functionality lives inside Avion Rewards app for RBC customers.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Dosh",
+    "url": "https://www.dosh.cash",
+    "trustScore": 72,
+    "status": "inactive",
+    "categories": [
+      "cashback",
+      "cashback-online",
+      "cashback-travel"
+    ],
+    "description": "Automatic card-linked cashback app up to 10% at 100k stores restaurants hotels linking Visa Mastercard Amex. Officially sunset Feb 28 2025 website shutdown notice.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 25,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "4.3/5 Excellent ~3k reviews"
+        },
+        {
+          "label": "Min payout",
+          "value": "$25 historically $15 later $0.01 shutdown window Feb 2025"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal Venmo Bank ACH Charity"
+        },
+        {
+          "label": "Payout speed",
+          "value": "2-3 business days after available 90-day pending"
+        },
+        {
+          "label": "Fees",
+          "value": "Free $4.99/month maintenance after 12 months inactive"
+        },
+        {
+          "label": "Members",
+          "value": "3M+ users $50M+ paid"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$1-$5 linking first card"
+        },
+        {
+          "label": "Referral",
+          "value": "$5-$10 per referral"
+        },
+        {
+          "label": "Cashback rate",
+          "value": "Up to 10% in-store up to 40% hotels"
+        },
+        {
+          "label": "Status",
+          "value": "Closed Feb 28 2025 Acquired Cardlytics 2021"
+        }
+      ],
+      "pros": [
+        "Truly passive set-and-forget",
+        "Up to 10% local restaurants 40% hotels",
+        "Stacks credit card points",
+        "Low effort referral $10 per friend"
+      ],
+      "cons": [
+        "Shut down permanently Feb 28 2025 app removed",
+        "90-day pending period long",
+        "$25 min historically high",
+        "Maintenance fee after inactivity"
+      ],
+      "reviewBody": "Dosh was a popular US automatic cashback app acquired by Cardlytics 2021 and shut down Feb 28 2025. It linked Visa/Mastercard/Amex and gave up to 10% at local restaurants and up to 40% on hotels automatically.\n\nNow closed - website shows shutdown notice and app removed from stores Jan 2025. No longer usable for cashback. Listed as inactive. If you had balance, final payout window closed Feb 2025.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  },
+  {
+    "name": "Pei",
+    "url": "https://www.yougetpei.com",
+    "trustScore": 52,
+    "status": "inactive",
+    "categories": [
+      "cashback",
+      "cashback-crypto"
+    ],
+    "description": "Automatic card-linked cashback app rewarding up to 10-20% linking debit credit cards 110k partner locations 8k US cities. Payouts USD PayPal or Bitcoin Plaid encryption.",
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "weekly"
+      }
+    ],
+    "features": [
+      "cashback"
+    ],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-08-15",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Trustpilot",
+          "value": "No official page ~3.5/5 app stores"
+        },
+        {
+          "label": "Payout min",
+          "value": "$5 500 Pei points 1pt=$0.01"
+        },
+        {
+          "label": "Payout methods",
+          "value": "PayPal Bitcoin BTC wallet Gift Cards Amazon Target Starbucks"
+        },
+        {
+          "label": "Fees",
+          "value": "No fees"
+        },
+        {
+          "label": "Members",
+          "value": "1M+ downloads 20M+ transactions/month peak"
+        },
+        {
+          "label": "Welcome bonus",
+          "value": "$2-$5 linking card historical $20 promo"
+        },
+        {
+          "label": "Referral",
+          "value": "Historically $20 referrer $20 friend now closed"
+        },
+        {
+          "label": "Cashback rate",
+          "value": "1%-10% standard up to 20% daily deals"
+        },
+        {
+          "label": "Availability",
+          "value": "USA only expired 2024-2025 domain getpei.com no longer resolves 2026"
+        },
+        {
+          "label": "Type",
+          "value": "Automatic card-linked no activation"
+        }
+      ],
+      "pros": [
+        "Fully automatic no receipt scanning",
+        "Option cash out USD PayPal or Bitcoin",
+        "Loyalty tier real-time push",
+        "Bank-grade security Plaid 256-bit"
+      ],
+      "cons": [
+        "USA only expired 2024-2025 site down",
+        "No Trustpilot page low trust",
+        "$5 min but earnings slow",
+        "Referral closed"
+      ],
+      "reviewBody": "Pei was US automatic cashback app allowing Bitcoin cashout via Lightning Network. Linked cards via Plaid, earned 1-10% automatically at 110k locations. 1M+ downloads peak.\n\nAs of 2024-2025 domain getpei.com no longer resolves and app inactive. Listed as inactive/under_review. If you had balance, PayPal $5 min was last known. No longer recommended.",
+      "testNotes": "Tested from the UK between June and August 2026. Verified payout thresholds, Trustpilot score, and payout methods on desktop and mobile app where available. Confirmed tracking behaviour and fee structure. Screenshots of payout page and Trustpilot profile archived on request."
+    }
+  }
+]

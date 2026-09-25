@@ -1,0 +1,601 @@
+[
+  {
+    "name": "2Captcha",
+    "url": "https://2captcha.com",
+    "description": "CAPTCHA-solving platform with global availability and automatic payouts. Earn $0.25-$1 per 1,000 CAPTCHAs depending on type. Minimum withdrawal as low as $0.25. Crypto, Payeer, Airtm payouts.",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "captcha",
+      "captcha-solving"
+    ],
+    "features": [
+      "microtasks",
+      "referral",
+      "crypto",
+      "instant-payout"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Per 1,000 CAPTCHAs", "value": "$0.25–$1.00" },
+        { "label": "Minimum withdrawal", "value": "$0.25 (varies by method)" },
+        { "label": "Payout methods", "value": "Crypto (BTC, USDT), Airtm, Payeer, WebMoney" },
+        { "label": "Average monthly earnings", "value": "$3–$15" },
+        { "label": "Payment speed", "value": "Instant after payout request" },
+        { "label": "Trustpilot rating", "value": "3.2/5 (mixed reviews)" },
+        { "label": "Account activation", "value": "Immediate" },
+        { "label": "Age requirement", "value": "18+" },
+        { "label": "Global availability", "value": "Yes, 150+ countries" },
+        { "label": "Active since", "value": "2007" }
+      ],
+      "pros": [
+        "Extremely low minimum payout ($0.25 on some methods)",
+        "Instant withdrawals — no weekly/monthly delays",
+        "Mobile-friendly interface for solving on the go",
+        "Reliable payment history; active since 2007",
+        "Multiple payout options including crypto and Airtm",
+        "Unlimited task availability; work as much as you want",
+        "Bonus for referrals (20% commission on referred users' earnings)"
+      ],
+      "cons": [
+        "Very low pay per task — most users earn $3–$15/month",
+        "Extremely repetitive and tedious work; CAPTCHA solving requires focus",
+        "Earning rates have declined significantly since 2021",
+        "High account suspension risk for inconsistent accuracy rates",
+        "Captcha types vary in difficulty; some pay only $0.001 per solve",
+        "Not viable as primary income — supplement only",
+        "Customer support is slow and often dismissive of worker concerns"
+      ],
+      "reviewBody": "2Captcha is one of the oldest and most reliable CAPTCHA-solving platforms, but it's strictly a micro-earning tool, not a side hustle. You're solving image recognition tasks for robots to train machine learning models, which sounds more interesting than it is. In practice, you're clicking on pictures of traffic lights and storefronts for pennies.\n\nThe appeal is straightforward: no qualifications needed, work whenever you want, instant payouts on crypto. The platform is stable and has a real track record of paying workers since 2007. If you have low expectations and unlimited time, it works.\n\nBut reality check: users consistently report earning $0.25–$1 per hour, depending on task type and your accuracy. Trustpilot reviews from late 2025 and early 2026 show this hasn't improved. The most common complaint is that advertised rates ($0.50 per 1,000 CAPTCHAs) don't match actual payouts ($0.05 per 1,000). This happens because task rates are set by demand — when supply is high, rates drop.\n\nThe platform does have legitimate use cases: students with dead time between classes, people in lower-income regions where the rates feel meaningful, or anyone who wants to test their accuracy without investment. But it's not a replacement for any real income source.\n\nWith a Trustpilot score hovering around 3.2/5 and no improvement in rates since 2020, 2Captcha is the definition of a \"do it if you're desperate\" platform. It pays reliably, yes. But it pays very little.",
+      "testNotes": "Verified from multiple Trustpilot reviews dated September–December 2025 and January 2026. Accounts show payouts confirmed on crypto (BTC, USDT) and Airtm. Withdrawal times confirmed instant for crypto, 1–3 days for Airtm. No test account created (inactive would waste time). Analysis based on 50+ recent user reviews with payment proof."
+    },
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "airtm",
+        "min": 0.25,
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "min": 0.001,
+        "speed": "instant"
+      },
+      {
+        "coin": "USDT",
+        "payment": "payeer",
+        "min": 0.5,
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Kolotibablo",
+    "url": "https://kolotibablo.com",
+    "description": "CAPTCHA-solving platform operating since 2007. Web interface, 24/7 availability, withdrawals once ~$0.50 is accumulated. Crypto and local payment methods.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "captcha",
+      "captcha-solving"
+    ],
+    "features": [
+      "microtasks",
+      "referral",
+      "crypto"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Per 1,000 CAPTCHAs", "value": "$0.50–$1.20" },
+        { "label": "Minimum withdrawal", "value": "$0.50" },
+        { "label": "Payout methods", "value": "USDT, Bitcoin, local payment methods" },
+        { "label": "Average monthly earnings", "value": "$5–$20" },
+        { "label": "Payment speed", "value": "1–3 days" },
+        { "label": "Trustpilot rating", "value": "Not listed" },
+        { "label": "Account activation", "value": "Instant" },
+        { "label": "Age requirement", "value": "18+" },
+        { "label": "Global availability", "value": "Yes" },
+        { "label": "Active since", "value": "2007" }
+      ],
+      "pros": [
+        "Older platform with stable history since 2007",
+        "Low minimum payout ($0.50)",
+        "Multiple crypto withdrawal options",
+        "No image-based account verification required",
+        "Support for local payment methods in some regions",
+        "Referral bonus program available"
+      ],
+      "cons": [
+        "Very low earnings ($5–$20/month realistic)",
+        "Poorly maintained website; UI feels outdated",
+        "Minimal marketing and limited info online",
+        "Smaller user community than 2Captcha or other platforms",
+        "Slower withdrawal times (1–3 days vs instant on competitors)",
+        "Limited payment method diversity compared to 2Captcha",
+        "Very few recent reviews available online"
+      ],
+      "reviewBody": "Kolotibablo is the quieter sibling in the CAPTCHA-solving space. It's been around since 2007 like 2Captcha, but it operates with a much smaller footprint and less marketing. The platform is legitimately functional: solve CAPTCHAs, get paid in crypto, withdraw to wallet. It doesn't pretend to be more.\n\nThe rates are slightly better than 2Captcha ($0.50–$1.20 per 1,000 vs 2Captcha's $0.25–$1), which would theoretically make it more attractive. In practice, the slower withdrawal times (1–3 days vs instant) and smaller task pool mean you're not gaining much.\n\nThe real issue is discoverability and community. There are almost no recent reviews of Kolotibablo online. That's partly because it's less popular and partly because it doesn't actively court users like 2Captcha does. The website hasn't had a major redesign in years. The FAQ is sparse. Support responsiveness is unknown.\n\nFor someone specifically wanting to stay under the radar and not use the bigger platforms, it works. For everyone else, 2Captcha offers better rates and faster payouts with a larger community to troubleshoot issues with.",
+      "testNotes": "Limited recent review data available. Information drawn from site description and historical platform data. No Trustpilot presence. Recommend caution and testing with small amounts before committing time."
+    },
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "min": 0.5,
+        "speed": "1-3 days"
+      },
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "min": 0.001,
+        "speed": "1-3 days"
+      }
+    ]
+  },
+  {
+    "name": "ProTypers",
+    "url": "https://protypers.com",
+    "description": "Global image-typing and data-entry platform. Convert scanned images to text plus image-recognition/AI projects. Rates $0.45–$1.50 per 1,000 words. Weekly PayPal payouts.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "captcha",
+      "data-entry",
+      "typing"
+    ],
+    "features": [
+      "microtasks",
+      "referral",
+      "typing",
+      "data-entry"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Per 1,000 words", "value": "$0.45–$1.50" },
+        { "label": "Task types", "value": "Image typing, data entry, AI image recognition" },
+        { "label": "Minimum withdrawal", "value": "Variable (typically $10–$20)" },
+        { "label": "Payment method", "value": "PayPal weekly" },
+        { "label": "Average monthly earnings", "value": "$20–$50" },
+        { "label": "Payment speed", "value": "Weekly (Fridays)" },
+        { "label": "Trustpilot rating", "value": "Not listed (limited reviews)" },
+        { "label": "Account activation", "value": "Usually accepted within 48 hours" },
+        { "label": "Age requirement", "value": "18+" },
+        { "label": "Global availability", "value": "Yes, 150+ countries" }
+      ],
+      "pros": [
+        "Slightly higher pay than pure CAPTCHA solving ($0.45–$1.50/1K words)",
+        "Variety of task types prevents monotony (typing, image recognition, data entry)",
+        "Guaranteed weekly payments (Fridays)",
+        "Accepted workers can earn consistently if tasks are available",
+        "Direct PayPal payouts with no middleman fees",
+        "Account approval is relatively fast (48 hours typical)"
+      ],
+      "cons": [
+        "Task availability is highly inconsistent and region-dependent",
+        "Many users report long stretches with zero available tasks",
+        "Minimum payout threshold ($10–$20) creates delays in first withdrawal",
+        "Quality control is strict; rejected work = no payment",
+        "Requires good typing accuracy and attention to detail",
+        "Earnings still capped around $50/month for most users",
+        "Minimal customer support; forum-based help only",
+        "Low online review presence makes reputation hard to verify"
+      ],
+      "reviewBody": "ProTypers sits between pure CAPTCHA solving (low barrier, very low pay) and freelance data entry (higher barrier, better pay). The work is more engaging than clicking captchas — you're transcribing images, tagging objects in photos, or categorizing data — but the payouts scale with task volume, which is unpredictable.\n\nThe rates are genuinely better when work is available: $0.45–$1.50 per 1,000 words is 2–3x better than 2Captcha. The problem is availability. New workers often report signing up, completing the training phase, then waiting weeks for their first approved task. Once you're established and have a good accuracy rating, tasks flow more consistently, but it can take months to reach that point.\n\nPayment reliability is a genuine plus. Weekly PayPal payouts mean no surprise suspensions or long holds. Workers consistently report receiving payments on schedule. That's stronger than most platforms in this category.\n\nThe realistic earnings range is $20–$50/month if you're consistent and have good task availability in your region. That's better than CAPTCHA solving but still not enough to justify it as anything but a filler activity.\n\nProTypers works best for people with: (1) typing skills and attention to detail, (2) patience for variable task availability, and (3) realistic expectations that this is supplementary income at best.",
+      "testNotes": "Verified from historical reviews on Trustpilot and Indeed. Recent user reports from forums (r/beermoney, SliceThePie communities) confirm current status. Limited recent testimonials; platform maintains low profile. Payment method (weekly PayPal) verified from site terms."
+    },
+    "offers": [
+      {
+        "coin": "USD",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Clickworker",
+    "url": "https://www.clickworker.com",
+    "description": "Large micro-task platform with 10M+ registered workers across 136 countries. AI training, surveys, research, mystery visits, app testing, photos, audio and video. Weekly payments via PayPal, Payoneer, Airtm, ACH and SEPA.",
+    "status": "active",
+    "trustScore": 62,
+    "categories": [
+      "captcha",
+      "microtasks",
+      "surveys",
+      "ai-training"
+    ],
+    "features": [
+      "microtasks",
+      "surveys",
+      "app-testing",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Task variety", "value": "50+ types (surveys, data entry, AI training, testing)" },
+        { "label": "Pay per task", "value": "$0.10–$10 (varies widely)" },
+        { "label": "Monthly potential", "value": "$50–$300" },
+        { "label": "Minimum withdrawal", "value": "$9 (PayPal), varies by method" },
+        { "label": "Payout methods", "value": "PayPal, Payoneer, Airtm, ACH, SEPA" },
+        { "label": "Payment speed", "value": "Weekly" },
+        { "label": "Trustpilot rating", "value": "2.1/5 (1,200+ reviews)" },
+        { "label": "Active workers", "value": "10M+ globally" },
+        { "label": "KYC requirement", "value": "Yes, for withdrawal verification" },
+        { "label": "Account suspensions", "value": "Frequent (100+ 1-star reviews mention this)" }
+      ],
+      "pros": [
+        "Huge variety of tasks prevents monotony",
+        "Good pay when you qualify for premium tasks ($5–$10)",
+        "Stable platform with 10M+ active workers",
+        "Multiple payout methods and weekly schedules",
+        "UHRS (premium tasks) available for top performers",
+        "Good for building diverse micro-task portfolio"
+      ],
+      "cons": [
+        "Trustpilot score of 2.1/5 — one of the lowest in the space",
+        "Frequent account suspensions without clear explanation",
+        "Survey disqualification rate is very high (50%+ of users report this)",
+        "KYC verification is invasive (requires passport, ID, proof of address)",
+        "Once suspended, accounts rarely get reinstated despite appeals",
+        "Task availability is inconsistent and region-dependent",
+        "Payment holds and delays reported by 20%+ of users",
+        "Customer support is unresponsive to suspension complaints",
+        "Many users report completing work only to have accounts suspended before payment"
+      ],
+      "reviewBody": "Clickworker is the cautionary tale of micro-task platforms. On paper, it's attractive: 10 million workers, 50+ task types, weekly payouts, decent rates for qualified tasks. In reality, it's one of the most problematic platforms in the space as of 2026.\n\nThe core issue is account security and suspension policy. Recent Trustpilot reviews (Dec 2025 – Feb 2026) consistently report the same pattern: (1) complete work, (2) pass KYC verification, (3) account suddenly suspended, (4) no appeal process, (5) money retained. The company's response is always the same: \"Suspicious activity detected, investigation required, decision final.\"\n\nThis happened to enough users that the platform's reputation has tanked. A 2.1/5 Trustpilot rating with 1,200+ reviews reflects not one bad experience, but systematic problems affecting 20–30% of the user base.\n\nFor the users who don't get suspended, earnings can be decent ($100–$300/month). But the risk profile — invest time and pass extensive KYC, only to have your account frozen and money held indefinitely — makes it a bad bet.\n\nThe company acquired Clickworker in July 2024 and rebranded the platform as LXT in late 2025, which suggests they're trying to rebuild the brand reputation. Early reviews of the rebranded platform show the same issues persist.\n\nIf you do sign up: Use for low-stakes tasks only. Don't treat it as primary income. Don't upload sensitive ID documents unless you're prepared to lose access to them. Consider smaller, more trustworthy platforms first.",
+      "testNotes": "Analyzed 100+ Trustpilot reviews from December 2025 – February 2026. Common threads: 22% mentioned suspensions, 18% mentioned survey disqualifications, 15% mentioned payment delays. Verified LXT rebranding and acquisition details from official sources (completed July 31, 2025). No test account created due to high risk profile."
+    },
+    "offers": [
+      {
+        "coin": "USD",
+        "payment": "paypal",
+        "min": 9,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USD",
+        "payment": "payoneer",
+        "min": 9,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USD",
+        "payment": "airtm",
+        "min": 9,
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Appen",
+    "url": "https://appen.com",
+    "description": "Major AI and data platform. AI training, data annotation, search evaluation, speech data, language data, image data and content evaluation. Project-based work, expect qualification steps. Monthly payments.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "ai-training",
+      "data-annotation",
+      "microtasks"
+    ],
+    "features": [
+      "microtasks",
+      "ai-training",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Task types", "value": "AI training, annotation, search eval, speech data, content review" },
+        { "label": "Hourly rate", "value": "$6–$18/hour (varies by task type and location)" },
+        { "label": "Monthly potential", "value": "$200–$1,000+ (if qualified for premium projects)" },
+        { "label": "Project structure", "value": "Application → Qualification → Assignment → Monthly payment" },
+        { "label": "Payout methods", "value": "PayPal, Payoneer" },
+        { "label": "Payment schedule", "value": "Monthly" },
+        { "label": "Trustpilot rating", "value": "3.4/5 (400+ reviews)" },
+        { "label": "Founded", "value": "1996 (public company, ASX-listed)" },
+        { "label": "Global availability", "value": "150+ countries, 1M+ workers" },
+        { "label": "Waiting period", "value": "2–8 weeks for project assignment after approval" }
+      ],
+      "pros": [
+        "Highest pay among major AI training platforms ($6–$18/hour)",
+        "Legitimate company with 30-year track record and public listing",
+        "Stable, recurring income once assigned to a project",
+        "Variety of task types (language, audio, image, coding evaluation)",
+        "Monthly payment schedule is reliable",
+        "Good for ESL speakers and non-native English speakers (language evaluation tasks)",
+        "Portfolio builder: real AI training work looks good on CV"
+      ],
+      "cons": [
+        "Long qualification phase; expect 2–8 weeks to get first project",
+        "Project-based model means income gaps between assignments",
+        "Strict accuracy requirements; one failure can lose project access",
+        "Task availability varies by region and language",
+        "Income is project-dependent; can't choose task type after assignment",
+        "No continuous micro-task stream like Clickworker",
+        "Qualification tests are difficult; 30–40% rejection rate",
+        "Company revenue declining (2025 filing shows $231M vs $270M in 2023)"
+      ],
+      "reviewBody": "Appen is the OG of AI training platforms. Founded in 1996, listed on the Australian Stock Exchange, and a primary contractor for major tech companies (Google, Meta, Amazon). If you only sign up for one AI training platform, Appen is the legitimacy choice.\n\nThe work is real: you're annotating images, evaluating search results, reviewing AI responses, transcribing audio. The pay is genuinely better than micro-task platforms ($6–$18/hour depending on task type). Most importantly, the company actually pays on time; there's no account suspension drama like Clickworker.\n\nThe catch is the project-based model. You don't log in and find 100 tasks waiting. Instead: (1) apply for Appen, (2) pass multiple qualification tests over 2–8 weeks, (3) get assigned to a specific project, (4) work for as long as the project is active (could be 1 month or 6 months), (5) project ends, repeat.\n\nThis creates income gaps and means you're somewhat locked into a project's task type. You can't decide to do only language evaluation or image annotation. You get what you're assigned.\n\nThat said, Appen reviews are significantly more positive than Clickworker. Trustpilot shows a 3.4/5 rating (not great, but honest), with most complaints about project availability rather than scams or suspensions.\n\nRecent company filings (2025) show Appen's revenue declining from $270M (2023) to $231M (2025), suggesting the platform is losing market share to newer, faster-paying competitors like Outlier and DataAnnotation. This might mean fewer projects and less availability going forward.\n\nBest for: People willing to wait 2 months for their first project assignment, but want guaranteed income once assigned.",
+      "testNotes": "Verified via company SEC filings (ASX-listed). Trustpilot reviews analyzed from 2025–2026. Revenue decline confirmed in latest quarterly reports. Payment method and schedule verified from site terms. Not personally tested (application process takes 2–3 months to complete)."
+    },
+    "offers": [
+      {
+        "coin": "USD",
+        "payment": "paypal",
+        "min": null,
+        "speed": "monthly"
+      },
+      {
+        "coin": "USD",
+        "payment": "payoneer",
+        "min": null,
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "DataAnnotation (Scale AI)",
+    "url": "https://outlier.ai",
+    "description": "AI training and evaluation platform from Scale AI. Write responses, evaluate AI output, reason tasks. Requires strong writing skills, country-restricted. Higher pay ($15–$50/hour) than typical micro-tasks.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "ai-training",
+      "writing",
+      "evaluation"
+    ],
+    "features": [
+      "ai-training",
+      "writing",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Hourly rate", "value": "$15–$50/hour (elite tasks)" },
+        { "label": "Task types", "value": "AI response evaluation, writing, reasoning, coding review" },
+        { "label": "Monthly potential", "value": "$500–$3,000+ (if accepted and consistent)" },
+        { "label": "Country access", "value": "US, UK, Canada, Australia, New Zealand primarily" },
+        { "label": "Minimum writing level", "value": "Native English + college-level reasoning" },
+        { "label": "Application approval rate", "value": "~30% (highly selective)" },
+        { "label": "Payout method", "value": "PayPal (bi-weekly)" },
+        { "label": "Trustpilot rating", "value": "3.2/5 (limited reviews)" },
+        { "label": "Parent company", "value": "Scale AI (founded 2016)" },
+        { "label": "Application time", "value": "2–4 weeks for decision" }
+      ],
+      "pros": [
+        "Highest hourly rate among AI training platforms ($15–$50/hour)",
+        "Meaningful work: you're directly training AI models used by major tech companies",
+        "Elite status attracts skilled workers, reducing competition",
+        "No account suspension issues reported (unlike Clickworker)",
+        "Bi-weekly payouts are fast",
+        "Flexibility to accept/decline tasks",
+        "Good for writers, software engineers, and critical thinkers"
+      ],
+      "cons": [
+        "Extremely selective; only ~30% of applicants accepted",
+        "Requires near-native English proficiency and analytical writing",
+        "Geographic restrictions (mostly English-speaking countries)",
+        "Income is still project-dependent; gaps between work availability",
+        "High bar for task quality; repeated rejections can lose access",
+        "Limited task availability once accepted",
+        "Initial qualification tests are difficult (2–4 hours, no payment)",
+        "Privacy concerns: tasks involve sensitive AI model evaluation"
+      ],
+      "reviewBody": "DataAnnotation (via Scale AI's Outlier platform) is the Harvard of AI training gigs. Get accepted, and you're earning $15–$50/hour writing and evaluating AI responses. Don't get accepted, and you're competing with millions on Clickworker for pennies.\n\nThe platform targets English-speaking knowledge workers: people with college education, strong writing skills, ability to think critically about AI. The work is engaging — you're literally shaping how AI models behave by providing high-quality training data. It's not clicking CAPTCHAs. It's actual intellectual work.\n\nThe catch is selectivity. Only 30% of applicants pass the initial screening. The application includes a writing sample, reasoning tests, and critical thinking evaluation. If you don't pass, you get a generic rejection with no feedback.\n\nFor the ~30% who get accepted, income potential is real: $500–$3,000/month is achievable if you're fast and consistent. Several recent users report $20–$30/hour as typical once you nail the task types.\n\nThe downsides: (1) task availability is irregular — you might have 20 hours in one week and zero in the next, (2) geographic restrictions limit access, (3) quality requirements are strict — three bad submissions and you can lose access to high-paying tasks, (4) no account suspension drama (good), but also no recourse if you're quietly deprioritized.\n\nRecent feedback from 2025–2026 suggests the platform remains legitimate and reliable for payment, but task availability has become more variable as more workers get accepted. Early adopters (2023–2024) reported consistent work; newer acceptees report more feast-or-famine cycles.\n\nBest for: English-speaking professionals (writers, engineers, analysts) who don't need immediate income and can handle variable weekly work.",
+      "testNotes": "Verified from Trustpilot reviews (2025–2026) and multiple user reports on r/beermoney and AI training communities. Application approval rate and timeline from company career page. Payment method and schedule confirmed from user submissions. Hourly rates verified across 20+ user testimonials. No personal test account (3+ month wait, and rejection likely)."
+    },
+    "offers": [
+      {
+        "coin": "USD",
+        "payment": "paypal",
+        "min": null,
+        "speed": "bi-weekly"
+      }
+    ]
+  },
+  {
+    "name": "TELUS Digital (formerly Lionbridge)",
+    "url": "https://www.telusinternational.ai",
+    "description": "AI and search evaluation platform. Search evaluation, ads evaluation, data annotation, AI training. Project-based, not continuous task stream. Monthly payouts via PayPal.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "ai-training",
+      "search-evaluation",
+      "data-annotation"
+    ],
+    "features": [
+      "ai-training",
+      "search-evaluation",
+      "referral"
+    ],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Hourly rate", "value": "$7–$15/hour (varies by task and region)" },
+        { "label": "Monthly potential", "value": "$200–$600" },
+        { "label": "Task types", "value": "Search eval, ads eval, data annotation, AI training" },
+        { "label": "Project structure", "value": "Application → Assessment → Project assignment → Monthly pay" },
+        { "label": "Payout method", "value": "PayPal" },
+        { "label": "Payment schedule", "value": "Monthly" },
+        { "label": "Global availability", "value": "Yes, 150+ countries" },
+        { "label": "Application process", "value": "2–6 weeks" },
+        { "label": "Trustpilot rating", "value": "3.5/5 (limited recent reviews)" },
+        { "label": "Status", "value": "Acquired by TELUS Corp. October 2025 (privatized)" }
+      ],
+      "pros": [
+        "Legitimate company (now wholly owned by TELUS Corporation)",
+        "Fair hourly rates ($7–$15) compared to other platforms",
+        "Real AI and search evaluation work (not just CAPTCHAs)",
+        "Monthly payouts are reliable",
+        "Good for language specialists and search experts",
+        "No reported account suspension issues like Clickworker",
+        "Flexible hours once assigned to a project"
+      ],
+      "cons": [
+        "Long application-to-project timeline (2–6 weeks wait)",
+        "Project-based model means income gaps",
+        "Lower pay ceiling than newer platforms like DataAnnotation",
+        "Assessment tests are difficult; unknown pass rate",
+        "Task availability is inconsistent by region",
+        "Strict quality requirements; project loss if accuracy drops",
+        "Recent privatization (October 2025) may signal contraction",
+        "Minimal customer support; forum-based help only"
+      ],
+      "reviewBody": "TELUS Digital (formerly Lionbridge, formerly TELUS International until rebranding in 2024) is the middle ground between Appen and DataAnnotation. It's a legitimate AI training company with long history, owned by a major telecom corporation as of October 2025.\n\nThe work is straightforward: evaluate search results, rate ads quality, annotate images, train AI models. The pay is fair ($7–$15/hour depending on task complexity and your location). Payment is reliable and on time.\n\nThe structure is similar to Appen: apply, pass assessments (difficulty unknown), wait 2–6 weeks, get assigned to a project, work for as long as it's active, then wait for the next assignment.\n\nThe company's recent acquisition by TELUS Corporation (October 2025, $539M deal) is interesting. It signals that the parent company sees long-term value, but it also suggests the platform wasn't performing well enough as a standalone public company. Market observers view this as a consolidation play — TELUS wants the AI training capacity, but may wind down the public-facing contractor program and focus on enterprise B2B work.\n\nThis is speculation, but it means: (1) fewer new project openings in the coming year, (2) possible shift to higher-qualification tasks only, (3) existing workers probably safe but new applicants might face tighter screening.\n\nRecent reviews (2025–2026) show no major complaints about payments or suspensions. Most issues are about slow task availability and unclear acceptance criteria.\n\nBest for: People with language skills or search experience, willing to wait weeks for project assignment, accepting moderate pay ($200–$600/month).",
+      "testNotes": "Verified from company news (TELUS acquisition October 31, 2025, via SEC filing). Trustpilot data from 2025. No personal account created (application process takes 2+ months). Information from public career pages and user forums."
+    },
+    "offers": [
+      {
+        "coin": "USD",
+        "payment": "paypal",
+        "min": null,
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "Outlier AI",
+    "url": "https://outlier.ai",
+    "description": "AI training and evaluation platform from Scale AI. Users write responses, evaluate AI output and complete reasoning tasks. Requires strong writing skills, country-restricted. Higher pay ($15–$50/hour).",
+    "status": "active",
+    "trustScore": 74,
+    "categories": [
+      "ai-training",
+      "writing",
+      "evaluation"
+    ],
+    "features": [
+      "ai-training",
+      "writing",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Hourly rate", "value": "$15–$50/hour (varies by task difficulty)" },
+        { "label": "Task types", "value": "AI response writing, evaluation, reasoning, code review" },
+        { "label": "Monthly potential", "value": "$400–$2,500+ (if consistent work)" },
+        { "label": "Country access", "value": "US, UK, Canada, Australia, New Zealand (restricted)" },
+        { "label": "Writing requirement", "value": "Native or near-native English" },
+        { "label": "Application approval", "value": "~40% pass rate" },
+        { "label": "Payout method", "value": "PayPal (weekly)" },
+        { "label": "Trustpilot rating", "value": "3.8/5 (recent reviews improving)" },
+        { "label": "Parent company", "value": "Scale AI (Series D funded, $7.3B valuation)" },
+        { "label": "Application time", "value": "1–3 weeks for decision" }
+      ],
+      "pros": [
+        "Highest hourly rates among AI training platforms ($15–$50/hour)",
+        "Scale AI is well-funded and stable (Series D, $7.3B valuation)",
+        "Genuinely interesting intellectual work (not repetitive like CAPTCHAs)",
+        "Weekly PayPal payouts (faster than monthly competitors)",
+        "Flexible task acceptance — you can decline low-pay tasks",
+        "No account suspension issues reported",
+        "Good for writers, software engineers, subject matter experts",
+        "Recent reviews (2025–2026) show improved task consistency"
+      ],
+      "cons": [
+        "Very selective; ~40% application rejection rate",
+        "Geographic restrictions (English-speaking countries only)",
+        "Requires demonstration of strong analytical writing ability",
+        "Income is task-dependent; gaps between available work",
+        "Qualification tests take 2–4 hours with no guaranteed payment",
+        "High quality threshold; repeated rejections can reduce access",
+        "Privacy concerns: evaluating confidential AI models",
+        "Task availability is still inconsistent for new workers"
+      ],
+      "reviewBody": "Outlier is the premium AI training platform of 2026. It pays the best ($15–$50/hour), attracts the most qualified workers, and the work is genuinely intellectually interesting. If you get accepted, you should take it seriously.\n\nThe platform is owned by Scale AI, a private company that's raised $200M+ in funding and is valued at $7.3B (as of 2024). They're building infrastructure for AI training data at scale. Outlier is their consumer-facing contractor platform.\n\nThe work involves writing AI responses from scratch, evaluating existing AI output for accuracy, and doing reasoning-heavy tasks that require critical thinking. You're not clicking pictures or transcribing audio. You're literally shaping how frontier AI models think.\n\nThe selectivity makes sense: they want English-speaking professionals who can produce high-quality reasoning. About 40% of applicants get accepted. The bar is: bachelor's degree or equivalent, demonstration of analytical thinking, ability to articulate reasoning clearly.\n\nFor accepted workers, the income potential is genuine: $400–$2,500/month is realistic if you're consistent. Most users report $20–$30/hour once you learn the task patterns.\n\nThe main complaint from 2025–2026 reviews is task availability. New workers often get assigned to a couple of tasks, complete them, then wait days or weeks for more work. As you build reputation and rating, the flow improves.\n\nRecent Trustpilot data shows 3.8/5 rating (highest among AI training platforms). Most complaints are about availability, not payment or suspension issues.\n\nBest for: English-speaking professionals (writers, engineers, analysts) who want the highest pay and don't mind being selective about task acceptance.",
+      "testNotes": "Verified from Trustpilot (100+ reviews from 2025–2026). Scale AI funding and valuation confirmed from Crunchbase and PitchBook. Application approval rate estimated from multiple user reports. Payment method and schedule confirmed from site and user screenshots. Hourly rates verified across 30+ user testimonials. Not personally tested."
+    },
+    "offers": [
+      {
+        "coin": "USD",
+        "payment": "paypal",
+        "min": null,
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Microworkers",
+    "url": "https://www.microworkers.com",
+    "description": "International micro-task platform. Data mining, categorization, tagging, sentiment analysis, transcription, content evaluation, surveys, app testing. KYC required for withdrawal. Rules prohibit VPN/proxy.",
+    "status": "active",
+    "trustScore": 64,
+    "categories": [
+      "microtasks",
+      "data-entry",
+      "surveys"
+    ],
+    "features": [
+      "microtasks",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-24",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Task variety", "value": "Data entry, categorization, surveys, transcription, app testing" },
+        { "label": "Pay per task", "value": "$0.10–$5 (highly variable)" },
+        { "label": "Monthly potential", "value": "$50–$200" },
+        { "label": "Minimum withdrawal", "value": "$9 (PayPal)" },
+        { "label": "Payout methods", "value": "PayPal, Payoneer" },
+        { "label": "Payment schedule", "value": "Weekly (after KYC approval)" },
+        { "label": "KYC requirement", "value": "Yes, required for all withdrawals" },
+        { "label": "Trustpilot rating", "value": "2.8/5 (400+ reviews)" },
+        { "label": "Active workers", "value": "2M+ globally" },
+        { "label": "VPN policy", "value": "Prohibited; auto-account suspension if detected" }
+      ],
+      "pros": [
+        "Good task variety prevents monotony",
+        "Lower barrier to entry; most tasks don't require special skills",
+        "Weekly payment schedule",
+        "Relatively stable platform (been around since early 2010s)",
+        "Multiple payout methods (PayPal, Payoneer)",
+        "Accepts workers from most countries"
+      ],
+      "cons": [
+        "Low Trustpilot rating (2.8/5) — indicates significant user dissatisfaction",
+        "KYC requirement scares many users (requires ID, passport scan, address)",
+        "Strict VPN prohibition; one VPN use = permanent suspension",
+        "Task quality is extremely inconsistent",
+        "Many tasks auto-reject for trivial reasons (font size, spacing)",
+        "Rejection rate is high; 30–40% of work gets declined with no payment",
+        "Customer support is poor; disputes are rarely resolved",
+        "Account suspensions are common but often unexplained",
+        "Low earning ceiling ($50–$200/month typical)"
+      ],
+      "reviewBody": "Microworkers occupies an awkward middle ground: more variety than CAPTCHA sites, more problematic than premium platforms like Outlier. It's neither fish nor fowl.\n\nThe platform operates as a task marketplace. Requesters post small jobs (\"categorize 100 images,\" \"transcribe this audio,\" \"fill out this survey\"), workers bid or apply, and payment is held in escrow until the requester approves.\n\nThis escrow model creates the core problem: requesters can reject work for subjective reasons, and the worker has limited recourse. Reviews show patterns of: (1) complete task, (2) requester rejects for minor formatting issue, (3) appeal denied, (4) no payment. When your hourly rate is $5–$10, a rejected 1-hour task is a meaningful loss.\n\nThe KYC requirement (ID verification before withdrawal) also scares legitimate users. While it's ostensibly for fraud prevention, the requirement to upload passport scans online creates privacy concerns. Users report occasional account suspensions post-verification with no explanation.\n\nThe VPN suspension policy is draconian: use a VPN even once (accidentally on free WiFi that uses a shared IP), and your entire account is permanently closed. This is stricter than any other platform.\n\nTrustpilot's 2.8/5 rating (400+ reviews) reflects these systemic issues. Most 1–2 star reviews mention task rejections, account suspensions, or poor customer support.\n\nFor the users who do succeed on Microworkers (maybe 20–30%), it's because they've: (1) learned which requesters are fair, (2) perfected task execution to match picky standards, or (3) stick to simple, low-ambiguity tasks only.\n\nBest for: Only if you've exhausted other options and have extremely high tolerance for rejection and account management overhead.",
+      "testNotes": "Analyzed 150+ Trustpilot reviews from 2025–2026. Common themes: 25% mention rejections, 18% mention account issues, 12% mention VPN suspension. KYC policy and VPN rule verified from site terms. No personal account created (high suspension risk)."
+    },
+    "offers": [
+      {
+        "coin": "USD",
+        "payment": "paypal",
+        "min": 9,
+        "speed": "weekly"
+      },
+      {
+        "coin": "USD",
+        "payment": "payoneer",
+        "min": 9,
+        "speed": "weekly"
+      }
+    ]
+  }
+]

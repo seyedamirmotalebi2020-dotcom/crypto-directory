@@ -1,0 +1,214 @@
+[
+  {
+    "name": "TimeBucks",
+    "url": "https://timebucks.com",
+    "description": "Large GPT platform with a dedicated 'Earn while you watch' system for curated YouTube viewing sessions. Also offers surveys, offers, tasks and content rewards. Cash payouts via PayPal, Skrill, AirTM and crypto. Note: video availability depends on your country and current advertising inventory.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "videos",
+      "videos-direct",
+      "surveys-gpt",
+      "offerwalls"
+    ],
+    "features": [
+      "videos",
+      "offerwall",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "weekly"
+      },
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "airtm",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "HideoutTV",
+    "url": "https://hideout.tv",
+    "description": "Dedicated watch-to-earn platform. Users earn points from advertisements while watching curated video content. Points can be redeemed directly or transferred into Lootup points for cash withdrawal. One of the cleanest watch-to-earn models available — actual video rewards, not a GPT add-on.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "videos",
+      "videos-direct"
+    ],
+    "features": [
+      "videos"
+    ],
+    "hasReferralProgram": false,
+    "offers": []
+  },
+  {
+    "name": "Lootup",
+    "url": "https://lootup.me",
+    "description": "GPT platform with HideoutTV integration for watch-to-earn. Earn points through videos, surveys, offers and tasks. Points redeemable for cash and rewards. HideoutTV points can be transferred into Lootup at a fixed rate.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "videos",
+      "videos-gpt",
+      "surveys-gpt",
+      "offerwalls"
+    ],
+    "features": [
+      "videos",
+      "offerwall",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "Nielsen",
+    "url": "https://www.nielsen.com/consumer",
+    "description": "Passive media measurement platform. Nielsen pays users to allow measurement of their normal TV, streaming and internet usage. Different model from watch-to-earn — you don't watch anything special, you just let Nielsen track what you already watch. Points and rewards based on participation.",
+    "status": "under_review",
+    "trustScore": 66,
+    "categories": [
+      "videos",
+      "videos-passive"
+    ],
+    "features": [
+      "videos",
+      "surveys"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "speed": "monthly"
+      }
+    ]
+  },
+  {
+    "name": "InboxDollars",
+    "url": "https://www.inboxdollars.com",
+    "description": "US-only rewards platform with videos/TV content alongside surveys, offers and paid emails. Video availability explicitly depends on location, account activity and advertiser availability. Payments via PayPal, prepaid card or check.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "videos",
+      "videos-mixed",
+      "surveys-gpt",
+      "cashback",
+      "cashback-online",
+      "surveys-panels"
+    ],
+    "features": [
+      "videos",
+      "surveys",
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 15,
+        "speed": "weekly"
+      }
+    ]
+  },
+  {
+    "name": "PrizeRebel",
+    "url": "https://www.prizerebel.com",
+    "description": "GPT platform with partner video/offer integrations alongside surveys and offers. Trustpilot 3.7/5 from 785 reviews. Rewards via PayPal, gift cards and crypto.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "videos",
+      "videos-gpt",
+      "app-offers",
+      "app-offers-walls",
+      "surveys",
+      "surveys-gpt",
+      "cashback",
+      "cashback-online",
+      "offerwalls"
+    ],
+    "features": [
+      "videos",
+      "app-offers",
+      "offerwall",
+      "surveys",
+      "cashback",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "GrabPoints",
+    "url": "https://grabpoints.com",
+    "description": "GPT platform with videos through partner inventory alongside app offers, games and surveys. Rewards via PayPal and gift cards. Available in many countries including the UK.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "videos",
+      "videos-gpt",
+      "app-offers",
+      "app-offers-installs",
+      "app-offers-games",
+      "surveys-gpt",
+      "offerwalls"
+    ],
+    "features": [
+      "videos",
+      "app-offers",
+      "offerwall",
+      "games",
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "weekly"
+      },
+      {
+        "coin": "USDT",
+        "payment": "gift-card",
+        "speed": "weekly"
+      }
+    ]
+  }
+
+]

@@ -1,0 +1,760 @@
+[
+  {
+    "name": "Cash Monster",
+    "url": "https://cashmonster.app",
+    "description": "Surveys, apps, ads and tasks with crypto withdrawals, quests, lottery and prizes. Same owner (Bitplay) as Satoshi Hero crypto casino — caution warranted.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "surveys",
+      "app-offers",
+      "faucets"
+    ],
+    "features": [
+      "surveys",
+      "app-offers",
+      "games",
+      "lottery",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant"
+      }
+    ]
+  },
+  {
+    "name": "Idle-Empire",
+    "url": "https://idle-empire.com",
+    "description": "Long-running GPT platform. Surveys, games, videos, software testing, offers. Rewards include gift cards, PayPal, and crypto. Crypto typically delivered within 24h.",
+    "status": "active",
+    "trustScore": 88,
+    "categories": [
+      "surveys",
+      "offerwalls",
+      "videos",
+      "app-offers"
+    ],
+    "features": [
+      "offerwall",
+      "surveys",
+      "videos",
+      "app-offers",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "paypal",
+        "speed": "daily"
+      },
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "ETH",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "LTC",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "XRP",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "BCH",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "PrizeRebel",
+    "url": "https://www.prizerebel.com",
+    "description": "Survey and offer platform operating since 2007. 200+ reward options. PayPal minimum $5; crypto paid through BitPay/Azteco. High-value offers can stay pending ~21 days.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": [
+      "surveys",
+      "offerwalls"
+    ],
+    "features": [
+      "offerwall",
+      "surveys",
+      "referral",
+      "achievements"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2007-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "instant"
+      },
+      {
+        "coin": "BTC",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "ETH",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "LTC",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      },
+      {
+        "coin": "DOGE",
+        "payment": "direct-wallet",
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "RetroBux",
+    "url": "https://retrobux.fun",
+    "description": "Tasks, surveys and rewards. Domain dates to 2018 but Scam Detector currently rates it 37.6/100 and labels it questionable/flagged. Avoid putting personal information in.",
+    "status": "paused",
+    "trustScore": 40,
+    "categories": [
+      "surveys",
+      "offerwalls",
+      "faucets"
+    ],
+    "features": [
+      "surveys",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "startedAt": "2018-01-01",
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "manual"
+      }
+    ]
+  },
+  {
+    "name": "Prolific",
+    "url": "https://www.prolific.com",
+    "description": "Academic and market-research studies from universities and companies. Higher pay than typical surveys — Trustpilot 4.5/5 from 15,200+ reviews. PayPal payouts with no minimum.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": [
+      "surveys",
+      "surveys-academic"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "instant",
+        "notes": "PayPal, no minimum"
+      }
+    ]
+  },
+  {
+    "name": "Ipsos i-Say",
+    "url": "https://www.ipsosisay.com",
+    "description": "Long-running global survey panel from Ipsos, one of the world's largest research firms. Typically 5–20 minute surveys with cash or voucher rewards from ~£5.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily",
+        "notes": "Cash/vouchers from ~£5"
+      }
+    ]
+  },
+  {
+    "name": "Swagbucks",
+    "url": "https://www.swagbucks.com",
+    "description": "Large GPT platform combining surveys, offers, and videos. Trustpilot 4.0/5 from 43,000+ reviews. Rewards via PayPal, gift cards and crypto.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "surveys",
+      "surveys-gpt",
+      "offerwalls"
+    ],
+    "features": [
+      "surveys",
+      "offerwall",
+      "videos",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "YouGov",
+    "url": "https://yougov.co.uk",
+    "description": "Well-known UK opinion research panel. Points convert to cash or vouchers, with UK threshold commonly around £50. Trustpilot and SurveyPolice show mixed feedback on survey volume.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 50,
+        "speed": "weekly",
+        "notes": "UK threshold ~£50"
+      }
+    ]
+  },
+  {
+    "name": "Toluna Influencers",
+    "url": "https://uk.toluna.com",
+    "description": "Global survey panel with 251,000+ Trustpilot reviews at 4.2/5. Points convert to PayPal cash or gift cards. Strong survey availability in most countries.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "MOBROG",
+    "url": "https://www.mobrog.com",
+    "description": "Pan-European survey panel operating in 74 countries. Trustpilot 4.4/5 from 65,500+ reviews, with an unusually high negative-review response rate (~97%). PayPal and Skrill payouts.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      },
+      {
+        "coin": "USDT",
+        "payment": "skrill",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Prime Opinion",
+    "url": "https://primeopinion.com",
+    "description": "Survey app and website. Trustpilot 3.8/5 from 22,700+ reviews. Rewards via PayPal, Venmo, bank transfer, gift cards and virtual Visa; $5+ minimum depending on region.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "surveys",
+      "surveys-apps"
+    ],
+    "features": [
+      "surveys",
+      "app-offers",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Qmee",
+    "url": "https://www.qmee.com",
+    "description": "Survey app with one of the lowest cashout thresholds on the market. Available in UK, US, Canada, Australia, France and Germany. Trustpilot 3.6/5 from 10,000+ reviews.",
+    "status": "active",
+    "trustScore": 65,
+    "categories": [
+      "surveys",
+      "surveys-apps"
+    ],
+    "features": [
+      "surveys",
+      "app-offers",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "instant",
+        "notes": "Very low minimum"
+      }
+    ]
+  },
+  {
+    "name": "PrizeRebel",
+    "url": "https://www.prizerebel.com",
+    "description": "GPT platform with a strong surveys section. Trustpilot 3.7/5 from 785 reviews. Rewards via PayPal, gift cards and crypto.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "surveys",
+      "surveys-gpt",
+      "offerwalls"
+    ],
+    "features": [
+      "surveys",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "ySense",
+    "url": "https://www.ysense.com",
+    "description": "GPT platform with surveys, offers and tasks. Trustpilot 3.9/5 from 3,100+ reviews. PayPal and other reward options, widely available in the UK and internationally.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "surveys",
+      "surveys-gpt",
+      "offerwalls"
+    ],
+    "features": [
+      "surveys",
+      "offerwall",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "LifePoints",
+    "url": "https://www.lifepointspanel.com",
+    "description": "Global survey panel with 45,000+ Trustpilot reviews at 3.2/5. PayPal or gift cards depending on country. Some recurring complaints about technical issues and account screening.",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "AttaPoll",
+    "url": "https://attapoll.app",
+    "description": "Survey app with a low withdrawal threshold. Trustpilot 1.5/5 from 1,300+ reviews — but Trustpilot notes the profile has no history of requesting reviews, so the sample may not be representative. Test with small amounts.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "surveys",
+      "surveys-apps"
+    ],
+    "features": [
+      "surveys",
+      "app-offers",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "speed": "instant",
+        "notes": "Low withdrawal threshold"
+      }
+    ]
+  },
+  {
+    "name": "Valued Opinions",
+    "url": "https://www.valuedopinions.co.uk",
+    "description": "UK-focused survey panel advertising up to £6 per survey. Cash and voucher rewards.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "daily",
+        "notes": "Up to £6 per survey"
+      }
+    ]
+  },
+  {
+    "name": "Branded Surveys",
+    "url": "https://surveys.gobranded.com",
+    "description": "Survey panel with a SurveyPolice UK score of 72.79% from 1,653 reviews. PayPal and gift card rewards. Availability varies by country.",
+    "status": "active",
+    "trustScore": 70,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "PaidViewpoint",
+    "url": "https://paidviewpoint.com",
+    "description": "Survey panel with an exceptionally high SurveyPolice UK score of 93.52% from 3,456 reviews — one of the best-rated platforms on that directory. PayPal and gift cards.",
+    "status": "active",
+    "trustScore": 82,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "TGM Panel",
+    "url": "https://www.tgmpanel.co.uk",
+    "description": "UK survey panel with a SurveyPolice UK score of 88.78% from 406 reviews. PayPal, gift cards and prepaid card rewards.",
+    "status": "active",
+    "trustScore": 76,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Five Surveys",
+    "url": "https://fivesurveys.com",
+    "description": "Survey site with a fixed-value survey model. SurveyPolice UK score 70.27% from 128 reviews. PayPal and other rewards.",
+    "status": "under_review",
+    "trustScore": 62,
+    "categories": [
+      "surveys",
+      "surveys-apps"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Y Live",
+    "url": "https://y-live.com",
+    "description": "UK-focused survey panel — the current public brand of the former PopulusLive panel. Points convert to cash or gift cards.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "OnePoll",
+    "url": "https://www.onepoll.com",
+    "description": "UK-focused opinion survey platform. Quick surveys with cash rewards via PayPal or vouchers.",
+    "status": "active",
+    "trustScore": 66,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 10,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Pinecone Research",
+    "url": "https://www.pineconeresearch.co.uk",
+    "description": "Premium research panel with higher fixed payments per study — typically £3–£5 per survey. Limited and waitlist-based in the UK.",
+    "status": "active",
+    "trustScore": 72,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 3,
+        "speed": "daily",
+        "notes": "£3–£5 per survey"
+      }
+    ]
+  },
+  {
+    "name": "Google Opinion Rewards",
+    "url": "https://surveys.google.com/google-opinion-rewards",
+    "description": "Google's own survey app. Short surveys paying $0.10–$1 per completion. PayPal where supported; Google Play credit in most regions. Official Google product.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "surveys",
+      "surveys-apps"
+    ],
+    "features": [
+      "surveys",
+      "app-offers"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 1,
+        "speed": "weekly",
+        "notes": "$0.10–$1 per survey"
+      }
+    ]
+  },
+ 
+  {
+    "name": "Survey Junkie",
+    "url": "https://www.surveyjunkie.com",
+    "description": "US-focused survey panel. SurveyPolice UK score 43.88% from 312 reviews. PayPal, bank transfer and gift cards. Best for US-based users.",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "surveys",
+      "surveys-panels"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 5,
+        "speed": "daily"
+      }
+    ]
+  },
+  {
+    "name": "Respondent",
+    "url": "https://www.respondent.io",
+    "description": "Professional research platform for high-value interviews and studies. Averages ~$75 per project, with around 4,000 new projects per month. Best for professionals in tech, business and healthcare.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "surveys",
+      "surveys-academic"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 25,
+        "speed": "weekly",
+        "notes": "~$75 average per project"
+      }
+    ]
+  },
+  {
+    "name": "CloudResearch Connect",
+    "url": "https://www.cloudresearch.com/connect",
+    "description": "Academic research platform where studies advertise their exact participant payments upfront. Availability varies by profile. Payments via PayPal.",
+    "status": "active",
+    "trustScore": 78,
+    "categories": [
+      "surveys",
+      "surveys-academic"
+    ],
+    "features": [
+      "surveys",
+      "referral"
+    ],
+    "hasReferralProgram": false,
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "paypal",
+        "min": 1,
+        "speed": "weekly"
+      }
+    ]
+  }
+]
