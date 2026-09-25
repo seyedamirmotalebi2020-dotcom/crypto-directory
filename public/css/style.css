@@ -1427,7 +1427,6 @@ img, svg, video, canvas { max-width: 100%; }
 .blog-container {
   max-width: 780px;
   margin: 0 auto;
-  padding: calc(100px + env(safe-area-inset-top, 0px)) var(--sp-3) var(--sp-5);
 }
 
 .breadcrumb {
