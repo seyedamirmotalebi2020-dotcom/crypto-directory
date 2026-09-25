@@ -61,7 +61,7 @@ model Site {
   lastTestedAt       DateTime?  @db.Date
   createdAt          DateTime   @default(now())
   updatedAt          DateTime   @updatedAt
-
+reviewData         Json?     
   categories SiteCategory[]
   features   SiteFeature[]
   offers     SiteOffer[]
