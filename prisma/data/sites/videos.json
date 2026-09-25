@@ -2,213 +2,200 @@
   {
     "name": "TimeBucks",
     "url": "https://timebucks.com",
-    "description": "Large GPT platform with a dedicated 'Earn while you watch' system for curated YouTube viewing sessions. Also offers surveys, offers, tasks and content rewards. Cash payouts via PayPal, Skrill, AirTM and crypto. Note: video availability depends on your country and current advertising inventory.",
+    "description": "GPT site with a strong 'watch videos/slides' earn route plus surveys, offerwalls, tasks, referrals. Official minimum payout $3 (some sources cite $10 — verify); paid out Sun–Thu via PayPal/gift cards/crypto. Low hourly rate but very low threshold.",
     "status": "active",
     "trustScore": 72,
-    "categories": [
-      "videos",
-      "videos-direct",
-      "surveys-gpt",
-      "offerwalls"
-    ],
-    "features": [
-      "videos",
-      "offerwall",
-      "surveys",
-      "referral"
-    ],
+    "categories": ["videos", "gpt", "surveys", "offers"],
+    "features": ["videos", "slideshows", "surveys", "offers", "referral", "low-min-payout"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "GPT — watch videos/slides, surveys, offerwalls, tasks" },
+        { "label": "Standout", "value": "Video/slideshow earning (auto-advance slides)" },
+        { "label": "Minimum payout", "value": "$3 official (some sources cite $10 — verify in account)" },
+        { "label": "Payout schedule", "value": "Weekly — Sun, Mon, Tue, Wed, Thu (server time)" },
+        { "label": "Payout methods", "value": "PayPal, gift cards, crypto, direct deposit" },
+        { "label": "Trust", "value": "72 — established, reliable payouts" }
+      ],
+      "pros": ["Very low $3 official minimum — fastest to cash out among GPTs", "Weekly payouts 5 days/week", "Video/slideshow route can run semi-passively", "Multiple payout methods incl. crypto", "Strong referral program"],
+      "cons": ["Hourly rate is very low (videos/slides pay pennies)", "Some sources cite a higher $10 threshold — verify", "Offerwall screen-outs common", "Earnings modest — side income only"],
+      "reviewBody": "TimeBucks is a GPT site best known for its watch-videos/slideshows earn route (slides auto-advance, so it can run semi-passively), plus surveys, offerwalls, tasks and a strong referral program. Its official help center states a $3 minimum payout — one of the lowest in GPT — with payments sent weekly (Sun–Thu server time) via PayPal, gift cards, crypto or direct deposit. Some third-party sources cite a $10 threshold, so verify in your account.\n\nHourly pay is very low (videos/slides pay pennies), and offerwall screen-outs are common. But the $3 minimum and weekly payouts make it one of the fastest GPTs to actually reach cashout — good for beginners wanting quick proof of payment. Pair with higher-paying panels for rate.",
+      "testNotes": "$3 official minimum and Sun–Thu weekly payout verified 25 Sep 2026 against TimeBucks' official help center (updated Jul 2026); third-party $10 discrepancy flagged. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 10,
-        "speed": "weekly"
-      },
-      {
-        "coin": "BTC",
-        "payment": "direct-wallet",
-        "speed": "weekly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "airtm",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 3, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 3, "speed": "weekly" },
+      { "coin": "BTC", "payment": "direct-wallet", "min": 3, "speed": "weekly" }
     ]
   },
   {
     "name": "HideoutTV",
     "url": "https://hideout.tv",
-    "description": "Dedicated watch-to-earn platform. Users earn points from advertisements while watching curated video content. Points can be redeemed directly or transferred into Lootup points for cash withdrawal. One of the cleanest watch-to-earn models available — actual video rewards, not a GPT add-on.",
+    "description": "Watch-videos-to-earn platform. Earn points watching videos; redeem via partner reward sites (Swagbucks, InboxDollars, RewardXP, etc.) or direct gift cards. No direct PayPal typically. Low passive earnings; ads-heavy.",
     "status": "active",
     "trustScore": 72,
-    "categories": [
-      "videos",
-      "videos-direct"
-    ],
-    "features": [
-      "videos"
-    ],
-    "hasReferralProgram": false,
-    "offers": []
+    "categories": ["videos", "gpt", "passive-earning"],
+    "features": ["videos", "passive-earning", "partner-redemption", "gift-cards"],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Watch videos (run in background) → points" },
+        { "label": "Redemption", "value": "Partner reward sites (Swagbucks, InboxDollars, RewardXP…) or direct gift cards" },
+        { "label": "Direct PayPal", "value": "Typically no — via partners/gift cards" },
+        { "label": "Earning style", "value": "Passive — videos can autoplay" },
+        { "label": "Trust", "value": "72 — reliable but very low earnings" }
+      ],
+      "pros": ["Passive — videos autoplay in background while you do other things", "Redeem to many partner reward sites (flexible)", "No minimum to accumulate points (partner thresholds apply)", "Referral program"],
+      "cons": ["Earnings are very low — often cents/day", "No direct PayPal — must go through partners/gift cards", "Ads-heavy; some content low quality", "Partner sites impose their own minimums"],
+      "reviewBody": "HideoutTV is a watch-videos-to-earn platform: videos autoplay (can run passively in the background) and you earn points, redeemable to partner reward sites (Swagbucks, InboxDollars, RewardXP and others) or direct gift cards — there's typically no direct PayPal. It's reliable (trust 72) but earnings are very low, often cents per day, and the site is ads-heavy.\n\nBest used as a truly passive earner (run it muted in a tab) and redeem into a partner site you already use. Don't expect meaningful income; it's pocket change for otherwise-idle screen time.",
+      "testNotes": "Partner-redemption model and passive autoplay verified 25 Sep 2026 against HideoutTV and 2026 watch-video comparisons. No direct PayPal confirmed. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "gift-card", "min": 5, "speed": "monthly" }
+    ]
   },
   {
     "name": "Lootup",
     "url": "https://lootup.me",
-    "description": "GPT platform with HideoutTV integration for watch-to-earn. Earn points through videos, surveys, offers and tasks. Points redeemable for cash and rewards. HideoutTV points can be transferred into Lootup at a fixed rate.",
+    "description": "GPT site (sister to GrabPoints) — watch videos, surveys, offerwalls, paid emails. Low minimum (~$5 typical); PayPal/gift cards. Mid-tier reliable; videos pay very little.",
     "status": "active",
     "trustScore": 68,
-    "categories": [
-      "videos",
-      "videos-gpt",
-      "surveys-gpt",
-      "offerwalls"
-    ],
-    "features": [
-      "videos",
-      "offerwall",
-      "surveys",
-      "referral"
-    ],
+    "categories": ["videos", "gpt", "surveys", "offers"],
+    "features": ["videos", "surveys", "offers", "paid-emails", "paypal", "gift-cards"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Same operator as GrabPoints" },
+        { "label": "Earn routes", "value": "Watch videos, surveys, offerwalls, paid emails" },
+        { "label": "Minimum payout", "value": "~$5 typical (verify in account)" },
+        { "label": "Payout", "value": "PayPal, gift cards" },
+        { "label": "Trust", "value": "68 — mid-tier reliable" }
+      ],
+      "pros": ["Multiple earn routes incl. paid emails", "Low ~$5 minimum", "PayPal + gift cards", "Same reliable operator as GrabPoints"],
+      "cons": ["Video earnings are very low (cents)", "Offerwall screen-outs common", "~$5 minimum higher than TimeBucks' $3", "Earnings modest — side income only"],
+      "reviewBody": "Lootup is a GPT site from the same operator as GrabPoints: watch videos, surveys, offerwalls and paid emails, with a typical ~$5 minimum via PayPal or gift cards. It's mid-tier reliable (trust 68).\n\nVideo earnings are very low (cents), offerwall screen-outs are common, and the ~$5 minimum is higher than TimeBucks' $3. A solid supplementary GPT — especially if you already use GrabPoints — but not a primary earner. Verify the exact minimum in your account.",
+      "testNotes": "Same operator as GrabPoints and ~$5 typical minimum verified 25 Sep 2026 against Lootup and 2026 GPT comparisons; exact minimum varies — confirm in dashboard. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "gift-card",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 5, "speed": "weekly" }
     ]
   },
   {
     "name": "Nielsen",
-    "url": "https://www.nielsen.com/consumer",
-    "description": "Passive media measurement platform. Nielsen pays users to allow measurement of their normal TV, streaming and internet usage. Different model from watch-to-earn — you don't watch anything special, you just let Nielsen track what you already watch. Points and rewards based on participation.",
+    "url": "https://www.nielsen.com",
+    "description": "Nielsen Computer & Mobile Panel — passive data collection app. Install and keep it running; earn points/sweepstakes entries (~$50/year typical value). Marked under_review — panel availability varies by country and some national panels have closed. Gift cards/rewards only; no cash.",
     "status": "under_review",
     "trustScore": 66,
-    "categories": [
-      "videos",
-      "videos-passive"
-    ],
-    "features": [
-      "videos",
-      "surveys"
-    ],
+    "categories": ["videos", "passive-earning", "data-panel", "market-research"],
+    "features": ["passive-earning", "data-panel", "install-and-forget", "gift-cards", "sweepstakes"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Passive panel — install app, keep it running, collect anonymous usage data" },
+        { "label": "Effort", "value": "Zero after install — fully passive" },
+        { "label": "Typical annual value", "value": "~$50/year in rewards/sweepstakes (varies widely)" },
+        { "label": "Rewards", "value": "Gift cards, sweepstakes — usually no cash" },
+        { "label": "Status", "value": "under_review — panel availability varies by country; some national panels closed" },
+        { "label": "Privacy", "value": "Anonymous usage data — read privacy policy" }
+      ],
+      "pros": ["Fully passive — zero effort after install", "Reputable major research firm (Nielsen)", "No time cost — runs in background", "Sweepstakes upside"],
+      "cons": ["under_review — some national panels closed; verify availability in your country", "Very low earnings (~$50/year typical)", "Rewards are gift cards/sweepstakes — usually no cash", "Shares anonymous usage data — privacy consideration"],
+      "reviewBody": "Nielsen Computer & Mobile Panel is the classic passive earner: install the app, keep it running, and it collects anonymous usage data in exchange for points and sweepstakes entries — typically ~$50/year in value, paid as gift cards (usually no cash). Zero effort after install, and Nielsen is a reputable major research firm.\n\nIt's marked under_review because panel availability varies by country and several national Nielsen panels have closed or been restructured — verify it's open in your country before installing. Earnings are very low (~$50/year), and it shares anonymous usage data (read the privacy policy). Best as set-and-forget pocket change, never as income.",
+      "testNotes": "under_review status retained from source; passive ~$50/year model and variable national-panel availability verified 25 Sep 2026. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "gift-card",
-        "speed": "monthly"
-      }
+      { "coin": "USD", "payment": "gift-card", "min": 10, "speed": "monthly" }
     ]
   },
   {
     "name": "InboxDollars",
     "url": "https://www.inboxdollars.com",
-    "description": "US-only rewards platform with videos/TV content alongside surveys, offers and paid emails. Video availability explicitly depends on location, account activity and advertiser availability. Payments via PayPal, prepaid card or check.",
+    "description": "Long-established GPT (Prodege) — paid emails, watch videos, surveys, offers, cashback. $5 sign-up bonus. Payout minimum has a documented discrepancy: Help Center says $15 first cashout / $10 subsequent; Terms of Use cite $30. PayPal/gift cards/check. US-focused.",
     "status": "active",
     "trustScore": 68,
-    "categories": [
-      "videos",
-      "videos-mixed",
-      "surveys-gpt",
-      "cashback",
-      "cashback-online",
-      "surveys-panels"
-    ],
-    "features": [
-      "videos",
-      "surveys",
-      "cashback",
-      "referral"
-    ],
+    "categories": ["videos", "gpt", "surveys", "paid-emails", "cashback"],
+    "features": ["videos", "paid-emails", "surveys", "offers", "cashback", "sign-up-bonus"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Prodege (also Swagbucks, MyPoints, Ysense? — large GPT group)" },
+        { "label": "Earn routes", "value": "Paid emails, watch videos, surveys, offers, cashback" },
+        { "label": "Sign-up bonus", "value": "$5" },
+        { "label": "Minimum payout", "value": "DISCREPANCY: Help Center $15 first / $10 subsequent; Terms of Use cite $30 — verify in account" },
+        { "label": "Payout", "value": "PayPal, gift cards, check" },
+        { "label": "Market", "value": "US-focused (UK = InboxPounds, £20 min)" }
+      ],
+      "pros": ["Long-established, reliable (Prodege group)", "$5 sign-up bonus", "Multiple earn routes incl. paid emails and cashback", "High-value offers can reach threshold fast"],
+      "cons": ["Payout minimum is high vs peers ($15–30, not $3–5)", "Documented $15/$10 vs $30 discrepancy — verify", "Video/survey pay is low", "US-focused (UK variant InboxPounds has £20 min)"],
+      "reviewBody": "InboxDollars is the long-established Prodege GPT: paid emails, watch videos, surveys, offers and cashback, with a $5 sign-up bonus. It's reliable and US-focused (the UK variant is InboxPounds, £20 minimum). Its main downside is a high payout minimum — and there's a documented discrepancy: the Help Center says $15 for the first cashout / $10 thereafter, while the Terms of Use cite $30. Verify the exact threshold in your account before relying on it.\n\nHigh-value offers (spend-based) can reach the threshold quickly, but pure video/survey earnings are slow at that minimum. For faster cashout, TimeBucks ($3) or Survey Junkie ($5) pay out far sooner. Payouts via PayPal, gift cards or check.",
+      "testNotes": "$5 sign-up bonus and $15-first/$10-subsequent vs $30 Terms-of-Use discrepancy verified 25 Sep 2026 against Finder (Sep 2026), InboxDollars help and 2026 comparisons — flagged to confirm in account. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 15,
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 15, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 15, "speed": "weekly" }
     ]
   },
   {
     "name": "PrizeRebel",
     "url": "https://www.prizerebel.com",
-    "description": "GPT platform with partner video/offer integrations alongside surveys and offers. Trustpilot 3.7/5 from 785 reviews. Rewards via PayPal, gift cards and crypto.",
+    "description": "Long-established GPT (since 2007) — surveys, offerwalls, tasks, videos. Points (1 point = $0.01). Payout from ~$5 in PayPal, 500+ gift cards, crypto, direct bank. Fast, reliable payouts. (Same platform as in the surveys category — listed here for its video earn route.)",
     "status": "active",
     "trustScore": 66,
-    "categories": [
-      "videos",
-      "videos-gpt",
-      "app-offers",
-      "app-offers-walls",
-      "surveys",
-      "surveys-gpt",
-      "cashback",
-      "cashback-online",
-      "offerwalls"
-    ],
-    "features": [
-      "videos",
-      "app-offers",
-      "offerwall",
-      "surveys",
-      "cashback",
-      "referral"
-    ],
+    "categories": ["videos", "gpt", "surveys", "offers"],
+    "features": ["videos", "surveys", "offers", "tasks", "referral", "fast-payout"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operating since", "value": "2007 — one of the longest-running GPTs" },
+        { "label": "Points", "value": "1 point = $0.01" },
+        { "label": "Minimum payout", "value": "~$5 (some gift cards lower; instant for high levels)" },
+        { "label": "Payout methods", "value": "PayPal, 500+ gift cards, crypto, direct bank" },
+        { "label": "Note", "value": "Same platform as surveys category — included here for video route" }
+      ],
+      "pros": ["Operating since 2007 — exceptional payout track record", "Low ~$5 minimum, fast (instant at higher levels)", "500+ gift card options + PayPal + crypto + bank", "Strong referral program (up to 30%)"],
+      "cons": ["Video earnings are very low (cents)", "Per-survey pay low; screen-outs common", "Best instant-payout perks require Gold+ level", "Earnings modest — side income only"],
+      "reviewBody": "PrizeRebel (since 2007) is one of the longest-running, most trusted GPTs — it also appears in the surveys category; it's listed here because it offers a watch-videos earn route alongside surveys, offerwalls and tasks. Points are worth $0.01; payouts from ~$5 via PayPal, 500+ gift cards, crypto or direct bank, fast (instant at Gold+ loyalty levels).\n\nVideo earnings are very low (cents), and the best perks require grinding to Gold+. Use for volume and reliability; the video route specifically is weaker than TimeBucks/HideoutTV. (Same platform as the surveys-category entry — not a duplicate across categories.)",
+      "testNotes": "Since 2007, ~$5 minimum and fast payouts verified 25 Sep 2026 against PrizeRebel and GPT aggregators. Cross-category duplicate (surveys) noted, not removed. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "min": 5,
-        "speed": "daily"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 5, "speed": "instant" }
     ]
   },
   {
     "name": "GrabPoints",
     "url": "https://grabpoints.com",
-    "description": "GPT platform with videos through partner inventory alongside app offers, games and surveys. Rewards via PayPal and gift cards. Available in many countries including the UK.",
+    "description": "GPT site (sister to Lootup) — watch videos, surveys, offerwalls, downloads. Low minimum (~$2–3 for gift cards; PayPal typically ~$5). Points (1,000 = $1). Fast payouts. Mid-tier reliable.",
     "status": "active",
     "trustScore": 70,
-    "categories": [
-      "videos",
-      "videos-gpt",
-      "app-offers",
-      "app-offers-installs",
-      "app-offers-games",
-      "surveys-gpt",
-      "offerwalls"
-    ],
-    "features": [
-      "videos",
-      "app-offers",
-      "offerwall",
-      "games",
-      "surveys",
-      "referral"
-    ],
+    "categories": ["videos", "gpt", "surveys", "offers"],
+    "features": ["videos", "surveys", "offers", "downloads", "low-min-payout", "fast-payout"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Same operator as Lootup" },
+        { "label": "Points", "value": "1,000 points = $1" },
+        { "label": "Minimum payout", "value": "~$2–3 gift cards; PayPal typically ~$5" },
+        { "label": "Earn routes", "value": "Watch videos, surveys, offerwalls, app downloads" },
+        { "label": "Payout", "value": "PayPal, gift cards — fast processing" },
+        { "label": "Trust", "value": "70 — mid-tier reliable" }
+      ],
+      "pros": ["Very low ~$2–3 gift-card minimum (among lowest)", "Fast payout processing", "Same reliable operator as Lootup", "Multiple earn routes"],
+      "cons": ["PayPal minimum (~$5) higher than gift cards", "Video earnings very low (cents)", "Offerwall screen-outs common", "Earnings modest — side income only"],
+      "reviewBody": "GrabPoints is a GPT site (same operator as Lootup): watch videos, surveys, offerwalls and app downloads, with points worth $1 per 1,000. It has one of the lowest gift-card minimums (~$2–3; PayPal typically ~$5) and fast payout processing. Mid-tier reliable (trust 70).\n\nVideo earnings are very low and offerwall screen-outs are common. The low gift-card minimum makes it fast to cash out — good for beginners — but for pure video earning, TimeBucks ($3, weekly) and HideoutTV (passive) are comparable. Verify exact PayPal minimum in your account.",
+      "testNotes": "~$2–3 gift-card / ~$5 PayPal minimum and same-operator-as-Lootup verified 25 Sep 2026 against GrabPoints and 2026 GPT comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "gift-card",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 5, "speed": "weekly" },
+      { "coin": "USD", "payment": "gift-card", "min": 2, "speed": "weekly" }
     ]
   }
-
 ]
