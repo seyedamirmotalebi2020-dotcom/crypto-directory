@@ -1722,7 +1722,7 @@ img, svg, video, canvas { max-width: 100%; }
 .blog-container {
   width: min(1440px, calc(100% - 3rem));
   margin-inline: auto;
-  padding: 1.35rem 0 5rem;
+  
 }
 
 #siteContent {
