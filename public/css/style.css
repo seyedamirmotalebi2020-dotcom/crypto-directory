@@ -4139,8 +4139,7 @@ img, svg, video, canvas { max-width: 100%; }
 }
 
 .fact-row {
-  display: grid;
-  grid-template-columns: 1fr 1.4fr;
+
   gap: 1rem;
   padding: 0.85rem 1.2rem;
   border-bottom: 1px solid rgba(37, 99, 235, 0.08);
