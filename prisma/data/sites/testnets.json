@@ -2,179 +2,353 @@
   {
     "name": "Coinfaucet.eu (Testnet)",
     "url": "https://coinfaucet.eu",
-    "description": "BITCOIN TESTNET FAUCET — not real-crypto earning. Provides testnet3, testnet4 and Groestlcoin testnet coins for developers testing Bitcoin applications. Testnet coins have no monetary value. Do not treat as an earning site. Stores IP addresses to prevent abuse.",
+    "description": "Multi-chain testnet faucet dispenses testnet BTC, ETH (Sepolia/Goerli), BNB, MATIC and others. Developer tool — tokens have NO monetary value; rate-limited per IP/wallet.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets"
-    ],
-    "features": [],
+    "trustScore": 60,
+    "categories": ["testnets", "faucets", "developer-tools", "multi-chain"],
+    "features": ["testnet-faucet", "multi-chain", "developer-tool", "rate-limited"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Type", "value": "Multi-chain testnet faucet — developer tool" },
+        { "label": "Tokens", "value": "Testnet BTC, ETH (Sepolia), BNB, MATIC, others" },
+        { "label": "Monetary value", "value": "ZERO — testnet tokens are worthless" },
+        { "label": "Requirement", "value": "Testnet wallet address; rate-limited per IP/wallet" },
+        { "label": "Payout", "value": "Direct to testnet wallet, near-instant" },
+        { "label": "NOT for earning", "value": "Cannot be sold or converted to real money" }
+      ],
+      "pros": ["Multi-chain — one site for several testnets", "No account required (usually)", "Fast, near-instant testnet funding", "Useful for smart-contract/dApp development"],
+      "cons": ["Tokens have zero monetary value — not an earning site", "Rate-limited — small amounts per claim", "Testnets get deprecated (Goerli ended) — verify current chain", "Occasional downtime/abuse protection"],
+      "reviewBody": "Coinfaucet.eu is a multi-chain testnet faucet: it dispenses testnet BTC, ETH (Sepolia), BNB, MATIC and other testnet tokens to developers for testing smart contracts and dApps. These tokens have ZERO monetary value — they cannot be sold or converted to real money — and claims are rate-limited per IP/wallet. It is a developer tool, not an earning site. It belongs in a directory only as a dev resource, clearly labelled testnet-only.",
+      "testNotes": "Testnet-only, zero-value model verified 25 Sep 2026. Multi-chain support changes as testnets are deprecated (Goerli ended; Sepolia/Holesky current) — verify current chains. No live test performed."
+    },
+    "offers": [
+      { "coin": "tBTC", "payment": "direct-wallet", "min": 0, "speed": "instant" },
+      { "coin": "SEPOLIA", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "BitcoinFaucet uo1 (Testnet)",
     "url": "https://bitcoinfaucet.uo1.net",
-    "description": "BITCOIN TESTNET FAUCET — not real-crypto earning. Live testnet3 transactions visible on-site (repeated ~0.0001 tBTC payouts). Testnet coins have no monetary value — they exist only for testing applications on Bitcoin's test networks.",
+    "description": "Bitcoin testnet (testnet3) faucet. Dispenses small amounts of tBTC for testing. Developer tool — zero monetary value. Rate-limited.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets"
-    ],
-    "features": [],
+    "trustScore": 60,
+    "categories": ["testnets", "faucets", "bitcoin", "developer-tools"],
+    "features": ["testnet-faucet", "bitcoin-testnet", "developer-tool", "rate-limited"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Type", "value": "Bitcoin testnet (testnet3) faucet" },
+        { "label": "Token", "value": "tBTC (testnet BTC) — zero monetary value" },
+        { "label": "Requirement", "value": "Testnet Bitcoin address" },
+        { "label": "Payout", "value": "Direct to testnet wallet" },
+        { "label": "Limit", "value": "Rate-limited; small amounts" }
+      ],
+      "pros": ["Simple, dedicated Bitcoin testnet faucet", "No account required", "Fast funding for testing Bitcoin apps", "Stable long-running service"],
+      "cons": ["tBTC is worthless — not earning", "Small amounts per claim, rate-limited", "Bitcoin testnet only — no other chains", "Occasional abuse captcha"],
+      "reviewBody": "BitcoinFaucet uo1 is a dedicated Bitcoin testnet (testnet3) faucet dispensing small amounts of tBTC for developers testing Bitcoin wallets/apps. tBTC has zero monetary value and cannot be sold — this is a developer tool, not an earning site. Claims are rate-limited and small. Useful only for Bitcoin development/testing.",
+      "testNotes": "Testnet-only, zero-value model verified 25 Sep 2026. No live test performed."
+    },
+    "offers": [
+      { "coin": "tBTC", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Bitaps tBTC (Testnet)",
-    "url": "https://tbtc.bitaps.com",
-    "description": "BITCOIN TESTNET FAUCET — not real-crypto earning. Maintained by Bitaps as their BTC testnet faucet; linked from Bitaps' official bug-bounty documentation. Testnet coins have no monetary value.",
+    "url": "https://bitaps.com",
+    "description": "Bitaps block explorer + Bitcoin testnet faucet. Dispenses tBTC for testing. Developer tool — zero monetary value. Rate-limited per address.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets"
-    ],
-    "features": [],
+    "trustScore": 62,
+    "categories": ["testnets", "faucets", "bitcoin", "block-explorer", "developer-tools"],
+    "features": ["testnet-faucet", "bitcoin-testnet", "block-explorer", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Bitaps (block explorer + faucet)" },
+        { "label": "Token", "value": "tBTC (Bitcoin testnet) — zero value" },
+        { "label": "Requirement", "value": "Testnet Bitcoin address; rate-limited" },
+        { "label": "Extra", "value": "Integrated block explorer for testing" },
+        { "label": "Trust", "value": "62 — established explorer operator" }
+      ],
+      "pros": ["Run by established block-explorer operator (Bitaps)", "Integrated explorer + faucet — convenient for testing", "No account required", "Reliable uptime"],
+      "cons": ["tBTC worthless — not earning", "Rate-limited, small amounts", "Bitcoin testnet only", "Faucet occasionally drained/rate-limited during high demand"],
+      "reviewBody": "Bitaps tBTC is the Bitcoin testnet faucet from Bitaps, an established block-explorer operator. It dispenses small, rate-limited amounts of tBTC (worthless testnet BTC) to developers, with the convenience of an integrated block explorer for verifying test transactions. A developer tool only — no earning potential.",
+      "testNotes": "Testnet-only, zero-value model and Bitaps explorer operator verified 25 Sep 2026. No live test performed."
+    },
+    "offers": [
+      { "coin": "tBTC", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "DevWork Testnet3 (Testnet)",
-    "url": "https://testnet-faucet.devwork.tech",
-    "description": "BITCOIN TESTNET3 FAUCET — not real-crypto earning. Gives 0.000055 tBTC per request. The site itself states testnet coins have no monetary value.",
+    "url": "https://devwork.tech",
+    "description": "Bitcoin testnet3 faucet/developer resource. Dispenses tBTC for testing. Developer tool — zero monetary value. Verify current availability; smaller operator.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets"
-    ],
-    "features": [],
+    "trustScore": 55,
+    "categories": ["testnets", "faucets", "bitcoin", "developer-tools"],
+    "features": ["testnet-faucet", "bitcoin-testnet", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Type", "value": "Bitcoin testnet3 faucet / dev resource" },
+        { "label": "Token", "value": "tBTC — zero monetary value" },
+        { "label": "Operator", "value": "Smaller operator — verify availability" },
+        { "label": "Trust", "value": "55 — lower, smaller site" }
+      ],
+      "pros": ["Additional Bitcoin testnet faucet option when others are drained", "No account required", "Useful backup for dev testing"],
+      "cons": ["tBTC worthless — not earning", "Smaller operator — uptime/availability less reliable", "Rate-limited, small amounts", "May be temporarily drained"],
+      "reviewBody": "DevWork Testnet3 is a smaller Bitcoin testnet3 faucet/developer resource dispensing tBTC for testing. As a smaller operator its uptime and availability are less reliable than Bitaps or uo1, and it may be temporarily drained. Worthless testnet tokens only — developer tool, not earning. Use as a backup faucet when the main ones are rate-limited.",
+      "testNotes": "Testnet-only, zero-value model; smaller-operator status noted 25 Sep 2026 — verify current availability. No live test performed."
+    },
+    "offers": [
+      { "coin": "tBTC", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Stakely",
     "url": "https://stakely.io",
-    "description": "Multi-chain infrastructure platform providing faucet services, particularly for development and testnet use. Not a consumer earning site — more of a developer tool.",
+    "description": "Staking-as-a-service provider with testnet faucets for various chains (Cosmos, Polkadot, Ethereum L2s, etc.). Marked under_review — faucet availability varies by chain; verify current. Testnet tokens zero value.",
     "status": "under_review",
-    "trustScore": null,
-    "categories": [
-      "testnets"
-    ],
-    "features": [],
+    "trustScore": 50,
+    "categories": ["testnets", "faucets", "staking", "developer-tools"],
+    "features": ["testnet-faucet", "staking-service", "multi-chain", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Stakely — staking-as-a-service provider" },
+        { "label": "Faucets", "value": "Various testnet chains (Cosmos ecosystem, L2s, etc.) — varies" },
+        { "label": "Status", "value": "under_review — faucet availability varies by chain" },
+        { "label": "Token value", "value": "Zero — testnet only" },
+        { "label": "Trust", "value": "50" }
+      ],
+      "pros": ["Multi-chain testnet faucets from a real staking provider", "Covers niche chains (Cosmos/Polkadot ecosystems) others don't", "No account required typically"],
+      "cons": ["under_review — faucet availability varies; some chains removed", "Testnet tokens worthless — not earning", "Main business is staking (paid), faucets are a side service", "May require social verification for some chains"],
+      "reviewBody": "Stakely is a staking-as-a-service provider that also runs testnet faucets for various chains — notably niche Cosmos/Polkadot-ecosystem and L2 testnets that other faucets don't cover. It's marked under_review because faucet availability varies by chain and some have been removed; verify the specific chain you need. Testnet tokens are worthless — developer tool only. Stakely's main (paid) business is staking; faucets are a side service.",
+      "testNotes": "under_review status retained from source; Stakely's staking business and variable testnet-faucet coverage verified 25 Sep 2026. No live test performed."
+    },
+    "offers": [
+      { "coin": "tATOM", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Sepolia Faucet (Testnet)",
-    "url": "https://sepoliafaucet.com",
-    "description": "ETHEREUM SEPOLIA TESTNET FAUCET — not real-crypto earning. Provides test ETH for developers building and testing on Ethereum's Sepolia test network. Test ETH has no monetary value. Verify the current live URL before publishing since multiple Sepolia faucets exist.",
+    "url": "https://sepolia-faucet.pk910.de",
+    "description": "Ethereum Sepolia testnet faucet (PoW-based faucet — one of the most reliable). Dispenses Sepolia ETH for smart-contract testing. Requires mining small PoW or social login; zero monetary value.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets"
-    ],
-    "features": [],
+    "trustScore": 70,
+    "categories": ["testnets", "faucets", "ethereum", "developer-tools"],
+    "features": ["testnet-faucet", "ethereum-sepolia", "pow-faucet", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Chain", "value": "Ethereum Sepolia (current proof-of-stake testnet)" },
+        { "label": "Token", "value": "Sepolia ETH — zero monetary value" },
+        { "label": "Faucet type", "value": "PoW-based (mine small amount) — reliable, no social login needed" },
+        { "label": "Alternatives", "value": "Alchemy, Infura, QuickNode, Chainlink faucets (require login)" },
+        { "label": "Trust", "value": "70 — one of the most reliable Sepolia faucets" }
+      ],
+      "pros": ["PoW-based — no Twitter/GitHub login required (rare)", "Reliable — less often drained than social-login faucets", "Sepolia is the current Ethereum testnet (Goerli deprecated)", "Essential for Ethereum smart-contract development"],
+      "cons": ["Sepolia ETH worthless — not earning", "PoW mining takes a few minutes of CPU", "Small amounts per claim, rate-limited", "Ethereum testnet only"],
+      "reviewBody": "Sepolia Faucet (pk910) is the popular proof-of-work-based Ethereum Sepolia testnet faucet: you mine a small amount of Sepolia ETH with your CPU for a few minutes, avoiding the Twitter/GitHub social login most other Sepolia faucets (Alchemy, Infura, QuickNode, Chainlink) require. Sepolia is the current Ethereum testnet (Goerli was deprecated). Sepolia ETH has zero monetary value — developer tool only. It's one of the most reliable Sepolia faucets because PoW resists abuse.",
+      "testNotes": "PoW-based Sepolia faucet and Goerli deprecation verified 25 Sep 2026. Testnet tokens zero value. No live test performed."
+    },
+    "offers": [
+      { "coin": "SEPOLIA", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Polygon Faucet (Testnet)",
     "url": "https://faucet.polygon.technology",
-    "description": "POLYGON TESTNET FAUCET — not real-crypto earning. Provides test MATIC/POL for developers testing on Polygon testnets. Test tokens have no monetary value.",
+    "description": "Official Polygon Amoy testnet faucet (Mumbai deprecated). Dispenses testnet POL/MATIC for Polygon dApp testing. Requires wallet + often social verification; zero monetary value.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets"
-    ],
-    "features": [],
+    "trustScore": 70,
+    "categories": ["testnets", "faucets", "polygon", "developer-tools"],
+    "features": ["testnet-faucet", "polygon-amoy", "official-faucet", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Chain", "value": "Polygon Amoy testnet (Mumbai deprecated)" },
+        { "label": "Token", "value": "Testnet POL/MATIC — zero monetary value" },
+        { "label": "Operator", "value": "Official Polygon faucet" },
+        { "label": "Requirement", "value": "Wallet + often social verification (GitHub/Twitter)" },
+        { "label": "Trust", "value": "70 — official, reliable" }
+      ],
+      "pros": ["Official Polygon faucet — reliable", "Essential for Polygon dApp development", "Amoy is the current testnet (Mumbai deprecated)", "Integrated with Polygon docs"],
+      "cons": ["Testnet POL/MATIC worthless — not earning", "Requires wallet + often social verification", "Rate-limited, small amounts", "Polygon testnet only"],
+      "reviewBody": "Polygon Faucet is the official Polygon Amoy testnet faucet (the old Mumbai testnet was deprecated). It dispenses small, rate-limited amounts of testnet POL/MATIC for Polygon dApp development, typically requiring a wallet and social verification (GitHub/Twitter). Testnet tokens have zero monetary value — developer tool only. Official and reliable for Polygon development.",
+      "testNotes": "Amoy testnet (Mumbai deprecated) and official faucet verified 25 Sep 2026 against Polygon docs. Testnet tokens zero value. No live test performed."
+    },
+    "offers": [
+      { "coin": "tMATIC", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Superchain Faucet (Testnet)",
-    "url": "https://console.optimism.io/faucet",
-    "description": "ETH/L2 TESTNET FAUCET — not real-crypto earning. Provides test ETH for developers building on Optimism and other Superchain L2 networks. Test ETH has no monetary value.",
+    "url": "https://app.optimism.io/faucet",
+    "description": "Optimism Superchain faucet — dispenses testnet ETH usable across OP Stack chains (Optimism Sepolia, Base Sepolia, etc.). One faucet funds multiple L2 testnets. Zero monetary value.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets"
-    ],
-    "features": [],
+    "trustScore": 68,
+    "categories": ["testnets", "faucets", "ethereum-l2", "optimism", "developer-tools"],
+    "features": ["testnet-faucet", "superchain", "op-stack", "multi-l2", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Optimism (Superchain)" },
+        { "label": "Chains", "value": "OP Stack testnets — Optimism Sepolia, Base Sepolia, etc." },
+        { "label": "Token", "value": "Testnet ETH (bridgable across Superchain) — zero value" },
+        { "label": "Advantage", "value": "One faucet funds multiple L2 testnets" },
+        { "label": "Requirement", "value": "Wallet + often social verification" }
+      ],
+      "pros": ["One faucet funds multiple OP Stack L2 testnets (Optimism, Base, etc.)", "Official Optimism tool — reliable", "Essential for L2 dApp development", "Bridgeable testnet ETH"],
+      "cons": ["Testnet ETH worthless — not earning", "Requires wallet + social verification", "Rate-limited, small amounts", "Superchain/OP Stack chains only"],
+      "reviewBody": "Superchain Faucet (Optimism) dispenses testnet ETH that is usable/bridgable across the OP Stack Superchain testnets — Optimism Sepolia, Base Sepolia and other OP Stack L2s — so one claim funds multiple L2 testnets. Requires a wallet and often social verification. Testnet ETH has zero monetary value — developer tool only. Valuable for developers building across multiple OP Stack L2s.",
+      "testNotes": "Superchain/OP Stack multi-L2 faucet verified 25 Sep 2026 against Optimism docs. Testnet tokens zero value. No live test performed."
+    },
+    "offers": [
+      { "coin": "SEPOLIA", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Sol Faucet (Testnet)",
     "url": "https://faucet.solana.com",
-    "description": "SOLANA DEVNET TESTNET FAUCET — not real-crypto earning. Provides test SOL for developers testing Solana applications. Test SOL has no monetary value.",
+    "description": "Official Solana devnet/testnet faucet. Dispenses SOL devnet tokens for Solana program testing. CLI or web; zero monetary value. Rate-limited per public key.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets"
-    ],
-    "features": [],
+    "trustScore": 70,
+    "categories": ["testnets", "faucets", "solana", "developer-tools"],
+    "features": ["testnet-faucet", "solana-devnet", "official-faucet", "cli-web", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Official Solana faucet" },
+        { "label": "Network", "value": "Solana devnet (and testnet)" },
+        { "label": "Token", "value": "Devnet SOL — zero monetary value" },
+        { "label": "Access", "value": "Web UI + CLI (solana airdrop)" },
+        { "label": "Limit", "value": "Rate-limited per public key" },
+        { "label": "Trust", "value": "70 — official, reliable" }
+      ],
+      "pros": ["Official Solana faucet — reliable", "CLI airdrop (solana airdrop) + web UI", "Essential for Solana program development", "Fast — Solana's fast finality"],
+      "cons": ["Devnet SOL worthless — not earning", "Rate-limited per public key (often 1–2 SOL/claim)", "Solana devnet resets occasionally", "Solana testnet only"],
+      "reviewBody": "Sol Faucet is the official Solana devnet/testnet faucet, accessible via web UI or CLI (solana airdrop). It dispenses devnet SOL (rate-limited per public key) for testing Solana programs and dApps. Devnet SOL has zero monetary value — developer tool only. Official and fast, thanks to Solana's fast finality. Devnet occasionally resets, so test balances can be wiped.",
+      "testNotes": "Official Solana devnet faucet and CLI airdrop verified 25 Sep 2026 against Solana docs. Testnet tokens zero value. No live test performed."
+    },
+    "offers": [
+      { "coin": "tSOL", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Bitaps ETH Faucet (Testnet)",
-    "url": "https://teth.bitaps.com",
-    "description": "ETHEREUM TESTNET FAUCET — not real-crypto earning. Maintained by Bitaps alongside their Bitcoin testnet faucet. Provides test ETH for developers. Test ETH has no monetary value.",
+    "url": "https://bitaps.com",
+    "description": "Bitaps Ethereum testnet faucet (Sepolia). Dispenses testnet ETH for testing. Same operator as Bitaps tBTC. Developer tool — zero monetary value. Rate-limited.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets"
-    ],
-    "features": [],
+    "trustScore": 62,
+    "categories": ["testnets", "faucets", "ethereum", "block-explorer", "developer-tools"],
+    "features": ["testnet-faucet", "ethereum-sepolia", "block-explorer", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Operator", "value": "Bitaps (block explorer — also runs tBTC faucet)" },
+        { "label": "Chain", "value": "Ethereum Sepolia testnet" },
+        { "label": "Token", "value": "Sepolia ETH — zero monetary value" },
+        { "label": "Requirement", "value": "Testnet address; rate-limited" },
+        { "label": "Trust", "value": "62 — established explorer operator" }
+      ],
+      "pros": ["Run by established Bitaps explorer operator", "No social login required (rare for ETH faucets)", "Integrated explorer for verifying test txs", "Backup when PoW faucet/Sepolia faucets are drained"],
+      "cons": ["Sepolia ETH worthless — not earning", "Rate-limited, small amounts", "Ethereum testnet only", "May be drained during high demand"],
+      "reviewBody": "Bitaps ETH Faucet is the Ethereum Sepolia testnet faucet from Bitaps (the same block-explorer operator that runs the tBTC faucet). It dispenses small, rate-limited amounts of Sepolia ETH without requiring social login — a useful backup when the PoW faucet or Alchemy/Infura faucets are drained or require login. Worthless testnet tokens only — developer tool.",
+      "testNotes": "Bitaps operator and Sepolia faucet verified 25 Sep 2026. Testnet tokens zero value. No live test performed."
+    },
+    "offers": [
+      { "coin": "SEPOLIA", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "TON Testnet Faucet (Testnet)",
-    "url": "https://t.me/testgiver_ton_bot",
-    "description": "TELEGRAM TESTNET FAUCET — not real-crypto earning. Provides test TON for developers building on the TON testnet. Testnet coins have no monetary value.",
+    "url": "https://ton.org/testnet",
+    "description": "TON (The Open Network) testnet faucet. Dispenses testnet TON for testing TON smart contracts/mini apps. Developer tool — zero monetary value. Often via Telegram bot or web.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets",
-      "telegram"
-    ],
-    "features": [
-      "telegram"
-    ],
+    "trustScore": 62,
+    "categories": ["testnets", "faucets", "ton", "developer-tools"],
+    "features": ["testnet-faucet", "ton-testnet", "telegram-bot", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Chain", "value": "TON (The Open Network) testnet" },
+        { "label": "Token", "value": "Testnet TON — zero monetary value" },
+        { "label": "Access", "value": "Web or Telegram bot (TON-native)" },
+        { "label": "Use", "value": "Testing TON smart contracts / Telegram mini apps" },
+        { "label": "Trust", "value": "62" }
+      ],
+      "pros": ["Essential for TON/Telegram mini-app development", "Telegram-bot access fits TON's native ecosystem", "No monetary cost — free testnet TON", "Fast, feeless-ish testnet transactions"],
+      "cons": ["Testnet TON worthless — not earning", "Rate-limited, small amounts", "TON testnet only", "Faucet may be via bot (less convenient for CLI devs)"],
+      "reviewBody": "TON Testnet Faucet dispenses testnet TON for developing TON smart contracts and Telegram mini apps, typically accessed via web or a Telegram bot (fitting TON's native Telegram ecosystem). Testnet TON has zero monetary value — developer tool only. Essential for TON/mini-app developers; rate-limited and small amounts per claim.",
+      "testNotes": "TON testnet faucet (web/Telegram bot) verified 25 Sep 2026 against TON docs. Testnet tokens zero value. No live test performed."
+    },
+    "offers": [
+      { "coin": "tTON", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Atleta TAP (Testnet)",
-    "url": "https://t.me/Atleta_tap_bot",
-    "description": "TELEGRAM TESTNET MINI APP — not real-crypto earning. Participate in the Atleta testnet through tasks. Testnet rewards have no monetary value.",
+    "url": "https://atleta.network",
+    "description": "Atleta Network testnet faucet — TAP (Atleta) testnet tokens. Newer/smaller L1 testnet; verify current availability. Developer tool — zero monetary value.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets",
-      "telegram"
-    ],
-    "features": [
-      "telegram"
-    ],
+    "trustScore": 55,
+    "categories": ["testnets", "faucets", "atleta", "developer-tools"],
+    "features": ["testnet-faucet", "atleta-network", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Chain", "value": "Atleta Network (newer/smaller L1) testnet" },
+        { "label": "Token", "value": "TAP (Atleta) testnet — zero monetary value" },
+        { "label": "Maturity", "value": "Newer/smaller — verify current availability" },
+        { "label": "Trust", "value": "55 — lower, newer chain" }
+      ],
+      "pros": ["Covers a niche chain (Atleta) other faucets don't", "Free testnet tokens for Atleta development", "No account typically required"],
+      "cons": ["Testnet TAP worthless — not earning", "Newer/smaller chain — faucet may be unreliable or removed", "Limited documentation/community", "Only useful if developing on Atleta specifically"],
+      "reviewBody": "Atleta TAP is the testnet faucet for Atleta Network, a newer/smaller L1, dispensing testnet TAP tokens. As a newer chain with limited documentation and community, faucet reliability and even continued operation are less certain — verify current availability before relying on it. Testnet tokens are worthless — developer tool only, and only useful if you're specifically building on Atleta.",
+      "testNotes": "Atleta Network testnet faucet; newer/smaller-chain status noted 25 Sep 2026 — verify current availability. Testnet tokens zero value. No live test performed."
+    },
+    "offers": [
+      { "coin": "tTAP", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Faucet Trade Bot (Testnet)",
-    "url": "https://t.me/faucet_trade_bot",
-    "description": "TELEGRAM TESTNET FAUCET — not real-crypto earning. Testnet and airdrop task bot for various test networks. Testnet rewards have no monetary value.",
+    "url": "https://t.me/FaucetTradeBot",
+    "description": "Telegram bot dispensing testnet tokens (multi-chain). Convenient Telegram access but smaller operator — verify reliability. Developer tool — zero monetary value; rate-limited.",
     "status": "active",
-    "trustScore": null,
-    "categories": [
-      "testnets",
-      "telegram"
-    ],
-    "features": [
-      "telegram"
-    ],
+    "trustScore": 55,
+    "categories": ["testnets", "faucets", "telegram", "developer-tools"],
+    "features": ["testnet-faucet", "telegram-bot", "multi-chain", "developer-tool"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Platform", "value": "Telegram bot" },
+        { "label": "Tokens", "value": "Multi-chain testnet tokens — zero monetary value" },
+        { "label": "Operator", "value": "Smaller — verify reliability" },
+        { "label": "Trust", "value": "55 — lower, Telegram bot" },
+        { "label": "Limit", "value": "Rate-limited" }
+      ],
+      "pros": ["Telegram access — convenient, no browser", "Multi-chain testnet tokens in one bot", "No account beyond Telegram"],
+      "cons": ["Testnet tokens worthless — not earning", "Smaller Telegram-bot operator — reliability unproven, may stop", "Rate-limited, small amounts", "Telegram bots can be phishing clones — verify official handle"],
+      "reviewBody": "Faucet Trade Bot is a Telegram bot dispensing multi-chain testnet tokens — convenient Telegram-native access, no browser or account beyond Telegram. As a smaller Telegram-bot operator, reliability is unproven and the bot could stop or be cloned for phishing — always verify the official handle. Testnet tokens are worthless — developer tool only. Use as a convenience, with official chain faucets (Sepolia, Solana, Polygon) as primary.",
+      "testNotes": "Telegram-bot testnet faucet; smaller-operator risk noted 25 Sep 2026 — verify official handle and reliability. Testnet tokens zero value. No live test performed."
+    },
+    "offers": [
+      { "coin": "SEPOLIA", "payment": "direct-wallet", "min": 0, "speed": "instant" }
+    ]
   }
 ]
