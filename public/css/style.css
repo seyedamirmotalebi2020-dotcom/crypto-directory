@@ -4286,7 +4286,7 @@ img, svg, video, canvas { max-width: 100%; }
    ══════════════════════════════════════════════════════════════════════ */
 
 .score-breakdown {
-  grid-column: 1 / -1;
+  
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 0.9rem;
