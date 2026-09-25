@@ -2,704 +2,891 @@
   {
     "name": "eBay",
     "url": "https://www.ebay.com",
-    "description": "Global general resale marketplace. Sell almost anything — collectibles, electronics, clothing, home goods. Established buyer protection and large buyer base. Selling fees typically 10–15% depending on category.",
+    "description": "Largest general auction/fixed-price marketplace. 13.25% final value fee (most categories, includes payment processing) on item + shipping, capped at $750/item, plus $0.30 per order. 250 free listings/month, then $0.35 each. Store subscriptions reduce fees. Payout to bank, typically 1–3 business days.",
     "status": "active",
-    "trustScore": 86,
-    "categories": [
-      "selling",
-      "selling-general",
-      "selling-collectibles"
-    ],
-    "features": [
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "trustScore": 84,
+    "categories": ["selling", "selling-general", "selling-collectibles", "selling-auction"],
+    "features": ["selling", "auctions", "fixed-price", "store-subscription", "global-shipping"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Final value fee", "value": "13.25% (most categories) on item + shipping, capped $750/item" },
+        { "label": "Per-order fee", "value": "$0.30" },
+        { "label": "Free listings", "value": "250/month; $0.35 each above" },
+        { "label": "Payment processing", "value": "Included in FVF (managed payments)" },
+        { "label": "Payout", "value": "Bank transfer, 1–3 business days" },
+        { "label": "Store plans", "value": "Basic/Premium/Anchor — lower FVF + more free listings" },
+        { "label": "Best for", "value": "Anything — widest buyer reach, auctions for collectibles" }
+      ],
+      "pros": ["Largest buyer reach of any marketplace — highest sale prices for most categories", "Auctions create urgency and price discovery for collectibles", "Managed payments include processing — no separate Stripe/PayPal fee", "250 free listings/month keeps entry cost zero"],
+      "cons": ["13.25% FVF + $0.30/order is higher than specialist resale apps", "Seller performance standards are strict — defects can restrict account", "Managed payments hold funds for new sellers initially", "Buyer-friendly returns/policies can favour buyers in disputes"],
+      "reviewBody": "eBay remains the largest general marketplace: 13.25% final value fee on item+shipping (most categories, capped at $750/item) plus $0.30 per order, with payment processing included, 250 free listings/month ($0.35 above), and bank payouts in 1–3 business days. Store subscriptions reduce the FVF and add free listings. Auctions drive price discovery for collectibles, sneakers and rare goods.\n\nThe fee is higher than specialist resale apps (Vinted 0%, Mercari 10%), but eBay's buyer reach usually nets higher sale prices. New sellers face initial funds holds, and seller-performance standards are strict. For volume sellers, a Store subscription pays for itself quickly.",
+      "testNotes": "13.25% FVF + $0.30/order + 250 free listings verified 25 Sep 2026 against eBay and multiple 2026 fee comparisons. Category-specific rates vary (books/DVDs/music higher). No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Vinted",
-    "url": "https://www.vinted.com",
-    "description": "European second-hand fashion marketplace. No seller fees — the buyer pays a protection fee. Popular for clothing, shoes, accessories and home items. Strong UK presence.",
+    "url": "https://www.vinted.co.uk",
+    "description": "Secondhand fashion marketplace (EU, UK, US). Sellers pay 0% commission and no listing fee — buyers pay a Buyer Protection fee (~5% + ~£0.70/€0.70). Payout to bank/PayPal after buyer confirms. (Source listed Vinted and Vinted UK separately — merged into one entry.)",
     "status": "active",
-    "trustScore": 84,
-    "categories": [
-      "selling",
-      "selling-fashion"
-    ],
-    "features": [
-      "referral",
-      "app-offers"
-    ],
+    "trustScore": 80,
+    "categories": ["selling", "selling-fashion", "selling-secondhand"],
+    "features": ["selling", "0%-seller-fee", "secondhand-fashion", "buyer-protection"],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Seller commission", "value": "0% — no selling or listing fees" },
+        { "label": "Buyer Protection fee", "value": "~5% of item price + ~£0.70/€0.70 (paid by buyer)" },
+        { "label": "Shipping", "value": "Prepaid label, buyer pays; drop-off within 5 days" },
+        { "label": "Payout", "value": "Bank or PayPal, released after buyer confirms" },
+        { "label": "Markets", "value": "EU, UK, US" },
+        { "label": "Note", "value": "Anti-automation — cross-listing tools restricted" }
+      ],
+      "pros": ["0% seller fee — you keep 100% of your listed price", "Huge secondhand-fashion buyer base across EU/UK/US", "No listing fees — free to list unlimited", "Buyer Protection builds trust and reduces fraud"],
+      "cons": ["Buyer fee raises effective price for buyers — can reduce offers", "Payout held until buyer confirms (can be delayed)", "Anti-automation stance bans cross-listing tools", "Strictly fashion/secondhand — not for general goods"],
+      "reviewBody": "Vinted is the 0%-seller-fee secondhand fashion marketplace across the EU, UK and US: sellers list free and keep 100% of their price, while buyers pay a Buyer Protection fee (~5% + ~£0.70) that funds escrow and dispute cover. Shipping is via prepaid label (buyer pays), and payout releases to bank or PayPal after the buyer confirms receipt.\n\nIt's the cheapest major resale channel for sellers, but the buyer-side fee raises effective prices, payout is held until confirmation, and Vinted's anti-automation stance restricts cross-listing tools. It dominates secondhand fashion; for general goods or collectibles, eBay/Mercari reach further. (The source file listed Vinted and Vinted UK as two entries — they are the same platform; merged.)",
+      "testNotes": "0% seller fee and Buyer Protection (~5% + £0.70) verified 25 Sep 2026 against Vinted's official how-it-works pages (updated Sep 2026). Duplicate Vinted UK entry merged. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "GBP", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Depop",
     "url": "https://www.depop.com",
-    "description": "Fashion resale platform popular with vintage, streetwear and designer sellers. Owned by Etsy. 10% selling fee plus payment processing.",
+    "description": "Social marketplace for vintage, Y2K and streetwear (Gen-Z focus). 0% commission in US/UK (10% in AU/EU) plus payment processing 3.3% + $0.45. Boosted listings cost an extra ~8%. Payout via PayPal/Stripe. US, UK, AU, EU.",
     "status": "active",
     "trustScore": 78,
-    "categories": [
-      "selling",
-      "selling-fashion"
-    ],
-    "features": [
-      "referral",
-      "app-offers"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["selling", "selling-fashion", "selling-vintage"],
+    "features": ["selling", "social-selling", "vintage-streetwear", "boosted-listings"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Commission (US/UK)", "value": "0% (10% in AU/EU)" },
+        { "label": "Payment processing", "value": "3.3% + $0.45 per sale" },
+        { "label": "Boosted listings", "value": "Optional, ~8% extra on boosted sales" },
+        { "label": "Payout", "value": "PayPal / Stripe (Depop Payments)" },
+        { "label": "Markets", "value": "US, UK, AU, EU" },
+        { "label": "Audience", "value": "Gen-Z — vintage, Y2K, streetwear" }
+      ],
+      "pros": ["0% commission in US/UK — only payment processing", "Social format (followers, shares) drives repeat sales", "Strongest prices for vintage/Y2K/streetwear", "Free listings, no monthly cost"],
+      "cons": ["10% commission in AU/EU", "Payment processing (3.3% + $0.45) on top", "Boosted listings (the main way to reach buyers) add ~8%", "Niche audience — mainstream goods sell poorly"],
+      "reviewBody": "Depop is the social, Gen-Z-focused marketplace for vintage, Y2K and streetwear. In the US/UK it charges 0% commission (10% in AU/EU) plus 3.3% + $0.45 payment processing; optional boosted listings (the primary way to reach non-followers) add ~8% on those sales. Payouts run via Depop Payments (Stripe) or PayPal.\n\nIt achieves the highest prices for vintage/Y2K/streetwear, and the follower model builds repeat customers, but the audience is narrow and boosted-listing costs can stack. For mainstream or non-fashion goods, eBay or Vinted reach more buyers.",
+      "testNotes": "0% US/UK commission (10% AU/EU), 3.3%+$0.45 processing and ~8% boost fee verified 25 Sep 2026 against 2026 marketplace-fee comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Etsy",
     "url": "https://www.etsy.com",
-    "description": "Global handmade and creative marketplace. Ideal for handmade goods, crafts, vintage items and personalised products. 6.5% transaction fee plus listing fees.",
+    "description": "Marketplace for handmade, vintage (20+ years) and craft supplies. $0.20 per listing (4-month renewal) + 6.5% transaction fee (item+shipping) + payment processing ~3% + $0.25. Offsite Ads 12–15% on attributed sales (mandatory for shops >$10k/yr). Payout to bank/PayPal, daily/weekly.",
     "status": "active",
     "trustScore": 82,
-    "categories": [
-      "selling",
-      "selling-handmade"
-    ],
-    "features": [
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["selling", "selling-handmade", "selling-vintage", "selling-craft-supplies"],
+    "features": ["selling", "handmade-vintage", "listing-fee", "offsite-ads", "store-plus"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Listing fee", "value": "$0.20 per item, renewed every 4 months" },
+        { "label": "Transaction fee", "value": "6.5% on item + shipping + gift wrap" },
+        { "label": "Payment processing (US)", "value": "~3% + $0.25 per order" },
+        { "label": "Offsite Ads", "value": "12–15% on attributed sales (mandatory >$10k/yr)" },
+        { "label": "Combined effective rate", "value": "~13–15% typical (higher with Offsite Ads)" },
+        { "label": "Payout", "value": "Bank/PayPal, daily or weekly" },
+        { "label": "Etsy Plus", "value": "$10/mo — listing/ad credits, no fee discount" }
+      ],
+      "pros": ["Strong Google SEO — buyers find listings via search", "Best buyer intent for handmade, vintage, craft supplies", "Low $0.20 listing cost to test products", "Etsy Payments handles processing and chargebacks"],
+      "cons": ["Stacked fees ($0.20 + 6.5% + ~3%+$0.25 + Offsite Ads) = ~13–15% effective", "Offsite Ads mandatory (12–15%) for shops over $10k/yr — can't opt out", "Listing fee charged even if item never sells", "Saturated categories — price competition is intense"],
+      "reviewBody": "Etsy is the handmade/vintage/craft-supplies marketplace with strong Google SEO. Fees stack: $0.20 per listing (renewed every 4 months, even if unsold), 6.5% transaction fee on item+shipping, ~3% + $0.25 payment processing, and Offsite Ads at 12–15% on attributed sales (mandatory for shops doing over $10k/year). Combined effective rate is typically ~13–15%, higher with Offsite Ads. Payouts run daily or weekly to bank/PayPal.\n\nEtsy Plus ($10/mo) adds listing/ad credits but no fee discount. The SEO buyer intent is unmatched for handmade/vintage, but saturated categories and mandatory Offsite Ads at scale erode margins. Many sellers use Etsy as a discovery channel and move repeat buyers to their own Shopify store.",
+      "testNotes": "Fee stack ($0.20 listing, 6.5% transaction, 3%+$0.25 processing, 12–15% Offsite Ads) verified 25 Sep 2026 against Etsy's legal fees policy (Feb 2026) and 2026 fee guides. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Gumroad",
     "url": "https://gumroad.com",
-    "description": "Digital product marketplace. E-books, courses, software, templates, memberships. Simple flat 10% fee, no monthly charges. Direct-to-audience selling.",
+    "description": "Sell digital products, memberships and physical goods — no monthly fee, 10% platform fee + payment processing (Stripe/PayPal). Simple setup, audience tools built in. Payout weekly via Stripe/PayPal.",
     "status": "active",
     "trustScore": 80,
-    "categories": [
-      "selling",
-      "selling-digital"
-    ],
-    "features": [
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["selling", "selling-digital", "selling-memberships"],
+    "features": ["selling", "digital-products", "memberships", "no-monthly-fee", "audience-tools"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Platform fee", "value": "10% on every sale (no monthly fee)" },
+        { "label": "Payment processing", "value": "Stripe/PayPal rates on top (~2.9% + $0.30)" },
+        { "label": "Products", "value": "Digital downloads, memberships, subscriptions, physical" },
+        { "label": "Setup", "value": "No website needed — hosted product pages" },
+        { "label": "Payout", "value": "Weekly via Stripe/PayPal" },
+        { "label": "Audience tools", "value": "Followers, email, discounts built in" }
+      ],
+      "pros": ["No monthly fee — pay only 10% when you sell", "Fastest setup — no website or tech skills", "Memberships/subscriptions + digital + physical in one", "Built-in audience (followers/email) tools"],
+      "cons": ["10% fee is high vs Payhip (5%) or own store (0%)", "Limited design/customization of storefront", "Payment processing adds ~2.9% + $0.30 on top", "Less SEO reach than a marketplace — you drive traffic"],
+      "reviewBody": "Gumroad is the no-monthly-fee platform for digital products, memberships and physical goods: 10% platform fee on every sale plus Stripe/PayPal processing (~2.9% + $0.30), with hosted product pages, built-in followers/email tools, and weekly payouts. It's the fastest way to start selling with zero setup cost.\n\nThe 10% fee is higher than Payhip's 5% (free plan) or a Shopify store (subscription but 0% platform fee), and you must drive your own traffic — Gumroad has no marketplace buyer pool. Best for creators with an existing audience testing a product; at scale, moving to Payhip Pro ($29/mo, 0%) or Shopify saves the 10%.",
+      "testNotes": "10% fee, no monthly fee and weekly payout verified 25 Sep 2026 against Gumroad's pricing and 2026 creator-platform comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Mercari",
     "url": "https://www.mercari.com",
-    "description": "General resale marketplace popular in the US and Japan. Clothing, electronics, collectibles and household goods. 10% selling fee.",
+    "description": "General resale app (US; Japan separate). Flat 10% seller fee; seller processing fee eliminated Jan 2025 (buyer pays 3.6% protection fee). Instant Pay transfer costs $2; standard ACH free. Free listings and relists.",
     "status": "active",
-    "trustScore": 76,
-    "categories": [
-      "selling",
-      "selling-general"
-    ],
-    "features": [
-      "referral",
-      "app-offers"
-    ],
-    "hasReferralProgram": true,
+    "trustScore": 78,
+    "categories": ["selling", "selling-general", "selling-secondhand"],
+    "features": ["selling", "general-resale", "free-listings", "instant-pay"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Seller fee", "value": "Flat 10% of sale" },
+        { "label": "Payment processing", "value": "Eliminated for sellers Jan 2025; buyer pays 3.6% protection" },
+        { "label": "Instant Pay", "value": "$2 per instant transfer; standard ACH free" },
+        { "label": "Listings", "value": "Free, free relists" },
+        { "label": "Market", "value": "US (Mercari Japan is separate)" },
+        { "label": "Best for", "value": "Low-to-mid price general goods, low maintenance" }
+      ],
+      "pros": ["Simple flat 10% — no stacked fees", "Free listings and relists, low maintenance", "Buyer pays protection fee — no seller processing cost", "Instant Pay ($2) for fast cash"],
+      "cons": ["US-only (Mercari Japan is a separate platform)", "Sale prices tend lower than eBay for collectibles", "10% is higher than Vinted's 0% for fashion", "No auction format — fixed price only"],
+      "reviewBody": "Mercari is the low-maintenance general resale app (US; Japan is a separate platform): flat 10% seller fee, and since January 2025 the seller payment-processing fee is eliminated (buyers pay a 3.6% protection fee instead). Listings and relists are free; standard ACH payout is free, with a $2 Instant Pay option for fast cash.\n\nIt's simpler than eBay's fee stack and lower-maintenance than Poshmark's sharing model, but sale prices for collectibles are lower than eBay and it's US-only. For low-to-mid price general goods with minimal effort, it's a solid secondary channel alongside eBay and Vinted.",
+      "testNotes": "10% flat fee, Jan 2025 processing-fee elimination and 3.6% buyer protection fee verified 25 Sep 2026 against 2026 resale-fee comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Poshmark",
     "url": "https://poshmark.com",
-    "description": "Fashion resale platform popular in US, Canada, Australia and India. Clothing, shoes, accessories and beauty. 20% fee on sales over $15.",
+    "description": "Social fashion resale (US/CA; exited AU/UK/India in 2023). Flat $2.95 fee on sales under $15; 20% commission on sales $15+. Includes prepaid shipping label (up to 5 lb). No listing or payment-processing fees. Payout via direct deposit or check.",
     "status": "active",
     "trustScore": 76,
-    "categories": [
-      "selling",
-      "selling-fashion"
-    ],
-    "features": [
-      "referral",
-      "app-offers"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["selling", "selling-fashion", "selling-beauty", "selling-home"],
+    "features": ["selling", "social-selling", "fashion-beauty-home", "prepaid-shipping"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Fee under $15", "value": "Flat $2.95" },
+        { "label": "Fee $15+", "value": "Flat 20% commission" },
+        { "label": "Includes", "value": "Prepaid USPS Priority Mail label (up to 5 lb) + payment processing" },
+        { "label": "Listing fee", "value": "None; no monthly cost" },
+        { "label": "Markets", "value": "US, CA (exited AU/UK/India Nov 2023)" },
+        { "label": "Payout", "value": "Direct deposit or check" }
+      ],
+      "pros": ["All-in fee includes shipping label + processing — predictable", "No listing fees, no monthly cost", "Social sharing/parties drive sales for active sellers", "Strong for fashion, beauty, home goods"],
+      "cons": ["20% commission is high (vs Vinted 0%, Depop 0% US/UK)", "US/CA only — no UK/EU", "Requires active sharing/parties to maintain visibility", "Prepaid label limits package size/weight"],
+      "reviewBody": "Poshmark is the social fashion/beauty/home resale app (US/CA only — exited AU/UK/India in Nov 2023). Fees are all-inclusive: flat $2.95 on sales under $15, 20% on sales $15+, and that includes a prepaid USPS Priority Mail label (up to 5 lb) and payment processing — no separate listing or processing fees. Payouts via direct deposit or check.\n\nThe 20% commission is high versus Vinted (0%) or Depop (0% US/UK), and US/CA-only limits reach. Active sellers who share listings and join 'parties' get the most visibility. For fashion/beauty in the US, it's a proven channel; elsewhere, Vinted/Depop/eBay dominate.",
+      "testNotes": "$2.95 under $15 / 20% $15+ all-in fee and US/CA-only status verified 25 Sep 2026 against Poshmark's fee pages and 2026 comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Facebook Marketplace",
     "url": "https://www.facebook.com/marketplace",
-    "description": "Local and general resale marketplace built into Facebook. Furniture, electronics, vehicles, household items. Free to list, no fees.",
+    "description": "Local classifieds via Facebook. 0% fee for local pickup; shipped sales charge 5% (min $0.40). No listing fees. Massive reach via Facebook's user base. Best for bulky/local items and furniture.",
     "status": "active",
     "trustScore": 74,
-    "categories": [
-      "selling",
-      "selling-general",
-      "selling-local"
-    ],
-    "features": [],
+    "categories": ["selling", "selling-general", "selling-local"],
+    "features": ["selling", "local-pickup", "0%-local-fee", "shipped-sales"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Local pickup fee", "value": "0%" },
+        { "label": "Shipped sales fee", "value": "5% (minimum $0.40)" },
+        { "label": "Listing fee", "value": "None" },
+        { "label": "Reach", "value": "Massive — Facebook's user base" },
+        { "label": "Best for", "value": "Bulky items, furniture, local goods, vehicles" },
+        { "label": "Payout", "value": "Meta Pay / bank (shipped); cash in person (local)" }
+      ],
+      "pros": ["0% fee for local pickup — cheapest channel for in-person sales", "No listing fees, massive built-in audience", "Best for bulky/furniture items that are expensive to ship", "Facebook profiles add some buyer/seller accountability"],
+      "cons": ["No buyer/seller protection for local cash deals — scams common", "Low-ball offers and no-shows are frequent", "Shipped sales (5%) compete with eBay/Mercari at higher fees", "No shipping infrastructure — you handle it"],
+      "reviewBody": "Facebook Marketplace is the local classifieds layer on Facebook: 0% fee for local pickup (cash or in-person payment), and 5% (min $0.40) for shipped sales with checkout. No listing fees, and reach is massive. It's the best channel for bulky items, furniture, vehicles and anything expensive to ship.\n\nThe trade-off is trust: local cash deals have no buyer/seller protection, and low-ball offers, no-shows and scams are common. For shipped goods, the 5% fee plus your own shipping costs often make eBay/Mercari cheaper. Treat as a local-first channel, with safe public meetups or porch pickup.",
+      "testNotes": "0% local / 5% shipped (min $0.40) fee verified 25 Sep 2026 against Meta's selling policies and 2026 marketplace comparisons. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Craigslist",
     "url": "https://www.craigslist.org",
-    "description": "Long-running local classifieds platform, primarily US. Local goods, furniture, services and vehicles. Free to list in most categories.",
+    "description": "Classic local classifieds. Free to list in most categories (US charges $5 per listing for jobs/gigs/services/therapeutic in some areas; UK mostly free). No fees on sales — cash in person. No accounts required. Best for local, bulky, low-value items.",
     "status": "active",
-    "trustScore": 68,
-    "categories": [
-      "selling",
-      "selling-local"
-    ],
-    "features": [],
+    "trustScore": 66,
+    "categories": ["selling", "selling-local"],
+    "features": ["selling", "local-classifieds", "free-listings", "no-account"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Listing fee", "value": "Free most categories; $5 per listing for some US paid categories (jobs/gigs/services)" },
+        { "label": "Sale fee", "value": "0% — cash in person" },
+        { "label": "Account required", "value": "No (email-only)" },
+        { "label": "Best for", "value": "Local, bulky, low-value items, rentals, jobs" },
+        { "label": "Payout", "value": "Cash in person (no platform payment)" },
+        { "label": "Trust", "value": "Lowest — no verification, scams common" }
+      ],
+      "pros": ["Free listings and 0% sale fee — cheapest possible channel", "No account required — fastest to list", "Still strong local reach for bulky/cheap items, rentals, jobs", "No platform holds your money"],
+      "cons": ["Scams and spam are endemic — lowest trust of any channel", "Dated interface, no photos limit, no mobile app of quality", "No buyer/seller protection or payment infrastructure", "Declining audience vs Facebook Marketplace"],
+      "reviewBody": "Craigslist is the original local classifieds: free listings in most categories (some US paid categories like jobs/gigs/services cost $5 per listing), 0% sale fee, cash in person, no account required. It remains useful for local, bulky, low-value items, rentals and job postings where reach matters more than polish.\n\nTrust is the lowest of any channel — scams and spam are endemic, there's no buyer/seller protection or payment infrastructure, and the interface is dated. Facebook Marketplace has largely overtaken it for consumer goods. Use for the categories it still dominates (rentals, jobs, free/cheap local stuff) and always meet in public.",
+      "testNotes": "Free listings + $5 paid US categories and 0% sale fee verified 25 Sep 2026 against Craigslist's help pages. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "cash", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "OfferUp",
     "url": "https://offerup.com",
-    "description": "US-focused local resale app. Electronics, furniture, vehicles and household goods. Free to list with optional promotion fees.",
+    "description": "Local marketplace (US) with optional shipping. Free local listings; promoted listings and shipping transactions carry fees. Letgo merged into OfferUp. Best for local general goods; in-app messaging and buyer/seller ratings.",
     "status": "active",
     "trustScore": 70,
-    "categories": [
-      "selling",
-      "selling-general",
-      "selling-local"
-    ],
-    "features": [
-      "app-offers"
-    ],
+    "categories": ["selling", "selling-general", "selling-local"],
+    "features": ["selling", "local-marketplace", "promoted-listings", "shipping-optional"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Local listing fee", "value": "Free" },
+        { "label": "Local sale fee", "value": "0% (cash in person)" },
+        { "label": "Shipped sale fee", "value": "~12.9% (seller service fee) — verify current" },
+        { "label": "Promoted listings", "value": "Optional paid boost" },
+        { "label": "Market", "value": "US (absorbed Letgo)" },
+        { "label": "Trust features", "value": "In-app messaging, ratings, TruYou verification" }
+      ],
+      "pros": ["Free local listings, 0% fee for in-person sales", "Cleaner, safer-feeling app than Craigslist (ratings, verification)", "Absorbed Letgo — large US local audience", "Optional shipping for non-local buyers"],
+      "cons": ["Shipped-sale fee (~12.9%) is high vs eBay/Mercari", "US-only", "Promoted listings (paid) needed for visibility in busy categories", "Lower sale prices than eBay for collectibles"],
+      "reviewBody": "OfferUp is the US local marketplace (it absorbed Letgo): free local listings with 0% fee for in-person cash sales, optional shipping (with a seller service fee, commonly cited ~12.9%), and optional paid promoted listings. It offers in-app messaging, buyer/seller ratings and TruYou verification — a trust layer above Craigslist.\n\nIt's US-only, and shipped-sale fees are high versus eBay/Mercari, so it works best as a local channel. Visibility in busy categories often requires paid promotion. For local general goods it's a solid Facebook Marketplace alternative; for shipped or collectible items, eBay/Mercari net more.",
+      "testNotes": "Free local model and ~12.9% shipped seller service fee verified 25 Sep 2026 against OfferUp's help pages and 2026 comparisons; exact shipped fee may vary — confirm in dashboard. No live account test performed."
+    },
+    "offers": [
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Whatnot",
     "url": "https://www.whatnot.com",
-    "description": "Live selling platform for collectibles, fashion and trading cards. Stream live and sell to engaged audiences. Popular in US, UK and Europe. 8% commission.",
+    "description": "Live-shopping marketplace for collectibles (trading cards, sneakers, comics, vintage, fashion). 8% seller fee on live sales + payment processing ~2.9% + $0.30. Livestream auction format. Payout via bank, fast.",
     "status": "active",
-    "trustScore": 78,
-    "categories": [
-      "selling",
-      "selling-collectibles",
-      "selling-fashion"
-    ],
-    "features": [
-      "app-offers",
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "trustScore": 76,
+    "categories": ["selling", "selling-collectibles", "selling-fashion", "live-commerce"],
+    "features": ["selling", "live-auctions", "collectibles", "sneakers-cards-comics"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Seller fee", "value": "8% on live sales" },
+        { "label": "Payment processing", "value": "~2.9% + $0.30" },
+        { "label": "Format", "value": "Livestream auctions + 'buy now' in stream" },
+        { "label": "Categories", "value": "Trading cards, sneakers, comics, vintage, fashion, coins" },
+        { "label": "Payout", "value": "Bank transfer, fast" },
+        { "label": "Entry", "value": "Seller application required" }
+      ],
+      "pros": ["Live auction format drives bidding and higher prices for collectibles", "8% fee is lower than eBay's 13.25%", "Strong community of collectors in niche categories", "Fast payouts"],
+      "cons": ["Seller application required — not open self-service", "Requires livestreaming effort (time + presentation)", "Payment processing adds ~2.9% + $0.30", "Niche — collectibles only, not general goods"],
+      "reviewBody": "Whatnot is the live-shopping (livestream auction) marketplace for collectibles — trading cards, sneakers, comics, coins, vintage and fashion. Sellers pay 8% on live sales plus ~2.9% + $0.30 payment processing, with fast bank payouts. The live auction format creates bidding urgency and often achieves higher prices than fixed listings.\n\nA seller application is required, and the format demands real livestreaming effort (time, presentation, community building). It's not open self-service and is collectibles-niche. For dedicated collectors/sneaker resellers with a following, the 8% fee and auction upside beat eBay; for casual or general-goods sellers, the format is too much work.",
+      "testNotes": "8% live-sale fee + 2.9%+$0.30 processing verified 25 Sep 2026 against 2026 marketplace-fee comparisons. Seller application required. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Shpock",
     "url": "https://www.shpock.com",
-    "description": "UK and European local second-hand marketplace. Buy and sell locally with a mobile-first approach.",
+    "description": "Local classifieds app (UK/EU). Free basic listings; fees for promoted listings and secure in-app payment (Shpock Wallet). No sale commission on cash deals. Best for local general goods in the UK.",
     "status": "active",
     "trustScore": 68,
-    "categories": [
-      "selling",
-      "selling-local"
-    ],
-    "features": [
-      "app-offers"
-    ],
+    "categories": ["selling", "selling-local"],
+    "features": ["selling", "local-classifieds", "free-listings", "promoted-listings"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Basic listing", "value": "Free" },
+        { "label": "Sale commission (cash)", "value": "0%" },
+        { "label": "Paid features", "value": "Promoted listings, Shpock Wallet secure payment (fees apply)" },
+        { "label": "Market", "value": "UK and EU" },
+        { "label": "Payout", "value": "Cash in person or via Shpock Wallet" },
+        { "label": "Best for", "value": "Local general goods, UK/EU" }
+      ],
+      "pros": ["Free basic listings, 0% commission on cash deals", "Clean mobile app, UK/EU local reach", "Optional secure payment (Shpock Wallet) for shipped deals", "No account friction"],
+      "cons": ["Smaller buyer base than Facebook Marketplace/eBay UK", "Paid promotion needed for visibility in busy categories", "Secure-payment fees reduce margin on shipped deals", "Mostly local — not for shipping volume"],
+      "reviewBody": "Shpock is the UK/EU local classifieds app: free basic listings with 0% commission on cash deals, optional paid promoted listings and a secure in-app payment (Shpock Wallet) for shipped deals (fees apply). It's a clean mobile alternative to Gumtree/Facebook Marketplace.\n\nBuyer reach is smaller than Facebook Marketplace or eBay UK, and visibility often requires paid promotion. Best as a supplementary local channel alongside Facebook Marketplace and Gumtree; not suited to high-volume shipping.",
+      "testNotes": "Free basic listings and 0% cash-commission model verified 25 Sep 2026 against Shpock's site and 2026 UK classifieds comparisons. Wallet/promotion fees vary — confirm in app. No live account test performed."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Gumtree",
     "url": "https://www.gumtree.com",
-    "description": "UK classifieds and local resale platform. Furniture, electronics, vehicles, jobs and services. Free to list in most categories.",
+    "description": "UK classifieds site. Free basic listings; paid features (featured ads, urgent). 0% sale commission — cash or direct payment in person. Strong for local goods, jobs, motors, property in the UK.",
     "status": "active",
-    "trustScore": 70,
-    "categories": [
-      "selling",
-      "selling-local"
-    ],
-    "features": [],
+    "trustScore": 68,
+    "categories": ["selling", "selling-local"],
+    "features": ["selling", "uk-classifieds", "free-listings", "featured-ads"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Basic listing", "value": "Free" },
+        { "label": "Sale commission", "value": "0% — paid directly by buyer" },
+        { "label": "Paid features", "value": "Featured/urgent ads (boost visibility)" },
+        { "label": "Market", "value": "UK (strong)" },
+        { "label": "Categories", "value": "Local goods, jobs, motors, property, services" },
+        { "label": "Payout", "value": "Cash/bank direct — no platform payment" }
+      ],
+      "pros": ["Free listings, 0% commission", "Strong UK local reach, especially motors/jobs/services", "No payment holds — you get paid directly", "Simple, low-friction listing"],
+      "cons": ["Scams common — no buyer/seller protection", "Dated interface, declining vs Facebook Marketplace", "Paid features needed to stand out in busy categories", "UK-only, no shipping infrastructure"],
+      "reviewBody": "Gumtree is the UK classifieds staple: free basic listings, 0% sale commission (buyers pay you directly), with paid featured/urgent ad boosts. Strong for local goods, motors, jobs and property in the UK.\n\nLike Craigslist, it has no buyer/seller protection and scams are common; the interface is dated and Facebook Marketplace has eaten into its consumer-goods share. It remains strong for motors, jobs and local services. Always use safe payment (cash on collection or bank transfer after handover).",
+      "testNotes": "Free listing / 0% commission model verified 25 Sep 2026 against Gumtree's site. Paid feature pricing varies. No live account test performed."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "Preloved",
     "url": "https://www.preloved.co.uk",
-    "description": "UK second-hand marketplace and classifieds. Focused on local sales and community-driven listings.",
+    "description": "UK classifieds (secondhand goods, pets, vehicles, property). Free basic listings; paid membership for full features. 0% sale commission. UK-focused, strong for pets and secondhand.",
     "status": "active",
     "trustScore": 66,
-    "categories": [
-      "selling",
-      "selling-local"
-    ],
-    "features": [],
+    "categories": ["selling", "selling-local", "selling-secondhand"],
+    "features": ["selling", "uk-classifieds", "free-listings", "paid-membership"],
     "hasReferralProgram": false,
-    "offers": []
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Basic listing", "value": "Free" },
+        { "label": "Sale commission", "value": "0%" },
+        { "label": "Paid membership", "value": "Optional — more listings, features" },
+        { "label": "Market", "value": "UK" },
+        { "label": "Strong categories", "value": "Pets, secondhand goods, vehicles, property" },
+        { "label": "Payout", "value": "Direct — no platform payment" }
+      ],
+      "pros": ["Free listings, 0% commission", "Strong UK niche (pets, secondhand)", "No payment holds", "Low competition vs larger marketplaces"],
+      "cons": ["Smaller audience than Gumtree/Facebook Marketplace", "Paid membership needed for full feature set", "No buyer/seller protection", "UK-only, dated interface"],
+      "reviewBody": "Preloved is the UK classifieds site, free to list with 0% sale commission and an optional paid membership for extra listings/features. It's strongest for pets, secondhand goods, vehicles and property in the UK, with lower competition than larger marketplaces.\n\nAudience reach is smaller than Gumtree or Facebook Marketplace, and like all classifieds there's no buyer/seller protection. A good supplementary UK channel for pets and secondhand; not a primary sales driver.",
+      "testNotes": "Free listing / 0% commission model verified 25 Sep 2026 against Preloved's site. Membership pricing varies. No live account test performed."
+    },
+    "offers": [
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "instant" }
+    ]
   },
   {
     "name": "OnBuy",
     "url": "https://www.onbuy.com",
-    "description": "UK/Europe e-commerce marketplace for new products. Competes with Amazon in the UK market. Sellers pay monthly subscription plus commission.",
+    "description": "UK-based marketplace (delisting marketplace model — doesn't hold stock). Low seller fees (~5–9% by category), no listing fees, no monthly subscription. Growing UK/EU reach. Payout to bank.",
     "status": "active",
-    "trustScore": 70,
-    "categories": [
-      "selling",
-      "selling-general"
-    ],
-    "features": [],
+    "trustScore": 72,
+    "categories": ["selling", "selling-general"],
+    "features": ["selling", "uk-marketplace", "low-fees", "no-listing-fee", "no-subscription"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Seller fee", "value": "~5–9% by category (lower than eBay/Amazon)" },
+        { "label": "Listing fee", "value": "None" },
+        { "label": "Monthly subscription", "value": "None" },
+        { "label": "Model", "value": "Delisting marketplace — doesn't compete with sellers (no own stock)" },
+        { "label": "Market", "value": "UK-based, expanding EU" },
+        { "label": "Payout", "value": "Bank transfer" }
+      ],
+      "pros": ["Lower fees (~5–9%) than eBay/Amazon", "No listing fees, no monthly subscription", "Doesn't sell its own stock — no competition with sellers", "Growing UK/EU marketplace — less competition per listing"],
+      "cons": ["Much smaller buyer traffic than Amazon/eBay", "UK/EU focus — not global", "Brand recognition low — buyers may not search there", "Fewer seller tools/integrations than Amazon/eBay"],
+      "reviewBody": "OnBuy is the UK-based delisting marketplace (it doesn't hold or sell its own stock, so it never competes with sellers). Seller fees run ~5–9% by category — lower than eBay's 13.25% or Amazon's ~15% — with no listing fees and no monthly subscription. Payouts go to bank.\n\nThe trade-off is traffic: OnBuy's buyer base is a fraction of Amazon/eBay, and brand recognition is low. It's best as an additional sales channel for UK/EU sellers already on Amazon/eBay — the lower fee margin on incremental sales can be worth the listing effort. Not a primary channel on its own.",
+      "testNotes": "~5–9% category fees, no listing/monthly fees and delisting model verified 25 Sep 2026 against OnBuy's seller pages and 2026 comparisons. Exact category rates vary. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Not On The High Street",
     "url": "https://www.notonthehighstreet.com",
-    "description": "UK marketplace for gifts, handmade goods and creative products. Curated application process. 25% commission on sales.",
+    "description": "Curated UK marketplace for unique, handmade and personalised goods. One-off joining fee (~£199–£499) + ~25% commission on sales. Strict curation — not all applicants accepted. Payout to bank. Best for distinctive, giftable products.",
     "status": "active",
     "trustScore": 74,
-    "categories": [
-      "selling",
-      "selling-handmade"
-    ],
-    "features": [],
+    "categories": ["selling", "selling-handmade", "selling-gifts", "selling-personalised"],
+    "features": ["selling", "curated-marketplace", "uk-handmade-gifts", "joining-fee"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Joining fee", "value": "One-off ~£199–£499 (verify current)" },
+        { "label": "Commission", "value": "~25% on sales" },
+        { "label": "Curation", "value": "Strict — application required, not all accepted" },
+        { "label": "Market", "value": "UK (strong gifting audience)" },
+        { "label": "Best for", "value": "Unique, handmade, personalised, giftable products" },
+        { "label": "Payout", "value": "Bank transfer" }
+      ],
+      "pros": ["Curated = less price competition, higher sale prices", "Strong UK gifting audience willing to pay premium", "Marketing/press exposure from the brand", "Quality buyers — fewer low-ballers"],
+      "cons": ["High one-off joining fee + ~25% commission (highest in handmade)", "Strict curation — may be rejected", "UK-only audience", "Etsy/own store may net more at scale"],
+      "reviewBody": "Not On The High Street is the curated UK marketplace for unique, handmade and personalised gifts: a one-off joining fee (~£199–£499) plus ~25% commission on sales, with strict curation (applications can be rejected). Buyers are UK gifting shoppers willing to pay premium for distinctive products.\n\nThe joining fee and ~25% commission are the highest in the handmade category (vs Etsy's ~13–15% effective), but curation means less price competition and higher sale prices, plus the brand's marketing exposure. Best for distinctive, giftable UK products that justify the premium; for commodity handmade goods, Etsy or your own store nets more.",
+      "testNotes": "Joining fee (~£199–£499) and ~25% commission verified 25 Sep 2026 against NOTHS seller info and 2026 comparisons; exact joining fee changes — confirm current. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "GBP", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Big Cartel",
     "url": "https://www.bigcartel.com",
-    "description": "Independent online store platform for artists and creators. Simple storefront with low monthly fees. Free tier available.",
+    "description": "Simple hosted store for artists/makers. Free plan (5 products), $9.99/mo (50 products), $19.99/mo (unlimited). No platform transaction fee — you pay Stripe/PayPal processing only. Payout via Stripe/PayPal.",
     "status": "active",
-    "trustScore": 74,
-    "categories": [
-      "selling",
-      "selling-stores"
-    ],
-    "features": [
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "trustScore": 76,
+    "categories": ["selling", "selling-stores", "selling-handmade"],
+    "features": ["selling", "hosted-store", "no-transaction-fee", "free-plan", "artists-makers"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Free plan", "value": "5 products, basic features" },
+        { "label": "Paid plans", "value": "$9.99/mo (50 products), $19.99/mo (unlimited)" },
+        { "label": "Platform transaction fee", "value": "0% — only Stripe/PayPal processing" },
+        { "label": "Payout", "value": "Stripe / PayPal" },
+        { "label": "Best for", "value": "Artists, makers, bands — simple store, no tech" },
+        { "label": "Note", "value": "Fewer features/themes than Shopify" }
+      ],
+      "pros": ["0% platform transaction fee — only payment processing", "Free plan to start (5 products)", "Simple, artist-friendly — no tech skills needed", "Cheap paid plans vs Shopify"],
+      "cons": ["Very limited features/themes vs Shopify", "No marketplace — you drive all traffic", "Free plan is very limited (5 products, no themes)", "Scarcely suitable beyond small catalogs"],
+      "reviewBody": "Big Cartel is the simple hosted store for artists, makers and bands: free plan (5 products), $9.99/mo (50 products) or $19.99/mo (unlimited), with 0% platform transaction fee — you pay only Stripe/PayPal processing. Payouts via Stripe/PayPal.\n\nIt's deliberately simple, which means far fewer features, themes and integrations than Shopify, and there's no marketplace traffic — you drive all visitors. Best for small artists/makers starting out or wanting a low-cost branded store; at scale (many products, discounts, shipping rules, integrations), Shopify becomes necessary.",
+      "testNotes": "Pricing (free / $9.99 / $19.99) and 0% transaction fee verified 25 Sep 2026 against Big Cartel's pricing. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Shopify",
     "url": "https://www.shopify.com",
-    "description": "Leading e-commerce platform for building a full online store. Monthly subscription, payment processing fees and full storefront control. Free trial available.",
+    "description": "Leading hosted e-commerce platform. Plans $39/mo (Basic) to $399/mo (Advanced) + Shopify Payments ~2.9% + $0.30 (US). If you use an external gateway, an extra 0.5–2% transaction fee applies. You own your customer data and storefront. Payouts via Shopify Payments (bank).",
     "status": "active",
-    "trustScore": 84,
-    "categories": [
-      "selling",
-      "selling-stores"
-    ],
-    "features": [
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "trustScore": 86,
+    "categories": ["selling", "selling-stores", "selling-dtc"],
+    "features": ["selling", "hosted-store", "app-ecosystem", "own-customer-data", "pos"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Plans", "value": "$39/mo Basic → $399/mo Advanced (Plus custom)" },
+        { "label": "Shopify Payments (US)", "value": "~2.9% + $0.30 online" },
+        { "label": "External gateway fee", "value": "Extra 0.5–2% transaction fee if not Shopify Payments" },
+        { "label": "Payout", "value": "Bank via Shopify Payments" },
+        { "label": "Best for", "value": "Serious DTC brands — scale, apps, POS, own data" },
+        { "label": "Note", "value": "Price increased from $29 to $39/mo in 2024" }
+      ],
+      "pros": ["You own your store, brand and customer data (no marketplace rules)", "Huge app/theme ecosystem + POS for in-person sales", "Scales from hobby to enterprise (Shopify Plus)", "Shopify Payments includes processing with no extra gateway fee"],
+      "cons": ["Monthly cost starts at $39/mo + processing — not free", "You drive 100% of traffic (no built-in buyer pool)", "App costs stack — many needed features are paid apps", "Transaction fees if you don't use Shopify Payments"],
+      "reviewBody": "Shopify is the leading hosted e-commerce platform: $39/mo Basic (raised from $29 in 2024) up to $399/mo Advanced, plus Shopify Payments processing (~2.9% + $0.30 in the US). Using an external payment gateway adds a 0.5–2% transaction fee, so most sellers use Shopify Payments, which pays out to bank. You own your storefront, brand and customer data — no marketplace rules.\n\nThe cost is traffic: unlike a marketplace, you drive 100% of visitors, and app/theme costs stack. Best for serious DTC brands ready to invest in marketing; for casual or low-volume sellers, a marketplace (Etsy/eBay) or Big Cartel's free plan is cheaper to start. Many sellers use marketplaces for discovery and Shopify for repeat customers.",
+      "testNotes": "$39/mo Basic plan, ~2.9%+$0.30 Shopify Payments and 0.5–2% external-gateway fee verified 25 Sep 2026 against Shopify pricing and 2026 comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Ko-fi",
     "url": "https://ko-fi.com",
-    "description": "Creator support platform for digital products, memberships and tips. 0% platform fee on donations, 5% on shop sales. No monthly cost.",
+    "description": "Creator support platform — donations, memberships, commissions, digital products. 0% platform fee on donations/sales (Ko-fi Gold $6/mo unlocks extra features); you pay Stripe/PayPal processing. Payout direct to your Stripe/PayPal — Ko-fi never holds funds.",
     "status": "active",
     "trustScore": 80,
-    "categories": [
-      "selling",
-      "selling-digital"
-    ],
-    "features": [
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["selling", "selling-digital", "selling-memberships", "creator-support"],
+    "features": ["selling", "0%-platform-fee", "donations", "memberships", "commissions", "digital-products"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Platform fee", "value": "0% on donations and sales (free tier)" },
+        { "label": "Ko-fi Gold", "value": "$6/mo — extra features (commission tiers, etc.)" },
+        { "label": "Payment processing", "value": "Stripe/PayPal rates (~2.9% + $0.30) — direct to you" },
+        { "label": "Funds held", "value": "Never — paid straight to your Stripe/PayPal" },
+        { "label": "Products", "value": "Donations, memberships, commissions, digital downloads, shop" },
+        { "label": "Best for", "value": "Creators, artists, writers — support + small sales" }
+      ],
+      "pros": ["0% platform fee — lowest cost of any creator platform", "Funds go straight to your Stripe/PayPal — never held", "Donations + memberships + commissions + shop in one", "Free to start, no minimums"],
+      "cons": ["Payment processing still applies (~2.9% + $0.30)", "No marketplace — you drive all traffic", "Shop features are basic vs Gumroad/Payhip", "Best for support/donations, less for high-volume product sales"],
+      "reviewBody": "Ko-fi is the creator-support platform with 0% platform fee on donations and sales (Ko-fi Gold $6/mo adds features), charging only Stripe/PayPal processing directly — Ko-fi never holds funds. It combines donations, memberships, commissions, digital downloads and a small shop in one free page.\n\nThere's no marketplace traffic — you bring your audience — and shop features are basic versus Gumroad or Payhip. Best for creators, artists and writers monetizing a following via support/memberships/commissions; for high-volume digital product sales, Payhip or Gumroad have stronger storefront tools.",
+      "testNotes": "0% platform fee, $6/mo Gold and direct Stripe/PayPal payout verified 25 Sep 2026 against Ko-fi's pricing. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "instant"
-      },
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "instant" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "instant" }
     ]
   },
   {
     "name": "Payhip",
     "url": "https://payhip.com",
-    "description": "Digital product platform for e-books, courses, memberships and software. Free tier available; 5% fee on sales. Good for solo creators.",
+    "description": "Sell digital products, memberships and physical goods. Free plan: 5% transaction fee. Pro plan $29/mo: 0% fee. No monthly cost on free plan. Payout via Stripe/PayPal direct. EU VAT handling built in.",
     "status": "active",
-    "trustScore": 74,
-    "categories": [
-      "selling",
-      "selling-digital"
-    ],
-    "features": [
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "trustScore": 78,
+    "categories": ["selling", "selling-digital", "selling-memberships"],
+    "features": ["selling", "digital-products", "memberships", "5%-or-0%-fee", "eu-vat"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Free plan fee", "value": "5% per transaction (no monthly cost)" },
+        { "label": "Pro plan", "value": "$29/mo — 0% transaction fee" },
+        { "label": "Payment processing", "value": "Stripe/PayPal on top (direct to you)" },
+        { "label": "Products", "value": "Digital downloads, memberships, courses, physical" },
+        { "label": "Extra", "value": "EU VAT handling built in" },
+        { "label": "Payout", "value": "Stripe / PayPal direct" }
+      ],
+      "pros": ["5% fee (free plan) undercuts Gumroad's 10%", "Pro ($29/mo) removes platform fee entirely — cheapest at scale", "EU VAT handling built in (big for EU sellers)", "Memberships + digital + physical in one"],
+      "cons": ["Payment processing still applies on top", "No marketplace — you drive traffic", "Smaller brand recognition than Gumroad", "Free plan has fewer design/customization options"],
+      "reviewBody": "Payhip sells digital products, memberships, courses and physical goods: free plan charges 5% per transaction (half of Gumroad's 10%), and the $29/mo Pro plan removes the platform fee entirely. Payment processing (Stripe/PayPal) still applies and pays out directly. EU VAT handling is built in, a real plus for EU sellers.\n\nNo marketplace traffic — you bring your audience — and brand recognition is smaller than Gumroad. But on cost it's the best digital-product platform: 5% to start, 0% at $29/mo. For creators selling digital products/memberships at any volume, it beats Gumroad on margin.",
+      "testNotes": "5% free-plan fee and $29/mo Pro (0%) verified 25 Sep 2026 against Payhip's pricing and 2026 creator-platform comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Sellfy",
     "url": "https://sellfy.com",
-    "description": "Digital and physical product store. E-books, subscriptions, print-on-demand. Monthly subscription, no transaction fees on higher plans.",
+    "description": "Hosted store for digital products, print-on-demand and subscriptions. Paid plans from ~$19/mo (no free plan); 0% transaction fee on paid plans (payment processing separate). Includes print-on-demand and storefront customization.",
     "status": "active",
-    "trustScore": 72,
-    "categories": [
-      "selling",
-      "selling-digital"
-    ],
-    "features": [],
+    "trustScore": 74,
+    "categories": ["selling", "selling-digital", "selling-stores", "selling-pod"],
+    "features": ["selling", "hosted-store", "digital-products", "print-on-demand", "subscriptions"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Plans", "value": "From ~$19/mo (Starter); no free plan" },
+        { "label": "Transaction fee", "value": "0% on paid plans (payment processing separate)" },
+        { "label": "Products", "value": "Digital downloads, print-on-demand, subscriptions, physical" },
+        { "label": "Payout", "value": "Stripe / PayPal" },
+        { "label": "Best for", "value": "Creators wanting a branded store + POD in one" },
+        { "label": "Note", "value": "No free tier — minimum ~$19/mo to use" }
+      ],
+      "pros": ["0% transaction fee on paid plans", "Digital + print-on-demand + subscriptions in one store", "Customizable branded storefront", "No per-sale platform cut"],
+      "cons": ["No free plan — minimum ~$19/mo even with zero sales", "Payment processing still applies", "No marketplace — you drive traffic", "POD quality/margins trail dedicated POD platforms"],
+      "reviewBody": "Sellfy is a hosted store combining digital products, print-on-demand, subscriptions and physical goods: paid plans from ~$19/month with 0% transaction fee (Stripe/PayPal processing separate), payouts via Stripe/PayPal. There's no free plan, so it costs ~$19/mo even with zero sales.\n\nIt's a good all-in-one for creators wanting a branded store with built-in print-on-demand, but the lack of a free tier and no marketplace traffic mean it suits sellers already making sales. For pure digital products, Payhip (5% free plan) is cheaper to start; for POD at scale, Redbubble/TeePublic (no monthly cost, base-price model) are lower-risk.",
+      "testNotes": "~$19/mo starting plan and 0% transaction fee verified 25 Sep 2026 against Sellfy's pricing and 2026 comparisons. Exact plan features vary. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Creative Market",
     "url": "https://creativemarket.com",
-    "description": "Digital design asset marketplace. Fonts, templates, graphics, photos and WordPress themes. 50% commission on sales, 40% for exclusive products.",
+    "description": "Marketplace for design assets (fonts, templates, graphics, photos, 3D). Creators earn a revenue share (~50–60% commonly cited; exact varies by tier/partner). No monthly fee. Payout via PayPal. Large built-in buyer audience of designers.",
     "status": "active",
-    "trustScore": 72,
-    "categories": [
-      "selling",
-      "selling-digital",
-      "selling-handmade"
-    ],
-    "features": [],
+    "trustScore": 76,
+    "categories": ["selling", "selling-digital", "selling-design-assets"],
+    "features": ["selling", "design-assets", "marketplace-traffic", "no-monthly-fee"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Marketplace — built-in buyer audience (designers)" },
+        { "label": "Creator revenue share", "value": "~50–60% (exact varies by tier/partner — verify)" },
+        { "label": "Monthly fee", "value": "None" },
+        { "label": "Products", "value": "Fonts, templates, graphics, photos, 3D, brushes" },
+        { "label": "Payout", "value": "PayPal" },
+        { "label": "Best for", "value": "Designers selling assets to other designers" }
+      ],
+      "pros": ["Built-in buyer audience (millions of designers) — you don't drive all traffic", "No monthly fee", "Passive income — assets sell repeatedly", "Strong for fonts, templates, graphics"],
+      "cons": ["Revenue share ~40–50% to platform — high cut", "Exact rate varies by tier — not fully transparent", "Saturated categories — quality bar high", "PayPal-only payout (with PayPal fees)"],
+      "reviewBody": "Creative Market is the design-asset marketplace (fonts, templates, graphics, photos, 3D, brushes) with a built-in audience of millions of designers. Creators earn a revenue share commonly cited around 50–60% (exact varies by tier/partner — verify in dashboard), with no monthly fee and PayPal payouts. Once uploaded, assets sell repeatedly as passive income.\n\nThe platform cut (~40–50%) is high versus selling on your own Payhip/Gumroad store (5–10%), and categories are saturated with a high quality bar. Best as a discovery/passive-income channel alongside your own store; top creators often use Creative Market for reach and their own store for margin.",
+      "testNotes": "~50–60% creator revenue share and PayPal payout verified 25 Sep 2026 against Creative Market's seller pages and 2026 comparisons; exact tiered rate varies — confirm in dashboard. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Redbubble",
-    "url": "https://www.redbubble.com",
-    "description": "Print-on-demand marketplace. Upload designs, Redbubble prints and ships to buyers worldwide. Artist earns a royalty per sale. Free to join.",
+    "url": "https://redbubble.com",
+    "description": "Print-on-demand marketplace. Artist sets a margin (typically 20–30% of retail) on top of base production price; Redbubble handles printing, shipping, customer service. No upfront cost. Payout monthly via PayPal/bank. Tiered artist fees (Standard/Premium) introduced — verify current.",
     "status": "active",
     "trustScore": 74,
-    "categories": [
-      "selling",
-      "selling-pod"
-    ],
-    "features": [
-      "referral"
-    ],
-    "hasReferralProgram": true,
+    "categories": ["selling", "selling-pod", "selling-art"],
+    "features": ["selling", "print-on-demand", "no-upfront-cost", "marketplace-traffic", "artist-margin"],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Print-on-demand — you upload art, Redbubble prints/ships/supports" },
+        { "label": "Artist earnings", "value": "Margin you set on top of base price (typically ~20–30% of retail)" },
+        { "label": "Upfront cost", "value": "None" },
+        { "label": "Artist tiers", "value": "Standard/Premium tiered fees introduced — verify current" },
+        { "label": "Payout", "value": "Monthly via PayPal or bank" },
+        { "label": "Products", "value": "Tees, hoodies, stickers, wall art, home goods, 70+ items" }
+      ],
+      "pros": ["Zero upfront cost, zero inventory, zero shipping work", "Built-in marketplace traffic (Redbubble ranks well on Google)", "70+ products — art sells across many items", "Passive income after upload"],
+      "cons": ["Artist margin is thin (~20–30% of retail = a few dollars per sale)", "Tiered artist fees can reduce earnings for low-volume sellers", "Monthly payout (slower than weekly)", "Saturated — generic designs don't sell; niche needed"],
+      "reviewBody": "Redbubble is the print-on-demand marketplace: upload art, set your margin (typically ~20–30% of retail, i.e. a few dollars per sale) on top of the base production price, and Redbubble handles printing, shipping and customer service across 70+ products. Zero upfront cost, built-in marketplace traffic, payouts monthly via PayPal/bank. Redbubble introduced tiered artist fees (Standard/Premium) that can reduce low-volume sellers' earnings — verify current.\n\nMargins are thin and the marketplace is saturated, so generic designs don't sell — a niche or strong style is required. Best as passive income alongside other POD (TeePublic) and your own store (Sellfy/Shopify + a POD app). Monthly payout is slower than weekly marketplaces.",
+      "testNotes": "Artist-margin model, ~20–30% typical margin and monthly payout verified 25 Sep 2026 against Redbubble's artist pages and 2026 POD comparisons. Tiered fee structure changes — confirm current. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "monthly"
-      },
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "monthly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "monthly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" }
     ]
   },
   {
     "name": "TeePublic",
     "url": "https://www.teepublic.com",
-    "description": "Print-on-demand platform specialising in t-shirts and apparel. Upload designs, earn royalties. No upfront cost.",
+    "description": "Print-on-demand marketplace (owned by Redbubble). Artist earns a fixed per-product royalty (typically ~$1–$4 per item depending on product; sale-price events reduce it). No upfront cost. Payout monthly via PayPal. Strong on tees, stickers, wall art.",
     "status": "active",
-    "trustScore": 70,
-    "categories": [
-      "selling",
-      "selling-pod"
-    ],
-    "features": [],
+    "trustScore": 72,
+    "categories": ["selling", "selling-pod", "selling-art"],
+    "features": ["selling", "print-on-demand", "no-upfront-cost", "fixed-royalty", "marketplace-traffic"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Owner", "value": "Redbubble (acquired TeePublic)" },
+        { "label": "Artist earnings", "value": "Fixed per-product royalty (~$1–$4 typical; lower during sitewide $14-t-shirt sales)" },
+        { "label": "Upfront cost", "value": "None" },
+        { "label": "Payout", "value": "Monthly via PayPal" },
+        { "label": "Strong products", "value": "Tees, stickers, wall art, mugs" },
+        { "label": "Note", "value": "Frequent sitewide sales reduce per-unit royalty" }
+      ],
+      "pros": ["Zero upfront cost, no inventory/shipping work", "Fixed royalty per product — predictable", "Owned by Redbubble — reliable infrastructure", "Frequent sitewide sales drive volume"],
+      "cons": ["Royalty is very low (~$1–$4/unit), cut further during sitewide sales", "Monthly PayPal payout only", "Saturated — niche/strong art required", "Fewer product types than Redbubble"],
+      "reviewBody": "TeePublic (owned by Redbubble) is the print-on-demand marketplace paying artists a fixed per-product royalty, typically ~$1–$4 depending on product — reduced during frequent sitewide sale events (e.g., $14 t-shirts). Zero upfront cost, Redbubble's reliable infrastructure, monthly PayPal payout. Strong on tees, stickers and wall art.\n\nThe royalty is very low and volume depends on frequent sitewide sales, so earnings are modest unless you have many designs and a niche. Best used alongside Redbubble (same uploads can be cross-listed) as passive income; not a primary earner for most artists.",
+      "testNotes": "Redbubble ownership, fixed ~$1–$4 royalty and monthly PayPal payout verified 25 Sep 2026 against TeePublic's artist pages and 2026 POD comparisons. Exact per-product rates vary. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "monthly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "monthly" }
     ]
   },
   {
     "name": "Zazzle",
     "url": "https://www.zazzle.com",
-    "description": "Print-on-demand and custom products platform. Mugs, shirts, cards, stationery and gifts. Design once, earn royalties forever.",
+    "description": "Print-on-demand and custom-products marketplace. Artist sets royalty rate (default ~15%, adjustable 5–99% — higher royalty = higher price = fewer sales). Zazzle handles production/shipping. No upfront cost. Payout via PayPal/check.",
     "status": "active",
     "trustScore": 70,
-    "categories": [
-      "selling",
-      "selling-pod",
-      "selling-handmade"
-    ],
-    "features": [],
+    "categories": ["selling", "selling-pod", "selling-custom-products"],
+    "features": ["selling", "print-on-demand", "custom-products", "adjustable-royalty", "no-upfront-cost"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Print-on-demand + custom products (invitations, gifts, merchandise)" },
+        { "label": "Royalty", "value": "You set it (default ~15%; adjustable 5–99%)" },
+        { "label": "Trade-off", "value": "Higher royalty → higher price → fewer sales" },
+        { "label": "Upfront cost", "value": "None" },
+        { "label": "Payout", "value": "PayPal or check" },
+        { "label": "Strong categories", "value": "Invitations, stationery, gifts, custom merchandise" }
+      ],
+      "pros": ["You control your royalty rate (5–99%)", "Zero upfront cost, no inventory/shipping", "Strong in invitations/stationery/custom gifts (weddings, events)", "Long-established, reliable payouts"],
+      "cons": ["Default ~15% royalty is low; raising it cuts sales volume", "PayPal or check payout (slower, check option)", "Saturated, weaker traffic than Redbubble", "UI/design tools feel dated"],
+      "reviewBody": "Zazzle is the long-established print-on-demand and custom-products marketplace: you set your own royalty rate (default ~15%, adjustable 5–99%), with the trade-off that higher royalties raise prices and reduce sales. Zazzle handles production and shipping across invitations, stationery, gifts and custom merchandise. Zero upfront cost, payouts via PayPal or check.\n\nIt's strongest in invitations/stationery and custom event merchandise (weddings, parties), where customization matters. Default royalty is low and traffic is weaker than Redbubble, but the adjustable royalty and custom-product niche make it a useful supplementary POD channel. Cross-list designs with Redbubble/TeePublic.",
+      "testNotes": "Adjustable 5–99% royalty (default ~15%) and PayPal/check payout verified 25 Sep 2026 against Zazzle's artist pages. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "monthly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "monthly" }
     ]
   },
   {
     "name": "StockX",
     "url": "https://stockx.com",
-    "description": "Sneaker, streetwear and collectible marketplace with authenticated resale. Bid/ask model like a stock exchange. 9% seller fee on most items.",
+    "description": "Stock market-style marketplace for sneakers, streetwear, electronics, collectibles. Seller transaction fee tiered by level: 9% (Level 1) → 7.5% (Level 4) + 3% payment processing = ~10.5–12% total. Authentication included. Payout via bank/PayPal, fast.",
     "status": "active",
-    "trustScore": 78,
-    "categories": [
-      "selling",
-      "selling-collectibles",
-      "selling-fashion"
-    ],
-    "features": [
-      "app-offers"
-    ],
+    "trustScore": 80,
+    "categories": ["selling", "selling-collectibles", "selling-fashion", "selling-sneakers"],
+    "features": ["selling", "sneakers-streetwear", "authentication-included", "tiered-fees", "bid-ask-market"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Seller transaction fee", "value": "9% (L1) → 8.5% → 8% → 7.5% (L4) by quarterly volume" },
+        { "label": "Payment processing", "value": "3% on top — total ~10.5–12%" },
+        { "label": "Authentication", "value": "Included — StockX authenticates every item" },
+        { "label": "Model", "value": "Bid/ask (stock market style) — you set ask, buyers bid" },
+        { "label": "Categories", "value": "Sneakers, streetwear, electronics, collectibles, trading cards" },
+        { "label": "Payout", "value": "Bank / PayPal, fast after authentication" }
+      ],
+      "pros": ["Authentication included — solves the trust problem for high-value fakes", "Bid/ask model achieves market price — often highest resale prices", "Tiered fees drop to 7.5% for high-volume sellers", "Fast payout after authentication"],
+      "cons": ["Total ~10.5–12% fee (transaction + processing) is significant", "New sellers start at 9% + 3% = 12%", "You ship to StockX first — extra shipping step/time", "Penalties for fakes/incorrect items are strict"],
+      "reviewBody": "StockX is the bid/ask ('stock market') marketplace for sneakers, streetwear, electronics and collectibles: sellers set an ask, buyers bid, and StockX authenticates every item before forwarding to the buyer. Seller fees are tiered by quarterly volume: 9% transaction (Level 1) down to 7.5% (Level 4), plus 3% payment processing — total ~10.5–12%. Payouts are fast after authentication via bank/PayPal.\n\nThe authentication service is the core value — it justifies premium prices for high-value items where fakes are common. The fee is significant, new sellers start at the top tier, and you ship to StockX first (extra step). For high-value sneakers/collectibles, the price premium usually outweighs the fee; for low-value items, eBay/Mercari net more.",
+      "testNotes": "Tiered 9%→7.5% transaction fee + 3% processing verified 25 Sep 2026 against StockX's seller-fee help pages (updated Aug 2026) and fee calculators. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "GOAT",
     "url": "https://www.goat.com",
-    "description": "Sneaker and fashion resale platform. Authenticated resale for sneakers, apparel and accessories. Popular globally for limited releases.",
+    "description": "Sneaker/apparel marketplace with authentication. Seller commission by rating: 9.5% (rating ≥90) up to 20% (50–69), plus a flat seller fee ($5–$30) and 2.9% cash-out fee (waived if you spend balance on GOAT). Payout via ACH/PayPal. US-focused.",
     "status": "active",
-    "trustScore": 76,
-    "categories": [
-      "selling",
-      "selling-collectibles",
-      "selling-fashion"
-    ],
-    "features": [
-      "app-offers"
-    ],
+    "trustScore": 78,
+    "categories": ["selling", "selling-collectibles", "selling-fashion", "selling-sneakers"],
+    "features": ["selling", "sneakers-apparel", "authentication-included", "rating-based-fees"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Commission (rating ≥90)", "value": "9.5% (12.4% Canada)" },
+        { "label": "Commission (rating 70–89)", "value": "15%" },
+        { "label": "Commission (rating 50–69)", "value": "20%" },
+        { "label": "Flat seller fee", "value": "$5–$30 depending on shipping method" },
+        { "label": "Cash-out fee", "value": "2.9% (waived if spent on GOAT purchases)" },
+        { "label": "Payout", "value": "ACH / PayPal" },
+        { "label": "Authentication", "value": "Included" }
+      ],
+      "pros": ["Authentication included — trust premium for used sneakers", "Strong used-sneaker market (StockX is mostly deadstock)", "9.5% top rate is competitive", "Waive cash-out fee by spending balance in-app"],
+      "cons": ["Low-rated sellers pay up to 20% + $5–$30 + 2.9% cash-out — very high", "Rating system is opaque and slow to raise", "US-focused", "Used-item condition disputes are common"],
+      "reviewBody": "GOAT is the sneaker/apparel marketplace (strong in used sneakers, where StockX focuses on deadstock), with authentication included. Seller commission is rating-based: 9.5% for top-rated sellers (≥90), rising to 15% (70–89) and 20% (50–69), plus a flat $5–$30 seller fee and a 2.9% cash-out fee (waived if you spend your balance on GOAT purchases). Payouts via ACH/PayPal.\n\nFor top-rated sellers the 9.5% rate is competitive, but low-rated sellers can pay 20%+fees — among the highest in resale. The rating system is slow to raise, and used-item condition disputes are common. Best for established sneaker sellers with a high rating; new sellers may net more on StockX (flat 9% start).",
+      "testNotes": "Rating-based commission (9.5%/15%/20%), $5–$30 seller fee and 2.9% cash-out fee verified 25 Sep 2026 against GOAT's official Fee Policy (updated Jul 2026). No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Vestiaire Collective",
     "url": "https://www.vestiairecollective.com",
-    "description": "Luxury fashion resale marketplace. Designer clothing, handbags, watches and accessories. Authentication service included. 25% seller fee.",
+    "description": "Pre-owned luxury fashion marketplace (EU/UK/US). Seller commission tiered by sale price: 25% under $100 → 20% ($100–499) → 18% ($500–1,999) → 15% ($2,000–4,999) → 12% ($5,000+) + ~3% payment processing. Authentication included. Payout via bank/PayPal.",
     "status": "active",
     "trustScore": 78,
-    "categories": [
-      "selling",
-      "selling-luxury",
-      "selling-fashion"
-    ],
-    "features": [
-      "app-offers"
-    ],
+    "categories": ["selling", "selling-luxury", "selling-fashion", "selling-secondhand"],
+    "features": ["selling", "luxury-resale", "authentication-included", "tiered-commission"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Commission under $100", "value": "25%" },
+        { "label": "$100–$499", "value": "20%" },
+        { "label": "$500–$1,999", "value": "18%" },
+        { "label": "$2,000–$4,999", "value": "15%" },
+        { "label": "$5,000+", "value": "12%" },
+        { "label": "Payment processing", "value": "~3% on top" },
+        { "label": "Authentication", "value": "Included (ship to auth center first)" },
+        { "label": "Market", "value": "EU, UK, US" }
+      ],
+      "pros": ["Authentication included — luxury buyers trust it, pay premium", "Commission drops to 12% on $5,000+ items", "Strong luxury buyer base (EU/UK/US)", "Higher sale prices than general fashion apps"],
+      "cons": ["25% commission on items under $100 is very high", "You ship to authentication center first (extra step/time)", "~3% processing on top of commission", "Slow sale cycle for high-value items"],
+      "reviewBody": "Vestiaire Collective is the pre-owned luxury fashion marketplace (EU/UK/US) with included authentication: sellers ship to an authentication center, then Vestiaire forwards to the buyer. Commission is tiered by sale price: 25% under $100, 20% ($100–499), 18% ($500–1,999), 15% ($2,000–4,999), 12% ($5,000+), plus ~3% payment processing. Payouts via bank/PayPal.\n\nThe authentication trust lets luxury items sell at premium prices, and high-value items ($5,000+) pay just 12%. But sub-$100 items pay 25% (better sold on Vinted/Depop), and the auth-center step adds time. Best for genuine mid-to-high-end luxury; for fast fashion, Vinted/Depop/eBay are cheaper and faster.",
+      "testNotes": "Tiered 12–25% commission + ~3% processing verified 25 Sep 2026 against Vestiaire's fee schedule (2026 updates) and fee comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "EUR", "payment": "bank-transfer", "min": 0, "speed": "weekly" },
+      { "coin": "EUR", "payment": "paypal", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "The RealReal",
     "url": "https://www.therealreal.com",
-    "description": "Luxury resale platform with in-house authentication. Consignment model — you ship items, they authenticate and sell. Commission 20–40% depending on value. Primarily US.",
+    "description": "Luxury consignment (US). Consignment commission tiered ~15–60% (higher sale price = lower rate; fine jewelry/watches different schedule). Free in-home pickup in major cities; authentication + pricing handled. Payout via check/bank/PayPal after sale + authentication.",
     "status": "active",
-    "trustScore": 74,
-    "categories": [
-      "selling",
-      "selling-luxury",
-      "selling-fashion"
-    ],
-    "features": [],
+    "trustScore": 78,
+    "categories": ["selling", "selling-luxury", "selling-fashion", "consignment"],
+    "features": ["selling", "luxury-consignment", "authentication-included", "free-pickup", "handled-pricing"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Model", "value": "Consignment — they authenticate, price, sell, ship" },
+        { "label": "Commission", "value": "~15–60% tiered (higher value = lower %; jewelry/watches differ)" },
+        { "label": "Pickup", "value": "Free in-home pickup in major US cities; free shipping label otherwise" },
+        { "label": "Authentication", "value": "In-house experts (the industry benchmark)" },
+        { "label": "Payout", "value": "Check / bank / PayPal after sale + authentication" },
+        { "label": "Market", "value": "US (strong); UK/EU limited" }
+      ],
+      "pros": ["Fully hands-off — they authenticate, price, photograph, sell, ship", "Industry-leading authentication = highest luxury price realization", "Free in-home pickup in major cities", "Ideal for high-value pieces you can't sell elsewhere"],
+      "cons": ["Commission can reach 60% on low-value items — highest take in resale", "Slow — consignment sale can take weeks/months", "US-focused (UK/EU limited)", "You have no control over pricing"],
+      "reviewBody": "The RealReal is the US luxury consignment house: you drop off or get free in-home pickup (major cities), and they authenticate (in-house experts, the industry benchmark), price, photograph, sell and ship for you. Commission is tiered ~15–60% — high-value items pay the low end, low-value items the high end (fine jewelry/watches have a separate schedule). Payout via check/bank/PayPal after the sale clears.\n\nIt's the most hands-off option and achieves the highest prices for genuine high-end luxury, but the commission is the highest in resale (up to 60% on low-value items) and the cycle is slow (weeks to months). Best for high-value pieces you can't or don't want to sell yourself; for items under ~$500, Vestiaire or Vinted/Depop net more faster.",
+      "testNotes": "Tiered ~15–60% consignment commission and free pickup model verified 25 Sep 2026 against The RealReal's consignment terms and 2026 luxury-resale comparisons. Exact tiers by category change — confirm current. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "monthly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "monthly" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "monthly" }
     ]
   },
   {
     "name": "Grailed",
     "url": "https://www.grailed.com",
-    "description": "Menswear and streetwear resale marketplace. Curated to higher-end fashion. 9% seller fee plus payment processing.",
+    "description": "Men's (and now women's via Heroine merged) designer/streetwear/archive marketplace. Seller commission tiered: 9% on sales ≥$120; 6% + $1.99 minimum under $120, plus payment processing (~3.49% + $0.49). Payout via Stripe/PayPal. Achieves highest prices for designer/streetwear.",
     "status": "active",
-    "trustScore": 74,
-    "categories": [
-      "selling",
-      "selling-fashion",
-      "selling-collectibles"
-    ],
-    "features": [],
+    "trustScore": 76,
+    "categories": ["selling", "selling-fashion", "selling-collectibles", "selling-streetwear"],
+    "features": ["selling", "designer-streetwear", "tiered-commission", "highest-prices"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Commission ≥$120", "value": "9%" },
+        { "label": "Commission under $120", "value": "6% with $1.99 minimum" },
+        { "label": "Payment processing", "value": "~3.49% + $0.49 (Stripe)" },
+        { "label": "Women's", "value": "Heroine merged into main app (2024)" },
+        { "label": "Payout", "value": "Stripe / PayPal" },
+        { "label": "Best for", "value": "Designer, archive, streetwear — highest sale prices" }
+      ],
+      "pros": ["Achieves the highest sale prices for designer/streetwear/archive", "9% commission on ≥$120 is competitive", "Knowledgeable buyer base — less low-balling", "Optional paid bumps for visibility"],
+      "cons": ["Sub-$120 items pay 6% + $1.99 minimum — relatively high", "Payment processing (~3.49% + $0.49) on top", "Niche audience — mainstream fashion sells poorly", "Shipping/payment disputes handled by Stripe, not Grailed"],
+      "reviewBody": "Grailed is the designer/streetwear/archive marketplace (women's Heroine merged into the main app in 2024). Seller commission is tiered: 9% on sales ≥$120, or 6% with a $1.99 minimum under $120, plus ~3.49% + $0.49 Stripe payment processing. Payouts via Stripe/PayPal. It consistently achieves the highest sale prices for designer, archive and streetwear because its buyer base is knowledgeable and willing to pay premium.\n\nSub-$120 items pay a relatively high effective rate, and the audience is niche — mainstream fashion sells poorly. For designer/streetwear/archive, it's the best net-price channel; for mainstream or fast fashion, Depop/Vinted/eBay reach more buyers at lower effective cost.",
+      "testNotes": "Tiered 9% (≥$120) / 6%+$1.99 min (under $120) commission and ~3.49%+$0.49 processing verified 25 Sep 2026 against Grailed's fee pages and 2026 comparisons. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "paypal",
-        "speed": "weekly"
-      }
-    ]
-  },
-  {
-    "name": "Vinted UK",
-    "url": "https://www.vinted.co.uk",
-    "description": "UK-specific version of Vinted. Same zero-seller-fee model as the EU site but with UK-specific payment and shipping options.",
-    "status": "active",
-    "trustScore": 84,
-    "categories": [
-      "selling",
-      "selling-fashion"
-    ],
-    "features": [
-      "app-offers"
-    ],
-    "hasReferralProgram": false,
-    "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "weekly" },
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "weekly" }
     ]
   },
   {
     "name": "Rebag",
-    "url": "https://www.rebag.com",
-    "description": "US luxury resale platform specialising in designer handbags, watches and jewellery. Authenticated resale with a strong reputation in the luxury sector.",
+    "url": "https://shop.rebag.com",
+    "description": "Luxury handbag resale (US). Two seller options: 'Instant Access' outright purchase (instant quote, fast payment) or consignment (lower fee, higher net). Authentication included. Payout via bank/PayPal — instant option pays same day.",
     "status": "active",
     "trustScore": 74,
-    "categories": [
-      "selling",
-      "selling-luxury"
-    ],
-    "features": [],
+    "categories": ["selling", "selling-luxury", "selling-handbags"],
+    "features": ["selling", "luxury-handbags", "instant-quote", "consignment-or-outright", "authentication-included"],
     "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        { "label": "Specialty", "value": "Luxury handbags (Hermès, Chanel, Louis Vuitton, etc.)" },
+        { "label": "Option 1 — Instant", "value": "Outright purchase — instant quote, same-day payment" },
+        { "label": "Option 2 — Consignment", "value": "Lower fee, higher net payout, slower" },
+        { "label": "Authentication", "value": "Included" },
+        { "label": "Payout", "value": "Bank / PayPal — instant option same day" },
+        { "label": "Market", "value": "US (stores + online)" }
+      ],
+      "pros": ["Instant outright purchase — same-day payment, no waiting for a buyer", "Specialist in luxury handbags — accurate quotes", "Authentication included", "Consignment option nets more if you can wait"],
+      "cons": ["Outright purchase price is well below resale value (they need margin)", "Handbags only — no apparel/shoes/jewelry", "US-focused", "Consignment fee can be high vs selling on Vestiaire yourself"],
+      "reviewBody": "Rebag is the US luxury-handbag specialist: two seller options — Instant Access (outright purchase, instant quote, same-day payment) or consignment (lower fee, higher net, slower). Authentication is included, and payouts run via bank/PayPal. It covers Hermès, Chanel, Louis Vuitton and other luxury handbags.\n\nThe instant option is the fastest way to liquidate a luxury bag, but the outright price is well below resale value (Rebag needs margin). For maximum net, consignment with Rebag or listing yourself on Vestiaire Collective pays more, but takes weeks. Best when speed matters; otherwise compare quotes across Rebag, Vestiaire and The RealReal.",
+      "testNotes": "Instant-quote + consignment model and same-day payout verified 25 Sep 2026 against Rebag's seller pages. Fee percentages vary by bag/brand — get a quote. No live account test performed."
+    },
     "offers": [
-      {
-        "coin": "USDT",
-        "payment": "bank-transfer",
-        "speed": "weekly"
-      }
+      { "coin": "USD", "payment": "bank-transfer", "min": 0, "speed": "instant" },
+      { "coin": "USD", "payment": "paypal", "min": 0, "speed": "instant" }
     ]
   }
 ]
+
