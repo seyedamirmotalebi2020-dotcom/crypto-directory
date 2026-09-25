@@ -20,6 +20,2484 @@
       "daily-bonus"
     ],
     "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "BTC, DOGE, ETH, LTC, TRX, USDT"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "58"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "Faucet Click Bot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of BTC, DOGE, ETH, LTC, TRX, USDT via faucetpay with frequent claims. Trust score is 58 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      },
+      {
+        "coin": "ETH",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      },
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Telegram Faucet",
+    "url": "https://t.me/FaucetTelegramBot/app",
+    "description": "Telegram Mini-App faucet supporting multiple coins. Claims through the Telegram bot interface.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-btc",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "BTC, TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "55"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "Telegram Faucet is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of BTC, TON via faucetpay with frequent claims. Trust score is 55 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      },
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Gemi Faucet",
+    "url": "https://t.me/gemifaucet_bot",
+    "description": "TON-focused Telegram Mini-App faucet. Claims via bot interface.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "55"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "Gemi Faucet is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via faucetpay with frequent claims. Trust score is 55 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "TON Faucet (TonFaucetsBot)",
+    "url": "https://t.me/TonFaucetsBot",
+    "description": "Telegram faucet and tasks bot paying TON.",
+    "status": "active",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "52"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "TON Faucet (TonFaucetsBot) is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via faucetpay with frequent claims. Trust score is 52 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Ton Faucet (tonFaucetapp_bot)",
+    "url": "https://t.me/tonFaucetapp_bot",
+    "description": "Telegram faucet bot paying TON via app-style interface.",
+    "status": "active",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "52"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "Ton Faucet (tonFaucetapp_bot) is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via faucetpay with frequent claims. Trust score is 52 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "TON Faucet (Claim)",
+    "url": "https://t.me/TONFastFaucetClaimBot",
+    "description": "TON faucet with fast claim flow via Telegram bot.",
+    "status": "active",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "52"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "TON Faucet (Claim) is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via faucetpay with frequent claims. Trust score is 52 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "SOL Click Bot",
+    "url": "https://t.me/SOLClickBot",
+    "description": "Telegram PTC and tasks bot paying SOL.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "SOL"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "55"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "SOL Click Bot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of SOL via faucetpay with frequent claims. Trust score is 55 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "SOL",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "TRX Click Bot",
+    "url": "https://t.me/TRONClickBot",
+    "description": "Telegram tasks and PTC bot paying TRX.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TRX"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "55"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "TRX Click Bot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TRX via faucetpay with frequent claims. Trust score is 55 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "TON Click Bot",
+    "url": "https://t.me/TonClickRobot",
+    "description": "Telegram tasks and faucet bot paying TON.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "55"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "TON Click Bot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via faucetpay with frequent claims. Trust score is 55 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "BNB Click Bot",
+    "url": "https://t.me/BinanceClickBot",
+    "description": "Telegram tasks bot paying BNB. Name is not affiliated with Binance the exchange — it is a third-party bot.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "BNB"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "48"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (48) — high risk",
+        "Earnings are tiny (faucet-scale) — not meaningful income"
+      ],
+      "reviewBody": "BNB Click Bot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of BNB via faucetpay with frequent claims. It is marked under_review with a low trust score (48): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "BNB",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Bitcoin Click Bot",
+    "url": "https://t.me/bitcoin_click_bot",
+    "description": "Telegram PTC and tasks bot paying BTC.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-btc"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "BTC"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "55"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "Bitcoin Click Bot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of BTC via faucetpay with frequent claims. Trust score is 55 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Free Tron",
+    "url": "https://t.me/FreeTRXbot",
+    "description": "Telegram referral and rewards bot paying TRX.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "telegram",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TRX"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "50"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (50) — high risk",
+        "Earnings are tiny (faucet-scale) — not meaningful income"
+      ],
+      "reviewBody": "Free Tron is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TRX via faucetpay with frequent claims. It is marked under_review with a low trust score (50): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Free TRX Pro Bot",
+    "url": "https://t.me/freetrxprobot",
+    "description": "Telegram faucet and rewards bot paying TRX. Newer and less established — test with small amounts.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "telegram",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TRX"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "48"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (48) — high risk",
+        "Earnings are tiny (faucet-scale) — not meaningful income"
+      ],
+      "reviewBody": "Free TRX Pro Bot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TRX via faucetpay with frequent claims. It is marked under_review with a low trust score (48): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "TON Faucet (tonchatfrees)",
+    "url": "https://t.me/tonchatfrees",
+    "description": "TON faucet and community channel. Keep provisionally — less established than the dedicated bots above.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "45"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (45) — high risk",
+        "Earnings are tiny (faucet-scale) — not meaningful income"
+      ],
+      "reviewBody": "TON Faucet (tonchatfrees) is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via faucetpay with frequent claims. It is marked under_review with a low trust score (45): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "FaucetMini",
+    "url": "https://t.me/FaucetMiniBot",
+    "description": "Telegram Mini-App combining games, play-to-earn and rewards. Pays USDT and other coins.",
+    "status": "under_review",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "games",
+      "faucets-usdt"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "USDT"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "55"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "FaucetMini is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of USDT via faucetpay with frequent claims. It is marked under_review with a low trust score (55): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "CoinPlay MiniApp",
+    "url": "https://t.me/CoinPlayBot",
+    "description": "Telegram Mini-App for crypto earning with TON and other coins.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "games",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "52"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "CoinPlay MiniApp is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via faucetpay with frequent claims. It is marked under_review with a low trust score (52): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Earnigram Mini App",
+    "url": "https://t.me/EarnigramBot",
+    "description": "Telegram earning Mini-App supporting TON and other coins. Rewards and referral tasks.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "games",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "52"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "Earnigram Mini App is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via faucetpay with frequent claims. It is marked under_review with a low trust score (52): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "TRX Faucet Pay",
+    "url": "https://t.me/TRX_faucet_pay_bot",
+    "description": "Telegram faucet bot paying TRX through FaucetPay. Task-based claims with a Telegram-native interface.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TRX"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "55"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "TRX Faucet Pay is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TRX via faucetpay with frequent claims. Trust score is 55 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TRX",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Doge Faucet Click",
+    "url": "https://t.me/doge_faucet_click_bot",
+    "description": "Telegram DOGE faucet bot. Advertises FaucetHub withdrawals. Task-based claims.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "DOGE"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "48"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (48) — high risk",
+        "Earnings are tiny (faucet-scale) — not meaningful income"
+      ],
+      "reviewBody": "Doge Faucet Click is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of DOGE via faucetpay with frequent claims. It is marked under_review with a low trust score (48): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "notes": "Advertises FaucetHub — FaucetHub shut down in 2019; verify before using",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Rewardly",
+    "url": "https://t.me/RewardlyBot",
+    "description": "Telegram DOGE faucet and rewards bot.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-doge"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "DOGE"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "50"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (50) — high risk",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)"
+      ],
+      "reviewBody": "Rewardly is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of DOGE via faucetpay with frequent claims. It is marked under_review with a low trust score (50): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "USDT Clickers Bot",
+    "url": "https://t.me/USDTClickers_Bot",
+    "description": "Telegram task bot paying USDT for website visits and completed tasks.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "ptc",
+      "faucets-usdt"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "USDT"
+        },
+        {
+          "label": "Payout method",
+          "value": "faucetpay"
+        },
+        {
+          "label": "Status",
+          "value": "active"
+        },
+        {
+          "label": "Trust score",
+          "value": "55"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale) — not meaningful income",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "USDT Clickers Bot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of USDT via faucetpay with frequent claims. Trust score is 55 — moderate for this high-risk category. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "TrueClickBot",
+    "url": "https://t.me/trueclickbot",
+    "description": "Click-based rewards bot on Telegram. Coin specification not clearly stated — verify before investing time.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "telegram",
+      "ptc"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "(none — points/airdrop only)"
+        },
+        {
+          "label": "Payout method",
+          "value": "none"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "45"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (45) — high risk",
+        "Earnings are tiny (faucet-scale) — not meaningful income"
+      ],
+      "reviewBody": "TrueClickBot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It has no direct cash payout — any reward comes as points or a speculative token airdrop. It is marked under_review with a low trust score (45): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": []
+  },
+  {
+    "name": "Box Click Bot",
+    "url": "https://t.me/BoxClickBot",
+    "description": "Telegram advertising-task bot. Rewards for subscriptions, website visits and channel starts. Coin not clearly specified.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "telegram",
+      "ptc"
+    ],
+    "features": [
+      "telegram",
+      "ptc-ads",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Faucet/clicker — small crypto claims"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "(none — points/airdrop only)"
+        },
+        {
+          "label": "Payout method",
+          "value": "none"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "45"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Low minimum, frequent claims"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (45) — high risk",
+        "Earnings are tiny (faucet-scale) — not meaningful income"
+      ],
+      "reviewBody": "Box Click Bot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It has no direct cash payout — any reward comes as points or a speculative token airdrop. It is marked under_review with a low trust score (45): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": []
+  },
+  {
+    "name": "FaucetPay Mini App",
+    "url": "https://t.me/faucetpay",
+    "description": "Official FaucetPay Telegram Mini App. Access your FaucetPay balance, view transaction history and manage withdrawals from inside Telegram. Current Telegram listing shows 22,496 monthly users.",
+    "status": "active",
+    "trustScore": 80,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt"
+    ],
+    "features": [
+      "telegram",
+      "referral"
+    ],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Operator",
+          "value": "FaucetPay (established micro-wallet, trust 80 — highest in this batch)"
+        },
+        {
+          "label": "Model",
+          "value": "Official FaucetPay Telegram mini app — claim faucets, tasks"
+        },
+        {
+          "label": "Payout",
+          "value": "Direct to FaucetPay wallet (then withdraw to external wallet)"
+        },
+        {
+          "label": "Coins",
+          "value": "BTC, ETH, LTC, DOGE, USDT, TRX and more (20+)"
+        },
+        {
+          "label": "Minimum",
+          "value": "Per-coin FaucetPay micro-thresholds (very low)"
+        },
+        {
+          "label": "Trust",
+          "value": "80 — only high-trust entry here"
+        }
+      ],
+      "pros": [
+        "Backed by FaucetPay — proven payout infrastructure",
+        "20+ coins, direct to FaucetPay wallet",
+        "Low micro-thresholds",
+        "Telegram access = no separate app"
+      ],
+      "cons": [
+        "Earnings are faucet-scale (tiny)",
+        "FaucetPay external withdrawal has its own fees/minimums",
+        "Telegram-only",
+        "Still requires consistent daily claiming"
+      ],
+      "reviewBody": "FaucetPay Mini App is the official Telegram mini app of FaucetPay, the established crypto micro-wallet — and at trust 80 it's the only high-trust entry in this Telegram batch. It lets you claim faucets and complete tasks paid directly into your FaucetPay wallet across 20+ coins (BTC, ETH, LTC, DOGE, USDT, TRX), with very low per-coin micro-thresholds. Earnings are still faucet-scale (tiny), but payout reliability is proven. Withdraw from FaucetPay to an external wallet when you clear that platform's per-coin minimum.",
+      "testNotes": "Desk research verified 25 Sep 2026. Telegram bot/app status changes frequently — verify current payout route before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "BTC",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      },
+      {
+        "coin": "LTC",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      },
+      {
+        "coin": "DOGE",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      },
+      {
+        "coin": "USDT",
+        "payment": "faucetpay",
+        "speed": "instant",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Galaxy Task",
+    "url": "https://t.me/GalaxyTaskBot",
+    "description": "Telegram Mini App for tasks, points and airdrop participation. Rewards include TON, USDT and BNB.",
+    "status": "under_review",
+    "trustScore": 52,
+    "categories": [
+      "telegram",
+      "airdrops",
+      "games"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "direct-wallet"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "52"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)",
+        "Small anonymous operator — counterparty/scam risk; cash out early, never deposit"
+      ],
+      "reviewBody": "Galaxy Task is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via direct-wallet with frequent claims. It is marked under_review with a low trust score (52): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "direct-wallet",
+        "speed": "manual",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "CryptoRank Mini App",
+    "url": "https://t.me/cryptorank_app_bot",
+    "description": "Official CryptoRank Telegram Mini App. Tasks, farming, CR Points accumulation and referrals. Well-known crypto research brand.",
+    "status": "active",
+    "trustScore": 68,
+    "categories": [
+      "telegram",
+      "airdrops",
+      "games"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Operator",
+          "value": "CryptoRank (established crypto data/analytics platform)"
+        },
+        {
+          "label": "Model",
+          "value": "Points/quest mini app — daily tasks, airdrop-style rewards"
+        },
+        {
+          "label": "Token",
+          "value": "Points program; token/airdrop not guaranteed"
+        },
+        {
+          "label": "Payout",
+          "value": "No direct cash payout — points/airdrop speculative"
+        },
+        {
+          "label": "Trust",
+          "value": "68 — real company, but reward value unproven"
+        }
+      ],
+      "pros": [
+        "Backed by real company (CryptoRank) — not anonymous",
+        "Daily quests are low-effort",
+        "Airdrop upside if token launches",
+        "Free to participate"
+      ],
+      "cons": [
+        "No direct cash payout — points only, token not guaranteed",
+        "Telegram mini-app airdrops have mostly disappointed (Hamster ~-98%)",
+        "Time cost vs uncertain reward",
+        "Points can be devalued at TGE"
+      ],
+      "reviewBody": "CryptoRank Mini App is the points/quest mini app from CryptoRank, the established crypto data platform — a real company, which distinguishes it from anonymous bots. You complete daily tasks to earn points with airdrop-style upside, but there is no direct cash payout and a token launch is not guaranteed. Given the 2024–2026 track record of Telegram mini-app airdrops (Hamster Kombat's HMSTR fell ~98% after listing), treat points as a free lottery ticket, not income. Low effort, but don't invest significant time.",
+      "testNotes": "Desk research verified 25 Sep 2026. Telegram bot/app status changes frequently — verify current payout route before accumulating a balance. No live account test performed."
+    },
+    "offers": []
+  },
+  {
+    "name": "Lucky Cat",
+    "url": "https://t.me/LuckyCatMiniBot",
+    "description": "Telegram Mini App combining games and tasks to generate Lucky Cat airdrop points. Not a direct payout — points anticipate a future airdrop.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "telegram",
+      "games",
+      "airdrops"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "(none — points/airdrop only)"
+        },
+        {
+          "label": "Payout method",
+          "value": "none"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "50"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (50) — high risk",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)"
+      ],
+      "reviewBody": "Lucky Cat is a Telegram bot/mini app in the crypto-faucet/airdrop category. It has no direct cash payout — any reward comes as points or a speculative token airdrop. It is marked under_review with a low trust score (50): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": []
+  },
+  {
+    "name": "TonLoot",
+    "url": "https://t.me/tonloot_bot",
+    "description": "Telegram Mini App offering offers, surveys, ads and faucet claims. Pays TON, USDT and other coins.",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-other",
+      "surveys",
+      "offerwalls"
+    ],
+    "features": [
+      "telegram",
+      "offerwall",
+      "surveys",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Model",
+          "value": "TON faucet/loot mini app — claims, tasks"
+        },
+        {
+          "label": "Payout coin",
+          "value": "TON (direct wallet)"
+        },
+        {
+          "label": "Status",
+          "value": "Active (trust 60)"
+        },
+        {
+          "label": "Minimum",
+          "value": "Low (TON micro-amounts)"
+        },
+        {
+          "label": "Note",
+          "value": "Faucet-scale earnings — tiny TON amounts"
+        }
+      ],
+      "pros": [
+        "Active TON faucet with direct wallet payout",
+        "Low minimum",
+        "Free to claim",
+        "Telegram-native — no download"
+      ],
+      "cons": [
+        "Earnings are tiny (faucet-scale TON)",
+        "Small operator — counterparty risk",
+        "Claims frequent = time cost",
+        "TON price volatility"
+      ],
+      "reviewBody": "TonLoot is an active TON faucet/loot mini app paying TON directly to wallet with a low minimum. It's one of the more active TON faucets (trust 60), but earnings are faucet-scale — tiny TON amounts per claim. As with all Telegram faucets, claim frequently to compound small amounts, but treat as a crypto introduction, not income. Verify the withdrawal route works with a tiny first cashout.",
+      "testNotes": "Desk research verified 25 Sep 2026. Telegram bot/app status changes frequently — verify current payout route before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "direct-wallet",
+        "speed": "weekly",
+        "min": 0
+      },
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "weekly",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "MyNex App",
+    "url": "https://t.me/mynex_xbot",
+    "description": "Telegram Mini App with tap-to-earn, mining modules and tasks. Pays USDT.",
+    "status": "under_review",
+    "trustScore": 48,
+    "categories": [
+      "telegram",
+      "games",
+      "mining"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "USDT"
+        },
+        {
+          "label": "Payout method",
+          "value": "direct-wallet"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "48"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (48) — high risk",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)"
+      ],
+      "reviewBody": "MyNex App is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of USDT via direct-wallet with frequent claims. It is marked under_review with a low trust score (48): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "manual",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Bee Wallet",
+    "url": "https://t.me/myBeeWalletbot",
+    "description": "Telegram wallet and earning app advertising USDT rewards through tasks, ads and referrals. Caution: wallet + rewards hybrid apps carry higher risk — never deposit funds.",
+    "status": "under_review",
+    "trustScore": 42,
+    "categories": [
+      "telegram",
+      "faucets-usdt",
+      "app-offers"
+    ],
+    "features": [
+      "telegram",
+      "app-offers",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "USDT"
+        },
+        {
+          "label": "Payout method",
+          "value": "direct-wallet"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "42"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (42) — high risk",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)"
+      ],
+      "reviewBody": "Bee Wallet is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of USDT via direct-wallet with frequent claims. It is marked under_review with a low trust score (42): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "USDT",
+        "payment": "direct-wallet",
+        "speed": "manual",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "TON Walk",
+    "url": "https://t.me/tonwalk_bot",
+    "description": "Walk-to-earn Telegram Mini App in the TON ecosystem. Rewards movement with TON-based tokens.",
+    "status": "active",
+    "trustScore": 55,
+    "categories": [
+      "telegram",
+      "games",
+      "faucets-other"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Model",
+          "value": "Move-to-earn / step-counting mini app on TON"
+        },
+        {
+          "label": "Earning",
+          "value": "Steps convert to in-app points/tokens"
+        },
+        {
+          "label": "Payout",
+          "value": "In-app token — withdrawal route/value unverified"
+        },
+        {
+          "label": "Trust",
+          "value": "55 — active but earning route unproven"
+        }
+      ],
+      "pros": [
+        "Free — turns existing walking into potential rewards",
+        "Low effort (passive step counting)",
+        "Active app",
+        "TON ecosystem"
+      ],
+      "cons": [
+        "Earning/withdrawal route unverified",
+        "Move-to-earn (STEPN) collapsed ~99% — returns minimal",
+        "In-app token likely near-worthless",
+        "May drain battery / require location permissions"
+      ],
+      "reviewBody": "TON Walk is a move-to-earn step-counting mini app on TON: your steps convert to in-app points/tokens. The move-to-earn model (pioneered by STEPN) collapsed — GST earn token fell ~99% — so realistic returns are minimal, and TON Walk's withdrawal route and token value are unverified. It costs nothing and runs passively, so low-risk to try, but don't expect meaningful income. Watch battery/location permission impact.",
+      "testNotes": "Desk research verified 25 Sep 2026. Telegram bot/app status changes frequently — verify current payout route before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "direct-wallet",
+        "speed": "weekly",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Mini Ton",
+    "url": "https://t.me/mini_ton_bot",
+    "description": "Telegram play-to-earn game in the TON ecosystem. Community rewards and progression mechanics.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "telegram",
+      "games"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "direct-wallet"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "50"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (50) — high risk",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)"
+      ],
+      "reviewBody": "Mini Ton is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via direct-wallet with frequent claims. It is marked under_review with a low trust score (50): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "direct-wallet",
+        "speed": "manual",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Agent 301",
+    "url": "https://t.me/Agent301Bot",
+    "description": "Telegram Mini App combining tasks, games and Telegram Gifts rewards. Points-based reward system.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "telegram",
+      "games",
+      "app-offers"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "app-offers",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Model",
+          "value": "Tap-to-earn / task mini app (TON ecosystem)"
+        },
+        {
+          "label": "Token",
+          "value": "Points program; airdrop expected but not confirmed"
+        },
+        {
+          "label": "Earning",
+          "value": "Taps, tasks, games → points"
+        },
+        {
+          "label": "Payout",
+          "value": "Token only (if airdrop) — no cash"
+        },
+        {
+          "label": "Trust",
+          "value": "58 — active but unproven rewards"
+        }
+      ],
+      "pros": [
+        "Free, seconds-per-day participation",
+        "Active community",
+        "Airdrop lottery upside",
+        "TON ecosystem"
+      ],
+      "cons": [
+        "No confirmed token/airdrop date or value",
+        "Tap-to-earn airdrops have mostly disappointed",
+        "Points can be devalued or cancelled",
+        "Time cost vs near-zero expected value"
+      ],
+      "reviewBody": "Agent 301 is a tap-to-earn/task mini app in the TON ecosystem, earning points through taps, tasks and games with an expected-but-unconfirmed airdrop. Like Tomarket and Hamster Kombat, there is no cash payout and reward value depends entirely on a future token event whose value is likely tiny (the tap-to-earn sector collapsed through 2025–2026). Free to check in daily for seconds; treat as lottery, not income.",
+      "testNotes": "Desk research verified 25 Sep 2026. Telegram bot/app status changes frequently — verify current payout route before accumulating a balance. No live account test performed."
+    },
+    "offers": []
+  },
+  {
+    "name": "Tomarket",
+    "url": "https://t.me/tomarket_ai_bot",
+    "description": "Telegram Mini App with farming, games and trading activities. Rewards in TOMATO token plus anticipated airdrop.",
+    "status": "active",
+    "trustScore": 60,
+    "categories": [
+      "telegram",
+      "games",
+      "airdrops"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Model",
+          "value": "Tap-to-earn Telegram mini app (TON ecosystem)"
+        },
+        {
+          "label": "Token",
+          "value": "TOMI (listed/expected — verify current status)"
+        },
+        {
+          "label": "Earning",
+          "value": "Taps, combos, tasks → points → potential token airdrop"
+        },
+        {
+          "label": "Payout",
+          "value": "Token only (if/when airdrop/TGE) — no cash"
+        },
+        {
+          "label": "Trust",
+          "value": "60 — active but reward value highly speculative"
+        }
+      ],
+      "pros": [
+        "Active, large user base",
+        "Free to play — taps/combos take seconds/day",
+        "TON ecosystem backing",
+        "Airdrop upside if token holds value"
+      ],
+      "cons": [
+        "No direct cash — token value speculative and likely tiny",
+        "Tap-to-earn sector collapsed (Hamster HMSTR -98%)",
+        "In-game points ≠ tokens until airdrop event",
+        "Sustained daily grind required for meaningful allocation"
+      ],
+      "reviewBody": "Tomarket is a tap-to-earn Telegram mini app in the TON ecosystem: tap, combos and tasks earn points toward a potential TOMI token airdrop. It's active with a large user base, but like all tap-to-earn apps there is no direct cash payout — value depends entirely on a token airdrop/TGE. Given the sector's track record (Hamster Kombat's HMSTR fell ~98% after listing, DAU collapsed 300M→13M), expected airdrop value is likely tiny. Free to play with seconds per day; don't grind seriously for it.",
+      "testNotes": "Desk research verified 25 Sep 2026. Telegram bot/app status changes frequently — verify current payout route before accumulating a balance. No live account test performed."
+    },
+    "offers": []
+  },
+  {
+    "name": "Angry Miner",
+    "url": "https://t.me/AngryMinerBot",
+    "description": "Telegram mining/game Mini App focused on airdrop rewards in the AGM token. Not real hardware mining — simulated game economy.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "telegram",
+      "games",
+      "mining",
+      "airdrops"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "TON"
+        },
+        {
+          "label": "Payout method",
+          "value": "direct-wallet"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "45"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (45) — high risk",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)"
+      ],
+      "reviewBody": "Angry Miner is a Telegram bot/mini app in the crypto-faucet/airdrop category. It pays small amounts of TON via direct-wallet with frequent claims. It is marked under_review with a low trust score (45): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": [
+      {
+        "coin": "TON",
+        "payment": "direct-wallet",
+        "speed": "manual",
+        "min": 0
+      }
+    ]
+  },
+  {
+    "name": "Koni Story",
+    "url": "https://t.me/KoniStory_bot",
+    "description": "Telegram airdrop campaign with tasks and testnet participation. Rewards in Koni points/token.",
+    "status": "under_review",
+    "trustScore": 45,
+    "categories": [
+      "telegram",
+      "airdrops",
+      "games"
+    ],
+    "features": [
+      "telegram",
+      "games",
+      "referral"
+    ],
+    "hasReferralProgram": true,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "(none — points/airdrop only)"
+        },
+        {
+          "label": "Payout method",
+          "value": "none"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "45"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (45) — high risk",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)"
+      ],
+      "reviewBody": "Koni Story is a Telegram bot/mini app in the crypto-faucet/airdrop category. It has no direct cash payout — any reward comes as points or a speculative token airdrop. It is marked under_review with a low trust score (45): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": []
+  },
+  {
+    "name": "Airdrop Bot",
+    "url": "https://t.me/airdropbot",
+    "description": "Directory and discovery tool for Telegram airdrop bots. Finds, creates and promotes airdrop campaigns. Not an earning bot itself — useful for research.",
+    "status": "under_review",
+    "trustScore": 50,
+    "categories": [
+      "telegram",
+      "airdrops"
+    ],
+    "features": [
+      "telegram"
+    ],
+    "hasReferralProgram": false,
+    "lastTestedAt": "2026-09-25",
+    "reviewData": {
+      "quickFacts": [
+        {
+          "label": "Platform",
+          "value": "Telegram bot / mini app"
+        },
+        {
+          "label": "Type",
+          "value": "Points/airdrop app — no direct cash"
+        },
+        {
+          "label": "Payout coin(s)",
+          "value": "(none — points/airdrop only)"
+        },
+        {
+          "label": "Payout method",
+          "value": "none"
+        },
+        {
+          "label": "Status",
+          "value": "under_review — small/unverified operator"
+        },
+        {
+          "label": "Trust score",
+          "value": "50"
+        }
+      ],
+      "pros": [
+        "Free to join — no cost to try",
+        "Telegram-native — no separate app download",
+        "Airdrop lottery upside if token launches"
+      ],
+      "cons": [
+        "under_review — payout reliability/support unproven; many Telegram bots disappear",
+        "Low trust score (50) — high risk",
+        "No direct cash — points/token value speculative, likely near-zero (tap-to-earn airdrops mostly disappointed in 2025–2026)"
+      ],
+      "reviewBody": "Airdrop Bot is a Telegram bot/mini app in the crypto-faucet/airdrop category. It has no direct cash payout — any reward comes as points or a speculative token airdrop. It is marked under_review with a low trust score (50): payout reliability and support are unproven, and Telegram bots in this category frequently disappear or stop paying. As with all Telegram crypto bots, never deposit money, cash out at the earliest possible threshold, and treat earnings as negligible. Established platforms (FaucetPay Mini App, RollerCoin, Idle-Empire) are far safer.",
+      "testNotes": "Desk research 25 Sep 2026. Telegram bot/app status and payout routes change frequently — verify before accumulating a balance. No live account test performed."
+    },
+    "offers": []
+  }
+][
+  {
+    "name": "Faucet Click Bot",
+    "url": "https://t.me/faucet_click_bot",
+    "description": "Telegram earning bot offering tasks and faucet claims across BTC, ETH, LTC, DOGE, TRX and USDT. Rewards typically routed through FaucetPay.",
+    "status": "active",
+    "trustScore": 58,
+    "categories": [
+      "telegram",
+      "faucets",
+      "faucets-btc",
+      "faucets-eth",
+      "faucets-ltc",
+      "faucets-doge",
+      "faucets-usdt"
+    ],
+    "features": [
+      "telegram",
+      "referral",
+      "daily-bonus"
+    ],
+    "hasReferralProgram": true,
     "offers": [
       {
         "coin": "BTC",
