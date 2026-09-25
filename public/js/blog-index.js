@@ -2,7 +2,7 @@
 // Client-side tag filter + pagination for the blog index.
 // Enhances the existing static HTML — all cards stay in the DOM for SEO.
 
-const PER_PAGE = 9
+const PER_PAGE = 12
 
 const main = document.querySelector('.blog-container')
 const filtersEl = document.getElementById('blogFilters')
