@@ -69,6 +69,7 @@ function shapeSite(site, voteCounts = { trustworthy: 0, scam: 0, unsure: 0 }) {
 
     // Vote breakdown for the current page
     voteCounts,
+    reviewData: site.reviewData ?? null,    // ← add this
   }
 }
 
