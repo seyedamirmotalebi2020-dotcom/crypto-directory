@@ -2218,7 +2218,7 @@ img, svg, video, canvas { max-width: 100%; }
 /* ---------- 05 Review + 06 Pros/Cons ---------- */
 
 .review-section {
-  grid-column: span 14;
+  grid-column: span 12;
 }
 
 .review-body {
