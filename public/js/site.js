@@ -1,5 +1,5 @@
 // public/js/site.js — Site detail page
-
+import { buildFaviconImg, initials } from './favicon.js'
 import { isWatched, toggleWatch } from './watchlist.js'
 
 const $ = (id) => document.getElementById(id)
@@ -30,12 +30,6 @@ function getFingerprint() {
   return fp
 }
 
-function initials(name) {
-  return (name || '?')
-    .split(/\s+/).slice(0, 2)
-    .map(w => w[0] || '').join('').toUpperCase() || '?'
-}
-
 function trustClass(score) {
   if (score == null) return 'unknown'
   if (score >= 80) return 'good'
@@ -60,9 +54,7 @@ function formatInterval(sec) {
 }
 
 // ── Extract slug from URL ─────────────────────────────────────
-const slug = decodeURIComponent(
-  window.location.pathname.split('/').filter(Boolean).pop() || ''
-)
+const slug = decodeURIComponent(window.location.pathname.split('/').filter(Boolean).pop() || '')
 
 // ── Fetch site data ──────────────────────────────────────────
 async function load() {
@@ -96,7 +88,7 @@ function render(site) {
 
   const descEl = $('pageDesc')
   if (descEl) descEl.setAttribute('content',
-    `${site.name} review — current payout evidence, minimum withdrawal, coin support and community trust score.`)
+    `${site.name} review — current payout evidence, minimum withdrawal, coin support and community trust score. Updated September 2026.`)
 
   const url = `https://earn.land.me.uk/site/${site.slug}`
   const canonEl = $('canonicalUrl')
@@ -112,31 +104,21 @@ function render(site) {
   const crumbEl = $('crumbName')
   if (crumbEl) crumbEl.textContent = site.name
 
-  // ── Icon + Name (Row 1) ──
-  const nameEl = $('siteName')
-  if (nameEl) nameEl.textContent = site.name
-
+ // ── Hero: favicon + name ──
   const logoEl = $('siteLogo')
   if (logoEl) {
-    const logoUrl = bestLogoUrl(site, 128)
-    if (logoUrl) {
-      // Note: width/height set to prevent layout shift
-      logoEl.innerHTML =
-        `<img src="${esc(logoUrl)}" alt="" width="72" height="72" ` +
-        `style="width:100%;height:100%;object-fit:contain;padding:8px;" ` +
-        `onerror="this.style.display='none';this.parentNode.textContent='${esc(initials(site.name))}'" />`
-    } else {
-      logoEl.textContent = initials(site.name)
-    }
+    const logoHtml = buildFaviconImg(site, 128, initials(site.name)) || esc(initials(site.name))
+    logoEl.innerHTML = logoHtml
   }
+
+  const nameEl = $('siteName')
+  if (nameEl) nameEl.textContent = site.name
 
   // ── Tags: status + categories ──
   const tagsEl = $('siteTags')
   if (tagsEl) {
     const tags = []
-    if (site.status) {
-      tags.push(`<span class="sc-status ${esc(site.status)}">${esc(site.status.replace(/_/g, ' '))}</span>`)
-    }
+    tags.push(`<span class="sc-status ${esc(site.status)}">${esc(site.status.replace(/_/g, ' '))}</span>`)
     for (const c of (site.categories || []).slice(0, 4)) {
       tags.push(`<span class="site-tag">${esc(c.name)}</span>`)
     }
@@ -147,10 +129,10 @@ function render(site) {
   const trust = site.trustScore
   const trustBox = $('siteTrust')
   const trustNum = $('trustNum')
-  if (trustBox) trustBox.className = 'site-head__trust ' + trustClass(trust)
+  if (trustBox) trustBox.className = 'trust-hero ' + trustClass(trust)
   if (trustNum) trustNum.textContent = trust == null ? '—' : trust
 
-  // ── Description (Row 2) ──
+  // ── Description (About section) ──
   const descTextEl = $('siteDescription')
   if (descTextEl) {
     if (site.description) {
@@ -161,7 +143,10 @@ function render(site) {
     }
   }
 
-  // ── Score breakdown (Row 3) ──
+  // ── Structured review content ──
+  renderReviewData(site.reviewData)
+
+  // ── Score breakdown ──
   const breakdownEl = $('scoreBreakdown')
   if (breakdownEl) {
     const breakdown = []
@@ -175,13 +160,13 @@ function render(site) {
     breakdownEl.innerHTML = breakdown.join('')
   }
 
-  // ── Vote counts (Row 4) ──
+  // ── Vote counts ──
   const vc = site.voteCounts || { trustworthy: 0, scam: 0, unsure: 0 }
   document.querySelectorAll('[data-count]').forEach(el => {
     el.textContent = vc[el.dataset.count] ?? 0
   })
 
-  // ── Offers table (Row 5) ──
+  // ── Offers table ──
   const offers = site.offers || []
   const offersBody = $('offersBody')
   if (offersBody) {
@@ -200,7 +185,7 @@ function render(site) {
     }
   }
 
-  // ── Features (Row 6) ──
+  // ── Features ──
   const features = site.features || []
   if (features.length) {
     const sec = $('featuresSection')
@@ -213,7 +198,7 @@ function render(site) {
     }
   }
 
-  // ── Visit CTA (Row 7) ──
+  // ── Visit CTA ──
   const ctaName = $('ctaSiteName')
   if (ctaName) ctaName.textContent = site.name
 
@@ -229,7 +214,10 @@ function render(site) {
     }
   }
 
-  // ── Similar sites (Row 8) ──
+  // ── Watchlist star (next to the site name) ──
+  addWatchlistStar(site)
+
+  // ── Similar sites ──
   const sharedCat = site.categories?.[0]?.slug
   if (sharedCat) loadSimilar(sharedCat, site.slug)
 
@@ -256,7 +244,7 @@ function render(site) {
         } : {}),
         author: { '@type': 'Organization', name: 'Earn Online Directory' },
         publisher: { '@type': 'Organization', name: 'Earn Online Directory' },
-        datePublished: '2026-09-22'
+        datePublished: new Date().toISOString().slice(0, 10)
       },
       {
         '@type': 'BreadcrumbList',
@@ -277,29 +265,75 @@ function render(site) {
   if (loading) loading.style.display = 'none'
   if (content) content.style.display = 'block'
 
-  // ── Add watchlist star next to the site name ──
-  addWatchlistStar(site)
-
   // ── Wire votes ──
   wireVotes(site)
 }
 
-// ── Favicon helper (used inline above) ────────────────────────
-function bestLogoUrl(site, size) {
-  if (site.logoUrl) return site.logoUrl
-  if (!site.url) return ''
-  try {
-    const host = new URL(site.url).hostname
-    return `https://www.google.com/s2/favicons?sz=${size || 128}&domain=${host}`
-  } catch {
-    return ''
+// ── Render the structured review content ─────────────────────
+// (Defined outside render — takes the reviewData object as its only input)
+function renderReviewData(reviewData) {
+  if (!reviewData) return
+
+  // 1. Quick Facts
+  const facts = reviewData.quickFacts || []
+  if (facts.length) {
+    const sec = $('quickFactsSection')
+    const grid = $('quickFactsGrid')
+    if (sec && grid) {
+      grid.innerHTML = facts.map(f => `
+        <div class="fact-row">
+          <span class="fact-label">${esc(f.label)}</span>
+          <span class="fact-value">${esc(f.value)}</span>
+        </div>
+      `).join('')
+      sec.style.display = ''
+    }
+  }
+
+  // 2. Pros & Cons
+  const pros = reviewData.pros || []
+  const cons = reviewData.cons || []
+  if (pros.length || cons.length) {
+    const sec = $('prosConsSection')
+    const prosList = $('prosList')
+    const consList = $('consList')
+    if (sec) sec.style.display = ''
+    if (prosList) prosList.innerHTML = pros.map(p => `<li>${esc(p)}</li>`).join('')
+    if (consList) consList.innerHTML = cons.map(c => `<li>${esc(c)}</li>`).join('')
+  }
+
+  // 3. Review Body (paragraphs split on blank lines)
+  const body = reviewData.reviewBody
+  if (body && body.trim()) {
+    const sec = $('reviewSection')
+    const container = $('reviewBody')
+    if (sec && container) {
+      const paragraphs = body.split(/\n\s*\n/).filter(Boolean)
+      container.innerHTML = paragraphs
+        .map(p => `<p>${esc(p.trim()).replace(/\n/g, '<br>')}</p>`)
+        .join('')
+      sec.style.display = ''
+    }
+  }
+
+  // 4. Test Notes
+  const notes = reviewData.testNotes
+  if (notes && notes.trim()) {
+    const sec = $('testNotesSection')
+    const el = $('testNotesBody')
+    if (sec && el) {
+      el.textContent = notes
+      sec.style.display = ''
+    }
   }
 }
 
-// ── Watchlist star ────────────────────────────────────────────
+// ── Watchlist star button ────────────────────────────────────
 function addWatchlistStar(site) {
   const nameEl = $('siteName')
   if (!nameEl || !nameEl.parentNode) return
+
+  // Guard against duplicate injection on re-render
   if (document.getElementById('detailStarBtn')) return
 
   const isStarred = isWatched(site.slug)
@@ -321,11 +355,10 @@ function addWatchlistStar(site) {
     toast(nowActive ? '⭐ Added to watchlist' : 'Removed from watchlist')
   })
 
-  // Insert right after the site name
   nameEl.insertAdjacentElement('afterend', btn)
 }
 
-// ── Similar sites ─────────────────────────────────────────────
+// ── Similar sites ────────────────────────────────────────────
 async function loadSimilar(category, excludeSlug) {
   try {
     const res = await fetch(`/api/sites?category=${encodeURIComponent(category)}&per_page=8`)
@@ -342,16 +375,10 @@ async function loadSimilar(category, excludeSlug) {
     sec.style.display = ''
     list.innerHTML = others.map(s => {
       const t = s.trustScore
-      const logo = bestLogoUrl(s, 64)
-      const logoSrc = logo
-        ? `<img src="${esc(logo)}" alt="" width="38" height="38" loading="lazy"
-               style="width:100%;height:100%;object-fit:contain;padding:4px;"
-               onerror="this.style.display='none';this.parentNode.textContent='${esc(initials(s.name))}'" />`
-        : esc(initials(s.name))
-
+      const fav = buildFaviconImg(s, 32, initials(s.name)) || esc(initials(s.name))
       return `
         <a href="/site/${esc(s.slug)}" class="similar-card">
-          <div class="similar-logo">${logoSrc}</div>
+          <div class="similar-logo">${fav}</div>
           <div class="similar-body">
             <div class="similar-name">${esc(s.name)}</div>
             <div class="similar-trust ${trustClass(t)}">${t == null ? '—' : t}/100</div>
@@ -360,7 +387,7 @@ async function loadSimilar(category, excludeSlug) {
       `
     }).join('')
   } catch (err) {
-    console.debug('Similar sites failed:', err.message)
+    console.error('Similar sites failed:', err)
   }
 }
 
@@ -375,7 +402,7 @@ async function handleVote(btn, site) {
   const vote = btn.dataset.vote
   const fp = getFingerprint()
 
-  // Optimistic UI
+  // Optimistic update
   document.querySelectorAll('.vote-btn-large').forEach(b => b.classList.remove('voted'))
   btn.classList.add('voted', 'pulse')
   setTimeout(() => btn.classList.remove('pulse'), 500)
@@ -388,7 +415,7 @@ async function handleVote(btn, site) {
     const res = await fetch(`/api/sites/${encodeURIComponent(site.slug)}/vote`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ vote, fingerprint: fp })
+      body: JSON.stringify({ vote, fingerprint: fp }),
     })
     const json = await res.json()
 
@@ -401,14 +428,10 @@ async function handleVote(btn, site) {
 
     const data = json.data || {}
 
-    // Sync counts
-    if (data.counts) {
-      document.querySelectorAll('[data-count]').forEach(el => {
-        el.textContent = data.counts[el.dataset.count] ?? 0
-      })
-    }
+    document.querySelectorAll('[data-count]').forEach(el => {
+      if (data.counts) el.textContent = data.counts[el.dataset.count] ?? 0
+    })
 
-    // Sync trust score badge
     if (typeof data.trustScore === 'number') {
       const trustBox = $('siteTrust')
       const trustNum = $('trustNum')
@@ -416,7 +439,6 @@ async function handleVote(btn, site) {
       if (trustNum) trustNum.textContent = data.trustScore
     }
 
-    // Update voted state
     document.querySelectorAll('.vote-btn-large').forEach(b => {
       b.classList.toggle('voted', b.dataset.vote === data.yourVote)
     })
