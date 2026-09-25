@@ -1424,10 +1424,7 @@ img, svg, video, canvas { max-width: 100%; }
    BLOG / ARTICLE PAGES
    ══════════════════════════════════════════════════════════════════════ */
 
-.blog-container {
-  max-width: 780px;
-  margin: 0 auto;
-}
+
 
 .breadcrumb {
   display: flex;
@@ -1718,11 +1715,6 @@ img, svg, video, canvas { max-width: 100%; }
 /* ---------- Page frame ---------- */
 
 
-.blog-container {
-  width: min(1440px, calc(100% - 3rem));
-  margin-inline: auto;
-  padding: 1.35rem 0 5rem;
-}
 
 #siteContent {
   display: grid !important;
