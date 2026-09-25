@@ -68,6 +68,8 @@
         right side of tax rules. Written for real users, updated regularly.
       </p>
     </header>
+        <!-- Filter bar (populated by JS) -->
+    <div class="blog-filters" id="blogFilters" role="group" aria-label="Filter articles by category"></div>
 
     <!-- ═══════════════════════════════════════════════════
          CATEGORY: Paid Surveys (9 articles)
@@ -323,6 +325,10 @@
         <i class="fas fa-compass" aria-hidden="true"></i> Open the Directory
       </a>
     </div>
+        <!-- Pagination (populated by JS) -->
+    <nav class="blog-pagination" id="blogPagination" aria-label="Blog pagination"></nav>
+
+
   </main>
 
   <footer class="site-footer">
@@ -335,5 +341,6 @@
       <a href="/contact.html">Contact</a>
     </p>
   </footer>
+    <script type="module" src="/js/blog-index.js"></script>
 </body>
 </html>
